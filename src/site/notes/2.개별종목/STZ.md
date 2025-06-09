@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/STZ/","created":"2024-10-04T22:02:16.191+09:00","updated":"2025-06-03T20:06:01.390+09:00"}
+dg-publish: true
 ---
-
 #소비자방어주 #알코올음료 #주류
 
 ## 산업섹터
 
-- Sector: Consumer Defensive ([[소비자 방어주\|소비자 방어주]])
-- Industry: Beverages—Alcoholic ([[알코올 음료\|알코올 음료]])
+- Sector: Consumer Defensive ([[소비자 방어주]])
+- Industry: Beverages—Alcoholic ([[알코올 음료]])
 
 ## 영위사업
 
@@ -18,12 +17,12 @@ Constellation Brands는 맥주, 와인, 증류주 등의 알코올 음료를 생
 - 전방산업:
     
     - 핵심 산업 및 역할: 소매업, 요식업
-    - 관련 기업: Walmart (US, [[2.개별종목/WMT\|WMT]]), Kroger (US, [[2.개별종목/KR\|KR]])
+    - 관련 기업: Walmart (US, [[WMT]]), Kroger (US, [[KR]])
     
 - 후방산업:
     
     - 핵심 산업 및 역할: 농업(포도 재배), 유리 제조
-    - 관련 기업: Owens-Illinois (US, [[OI\|OI]])
+    - 관련 기업: Owens-Illinois (US, [[OI]])
     
 
 ## 밸류체인
@@ -46,10 +45,10 @@ Constellation Brands는 맥주, 와인, 증류주 등의 알코올 음료를 생
 
 ## 경쟁업체
 
-- Anheuser-Busch InBev (BE, [[BUD\|BUD]])
-- Heineken (NL, [[HEINY\|HEINY]])
-- Diageo (UK, [[DEO\|DEO]])
-- Molson Coors (US, [[2.개별종목/TAP\|TAP]])
+- Anheuser-Busch InBev (BE, [[BUD]])
+- Heineken (NL, [[HEINY]])
+- Diageo (UK, [[DEO]])
+- Molson Coors (US, [[TAP]])
 
 ## 산업 내 글로벌 시장 점유율
 

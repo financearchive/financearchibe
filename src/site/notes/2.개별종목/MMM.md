@@ -1,16 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/MMM/","created":"2024-12-30T21:06:52.229+09:00","updated":"2025-06-03T20:06:00.119+09:00"}
+dg-publish: true
 ---
-
 #산업재 #소비자제품 #산업용제품 #접착제 #필터 #의료기기 #안전장비 #전기장비 #테이프 #마스크 #필터 
 
 ## 산업 섹터
 
-[[산업재\|산업재]]
+[[산업재]]
 
 ## 산업
 
-[[다각화된 산업\|다각화된 산업]](Diversified Industrials)
+[[다각화된 산업]](Diversified Industrials)
 
 ## 영위사업
 
@@ -35,29 +34,29 @@
 
 1. 후방산업:
     
-    - 화학 원료: Dow Inc.(US, [[2.개별종목/DOW\|DOW]])
-    - 플라스틱 수지: LyondellBasell(US, [[LYB\|LYB]])
+    - 화학 원료: Dow Inc.(US, [[DOW]])
+    - 플라스틱 수지: LyondellBasell(US, [[LYB]])
     
 2. 전방산업:
     
-    - 자동차: General Motors(US, [[2.개별종목/GM\|GM]])
-    - 전자기기: Apple(US, [[2.개별종목/AAPL\|AAPL]])
-    - 의료기기: Medtronic(IE, [[2.개별종목/MDT\|MDT]])
+    - 자동차: General Motors(US, [[GM]])
+    - 전자기기: Apple(US, [[AAPL]])
+    - 의료기기: Medtronic(IE, [[MDT]])
     
 
 ## 밸류체인
 
-1. 원자재 조달: Dow Inc.(US, [[2.개별종목/DOW\|DOW]]) - 화학 원료
+1. 원자재 조달: Dow Inc.(US, [[DOW]]) - 화학 원료
 2. 제품 개발 및 생산: 3M Company (주요 사업 영역)
-3. 유통: Amazon(US, [[2.개별종목/AMZN\|AMZN]]) - 온라인 유통
+3. 유통: Amazon(US, [[AMZN]]) - 온라인 유통
 4. 최종 소비자: 개인 및 기업 고객
 
 ## 주요제품
 
-1. [[접착제\|접착제]] 및 [[테이프\|테이프]] (Scotch, Command 브랜드)
-2. 개인보호장비 ([[마스크\|마스크]], 보안경 등)
-3. [[필터\|필터]] 제품 (Filtrete 브랜드)
-4. [[사무용품\|사무용품]] (Post-it 브랜드)
+1. [[접착제]] 및 [[테이프]] (Scotch, Command 브랜드)
+2. 개인보호장비 ([[마스크]], 보안경 등)
+3. [[필터]] 제품 (Filtrete 브랜드)
+4. [[사무용품]] (Post-it 브랜드)
 5. 의료용 제품 (붕대, 스테토스코프 등)
 
 ## 주요고객
@@ -74,11 +73,11 @@
 
 ## 경쟁업체
 
-1. Honeywell International(US, [[2.개별종목/HON\|HON]]) - 산업용 제품
-2. DuPont(US, [[2.개별종목/DD\|DD]]) - 특수 화학제품
-3. Johnson & Johnson(US, [[2.개별종목/JNJ\|JNJ]]) - 의료기기 및 소비자 제품
-4. Avery Dennison(US, [[AVY\|AVY]]) - 접착제 및 라벨
-5. Illinois Tool Works(US, [[ITW\|ITW]]) - 산업용 장비 및 소모품
+1. Honeywell International(US, [[HON]]) - 산업용 제품
+2. DuPont(US, [[DD]]) - 특수 화학제품
+3. Johnson & Johnson(US, [[JNJ]]) - 의료기기 및 소비자 제품
+4. Avery Dennison(US, [[AVY]]) - 접착제 및 라벨
+5. Illinois Tool Works(US, [[ITW]]) - 산업용 장비 및 소모품
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -102,6 +101,6 @@
 
 ## 관련 ETF
 
-1. Industrial Select Sector SPDR Fund - [[XLI\|XLI]]
-2. Vanguard Industrials ETF - [[VIS\|VIS]]
-3. iShares U.S. Industrials ETF - [[IYJ\|IYJ]]
+1. Industrial Select Sector SPDR Fund - [[XLI]]
+2. Vanguard Industrials ETF - [[VIS]]
+3. iShares U.S. Industrials ETF - [[IYJ]]

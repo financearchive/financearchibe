@@ -1,15 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/MMYT/","created":"2024-12-13T22:02:44.409+09:00","updated":"2025-06-03T20:06:00.128+09:00"}
+dg-publish: true
 ---
-
 #여행 #임의소비재 #호텔레스토랑및레저 #인도 #온라인여행서비스
 
-MakeMyTrip Limited은 [[1.Study/♠ 국가별 이슈/인도/인도\|인도]]의 선도적인 [[온라인 여행 서비스\|온라인 여행 서비스]] 기업입니다.
+MakeMyTrip Limited은 [[인도]]의 선도적인 [[온라인 여행 서비스]] 기업입니다.
 
 ## 산업섹터
 
-섹터(Sector): [[임의소비재\|임의소비재]](Consumer Discretionary)  
-산업(Industry): [[호텔, 레스토랑 및 레저\|호텔, 레스토랑 및 레저]](Hotels, Restaurants & Leisure)
+섹터(Sector): [[임의소비재]](Consumer Discretionary)  
+산업(Industry): [[호텔, 레스토랑 및 레저]](Hotels, Restaurants & Leisure)
 
 ## 영위사업
 
@@ -26,18 +25,18 @@ MakeMyTrip은 다음과 같은 주요 사업을 영위하고 있습니다:
 
 ## 전방산업
 
-- 항공사: Air India (인도), IndiGo (인도, [[INDIGOGO.NS\|INDIGOGO.NS]])
-- 호텔 체인: Taj Hotels (인도, [[INDHOTEL.NS\|INDHOTEL.NS]]), OYO Rooms (인도)
+- 항공사: Air India (인도), IndiGo (인도, [[INDIGOGO.NS]])
+- 호텔 체인: Taj Hotels (인도, [[INDHOTEL.NS]]), OYO Rooms (인도)
 
 ## 후방산업
 
-- IT 인프라: Amazon Web Services (US, [[2.개별종목/AMZN\|AMZN]]), Microsoft Azure (US, [[2.개별종목/MSFT\|MSFT]])
-- 결제 시스템: Visa (US, [[2.개별종목/V\|V]]), Mastercard (US, [[2.개별종목/MA\|MA]])
+- IT 인프라: Amazon Web Services (US, [[AMZN]]), Microsoft Azure (US, [[MSFT]])
+- 결제 시스템: Visa (US, [[V]]), Mastercard (US, [[MA]])
 
 ## 밸류체인
 
-1. 여행 상품 개발: MakeMyTrip (인도, [[2.개별종목/MMYT\|MMYT]])
-2. 온라인 플랫폼 운영: MakeMyTrip (인도, [[2.개별종목/MMYT\|MMYT]])
+1. 여행 상품 개발: MakeMyTrip (인도, [[MMYT]])
+2. 온라인 플랫폼 운영: MakeMyTrip (인도, [[MMYT]])
 3. 고객 서비스: MakeMyTrip 콜센터 및 지원팀
 4. 마케팅 및 판촉: MakeMyTrip 마케팅팀
 5. 파트너십 관리: 항공사, 호텔, 버스 회사 등과의 제휴
@@ -58,9 +57,9 @@ MakeMyTrip은 다음과 같은 주요 사업을 영위하고 있습니다:
 
 1. Goibibo (인도, MakeMyTrip 소유)
 2. Cleartrip (인도)
-3. Yatra (인도, [[YTRA\|YTRA]])
+3. Yatra (인도, [[YTRA]])
 4. Ixigo (인도)
-5. EaseMyTrip (인도, [[EASEMYTRIP.NS\|EASEMYTRIP.NS]])
+5. EaseMyTrip (인도, [[EASEMYTRIP.NS]])
 
 ## 산업 내 글로벌 시장 점유율
 

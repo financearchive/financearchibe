@@ -1,14 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/ROLR/","created":"2024-12-07T11:22:28.754+09:00","updated":"2025-06-03T20:06:01.023+09:00"}
+dg-publish: true
 ---
-
 #온라인카지노 #임의소비재 #도박
 
 
 ## 산업섹터
 
-섹터: [[임의소비재\|임의소비재]](Consumer Discretionary)  
-산업: [[도박\|도박]](Gambling)
+섹터: [[임의소비재]](Consumer Discretionary)  
+산업: [[도박]](Gambling)
 
 ## 영위사업
 
@@ -45,9 +44,9 @@ High Roller Technologies는 자회사를 통해 전 세계적으로 온라인 �
 
 ## 경쟁업체
 
-- DraftKings(US, [[2.개별종목/DKNG\|DKNG]])
-- Flutter Entertainment(IE, [[FLTR.L\|FLTR.L]])
-- Entain(UK, [[ENT.L\|ENT.L]])
+- DraftKings(US, [[DKNG]])
+- Flutter Entertainment(IE, [[FLTR.L]])
+- Entain(UK, [[ENT.L]])
 
 ## 산업 내 글로벌 시장 점유율
 

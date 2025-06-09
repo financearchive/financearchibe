@@ -1,20 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/TPIC/","created":"2025-03-21T14:22:02.316+09:00","updated":"2025-06-03T20:06:01.701+09:00"}
+dg-publish: true
 ---
-
 #풍력터빈 #복합재료 #재생에너지 #블레이드제조 #OEM파트너십 #지속가능성 #탄소중립 #에너지전환 #풍력발전 #글로벌확장 #경량화기술 #ESG #고효율블레이드 #풍력터빈서비스 #그린에너지 #재생가능소재
 
 ## 산업섹터
 
-섹터: [[에너지\|에너지]]
+섹터: [[에너지]]
 
-산업: [[재생에너지장비및서비스\|재생에너지장비및서비스]]
+산업: [[재생에너지장비및서비스]]
 
 ## 영위사업
 
-TPI Composites Inc.(NASDAQ: TPIC)는 미국 애리조나주 스코츠데일에 본사를 둔 글로벌 [[풍력 터빈 블레이드 제조업체\|풍력 터빈 블레이드 제조업체]]입니다. 회사는 재생 에너지 전환을 지원하기 위해 복합 재료를 활용한 고효율 풍력 터빈 블레이드를 설계, 제조 및 서비스합니다. 주요 사업 부문은 다음과 같습니다:
+TPI Composites Inc.(NASDAQ: TPIC)는 미국 애리조나주 스코츠데일에 본사를 둔 글로벌 [[풍력 터빈 블레이드 제조업체]]입니다. 회사는 재생 에너지 전환을 지원하기 위해 복합 재료를 활용한 고효율 풍력 터빈 블레이드를 설계, 제조 및 서비스합니다. 주요 사업 부문은 다음과 같습니다:
 
-1. **[[풍력 터빈 블레이드\|풍력 터빈 블레이드]] 제조**: OEM 고객을 위한 맞춤형 블레이드 설계 및 생산
+1. **[[풍력 터빈 블레이드]] 제조**: OEM 고객을 위한 맞춤형 블레이드 설계 및 생산
     
 2. **서비스 솔루션**: 풍력 터빈 유지보수 및 수리 서비스 제공
     
@@ -40,16 +39,16 @@ TPI Composites Inc.(NASDAQ: TPIC)는 미국 애리조나주 스코츠데일에 �
 
 ## 전방산업
 
-- **풍력 발전 기업**: NextEra Energy(US, [[2.개별종목/NEE\|NEE]]), Ørsted(DK)
+- **풍력 발전 기업**: NextEra Energy(US, [[NEE]]), Ørsted(DK)
     
-- **전력 유틸리티**: Duke Energy(US, [[2.개별종목/DUK\|DUK]]), Iberdrola(ES)
+- **전력 유틸리티**: Duke Energy(US, [[DUK]]), Iberdrola(ES)
     
 - **정부 및 공공 기관**: 재생 에너지 프로젝트 지원 프로그램
     
 
 ## 후방산업
 
-- **복합 소재 공급업체**: Hexcel Corporation(US, [[HXL\|HXL]]), Toray Industries(JP)
+- **복합 소재 공급업체**: Hexcel Corporation(US, [[HXL]]), Toray Industries(JP)
     
 - **제조 장비 공급업체**: Siemens(DE), ABB(CH)
     
@@ -69,9 +68,9 @@ TPI Composites Inc.(NASDAQ: TPIC)는 미국 애리조나주 스코츠데일에 �
 
 ## 주요제품
 
-- **[[1.Study/★ 산업/에너지 산업/2.친환경 에너지/3.풍력/풍력\|풍력]] 터빈 블레이드**: 다양한 크기와 사양의 맞춤형 블레이드 (매출의 약 90%)
+- **[[풍력]] 터빈 블레이드**: 다양한 크기와 사양의 맞춤형 블레이드 (매출의 약 90%)
     
-- **서비스 솔루션**: [[풍력 터빈\|풍력 터빈]] 유지보수 및 수리 서비스 (매출의 약 10%)
+- **서비스 솔루션**: [[풍력 터빈]] 유지보수 및 수리 서비스 (매출의 약 10%)
     
 
 ## 주요 고객
@@ -128,8 +127,8 @@ TPI Composites는 2024년 기준 글로벌 독립 풍력 터빈 블레이드 제
 
 ## 관련 ETF
 
-- iShares Global Clean Energy ETF - [[ICLN\|ICLN]]
+- iShares Global Clean Energy ETF - [[ICLN]]
     
-- First Trust Global Wind Energy ETF - [[FAN\|FAN]]
+- First Trust Global Wind Energy ETF - [[FAN]]
     
-- Invesco WilderHill Clean Energy ETF - [[PBW\|PBW]]
+- Invesco WilderHill Clean Energy ETF - [[PBW]]

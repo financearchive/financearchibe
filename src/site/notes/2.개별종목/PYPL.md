@@ -1,14 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/PYPL/","created":"2024-08-29T21:56:57.321+09:00","updated":"2025-06-03T20:06:00.799+09:00"}
+dg-publish: true
 ---
-
 #핀테크 #금융서비스 
 
 
 ## 산업섹터
 
-- **Sector**: Financial Services ([[금융 서비스\|금융 서비스]])
-- **Industry**: Financial Technology ([[핀테크\|핀테크]])
+- **Sector**: Financial Services ([[금융 서비스]])
+- **Industry**: Financial Technology ([[핀테크]])
 
 ## 영위사업
 
@@ -19,24 +18,24 @@ PayPal은 디지털 결제 플랫폼을 운영하며, 소비자와 상인 간의
 - **전방산업**:
     
     - **핵심 산업 및 역할**: 전자상거래 및 결제 서비스 제공
-    - **관련 기업**: Square (US, [[2.개별종목/SQ\|SQ]]), Shopify (CA, [[2.개별종목/SHOP\|SHOP]]), eBay Inc. (미국, [[2.개별종목/EBAY\|EBAY]])
+    - **관련 기업**: Square (US, [[SQ]]), Shopify (CA, [[SHOP]]), eBay Inc. (미국, [[EBAY]])
 
 - **후방산업**:
     
     - **핵심 산업 및 역할**: 금융 데이터 처리 및 보안 솔루션, 데이터센터 제공
-    - **관련 기업**: FIS (US, [[FIS\|FIS]]), Mastercard (US, [[2.개별종목/MA\|MA]]),  Amazon Web Services (미국, [[1.Study/☆ 개별종목/AMZN\|1.Study/☆ 개별종목/AMZN]]), Microsoft Azure (미국, [[2.개별종목/MSFT\|MSFT]])
+    - **관련 기업**: FIS (US, [[FIS]]), Mastercard (US, [[MA]]),  Amazon Web Services (미국, [[1.Study/☆ 개별종목/AMZN]]), Microsoft Azure (미국, [[MSFT]])
  
 
 ## 밸류체인
 
 - **원재료 공급**: 소프트웨어, 데이터 센터
-    - **대표 회사**: Amazon Web Services (미국, [[1.Study/☆ 개별종목/AMZN\|1.Study/☆ 개별종목/AMZN]]), Microsoft Azure (미국, [[2.개별종목/MSFT\|MSFT]])
+    - **대표 회사**: Amazon Web Services (미국, [[1.Study/☆ 개별종목/AMZN]]), Microsoft Azure (미국, [[MSFT]])
 - **제조**: 결제 플랫폼 개발 및 유지보수
     - **대표 회사**: PayPal 자체 개발 팀
 - **유통**: 결제 솔루션 제공 및 관리
     - **대표 회사**: PayPal, Venmo, Braintree
 - **소매**: 최종 소비자에게 판매
-    - **대표 회사**: eBay Inc. (미국, [[2.개별종목/EBAY\|EBAY]]), Shopify Inc. (캐나다, [[2.개별종목/SHOP\|SHOP]])
+    - **대표 회사**: eBay Inc. (미국, [[EBAY]]), Shopify Inc. (캐나다, [[SHOP]])
 
 ## 주요제품
 
@@ -51,8 +50,8 @@ PayPal은 전 세계 200개국 이상에서 운영되며, 주요 시장은 미�
 
 ## 경쟁업체
 
-- **Square (US, [[2.개별종목/SQ\|SQ]])** - 모바일 결제 및 POS 시스템
-- **Adyen (NL, [[ADYEY\|ADYEY]])** - 글로벌 결제 처리 솔루션
+- **Square (US, [[SQ]])** - 모바일 결제 및 POS 시스템
+- **Adyen (NL, [[ADYEY]])** - 글로벌 결제 처리 솔루션
 - **Stripe (US, 비상장)** - 온라인 결제 처리 플랫폼
 
 ## 산업 내 글로벌 시장 점유율

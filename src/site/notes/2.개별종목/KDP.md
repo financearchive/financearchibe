@@ -1,21 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/KDP/","created":"2025-02-06T21:25:31.489+09:00","updated":"2025-06-03T20:05:59.725+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #음료제조 #커피시스템 #탄산음료 #비탄산음료 #K-Cup #싱글서브커피 #브랜드포트폴리오 #유통네트워크 #소비자패키지상품 #DSD #직접배송 #RTD #즉석음료 #프리미엄화 #지속가능성 #리사이클링 #건강음료 #플라스틱감축 #디지털마케팅 #ESG
 
 ## 산업섹터
 
-섹터: [[필수 소비재\|필수 소비재]]
-산업: [[음료제조\|음료제조]]
+섹터: [[필수 소비재]]
+산업: [[음료제조]]
 
 ## 영위사업
 
-Keurig Dr Pepper Inc.(NASDAQ: KDP)는 미국의 주요 [[음료 제조\|음료 제조]] 및 유통 기업입니다. 회사는 2018년 Keurig Green Mountain과 Dr Pepper Snapple Group의 합병으로 설립되었습니다. 주요 사업 부문은 다음과 같습니다:
+Keurig Dr Pepper Inc.(NASDAQ: KDP)는 미국의 주요 [[음료 제조]] 및 유통 기업입니다. 회사는 2018년 Keurig Green Mountain과 Dr Pepper Snapple Group의 합병으로 설립되었습니다. 주요 사업 부문은 다음과 같습니다:
 
-1. [[1.Study/★ 산업/원자재 산업/3.농산물/INFO_식량,가축 등/커피\|커피]] 시스템: Keurig 싱글 서브 커피 머신 및 K-Cup 포드
+1. [[커피]] 시스템: Keurig 싱글 서브 커피 머신 및 K-Cup 포드
 2. 포장 음료: Dr Pepper, Canada Dry, Snapple 등의 브랜드 음료
 3. 농축액 및 원액: Mott's, ReaLemon 등의 브랜드 제품
 4. 라틴 아메리카 음료: Peñafiel, Clamato 등 지역 브랜드
@@ -34,21 +33,21 @@ Keurig Dr Pepper Inc.(NASDAQ: KDP)는 미국의 주요 [[음료 제조\|음료 �
 
 전방산업:
 
-- 소매업: Walmart(US, [[2.개별종목/WMT\|WMT]]), Kroger(US, [[2.개별종목/KR\|KR]])
-- 식품 서비스: McDonald's(US, [[2.개별종목/MCD\|MCD]]), Starbucks(US, [[2.개별종목/SBUX\|SBUX]])
-- 전자상거래: Amazon(US, [[2.개별종목/AMZN\|AMZN]]), Wayfair(US, [[W\|W]])
+- 소매업: Walmart(US, [[WMT]]), Kroger(US, [[KR]])
+- 식품 서비스: McDonald's(US, [[MCD]]), Starbucks(US, [[SBUX]])
+- 전자상거래: Amazon(US, [[AMZN]]), Wayfair(US, [[W]])
 
 후방산업:
 
-- 원재료 공급: Cargill, Archer Daniels Midland(US, [[ADM\|ADM]])
-- 패키징: Ball Corporation(US, [[2.개별종목/BALL\|BALL]]), Amcor(US, [[AMCR\|AMCR]])
-- 농업: Monsanto(현 Bayer AG의 일부), Syngenta(CH, [[SYENF\|SYENF]])
+- 원재료 공급: Cargill, Archer Daniels Midland(US, [[ADM]])
+- 패키징: Ball Corporation(US, [[BALL]]), Amcor(US, [[AMCR]])
+- 농업: Monsanto(현 Bayer AG의 일부), Syngenta(CH, [[SYENF]])
 
 ## 주요제품
 
-- 커피 시스템: [[Keurig 머신\|Keurig 머신]] 및 K-Cup 포드, 매출의 약 35% (2024년 기준)
-- [[탄산음료\|탄산음료]]: Dr Pepper, Canada Dry 등, 매출의 약 30% (2024년 기준)
-- [[비탄산음료\|비탄산음료]]: Snapple, Core 등, 매출의 약 25% (2024년 기준)
+- 커피 시스템: [[Keurig 머신]] 및 K-Cup 포드, 매출의 약 35% (2024년 기준)
+- [[탄산음료]]: Dr Pepper, Canada Dry 등, 매출의 약 30% (2024년 기준)
+- [[비탄산음료]]: Snapple, Core 등, 매출의 약 25% (2024년 기준)
 - 농축액 및 원액: Mott's, ReaLemon 등, 매출의 약 10% (2024년 기준)
 
 ## 주요 판매국가
@@ -57,11 +56,11 @@ Keurig Dr Pepper Inc.(NASDAQ: KDP)는 미국의 주요 [[음료 제조\|음료 �
 
 ## 경쟁업체
 
-- The Coca-Cola Company(US, [[2.개별종목/KO\|KO]]): 글로벌 탄산음료 시장 선두
-- PepsiCo(US, [[2.개별종목/PEP\|PEP]]): 음료 및 스낵 제조 기업
-- Nestlé(CH, [[2.개별종목/NESN\|NESN]]): 글로벌 식품 및 음료 기업
-- Starbucks Corporation(US, [[2.개별종목/SBUX\|SBUX]]): 글로벌 커피 체인 및 RTD 커피 제조
-- Monster Beverage Corporation(US, [[2.개별종목/MNST\|MNST]]): 에너지 드링크 전문 기업
+- The Coca-Cola Company(US, [[KO]]): 글로벌 탄산음료 시장 선두
+- PepsiCo(US, [[PEP]]): 음료 및 스낵 제조 기업
+- Nestlé(CH, [[NESN]]): 글로벌 식품 및 음료 기업
+- Starbucks Corporation(US, [[SBUX]]): 글로벌 커피 체인 및 RTD 커피 제조
+- Monster Beverage Corporation(US, [[MNST]]): 에너지 드링크 전문 기업
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -84,8 +83,8 @@ Keurig Dr Pepper는 2024년 기준 북미 싱글 서브 커피 시스템 시장�
 
 ## 관련 ETF
 
-- Consumer Staples Select Sector SPDR Fund - [[XLP\|XLP]]
-- Vanguard Consumer Staples ETF - [[VDC\|VDC]]
-- iShares U.S. Consumer Goods ETF - [[IYK\|IYK]]
-- Invesco Dynamic Food & Beverage ETF - [[PBJ\|PBJ]]
-- First Trust Nasdaq Food & Beverage ETF - [[FTXG\|FTXG]]
+- Consumer Staples Select Sector SPDR Fund - [[XLP]]
+- Vanguard Consumer Staples ETF - [[VDC]]
+- iShares U.S. Consumer Goods ETF - [[IYK]]
+- Invesco Dynamic Food & Beverage ETF - [[PBJ]]
+- First Trust Nasdaq Food & Beverage ETF - [[FTXG]]

@@ -1,38 +1,37 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/AIG/","created":"2024-10-09T07:05:41.783+09:00","updated":"2025-06-03T20:05:57.491+09:00"}
+dg-publish: true
 ---
-
 #보험 #금융 #생명보험 #상해보험
 
 ### 산업섹터 (Sector, Industry)
 
-- **Sector:** [[금융\|금융]] (Financials)
-- **Industry:** [[보험\|보험]] (Insurance)
+- **Sector:** [[금융]] (Financials)
+- **Industry:** [[보험]] (Insurance)
 
 ### 영위사업
 
-American International Group Inc (AIG)는 글로벌 보험 및 금융 서비스 기업으로, 주로 재산 및 [[상해 보험\|상해 보험]], [[생명 보험\|생명 보험]], 은퇴 서비스 등을 제공합니다
+American International Group Inc (AIG)는 글로벌 보험 및 금융 서비스 기업으로, 주로 재산 및 [[상해 보험]], [[생명 보험]], 은퇴 서비스 등을 제공합니다
 
 ### 전방/후방산업
 
 - **전방산업:** 금융 서비스업
     - **핵심 산업:** 금융 서비스업은 AIG의 보험 상품을 사용하여 다양한 금융 솔루션을 제공합니다.
-    - **관련 기업:** JPMorgan Chase (미국, [[2.개별종목/JPM\|JPM]]), Goldman Sachs (미국, [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/2.태양광/종목/GS\|GS]])
+    - **관련 기업:** JPMorgan Chase (미국, [[JPM]]), Goldman Sachs (미국, [[GS]])
 - **후방산업:** 재보험업
     - **핵심 산업:** 재보험업은 AIG에 재보험 상품을 제공하여 리스크를 분산시킵니다.
-    - **관련 기업:** Munich Re (독일, [[MUV2\|MUV2]]), Swiss Re (스위스, [[SREN\|SREN]])
+    - **관련 기업:** Munich Re (독일, [[MUV2]]), Swiss Re (스위스, [[SREN]])
 
 ### 밸류체인
 
 - **보험 인수:**
     - **설명:** 다양한 보험 상품을 인수 및 제공
-    - **대표회사:** American International Group Inc (미국, [[2.개별종목/AIG\|AIG]]), Chubb (미국, [[2.개별종목/CB\|CB]])
+    - **대표회사:** American International Group Inc (미국, [[AIG]]), Chubb (미국, [[CB]])
 - **재보험:**
     - **설명:** 재보험 상품을 통해 리스크 분산
-    - **대표회사:** Munich Re (독일, [[MUV2\|MUV2]]), Swiss Re (스위스, [[SREN\|SREN]])
+    - **대표회사:** Munich Re (독일, [[MUV2]]), Swiss Re (스위스, [[SREN]])
 - **클레임 관리:**
     - **설명:** 보험 클레임을 처리 및 관리
-    - **대표회사:** Sedgwick (미국, [[SEDGWICK\|SEDGWICK]]), Gallagher Bassett (미국, [[GB\|GB]])
+    - **대표회사:** Sedgwick (미국, [[SEDGWICK]]), Gallagher Bassett (미국, [[GB]])
 
 ### 주요제품
 
@@ -48,9 +47,9 @@ American International Group Inc (AIG)는 글로벌 보험 및 금융 서비스 
 
 ### 경쟁업체
 
-- **Chubb (미국, [[2.개별종목/CB\|CB]]):** 재산 및 상해 보험
-- **Allianz (독일, [[ALV\|ALV]]):** 재산 및 상해 보험, 생명 보험
-- **AXA (프랑스, [[CS\|CS]]):** 재산 및 상해 보험, 생명 보험
+- **Chubb (미국, [[CB]]):** 재산 및 상해 보험
+- **Allianz (독일, [[ALV]]):** 재산 및 상해 보험, 생명 보험
+- **AXA (프랑스, [[CS]]):** 재산 및 상해 보험, 생명 보험
 
 ### 산업 내 글로벌 시장 점유율
 

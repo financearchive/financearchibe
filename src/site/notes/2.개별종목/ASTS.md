@@ -1,20 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/ASTS/","created":"2024-11-17T12:02:55.572+09:00","updated":"2025-06-03T20:05:57.781+09:00"}
+dg-publish: true
 ---
-
 #커뮤니케이션서비스 #위성통신 #인공위성 #통신위성 #우주 #방산 #저궤도위성
 
 
 ## 산업 섹터
 
-- Sector: Communication Services([[커뮤니케이션 서비스\|커뮤니케이션 서비스]])
-- Industry: Satellite Communication([[위성 통신\|위성 통신]])
+- Sector: Communication Services([[커뮤니케이션 서비스]])
+- Industry: Satellite Communication([[위성 통신]])
 
 ## 영위 사업
 
-AST SpaceMobile은 기존의 수정되지 않은 모바일 기기와 직접 작동하는 세계 최초의 [[우주\|우주]] 기반 셀룰러 광대역 네트워크를 구축하고 있습니다.
+AST SpaceMobile은 기존의 수정되지 않은 모바일 기기와 직접 작동하는 세계 최초의 [[우주]] 기반 셀룰러 광대역 네트워크를 구축하고 있습니다.
 
-- [[1.Study/★ 산업/항공,우주,방위 산업/2.우주/INFO_우주/저궤도 위성\|저궤도 위성]]을 활용해 별도 단말기 없이 기존 스마트폰 단말기 활용 위성 통신망 서비스 제공
+- [[저궤도 위성]]을 활용해 별도 단말기 없이 기존 스마트폰 단말기 활용 위성 통신망 서비스 제공
 
 ## 전방/후방 산업
 
@@ -22,13 +21,13 @@ AST SpaceMobile은 기존의 수정되지 않은 모바일 기기와 직접 작�
     
     - 핵심 산업: 통신 서비스 및 모바일 네트워크
     - 역할: 최종 소비자에게 위성 기반 모바일 서비스 제공
-    - 주요 기업: AT&T (미국, [[2.개별종목/T\|2.개별종목/T]]), Vodafone (영국, [[VOD\|VOD]])
+    - 주요 기업: AT&T (미국, [[2.개별종목/T]]), Vodafone (영국, [[VOD]])
     
 - 후방 산업:
     
     - 핵심 산업: 위성 제조 및 발사
     - 역할: AST SpaceMobile의 서비스에 필요한 위성 및 장비 공급
-    - 주요 기업: [[2.개별종목/SpaceX\|SpaceX]] (미국, 비상장), NanoAvionics (리투아니아, 비상장)
+    - 주요 기업: [[SpaceX]] (미국, 비상장), NanoAvionics (리투아니아, 비상장)
     
 
 ## 밸류체인
@@ -36,11 +35,11 @@ AST SpaceMobile은 기존의 수정되지 않은 모바일 기기와 직접 작�
 - 위성 설계 및 제조:
     
     - AST SpaceMobile은 자체적으로 위성을 설계하고 제조합니다.
-    - 대표 기업: Boeing (미국, [[2.개별종목/BA\|BA]]), Lockheed Martin (미국, [[2.개별종목/LMT\|LMT]])
+    - 대표 기업: Boeing (미국, [[BA]]), Lockheed Martin (미국, [[LMT]])
 - 위성 통신 서비스:
     
     - 전 세계적으로 모바일 기기에 직접 연결되는 위성 통신 서비스를 제공합니다.
-    - 대표 기업: Iridium Communications (미국, [[2.개별종목/IRDM\|IRDM]]), Globalstar (미국, [[2.개별종목/GSAT\|GSAT]])
+    - 대표 기업: Iridium Communications (미국, [[IRDM]]), Globalstar (미국, [[GSAT]])
 
 ## 주요 제품
 
@@ -56,8 +55,8 @@ AST SpaceMobile은 전 세계적인 서비스를 목표로 하고 있으며, 특
 
 - Starlink (SpaceX의 자회사, 비상장) - 위성 인터넷 서비스
 - OneWeb (영국, 비상장) - 위성 통신 네트워크
-- Iridium Communications (미국, [[2.개별종목/IRDM\|IRDM]]) - 위성 전화 및 데이터 서비스
-- [[2.개별종목/RKLB\|RKLB]]
+- Iridium Communications (미국, [[IRDM]]) - 위성 전화 및 데이터 서비스
+- [[RKLB]]
 
 ## 산업 내 글로벌 시장 점유율
 

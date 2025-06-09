@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/JOBY/","created":"2024-12-03T21:56:11.187+09:00","updated":"2025-06-03T20:05:59.674+09:00"}
+dg-publish: true
 ---
-
 #산업재 #항공우주및방위 #eVTOL #UAM
 
 
@@ -12,7 +11,7 @@
 
 ## 영위사업
 
-Joby Aviation은 전기 수직 이착륙([[eVTOL\|eVTOL]]) 항공기를 개발하고 제조하는 기업으로, 도시 항공 모빌리티([[1.Study/★ 산업/항공,우주,방위 산업/3.모빌리티/UAM/UAM\|UAM]]) 시장을 목표로 하고 있습니다
+Joby Aviation은 전기 수직 이착륙([[eVTOL]]) 항공기를 개발하고 제조하는 기업으로, 도시 항공 모빌리티([[UAM]]) 시장을 목표로 하고 있습니다
 
 ## 주요제품
 
@@ -28,9 +27,9 @@ Joby Aviation은 전기 수직 이착륙([[eVTOL\|eVTOL]]) 항공기를 개발�
 
 ## 경쟁업체
 
-- Lilium(US, [[2.개별종목/LILM\|LILM]])
-- Archer Aviation(US, [[2.개별종목/ACHR\|ACHR]])
-- Vertical Aerospace(US, [[2.개별종목/EVTL\|EVTL]])
+- Lilium(US, [[LILM]])
+- Archer Aviation(US, [[ACHR]])
+- Vertical Aerospace(US, [[EVTL]])
 
 ## 최근 3년 내 주요 이슈
 

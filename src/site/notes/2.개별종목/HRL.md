@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/HRL/","created":"2024-12-19T12:00:18.534+09:00","updated":"2025-06-03T20:05:59.470+09:00"}
+dg-publish: true
 ---
-
 #식품가공 #필수소비재 #식품제조 
 
 ## 산업섹터
 
-Sector: [[필수 소비재\|필수 소비재]](Consumer Staples)  
+Sector: [[필수 소비재]](Consumer Staples)  
 Industry: 식품 제품(Food Products)
 
 ## 영위사업
 
-Hormel Foods Corporation은 [[식품 가공\|식품 가공]] 기업으로, 주요 사업 영역은 다음과 같습니다:
+Hormel Foods Corporation은 [[식품 가공]] 기업으로, 주요 사업 영역은 다음과 같습니다:
 
 1. 신선 육류 제품 생산
 2. 냉동 및 냉장 식품 제조
@@ -36,11 +35,11 @@ Hormel Foods는 전 세계 80개국 이상에서 제품을 판매하고 있으�
 
 ## 경쟁업체
 
-1. Tyson Foods (US, [[2.개별종목/TSN\|TSN]])
-2. General Mills (US, [[2.개별종목/GIS\|GIS]])
-3. Conagra Brands (US, [[CAG\|CAG]])
-4. Campbell Soup (US, [[2.개별종목/CPB\|CPB]])
-5. J.M. Smucker (US, [[SJM\|SJM]])
+1. Tyson Foods (US, [[TSN]])
+2. General Mills (US, [[GIS]])
+3. Conagra Brands (US, [[CAG]])
+4. Campbell Soup (US, [[CPB]])
+5. J.M. Smucker (US, [[SJM]])
 
 ## 산업 내 글로벌 시장 점유율
 

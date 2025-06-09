@@ -1,22 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/NOV/","created":"2024-12-30T20:56:54.774+09:00","updated":"2025-06-03T20:06:00.395+09:00"}
+dg-publish: true
 ---
-
 #석유가스 #시추장비 #에너지서비스 #오일필드 #에너지전환 #석유가스소비연료 #에너지 #에너지장비 
 
 ## 산업 섹터
 
-[[에너지\|에너지]]
+[[에너지]]
 
 ## 산업
 
-[[석유, 가스 및 소비 연료\|석유, 가스 및 소비 연료]](Oil, Gas & Consumable Fuels)
+[[석유, 가스 및 소비 연료]](Oil, Gas & Consumable Fuels)
 
 ## 영위사업
 
 NOV Inc.(NOV)는 글로벌 에너지 산업에 장비와 기술을 제공하는 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
-1. [[에너지 장비\|에너지 장비]]: 석유 및 가스 탐사, 생산을 위한 자본 장비 및 통합 시스템 제조
+1. [[에너지 장비]]: 석유 및 가스 탐사, 생산을 위한 자본 장비 및 통합 시스템 제조
 2. 에너지 제품 및 서비스: 시추, 개입, 완결, 생산 활동에 사용되는 다양한 기술 제공
 
 NOV는 시추 비트, 다운홀 툴, 프리미엄 드릴 파이프, 시추 유체, 관리 압력 시추, 컨덕터 스트링 및 표면 케이싱용 커넥터, 완결 도구, 인공 리프트 시스템 등을 설계, 제조, 임대 및 판매합니다. 회사는 6개 대륙에 걸쳐 500개 이상의 지역에서 운영되고 있습니다.
@@ -34,26 +33,26 @@ NOV는 시추 비트, 다운홀 툴, 프리미엄 드릴 파이프, 시추 유�
 
 1. 후방산업:
     
-    - 철강 제조: U.S. Steel(US, [[2.개별종목/X\|X]])
-    - 전자부품 제조: Texas Instruments(US, [[2.개별종목/TXN\|TXN]])
+    - 철강 제조: U.S. Steel(US, [[X]])
+    - 전자부품 제조: Texas Instruments(US, [[TXN]])
     
 2. 전방산업:
     
-    - 석유 및 가스 생산: ExxonMobil(US, [[2.개별종목/XOM\|XOM]])
-    - 시추 서비스: Schlumberger(US, [[2.개별종목/SLB\|SLB]])
+    - 석유 및 가스 생산: ExxonMobil(US, [[XOM]])
+    - 시추 서비스: Schlumberger(US, [[SLB]])
     
 
 ## 밸류체인
 
-1. 원자재 조달: U.S. Steel(US, [[2.개별종목/X\|X]]) - 철강 소재
+1. 원자재 조달: U.S. Steel(US, [[X]]) - 철강 소재
 2. 장비 설계 및 제조: NOV Inc. (주요 사업 영역)
 3. 판매 및 유통: NOV Inc. (주요 사업 영역)
 4. 서비스 및 유지보수: NOV Inc. (주요 사업 영역)
-5. 최종 사용자: ExxonMobil(US, [[2.개별종목/XOM\|XOM]]) - 석유 및 가스 생산
+5. 최종 사용자: ExxonMobil(US, [[XOM]]) - 석유 및 가스 생산
 
 ## 주요제품
 
-1. [[시추 장비\|시추 장비]] 및 시스템
+1. [[시추 장비]] 및 시스템
 2. 완결 및 생산 솔루션
 3. 웰보어 기술
 4. 해양 및 해저 시스템
@@ -73,11 +72,11 @@ NOV Inc.는 글로벌 기업으로, 주요 판매 국가는 미국, 사우디아
 
 ## 경쟁업체
 
-1. Schlumberger(US, [[2.개별종목/SLB\|SLB]])
-2. Halliburton(US, [[2.개별종목/HAL\|HAL]])
-3. Baker Hughes(US, [[2.개별종목/BKR\|BKR]])
-4. TechnipFMC(UK, [[FTI\|FTI]])
-5. Weatherford International(US, [[WFT\|WFT]])
+1. Schlumberger(US, [[SLB]])
+2. Halliburton(US, [[HAL]])
+3. Baker Hughes(US, [[BKR]])
+4. TechnipFMC(UK, [[FTI]])
+5. Weatherford International(US, [[WFT]])
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -101,6 +100,6 @@ NOV Inc.는 글로벌 기업으로, 주요 판매 국가는 미국, 사우디아
 
 ## 관련 ETF
 
-1. VanEck Oil Services ETF - [[OIH\|OIH]]
-2. SPDR S&P Oil & Gas Equipment & Services ETF - [[XES\|XES]]
-3. iShares U.S. Oil Equipment & Services ETF - [[IEZ\|IEZ]]
+1. VanEck Oil Services ETF - [[OIH]]
+2. SPDR S&P Oil & Gas Equipment & Services ETF - [[XES]]
+3. iShares U.S. Oil Equipment & Services ETF - [[IEZ]]

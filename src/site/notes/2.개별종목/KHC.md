@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/KHC/","created":"2024-12-19T12:00:20.848+09:00","updated":"2025-06-03T20:05:59.740+09:00"}
+dg-publish: true
 ---
-
 #식품 #필수소비재 
 
 ## 산업섹터
 
-Sector: [[필수 소비재\|필수 소비재]](Consumer Staples)  
-Industry: [[식품\|식품]] 제품(Food Products)
+Sector: [[필수 소비재]](Consumer Staples)  
+Industry: [[식품]] 제품(Food Products)
 
 ## 영위사업
 
@@ -27,7 +26,7 @@ Kraft Heinz Company는 식품 및 음료 제조 기업으로, 주요 사업 영�
 
 ## 주요제품
 
-1. [[Heinz\|Heinz]] 케첩 및 소스류
+1. [[Heinz]] 케첩 및 소스류
 2. Kraft 치즈 및 유제품
 3. Oscar Mayer 육가공품
 4. Philadelphia 크림치즈

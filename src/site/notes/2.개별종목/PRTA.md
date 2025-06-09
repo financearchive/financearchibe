@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/PRTA/","created":"2024-12-23T16:17:46.156+09:00","updated":"2025-06-03T20:06:00.757+09:00"}
+dg-publish: true
 ---
-
 #바이오텍 #헬스케어  #바이오테크놀로지 #신약개발 #알츠하이머 #파킨슨병 #단백질치료제 #임상시험 #희귀질환 #면역치료제 #신경퇴행성질환 #정밀의학 #생명과학도구및서비스
 
 
 
 - 최신이슈
-	- [[00.투자기록/과거/2024/12월/2024-12-20\|2024-12-20]], Prasinezumab을 개발해 Roche([[2.개별종목/ROG\|ROG]])에 기술 수출한 바이오텍인 ProthenaCorp.(PRTA)의 주가 34% 상승(시총 기준 2.18억달러 증가). 
-		- Roche(ROG), [[파킨슨병\|파킨슨병]] 신약 후보 Prasinezumab 임상 2b상 PADOVA 결과 발표 중 하위 그룹 분석에서 Prasinezumab의 임상적 이점이 드러났기 때문
+	- [[2024-12-20]], Prasinezumab을 개발해 Roche([[ROG]])에 기술 수출한 바이오텍인 ProthenaCorp.(PRTA)의 주가 34% 상승(시총 기준 2.18억달러 증가). 
+		- Roche(ROG), [[파킨슨병]] 신약 후보 Prasinezumab 임상 2b상 PADOVA 결과 발표 중 하위 그룹 분석에서 Prasinezumab의 임상적 이점이 드러났기 때문
 		  
 
 ## 섹터
 
-섹터: [[헬스케어\|헬스케어]]
+섹터: [[헬스케어]]
 
 ## 산업
 
@@ -23,10 +22,10 @@
 
 Prothena Corporation plc는 단백질 이상과 관련된 신경퇴행성 및 희귀 말초 아밀로이드 질환을 대상으로 하는 혁신적인 치료제를 개발하는 후기 임상 단계의 바이오테크놀로지 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
-1. [[알츠하이머\|알츠하이머]]병 치료제 개발
-2. [[파킨슨병\|파킨슨병]] 치료제 개발
-3. [[아밀로이드증\|아밀로이드증]] 치료제 개발
-4. [[단백질 면역치료제\|단백질 면역치료제]] 연구
+1. [[알츠하이머]]병 치료제 개발
+2. [[파킨슨병]] 치료제 개발
+3. [[아밀로이드증]] 치료제 개발
+4. [[단백질 면역치료제]] 연구
 
 ## 핵심 경쟁력
 
@@ -55,11 +54,11 @@ Prothena Corporation plc는 단백질 이상과 관련된 신경퇴행성 및 �
 
 ## 주요 경쟁사
 
-1. Biogen(US, [[2.개별종목/BIIB\|BIIB]])
-2. Roche(CH, [[2.개별종목/ROG\|ROG]])
-3. AbbVie(US, [[2.개별종목/ABBV\|ABBV]])
-4. Novartis(CH, [[2.개별종목/NOVN\|NOVN]])
-5. Amgen(US, [[2.개별종목/AMGN\|AMGN]])
+1. Biogen(US, [[BIIB]])
+2. Roche(CH, [[ROG]])
+3. AbbVie(US, [[ABBV]])
+4. Novartis(CH, [[NOVN]])
+5. Amgen(US, [[AMGN]])
 
 ## 주요 주주
 
@@ -68,6 +67,6 @@ Prothena Corporation plc는 단백질 이상과 관련된 신경퇴행성 및 �
 
 ## 관련 ETF
 
-1. ARK Genomic Revolution ETF - [[ARKG\|ARKG]]
-2. Global X Genomics & Biotechnology ETF - [[GNOM\|GNOM]]
-3. SPDR S&P Biotech ETF - [[XBI\|XBI]]
+1. ARK Genomic Revolution ETF - [[ARKG]]
+2. Global X Genomics & Biotechnology ETF - [[GNOM]]
+3. SPDR S&P Biotech ETF - [[XBI]]

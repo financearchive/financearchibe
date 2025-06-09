@@ -1,22 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/APTV/","created":"2025-04-03T19:25:16.014+09:00","updated":"2025-06-03T20:05:57.729+09:00"}
+dg-publish: true
 ---
-
 #자동차부품 #자율주행 #전기차 #커넥티드카 #모빌리티솔루션 #ADAS #전장부품 #파워트레인 #소프트웨어정의차량 #ESG #스마트모빌리티 #디지털화 #센서기술 #배터리관리시스템 #사이버보안 #V2X통신 #전기화솔루션 #OEM파트너십 #지속가능성
 
 ## 산업섹터
 
-섹터: [[임의소비재\|임의소비재]]
+섹터: [[임의소비재]]
 
-산업: [[자동차부품\|자동차부품]]
+산업: [[자동차부품]]
 
 ## 영위사업
 
-Aptiv PLC(NYSE: APTV)는 아일랜드 더블린에 본사를 둔 [[글로벌 자동차 기술 기업\|글로벌 자동차 기술 기업]]으로, [[자율주행\|자율주행]], 전기화, [[커넥티드카\|커넥티드카]] 등 미래 모빌리티를 위한 솔루션을 제공합니다. 2017년 Delphi Automotive에서 분사하여 설립되었습니다. 주요 사업 부문은 다음과 같습니다:
+Aptiv PLC(NYSE: APTV)는 아일랜드 더블린에 본사를 둔 [[글로벌 자동차 기술 기업]]으로, [[자율주행]], 전기화, [[커넥티드카]] 등 미래 모빌리티를 위한 솔루션을 제공합니다. 2017년 Delphi Automotive에서 분사하여 설립되었습니다. 주요 사업 부문은 다음과 같습니다:
 
 1. **Signal and Power Solutions**: 전장 아키텍처, 배터리 관리 시스템, 고전압 전기화 솔루션
     
-2. **Advanced Safety and User Experience**: [[ADAS\|ADAS]](첨단 운전자 보조 시스템), 인포테인먼트 시스템, 디지털 콕핏
+2. **Advanced Safety and User Experience**: [[ADAS]](첨단 운전자 보조 시스템), 인포테인먼트 시스템, 디지털 콕핏
     
 3. **Autonomous Mobility**: 자율주행 소프트웨어 및 하드웨어 솔루션
     
@@ -40,20 +39,20 @@ Aptiv PLC(NYSE: APTV)는 아일랜드 더블린에 본사를 둔 [[글로벌 자
 
 ## 전방산업
 
-- **자동차 제조업체**: Tesla(US, [[2.개별종목/TSLA\|TSLA]]), General Motors(US, [[2.개별종목/GM\|GM]]), BMW(DE, [[2.개별종목/BMW\|BMW]])
+- **자동차 제조업체**: Tesla(US, [[TSLA]]), General Motors(US, [[GM]]), BMW(DE, [[BMW]])
     
-- **전기차 제조업체**: Rivian(US, [[2.개별종목/RIVN\|RIVN]]), Lucid Group(US, [[2.개별종목/LCID\|LCID]])
+- **전기차 제조업체**: Rivian(US, [[RIVN]]), Lucid Group(US, [[LCID]])
     
-- **상용차 제조업체**: Daimler Truck(DE, [[DTG\|DTG]]), Volvo Group(SE, [[VOLV-B\|VOLV-B]])
+- **상용차 제조업체**: Daimler Truck(DE, [[DTG]]), Volvo Group(SE, [[VOLV-B]])
     
 
 ## 후방산업
 
-- **반도체 제조업체**: NVIDIA(US, [[2.개별종목/NVDA\|NVDA]]), Infineon Technologies(DE, [[2.개별종목/IFX\|IFX]])
+- **반도체 제조업체**: NVIDIA(US, [[NVDA]]), Infineon Technologies(DE, [[IFX]])
     
 - **배터리 공급업체**: LG Energy Solution(KR), CATL(CN)
     
-- **소재 공급업체**: BASF(DE, [[BAS\|BAS]]), DuPont(US, [[2.개별종목/DD\|DD]])
+- **소재 공급업체**: BASF(DE, [[BAS]]), DuPont(US, [[DD]])
     
 
 ## 밸류체인
@@ -69,7 +68,7 @@ Aptiv PLC(NYSE: APTV)는 아일랜드 더블린에 본사를 둔 [[글로벌 자
 
 ## 주요제품
 
-- **Signal and Power Solutions**: [[전장 아키텍처\|전장 아키텍처]] 및 배터리 관리 시스템 (매출의 약 65%)
+- **Signal and Power Solutions**: [[전장 아키텍처]] 및 배터리 관리 시스템 (매출의 약 65%)
     
 - **Advanced Safety and User Experience**: ADAS 및 인포테인먼트 시스템 (매출의 약 30%)
     
@@ -78,11 +77,11 @@ Aptiv PLC(NYSE: APTV)는 아일랜드 더블린에 본사를 둔 [[글로벌 자
 
 ## 주요 고객
 
-1. 자동차 제조사 (Tesla(US, [[2.개별종목/TSLA\|TSLA]]), General Motors(US, [[2.개별종목/GM\|GM]]))
+1. 자동차 제조사 (Tesla(US, [[TSLA]]), General Motors(US, [[GM]]))
     
-2. 상용차 제조사 (Daimler Truck(DE, [[DTG\|DTG]]), Volvo Group(SE))
+2. 상용차 제조사 (Daimler Truck(DE, [[DTG]]), Volvo Group(SE))
     
-3. 전기차 스타트업 (Rivian(US, [[2.개별종목/RIVN\|RIVN]]), Lucid Group(US))
+3. 전기차 스타트업 (Rivian(US, [[RIVN]]), Lucid Group(US))
     
 
 ## 주요 판매국가
@@ -104,7 +103,7 @@ Aptiv PLC(NYSE: APTV)는 아일랜드 더블린에 본사를 둔 [[글로벌 자
 
 ## 산업 내 글로벌 시장 점유율
 
-Aptiv는 2024년 기준 글로벌 [[자동차 부품\|자동차 부품]] 시장에서 약 10%의 점유율을 보유하고 있으며 특히 ADAS와 전장 아키텍처 분야에서 강력한 입지를 가지고 있습니다. 최근 3년간 시장 점유율은 안정적으로 유지되고 있으며 미래 모빌리티 기술 개발로 점유율 확대를 목표로 하고 있습니다.
+Aptiv는 2024년 기준 글로벌 [[자동차 부품]] 시장에서 약 10%의 점유율을 보유하고 있으며 특히 ADAS와 전장 아키텍처 분야에서 강력한 입지를 가지고 있습니다. 최근 3년간 시장 점유율은 안정적으로 유지되고 있으며 미래 모빌리티 기술 개발로 점유율 확대를 목표로 하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
 
@@ -128,8 +127,8 @@ Aptiv는 2024년 기준 글로벌 [[자동차 부품\|자동차 부품]] 시장�
 
 ## 관련 ETF
 
-- Global X Autonomous & Electric Vehicles ETF - [[DRIV\|DRIV]]
+- Global X Autonomous & Electric Vehicles ETF - [[DRIV]]
     
-- iShares Self-Driving EV and Tech ETF - [[IDRV\|IDRV]]
+- iShares Self-Driving EV and Tech ETF - [[IDRV]]
     
-- First Trust NASDAQ Global Auto Index Fund - [[CARZ\|CARZ]]
+- First Trust NASDAQ Global Auto Index Fund - [[CARZ]]

@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/REGN/","created":"2024-09-06T15:11:47.162+09:00","updated":"2025-06-03T20:06:00.942+09:00"}
+dg-publish: true
 ---
-
 #헬스케어 #바이오테크
 
 #### 산업섹터 및 산업
 
-- **Sector:** [[헬스케어\|헬스케어]] (Healthcare)
-- **Industry:** [[1.Study/★ 산업/헬스케어/3.바이오테크/바이오테크\|바이오테크]] (Biotechnology)
+- **Sector:** [[헬스케어]] (Healthcare)
+- **Industry:** [[바이오테크]] (Biotechnology)
 
 #### 영위사업
 
@@ -17,19 +16,19 @@ Regeneron Pharmaceuticals는 다양한 질병 치료를 위한 의약품을 발�
 
 - **전방산업:** 의료 서비스 및 제약 유통
     - **핵심 산업:** 병원, 약국, 의료 보험사
-    - **핵심 기업:** CVS Health (미국, [[2.개별종목/CVS\|CVS]]), UnitedHealth Group (미국, [[2.개별종목/UNH\|UNH]])
+    - **핵심 기업:** CVS Health (미국, [[CVS]]), UnitedHealth Group (미국, [[UNH]])
 - **후방산업:** 생명공학 연구 및 원료 공급
     - **핵심 산업:** 연구소, 원료 공급업체
-    - **핵심 기업:** Thermo Fisher Scientific (미국, [[2.개별종목/TMO\|TMO]]), Merck KGaA (독일, [[2.개별종목/MRK\|MRK]])
+    - **핵심 기업:** Thermo Fisher Scientific (미국, [[TMO]]), Merck KGaA (독일, [[MRK]])
 
 #### 밸류체인
 
 - **연구 및 개발:** Regeneron은 자체 연구소와 협력사와 함께 신약 개발을 진행합니다.
-    - **대표 회사:** Sanofi (프랑스, [[2.개별종목/SAN\|SAN]]), Bayer (독일, [[BAYN\|BAYN]])
+    - **대표 회사:** Sanofi (프랑스, [[SAN]]), Bayer (독일, [[BAYN]])
 - **제조:** 고품질의 의약품을 제조합니다.
-    - **대표 회사:** Lonza Group (스위스, [[2.개별종목/LONN\|LONN]]), Catalent (미국, [[2.개별종목/CTLT\|CTLT]])
+    - **대표 회사:** Lonza Group (스위스, [[LONN]]), Catalent (미국, [[CTLT]])
 - **유통:** 글로벌 시장에 의약품을 유통합니다.
-    - **대표 회사:** McKesson (미국, [[2.개별종목/MCK\|MCK]]), Cardinal Health (미국, [[CAH\|CAH]])
+    - **대표 회사:** McKesson (미국, [[MCK]]), Cardinal Health (미국, [[CAH]])
 
 #### 주요제품
 
@@ -45,9 +44,9 @@ Regeneron Pharmaceuticals는 다양한 질병 치료를 위한 의약품을 발�
 
 #### 경쟁업체
 
-- **Amgen (미국, [[2.개별종목/AMGN\|AMGN]]):** 생명공학 의약품
-- **Vertex Pharmaceuticals (미국, [[2.개별종목/VRTX\|VRTX]]):** 유전자 치료제
-- **Gilead Sciences (미국, [[2.개별종목/GILD\|GILD]]):** 항바이러스제
+- **Amgen (미국, [[AMGN]]):** 생명공학 의약품
+- **Vertex Pharmaceuticals (미국, [[VRTX]]):** 유전자 치료제
+- **Gilead Sciences (미국, [[GILD]]):** 항바이러스제
 
 #### 최근 3년 내 주요 이슈
 

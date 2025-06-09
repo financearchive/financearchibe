@@ -1,16 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/QMCO/","created":"2024-12-07T12:46:26.958+09:00","updated":"2025-06-03T20:06:00.839+09:00"}
+dg-publish: true
 ---
-
 #정보기술 #컴퓨터하드웨어 #데이터저장 #데이터보호 #데이터관리
 
 
-Quantum Corporation(QMCO)는 [[데이터 저장\|데이터 저장]], [[데이터 관리\|데이터 관리]], [[데이터 보호\|데이터 보호]] 솔루션을 제공하는 기업입니다.
+Quantum Corporation(QMCO)는 [[데이터 저장]], [[데이터 관리]], [[데이터 보호]] 솔루션을 제공하는 기업입니다.
 
 ## 산업섹터
 
-섹터: [[정보기술\|정보기술]](Information Technology)  
-산업: [[컴퓨터 하드웨어\|컴퓨터 하드웨어]](Computer Hardware)
+섹터: [[정보기술]](Information Technology)  
+산업: [[컴퓨터 하드웨어]](Computer Hardware)
 
 ## 영위사업
 
@@ -20,7 +19,7 @@ Quantum은 비디오 및 비정형 데이터의 저장, 관리, 보호, 아카�
 
 ## 후방산업
 
-- 반도체 제조업체: TSMC(TW, [[2.개별종목/TSM\|TSM]])
+- 반도체 제조업체: TSMC(TW, [[TSM]])
 
 ## 전방산업
 
@@ -50,9 +49,9 @@ Quantum은 비디오 및 비정형 데이터의 저장, 관리, 보호, 아카�
 
 ## 경쟁업체
 
-- Dell Technologies(US, [[2.개별종목/DELL\|DELL]])
-- NetApp(US, [[2.개별종목/NTAP\|NTAP]])
-- Pure Storage(US, [[2.개별종목/PSTG\|PSTG]])
+- Dell Technologies(US, [[DELL]])
+- NetApp(US, [[NTAP]])
+- Pure Storage(US, [[PSTG]])
 
 ## 산업 내 글로벌 시장 점유율
 

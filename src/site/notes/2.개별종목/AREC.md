@@ -1,18 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/AREC/","created":"2024-11-19T15:22:06.600+09:00","updated":"2025-06-03T20:05:57.747+09:00"}
+dg-publish: true
 ---
-
  #희토류 #원자재 #기타산업용금속및광업 #희토류산화물
 
 
 ## 산업 섹터
 
-- Sector: Materials([[1.Study/★ 산업/원자재 산업/INFO_원자재/원자재\|원자재]])
-- Industry: Other Industrial Metals & Mining([[기타 산업용 금속 및 광업\|기타 산업용 금속 및 광업]])
+- Sector: Materials([[원자재]])
+- Industry: Other Industrial Metals & Mining([[기타 산업용 금속 및 광업]])
 
 ## 영위 사업
 
-American Resources Corporation은 인프라 및 전기화 시장을 위한 친환경적이고 사회적 책임을 다하는 고품질 원자재 공급업체입니다. 주로 제강에 필수적인 야금용 탄소와 전기화 시장에 중요한 [[1.Study/★ 산업/원자재 산업/1.비철금속/희토류/희토류\|희토류]] 광물의 추출 및 가공에 중점을 두고 있습니다.
+American Resources Corporation은 인프라 및 전기화 시장을 위한 친환경적이고 사회적 책임을 다하는 고품질 원자재 공급업체입니다. 주로 제강에 필수적인 야금용 탄소와 전기화 시장에 중요한 [[희토류]] 광물의 추출 및 가공에 중점을 두고 있습니다.
 
 ## 전방/후방 산업
 
@@ -53,10 +52,10 @@ American Resources Corporation은 인프라 및 전기화 시장을 위한 친�
 
 ## 경쟁사
 
-- MP Materials(미국, [[2.개별종목/MP\|MP]])
+- MP Materials(미국, [[MP]])
 
 ## 최근 3년 내 주요 이슈
 
-- ReElement Technologies 자회사를 통한 [[희토류 산화물\|희토류 산화물]] 정제 생산 확대 (2024년)
+- ReElement Technologies 자회사를 통한 [[희토류 산화물]] 정제 생산 확대 (2024년)
 - Kentucky Lithium 정제 시설 개발을 위한 1억 5천만 달러 규모의 면세 채권 발행 예비 승인 획득 (2023년)
 - IRIS Metals와 리튬 전환 및 배터리급 리튬 탄산염 생산을 위한 MOU 체결 (2023년)

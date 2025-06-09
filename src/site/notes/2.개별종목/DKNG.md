@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/DKNG/","created":"2025-04-29T18:46:48.747+09:00","updated":"2025-06-03T20:05:58.746+09:00"}
+dg-publish: true
 ---
-
 ## DraftKings Inc. (NASDAQ: DKNG) 기업 분석 보고서
 
 DraftKings Inc.는 미국 보스턴에 본사를 둔 디지털 스포츠 엔터테인먼트 및 온라인 게이밍 기업으로, 2012년 데일리 판타지 스포츠(DFS) 플랫폼으로 시작해 현재는 온라인 스포츠베팅, iGaming(온라인 카지노), 디지털 복권 등으로 사업을 확장했습니다. 2020년 SPAC 합병을 통해 상장했으며, 2024년 기준 5,100명의 직원을 보유하고 있습니다.
@@ -13,15 +12,15 @@ DraftKings Inc.는 미국 보스턴에 본사를 둔 디지털 스포츠 엔터�
 ## 산업섹터
 
 **섹터**  
-#임의소비재 (Consumer Discretionary, [[임의소비재\|임의소비재]])
+#임의소비재 (Consumer Discretionary, [[임의소비재]])
 
 **산업**  
-#도박및카지노 (Gambling, Resorts & Casinos, [[도박 및 카지노\|도박 및 카지노]])
+#도박및카지노 (Gambling, Resorts & Casinos, [[도박 및 카지노]])
 
 ## 영위사업
 
 **기업소개**  
-DraftKings는 미국 28개 주와 캐나다 온타리오에서 모바일/오프라인 [[스포츠베팅\|스포츠베팅]], 5개 주에서 iGaming 서비스를 제공하는 디지털 스포츠 엔터테인먼트 선도 기업입니다. 2024년 매출 47.7억 달러를 기록했으나 순손실 5.07억 달러를 겪었습니다. 주요 제품은 다음과 같습니다:
+DraftKings는 미국 28개 주와 캐나다 온타리오에서 모바일/오프라인 [[스포츠베팅]], 5개 주에서 iGaming 서비스를 제공하는 디지털 스포츠 엔터테인먼트 선도 기업입니다. 2024년 매출 47.7억 달러를 기록했으나 순손실 5.07억 달러를 겪었습니다. 주요 제품은 다음과 같습니다:
 
 - **스포츠북**: NFL, NBA 등 주요 리그 실시간 베팅
     
@@ -71,61 +70,61 @@ DraftKings는 미국 28개 주와 캐나다 온타리오에서 모바일/오프�
 
 _디지털 서비스 기업으로 전통적 제조공정 없음_
 
-1. **소프트웨어 개발**: AWS([[2.개별종목/AMZN\|AMZN]]), Microsoft Azure([[2.개별종목/MSFT\|MSFT]]) 클라우드 기반 플랫폼 구축
+1. **소프트웨어 개발**: AWS([[AMZN]]), Microsoft Azure([[MSFT]]) 클라우드 기반 플랫폼 구축
     
-2. **데이터 처리**: Sportradar([[SRAD\|SRAD]])에서 실시간 스포츠 데이터 수집
+2. **데이터 처리**: Sportradar([[SRAD]])에서 실시간 스포츠 데이터 수집
     
-3. **콘텐츠 제작**: Evolution Gaming([[EVO\|EVO]])과 협업해 라이브 카지노 게임 개발
+3. **콘텐츠 제작**: Evolution Gaming([[EVO]])과 협업해 라이브 카지노 게임 개발
     
 
 ## 전방/후방산업
 
 ## 후방산업
 
-- **스포츠 데이터**: Sportradar([[SRAD\|SRAD]]), Genius Sports([[GENI\|GENI]])
+- **스포츠 데이터**: Sportradar([[SRAD]]), Genius Sports([[GENI]])
     
-- **클라우드 인프라**: AWS([[2.개별종목/AMZN\|AMZN]]), Microsoft([[2.개별종목/MSFT\|MSFT]])
+- **클라우드 인프라**: AWS([[AMZN]]), Microsoft([[MSFT]])
     
-- **결제 시스템**: PayPal([[2.개별종목/PYPL\|PYPL]]), Stripe(비상장)
+- **결제 시스템**: PayPal([[PYPL]]), Stripe(비상장)
     
 
 ## 전방산업
 
-- **스포츠 리그**: NFL, NBA([[NBA\|NBA]])
+- **스포츠 리그**: NFL, NBA([[NBA]])
     
-- **미디어 플랫폼**: ESPN([[2.개별종목/DIS\|DIS]]), FOX Sports([[FOXA\|FOXA]])
+- **미디어 플랫폼**: ESPN([[DIS]]), FOX Sports([[FOXA]])
     
-- **오프라인 카지노**: MGM([[2.개별종목/MGM\|MGM]]), Caesars([[2.개별종목/CZR\|CZR]])
+- **오프라인 카지노**: MGM([[MGM]]), Caesars([[CZR]])
     
 
 ## 밸류체인
 
-|단계|주요 기업 (국가, [[티커\|티커]])|역할|
+|단계|주요 기업 (국가, [[티커]])|역할|
 |---|---|---|
-|데이터 수집|Sportradar([[SRAD\|SRAD]])|실시간 경기 데이터 제공|
-|플랫폼 개발|AWS([[2.개별종목/AMZN\|AMZN]])|클라우드 인프라 지원|
-|게임 콘텐츠|Evolution Gaming([[EVO\|EVO]])|라이브 카지노 솔루션|
-|결제 처리|PayPal([[2.개별종목/PYPL\|PYPL]])|안전한 거래 시스템|
-|운영|DraftKings([[2.개별종목/DKNG\|DKNG]])|스포츠베팅·iGaming 서비스|
+|데이터 수집|Sportradar([[SRAD]])|실시간 경기 데이터 제공|
+|플랫폼 개발|AWS([[AMZN]])|클라우드 인프라 지원|
+|게임 콘텐츠|Evolution Gaming([[EVO]])|라이브 카지노 솔루션|
+|결제 처리|PayPal([[PYPL]])|안전한 거래 시스템|
+|운영|DraftKings([[DKNG]])|스포츠베팅·iGaming 서비스|
 
 ## 주요제품
 
 |제품|용도|매출 비중 (2024)|경쟁사|
 |---|---|---|---|
-|스포츠북|실시간 스포츠 베팅|60%|FanDuel([[FLTR\|FLTR]]), BetMGM([[2.개별종목/MGM\|MGM]])|
-|iGaming|온라인 카지노|25%|Golden Nugget([[GNOG\|GNOG]]), Caesars([[2.개별종목/CZR\|CZR]])|
-|DFS|데일리 판타지|10%|Yahoo Fantasy([[YAHOO\|YAHOO]])|
+|스포츠북|실시간 스포츠 베팅|60%|FanDuel([[FLTR]]), BetMGM([[MGM]])|
+|iGaming|온라인 카지노|25%|Golden Nugget([[GNOG]]), Caesars([[CZR]])|
+|DFS|데일리 판타지|10%|Yahoo Fantasy([[YAHOO]])|
 |Jackpocket|디지털 복권|5%|Lotto.com(비상장)|
 
 ## 주된 영향을 미치는 원자재
 
 _디지털 서비스 특성상 물리적 원자재 대신 핵심 자원_
 
-1. **실시간 스포츠 데이터**: Sportradar([[SRAD\|SRAD]]) 공급
+1. **실시간 스포츠 데이터**: Sportradar([[SRAD]]) 공급
     
-2. **클라우드 인프라**: AWS([[2.개별종목/AMZN\|AMZN]])·Azure([[2.개별종목/MSFT\|MSFT]]) 활용
+2. **클라우드 인프라**: AWS([[AMZN]])·Azure([[MSFT]]) 활용
     
-3. **결제 시스템**: PayPal([[2.개별종목/PYPL\|PYPL]])·신용카드 네트워크
+3. **결제 시스템**: PayPal([[PYPL]])·신용카드 네트워크
     
 
 ## 주요고객
@@ -134,7 +133,7 @@ _디지털 서비스 특성상 물리적 원자재 대신 핵심 자원_
     
 2. NBA(미국프로농구) - 베팅 라이센스 보유[5](https://en.wikipedia.org/wiki/DraftKings)
     
-3. ESPN([[2.개별종목/DIS\|DIS]]) - 콘텐츠 제휴[6](https://markets.ft.com/data/equities/tearsheet/profile?s=DKNG%3ANSQ)
+3. ESPN([[DIS]]) - 콘텐츠 제휴[6](https://markets.ft.com/data/equities/tearsheet/profile?s=DKNG%3ANSQ)
     
 4. 일반 소비자: 미국 25개 주, 캐나다 온타리오 유저
     
@@ -148,23 +147,23 @@ _디지털 서비스 특성상 물리적 원자재 대신 핵심 자원_
 
 ## 경쟁업체
 
-1. FanDuel(IE, [[FLTR\|FLTR]])
+1. FanDuel(IE, [[FLTR]])
     
-2. BetMGM(US, [[2.개별종목/MGM\|MGM]])
+2. BetMGM(US, [[MGM]])
     
-3. Caesars Sportsbook(US, [[2.개별종목/CZR\|CZR]])
+3. Caesars Sportsbook(US, [[CZR]])
     
-4. Penn Entertainment([[PENN\|PENN]])
+4. Penn Entertainment([[PENN]])
     
-5. Rush Street Interactive([[RSI\|RSI]])
+5. Rush Street Interactive([[RSI]])
     
-6. WynnBET([[2.개별종목/WYNN\|WYNN]])
+6. WynnBET([[WYNN]])
     
 7. Barstool Sportsbook(비상장)
     
-8. PointsBet([[PBTHF\|PBTHF]])
+8. PointsBet([[PBTHF]])
     
-9. Fox Bet([[FOXA\|FOXA]])
+9. Fox Bet([[FOXA]])
     
 10. Bet365(UK, 비상장)
     
@@ -215,13 +214,13 @@ _(총 30개 경쟁사 목록 가능)_
 
 ## 관련 ETF
 
-1. Roundhill 베팅&iGaming ETF ([[BETZ\|BETZ]])
+1. Roundhill 베팅&iGaming ETF ([[BETZ]])
     
-2. VanEck 게이밍 ETF ([[BJK\|BJK]])
+2. VanEck 게이밍 ETF ([[BJK]])
     
-3. ARK 핀테크 혁신 ETF ([[ARKF\|ARKF]])
+3. ARK 핀테크 혁신 ETF ([[ARKF]])
     
-4. Consumer Discretionary SPDR ([[XLY\|XLY]])
+4. Consumer Discretionary SPDR ([[XLY]])
     
 
 **미국 나스닥 상장 여부**: DraftKings Inc.(DKNG)는 NASDAQ 상장기업입니다[5](https://en.wikipedia.org/wiki/DraftKings).

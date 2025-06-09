@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/JNPR/","created":"2024-11-16T11:31:37.279+09:00","updated":"2025-06-03T20:05:59.659+09:00"}
+dg-publish: true
 ---
-
 #네트워킹하드웨어및소프트웨어 #정보기술 #네트워크관리 #라우터 #보안
 
 ## 산업 섹터
 
-- **Sector(산업섹터)**: Information Technology([[정보기술\|정보기술]])
-- **Industry(산업)**: Networking Hardware and Software([[네트워킹 하드웨어 및 소프트웨어\|네트워킹 하드웨어 및 소프트웨어]])
+- **Sector(산업섹터)**: Information Technology([[정보기술]])
+- **Industry(산업)**: Networking Hardware and Software([[네트워킹 하드웨어 및 소프트웨어]])
 
 ## 영위 사업
 
-Juniper Networks는 고성능 네트워킹 제품과 솔루션을 설계하고 제조하는 미국의 다국적 기업입니다. 본사는 캘리포니아주 샌디에이고에 위치하며, 주로 [[라우터\|라우터]], 스위치, [[보안\|보안]] 솔루션 및 [[네트워크 관리\|네트워크 관리]] 소프트웨어를 제공합니다. Juniper는 기업, 서비스 제공업체 및 데이터 센터를 위한 네트워크 인프라를 구축하는 데 중점을 두고 있습니다.
+Juniper Networks는 고성능 네트워킹 제품과 솔루션을 설계하고 제조하는 미국의 다국적 기업입니다. 본사는 캘리포니아주 샌디에이고에 위치하며, 주로 [[라우터]], 스위치, [[보안]] 솔루션 및 [[네트워크 관리]] 소프트웨어를 제공합니다. Juniper는 기업, 서비스 제공업체 및 데이터 센터를 위한 네트워크 인프라를 구축하는 데 중점을 두고 있습니다.
 
 ## 전방/후방 산업
 
@@ -21,8 +20,8 @@ Juniper Networks는 고성능 네트워킹 제품과 솔루션을 설계하고 �
     - **역할**: 최종 소비자에게 네트워크 솔루션 제공
     - **주요 기업**:
         
-        - Cisco Systems (미국, [[2.개별종목/CSCO\|CSCO]]) - 네트워킹 장비 및 솔루션 제공
-        - Arista Networks (미국, [[2.개별종목/ANET\|ANET]]) - 클라우드 네트워킹 솔루션 제공
+        - Cisco Systems (미국, [[CSCO]]) - 네트워킹 장비 및 솔루션 제공
+        - Arista Networks (미국, [[ANET]]) - 클라우드 네트워킹 솔루션 제공
         
     
 - **후방 산업 (Upstream Industry)**:
@@ -31,8 +30,8 @@ Juniper Networks는 고성능 네트워킹 제품과 솔루션을 설계하고 �
     - **역할**: Juniper의 제품에 필요한 부품 및 기술 지원 제공
     - **주요 기업**:
         
-        - Intel (미국, [[2.개별종목/INTC\|INTC]]) - 반도체 제조업체
-        - Broadcom (미국, [[2.개별종목/AVGO\|AVGO]]) - 통신 반도체 솔루션 제공
+        - Intel (미국, [[INTC]]) - 반도체 제조업체
+        - Broadcom (미국, [[AVGO]]) - 통신 반도체 솔루션 제공
         
     
 
@@ -51,7 +50,7 @@ Juniper Networks는 고성능 네트워킹 제품과 솔루션을 설계하고 �
     - Juniper는 방화벽 및 보안 장비를 포함한 다양한 보안 제품을 제공합니다.
     - 대표 기업:
         
-        - Palo Alto Networks (미국, [[2.개별종목/PANW\|PANW]]) - 사이버 보안 솔루션 제공
+        - Palo Alto Networks (미국, [[PANW]]) - 사이버 보안 솔루션 제공
         
     
 
@@ -72,8 +71,8 @@ Juniper Networks는 북미를 주요 시장으로 하며, 유럽과 아시아 �
 
 ## 경쟁업체
 
-- **Cisco Systems (미국, [[2.개별종목/CSCO\|CSCO]])**: 네트워킹 장비 및 솔루션 제공.
-- **Arista Networks (미국, [[2.개별종목/ANET\|ANET]])**: 클라우드 네트워킹 솔루션 제공.
+- **Cisco Systems (미국, [[CSCO]])**: 네트워킹 장비 및 솔루션 제공.
+- **Arista Networks (미국, [[ANET]])**: 클라우드 네트워킹 솔루션 제공.
 
 ## 산업 내 글로벌 시장 점유율
 

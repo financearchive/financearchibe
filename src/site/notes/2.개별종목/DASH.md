@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/DASH/","created":"2024-11-09T08:51:39.582+09:00","updated":"2025-06-03T20:05:58.626+09:00"}
+dg-publish: true
 ---
-
 #인터넷및직접마케팅소매 #임의소비재 #배달 
 
 ## 산업섹터
 
-섹터: [[임의소비재\|임의소비재]](Consumer Discretionary)  
-산업: [[인터넷 및 직접 마케팅 소매\|인터넷 및 직접 마케팅 소매]](Internet & Direct Marketing Retail)
+섹터: [[임의소비재]](Consumer Discretionary)  
+산업: [[인터넷 및 직접 마케팅 소매]](Internet & Direct Marketing Retail)
 
 ## 영위사업
 
-DoorDash는 [[온라인 음식 주문 및 배달 플랫폼\|온라인 음식 주문 및 배달 플랫폼]]을 운영하는 기업입니다. 소비자, 상인, 배달원을 연결하는 기술 플랫폼을 제공합니다.
+DoorDash는 [[온라인 음식 주문 및 배달 플랫폼]]을 운영하는 기업입니다. 소비자, 상인, 배달원을 연결하는 기술 플랫폼을 제공합니다.
 
 ## 전방/후방산업
 
@@ -35,7 +34,7 @@ DoorDash는 [[온라인 음식 주문 및 배달 플랫폼\|온라인 음식 주
 
 ## 주요제품
 
-- 음식 [[배달\|배달]] 서비스
+- 음식 [[배달]] 서비스
 - 식료품 배달 서비스
 - 편의점 상품 배달 서비스
 - DoorDash for Work (기업용 식사 제공 서비스)
@@ -47,9 +46,9 @@ DoorDash는 [[온라인 음식 주문 및 배달 플랫폼\|온라인 음식 주
 
 ## 경쟁업체
 
-- Uber Technologies(US, [[2.개별종목/UBER\|UBER]]) (Uber Eats)
-- Just Eat Takeaway.com(네덜란드, [[TKWY.AS\|TKWY.AS]])
-- Delivery Hero(독일, [[DHER.DE\|DHER.DE]])
+- Uber Technologies(US, [[UBER]]) (Uber Eats)
+- Just Eat Takeaway.com(네덜란드, [[TKWY.AS]])
+- Delivery Hero(독일, [[DHER.DE]])
 
 ## 산업 내 글로벌 시장 점유율
 

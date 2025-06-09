@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/AAL/","created":"2024-08-30T21:54:51.941+09:00","updated":"2025-06-03T20:05:57.318+09:00"}
+dg-publish: true
 ---
-
 #산업재 #항공사 #항공 #여객운송 #화물운송
 
 ## 산업섹터
 
-Sector: Industrials ([[산업재\|산업재]])  
-Industry: Airlines ([[항공사\|항공사]])
+Sector: Industrials ([[산업재]])  
+Industry: Airlines ([[항공사]])
 
 ## 회사 개요
 
@@ -15,8 +14,8 @@ American Airlines Group Inc.는 2013년 12월 9일 AMR Corporation(American Airl
 
 ## 영위사업
 
-- [[1.Study/★ 산업/항공,우주,방위 산업/1.항공/INFO-항공/여객 운송\|여객 운송]]
-- [[1.Study/★ 산업/항공,우주,방위 산업/1.항공/INFO-항공/화물 운송\|화물 운송]]
+- [[여객 운송]]
+- [[화물 운송]]
 - 항공기 정비, 수하물 처리, 케이터링, 지상 서비스
 - AAdvantage 마일리지 프로그램 운영
 
@@ -25,14 +24,14 @@ American Airlines Group Inc.는 2013년 12월 9일 AMR Corporation(American Airl
 전방산업:
 
 - 역할: 항공 서비스 이용
-- 여행사: Expedia Group (US, [[2.개별종목/EXPE\|EXPE]])
-- 기업 출장 관리: American Express Global Business Travel (US, [[AMEX\|AMEX]])
+- 여행사: Expedia Group (US, [[EXPE]])
+- 기업 출장 관리: American Express Global Business Travel (US, [[AMEX]])
 
 후방산업:
 
 - 역할: 항공기 및 엔진 공급
-- 항공기 제조: Boeing (US, [[2.개별종목/BA\|BA]])
-- 엔진 제조: GE Aerospace (US, [[2.개별종목/GE\|GE]])
+- 항공기 제조: Boeing (US, [[BA]])
+- 엔진 제조: GE Aerospace (US, [[GE]])
 
 ## 주요제품
 
@@ -53,9 +52,9 @@ American Airlines Group은 전 세계 50개국 350개 목적지에 서비스를 
 
 ## 경쟁업체
 
-- Delta Air Lines (US, [[2.개별종목/DAL\|2.개별종목/DAL]]) - 글로벌 네트워크 항공사
-- Southwest Airlines (US, [[2.개별종목/LUV\|LUV]]) - 저비용 항공사
-- United Airlines Holdings (US, [[2.개별종목/UAL\|UAL]]) - 글로벌 네트워크 항공사
+- Delta Air Lines (US, [[2.개별종목/DAL]]) - 글로벌 네트워크 항공사
+- Southwest Airlines (US, [[LUV]]) - 저비용 항공사
+- United Airlines Holdings (US, [[UAL]]) - 글로벌 네트워크 항공사
 
 ## 산업 내 글로벌 시장 점유율
 

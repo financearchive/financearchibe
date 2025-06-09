@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/ANET/","created":"2024-11-11T09:36:12.713+09:00","updated":"2025-06-03T20:05:57.668+09:00"}
+dg-publish: true
 ---
-
 #클라우드네트워킹 #데이터센터 #소프트웨어정의네트워킹 #EOS #CloudVision #AI네트워킹 #엔터프라이즈네트워킹 #400G #800G #캠퍼스네트워킹 #엣지컴퓨팅 #5G #IoT #네트워크자동화 #네트워크보안 #고성능컴퓨팅 #하이퍼스케일러 #멀티클라우드 #오픈네트워킹 #지속가능성 #네트워크장비 #데이터센터 
 
 ## 산업섹터
 
-섹터: [[정보기술\|정보기술]]
-산업: [[네트워크장비\|네트워크장비]]
+섹터: [[정보기술]]
+산업: [[네트워크장비]]
 
 ## 영위사업
 
-Arista Networks는 [[클라우드 네트워킹 솔루션\|클라우드 네트워킹 솔루션]]을 제공하는 글로벌 기업입니다. 주요 제품으로는 고성능 [[1.Study/★ 산업/통신_데이터센터 산업/2.데이터센터/데이터센터\|데이터센터]] 및 캠퍼스 이더넷 스위치, 소프트웨어 정의 네트워킹(SDN) 솔루션, 네트워크 관리 및 자동화 플랫폼 등이 있습니다.
+Arista Networks는 [[클라우드 네트워킹 솔루션]]을 제공하는 글로벌 기업입니다. 주요 제품으로는 고성능 [[데이터센터]] 및 캠퍼스 이더넷 스위치, 소프트웨어 정의 네트워킹(SDN) 솔루션, 네트워크 관리 및 자동화 플랫폼 등이 있습니다.
 
 회사의 핵심 제품인 Extensible Operating System(EOS)은 모든 Arista 제품에 탑재되어 있으며, 개방형 프로그래밍 인터페이스를 제공하여 고객 맞춤형 네트워크 솔루션 구현을 가능하게 합니다. CloudVision 플랫폼은 네트워크 관리 및 자동화를 위한 종합적인 솔루션을 제공합니다.
 
@@ -29,20 +28,20 @@ Arista Networks는 [[클라우드 네트워킹 솔루션\|클라우드 네트워
 
 전방산업:
 
-- 클라우드 서비스 제공업체: Amazon Web Services(US, [[2.개별종목/AMZN\|AMZN]]), Microsoft Azure(US, [[2.개별종목/MSFT\|MSFT]])
-- 엔터프라이즈 IT: IBM(US, [[2.개별종목/IBM\|IBM]]), Dell Technologies(US, [[2.개별종목/DELL\|DELL]])
-- 통신사업자: AT&T(US, [[2.개별종목/T\|2.개별종목/T]]), Verizon(US, [[2.개별종목/VZ\|VZ]])
+- 클라우드 서비스 제공업체: Amazon Web Services(US, [[AMZN]]), Microsoft Azure(US, [[MSFT]])
+- 엔터프라이즈 IT: IBM(US, [[IBM]]), Dell Technologies(US, [[DELL]])
+- 통신사업자: AT&T(US, [[2.개별종목/T]]), Verizon(US, [[VZ]])
 
 후방산업:
 
-- 반도체 제조: Broadcom(US, [[2.개별종목/AVGO\|AVGO]]), Intel(US, [[2.개별종목/INTC\|INTC]])
-- 전자부품 제조: Flex(US, [[FLEX\|FLEX]]), Jabil(US, [[2.개별종목/JBL\|JBL]])
-- 소프트웨어 개발: Red Hat([[2.개별종목/IBM\|IBM]]), VMware([[2.개별종목/DELL\|DELL]])
+- 반도체 제조: Broadcom(US, [[AVGO]]), Intel(US, [[INTC]])
+- 전자부품 제조: Flex(US, [[FLEX]]), Jabil(US, [[JBL]])
+- 소프트웨어 개발: Red Hat([[IBM]]), VMware([[DELL]])
 
 ## 주요제품
 
-- [[데이터센터 스위치\|데이터센터 스위치]]: 7000 시리즈, 매출의 약 60% (2024년 기준)
-- [[캠퍼스 네트워킹 솔루션\|캠퍼스 네트워킹 솔루션]]: 720XP 시리즈, 매출의 약 15% (2024년 기준)
+- [[데이터센터 스위치]]: 7000 시리즈, 매출의 약 60% (2024년 기준)
+- [[캠퍼스 네트워킹 솔루션]]: 720XP 시리즈, 매출의 약 15% (2024년 기준)
 - 네트워크 소프트웨어: EOS, CloudVision, 매출의 약 20% (2024년 기준)
 - 서비스 및 지원: 전문 서비스, 교육, 매출의 약 5% (2024년 기준)
 
@@ -52,11 +51,11 @@ Arista Networks는 [[클라우드 네트워킹 솔루션\|클라우드 네트워
 
 ## 경쟁업체
 
-- Cisco Systems(US, [[2.개별종목/CSCO\|CSCO]]): 네트워크 장비 및 솔루션
-- Juniper Networks(US, [[2.개별종목/JNPR\|JNPR]]): 엔터프라이즈 및 서비스 프로바이더 네트워킹
-- Huawei Technologies(CN, [[Huawei\|Huawei]]): 종합 ICT 솔루션
-- Extreme Networks(US, [[EXTR\|EXTR]]): 엔터프라이즈 네트워킹 솔루션
-- Nokia(FI, [[NOKIA\|NOKIA]]): 통신 인프라 및 네트워크 솔루션
+- Cisco Systems(US, [[CSCO]]): 네트워크 장비 및 솔루션
+- Juniper Networks(US, [[JNPR]]): 엔터프라이즈 및 서비스 프로바이더 네트워킹
+- Huawei Technologies(CN, [[Huawei]]): 종합 ICT 솔루션
+- Extreme Networks(US, [[EXTR]]): 엔터프라이즈 네트워킹 솔루션
+- Nokia(FI, [[NOKIA]]): 통신 인프라 및 네트워크 솔루션
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -79,8 +78,8 @@ Arista Networks는 2024년 기준 고속(100G 이상) 데이터센터 스위치 
 
 ## 관련 ETF
 
-- First Trust NASDAQ Technology Dividend Index Fund - [[TDIV\|TDIV]]
-- iShares U.S. Networking ETF - [[IGN\|IGN]]
-- Invesco Dynamic Networking ETF - [[PXQ\|PXQ]]
-- First Trust Cloud Computing ETF - [[SKYY\|SKYY]]
-- Global X Cloud Computing ETF - [[CLOU\|CLOU]]
+- First Trust NASDAQ Technology Dividend Index Fund - [[TDIV]]
+- iShares U.S. Networking ETF - [[IGN]]
+- Invesco Dynamic Networking ETF - [[PXQ]]
+- First Trust Cloud Computing ETF - [[SKYY]]
+- Global X Cloud Computing ETF - [[CLOU]]

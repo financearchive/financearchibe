@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/BLOCK/","created":"2024-12-05T22:13:48.250+09:00","updated":"2025-06-03T20:05:57.997+09:00"}
+dg-publish: true
 ---
-
 #비트코인 #암호화폐 
 
 BLOCK (Amplify Transformational Data Sharing ETF):  

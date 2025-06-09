@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/MNST/","created":"2025-02-06T21:25:41.785+09:00","updated":"2025-06-03T20:06:00.153+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #에너지음료 #RTD #카페인음료 #스포츠음료 #브랜드포트폴리오 #글로벌확장 #혁신제품 #유통네트워크 #마케팅전략 #건강음료 #프리미엄화 #DSD #직접배송 #스포츠후원 #카페인프리 #천연원료 #지속가능성 #ESG #디지털마케팅 #소비자트렌드
 
 ## 산업섹터
 
-섹터: [[필수 소비재\|필수 소비재]]
-산업: [[음료제조\|음료제조]]
+섹터: [[필수 소비재]]
+산업: [[음료제조]]
 
 ## 영위사업
 
-Monster Beverage Corporation(NASDAQ: MNST)는 미국의 주요 [[에너지 음료\|에너지 음료]] 제조 및 유통 기업입니다. 회사는 1935년 설립되었으며, 2002년 Hansen's Natural Corporation에서 현재의 이름으로 변경되었습니다. 주요 사업 부문은 다음과 같습니다:
+Monster Beverage Corporation(NASDAQ: MNST)는 미국의 주요 [[에너지 음료]] 제조 및 유통 기업입니다. 회사는 1935년 설립되었으며, 2002년 Hansen's Natural Corporation에서 현재의 이름으로 변경되었습니다. 주요 사업 부문은 다음과 같습니다:
 
 1. Monster Energy Drinks: 주력 에너지 음료 브랜드
 2. Strategic Brands: NOS, Full Throttle 등 인수한 브랜드
@@ -33,15 +32,15 @@ Monster Beverage Corporation(NASDAQ: MNST)는 미국의 주요 [[에너지 음�
 
 전방산업:
 
-- 소매업: Walmart(US, [[2.개별종목/WMT\|WMT]]), 7-Eleven
-- 편의점: Alimentation Couche-Tard(CA, [[ATD\|ATD]])
-- 식품 서비스: McDonald's(US, [[2.개별종목/MCD\|MCD]]), Starbucks(US, [[2.개별종목/SBUX\|SBUX]])
+- 소매업: Walmart(US, [[WMT]]), 7-Eleven
+- 편의점: Alimentation Couche-Tard(CA, [[ATD]])
+- 식품 서비스: McDonald's(US, [[MCD]]), Starbucks(US, [[SBUX]])
 
 후방산업:
 
-- 원재료 공급: Cargill, Archer Daniels Midland(US, [[ADM\|ADM]])
-- 패키징: Ball Corporation(US, [[2.개별종목/BALL\|BALL]]), Crown Holdings(US, [[CCK\|CCK]])
-- 향료 및 첨가물: International Flavors & Fragrances(US, [[IFF\|IFF]])
+- 원재료 공급: Cargill, Archer Daniels Midland(US, [[ADM]])
+- 패키징: Ball Corporation(US, [[BALL]]), Crown Holdings(US, [[CCK]])
+- 향료 및 첨가물: International Flavors & Fragrances(US, [[IFF]])
 
 ## 주요제품
 
@@ -56,10 +55,10 @@ Monster Beverage Corporation(NASDAQ: MNST)는 미국의 주요 [[에너지 음�
 ## 경쟁업체
 
 - Red Bull GmbH(AT): 글로벌 에너지 음료 시장 선두
-- PepsiCo(US, [[2.개별종목/PEP\|PEP]]): Rockstar Energy 브랜드 보유
-- The Coca-Cola Company(US, [[2.개별종목/KO\|KO]]): 다양한 에너지 음료 브랜드 보유
-- Keurig Dr Pepper(US, [[2.개별종목/KDP\|KDP]]): 다양한 음료 포트폴리오 보유
-- Celsius Holdings(US, [[2.개별종목/CELH\|CELH]]): 건강 지향적 에너지 음료 제조
+- PepsiCo(US, [[PEP]]): Rockstar Energy 브랜드 보유
+- The Coca-Cola Company(US, [[KO]]): 다양한 에너지 음료 브랜드 보유
+- Keurig Dr Pepper(US, [[KDP]]): 다양한 음료 포트폴리오 보유
+- Celsius Holdings(US, [[CELH]]): 건강 지향적 에너지 음료 제조
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -82,8 +81,8 @@ Monster Beverage는 2024년 기준 글로벌 에너지 음료 시장에서 약 3
 
 ## 관련 ETF
 
-- Consumer Staples Select Sector SPDR Fund - [[XLP\|XLP]]
-- Vanguard Consumer Staples ETF - [[VDC\|VDC]]
-- iShares U.S. Consumer Goods ETF - [[IYK\|IYK]]
-- Invesco Dynamic Food & Beverage ETF - [[PBJ\|PBJ]]
-- First Trust Nasdaq Food & Beverage ETF - [[FTXG\|FTXG]]
+- Consumer Staples Select Sector SPDR Fund - [[XLP]]
+- Vanguard Consumer Staples ETF - [[VDC]]
+- iShares U.S. Consumer Goods ETF - [[IYK]]
+- Invesco Dynamic Food & Beverage ETF - [[PBJ]]
+- First Trust Nasdaq Food & Beverage ETF - [[FTXG]]

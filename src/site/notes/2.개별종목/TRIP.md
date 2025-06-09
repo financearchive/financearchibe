@@ -1,20 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/TRIP/","created":"2024-10-24T10:50:01.976+09:00","updated":"2025-06-03T20:06:01.732+09:00"}
+dg-publish: true
 ---
-
 #여행서비스 #경기소비재 #여행 #레저 
 
 
 - 최신소식
-	- [[2024-02-12\|2024-02-12]], 회사 매각을 고려하고 있다고 밝힌 후 월요일 장 마감 후 주가가 급등했습니다. 월요일 거래 마감 후 Tripadvisor는 "잠재적 거래를 위해 제출될 수 있는 모든 제안을 평가하기 위해" 독립 이사 위원회를 구성했다고 밝혔습니다. Centerview Partners를 고문으로 고용했습니다.
-	- [[2024-05-08\|2024-05-08]], Tripadvisor는 1분기 실적발표 후 "특별위원회는 현재 회사와 주주들의 최대 이익을 위한 제3자와의 거래가 없다고 결정했습니다."라고 밝혔습니다. 주식은 30% 폭락했습니다.
-	- [[00.투자기록/과거/2024/8월/2024-08-07\|2024-08-07]], Tripadvisor는 2분기 실적 발표에서 월가의 기대치에 못 미치는 2분기 매출을 보고했으며, 이 분기에 "예상되는 매출 감소"에 부딪혔다고 밝혔습니다. 주가는 장외거래에서 11.5% 하락
+	- [[2024-02-12]], 회사 매각을 고려하고 있다고 밝힌 후 월요일 장 마감 후 주가가 급등했습니다. 월요일 거래 마감 후 Tripadvisor는 "잠재적 거래를 위해 제출될 수 있는 모든 제안을 평가하기 위해" 독립 이사 위원회를 구성했다고 밝혔습니다. Centerview Partners를 고문으로 고용했습니다.
+	- [[2024-05-08]], Tripadvisor는 1분기 실적발표 후 "특별위원회는 현재 회사와 주주들의 최대 이익을 위한 제3자와의 거래가 없다고 결정했습니다."라고 밝혔습니다. 주식은 30% 폭락했습니다.
+	- [[2024-08-07]], Tripadvisor는 2분기 실적 발표에서 월가의 기대치에 못 미치는 2분기 매출을 보고했으며, 이 분기에 "예상되는 매출 감소"에 부딪혔다고 밝혔습니다. 주가는 장외거래에서 11.5% 하락
 
 
 #### 산업섹터 및 산업
 
-- **Sector:** [[경기소비재\|경기소비재]] (Consumer Services)
-- **Industry:** [[여행\|여행]] 및 [[레저\|레저]] 서비스 (Travel & Leisure Services)
+- **Sector:** [[경기소비재]] (Consumer Services)
+- **Industry:** [[여행]] 및 [[레저]] 서비스 (Travel & Leisure Services)
 
 #### 영위사업
 
@@ -25,13 +24,13 @@ TripAdvisor는 전 세계 여행자들에게 호텔, 음식점, 관광명소 등
 
 - **전방산업:**
     
-    - **여행사 및 투어 운영업체:** 여행 패키지 및 투어 제공. 예: Expedia Group (미국, [[2.개별종목/EXPE\|EXPE]]), Booking Holdings (미국, [[2.개별종목/BKNG\|BKNG]]).
-    - **호텔 및 숙박업체:** 숙박 서비스 제공. 예: Marriott International (미국, [[2.개별종목/MAR\|MAR]]), Hilton Worldwide (미국, [[2.개별종목/HLT\|HLT]]).
+    - **여행사 및 투어 운영업체:** 여행 패키지 및 투어 제공. 예: Expedia Group (미국, [[EXPE]]), Booking Holdings (미국, [[BKNG]]).
+    - **호텔 및 숙박업체:** 숙박 서비스 제공. 예: Marriott International (미국, [[MAR]]), Hilton Worldwide (미국, [[HLT]]).
       
 - **후방산업:**
     
-    - **IT 및 소프트웨어:** 웹사이트 및 모바일 앱 개발 및 유지보수. 예: Microsoft (미국, [[2.개별종목/MSFT\|MSFT]]), Amazon Web Services (미국, [[2.개별종목/AMZN\|AMZN]]).
-    - **광고 및 마케팅:** 디지털 마케팅 및 광고 서비스 제공. 예: Alphabet Inc. (미국, [[2.개별종목/GOOGL\|GOOGL]]), Meta Platforms Inc. (미국, [[2.개별종목/META\|META]]).
+    - **IT 및 소프트웨어:** 웹사이트 및 모바일 앱 개발 및 유지보수. 예: Microsoft (미국, [[MSFT]]), Amazon Web Services (미국, [[AMZN]]).
+    - **광고 및 마케팅:** 디지털 마케팅 및 광고 서비스 제공. 예: Alphabet Inc. (미국, [[GOOGL]]), Meta Platforms Inc. (미국, [[META]]).
 
 #### 밸류체인
 
@@ -42,13 +41,13 @@ TripAdvisor는 전 세계 여행자들에게 호텔, 음식점, 관광명소 등
       
 - **플랫폼 운영:**
     
-    - TripAdvisor (미국, [[2.개별종목/TRIP\|TRIP]]): 웹사이트 및 모바일 앱 운영.
-    - Expedia Group (미국, [[2.개별종목/EXPE\|EXPE]]): 여행 예약 플랫폼 운영.
+    - TripAdvisor (미국, [[TRIP]]): 웹사이트 및 모바일 앱 운영.
+    - Expedia Group (미국, [[EXPE]]): 여행 예약 플랫폼 운영.
       
 - **광고 및 마케팅:**
     
-    - Alphabet Inc. (미국, [[2.개별종목/GOOGL\|GOOGL]]): 디지털 광고 플랫폼.
-    - Meta Platforms Inc. (미국, [[2.개별종목/META\|META]]): 소셜 미디어 광고 플랫폼.
+    - Alphabet Inc. (미국, [[GOOGL]]): 디지털 광고 플랫폼.
+    - Meta Platforms Inc. (미국, [[META]]): 소셜 미디어 광고 플랫폼.
 
 #### 주요제품
 
@@ -64,10 +63,10 @@ TripAdvisor는 전 세계 여행자들에게 호텔, 음식점, 관광명소 등
 
 #### 경쟁업체
 
-- **Expedia Group (미국, [[2.개별종목/EXPE\|EXPE]]):** 여행 예약 및 리뷰 서비스.
-- **Booking Holdings (미국, [[2.개별종목/BKNG\|BKNG]]):** 호텔 및 여행 예약 서비스.
-- **Yelp Inc. (미국, [[YELP\|YELP]]):** 음식점 리뷰 및 예약 서비스.
- - Trip.com Group([[2.개별종목/TCOM\|TCOM]])
+- **Expedia Group (미국, [[EXPE]]):** 여행 예약 및 리뷰 서비스.
+- **Booking Holdings (미국, [[BKNG]]):** 호텔 및 여행 예약 서비스.
+- **Yelp Inc. (미국, [[YELP]]):** 음식점 리뷰 및 예약 서비스.
+ - Trip.com Group([[TCOM]])
 
 #### 산업 내 글로벌 시장 점유율
 

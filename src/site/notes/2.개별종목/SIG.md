@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/SIG/","created":"2025-01-15T20:48:47.241+09:00","updated":"2025-06-03T20:06:01.214+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #다이아몬드주얼리 #소매유통 #북미시장 #영국시장 #멀티브랜드전략 #온라인판매 #오프라인매장 #중산층타겟 #브랜드포트폴리오 #옴니채널 #커스터마이징 #주얼리구독서비스 #ESG #공급망관리 #임의소비재 #특수소매 #다이아몬드 #패션주얼리
 
 ## 산업섹터
 
-섹터: [[임의소비재\|임의소비재]]
-산업: [[특수소매\|특수소매]]
+섹터: [[임의소비재]]
+산업: [[특수소매]]
 
 ## 영위사업
 
-Signet Jewelers Limited(NYSE: SIG)는 [[세계 최대의 다이아몬드 주얼리 소매업체\|세계 최대의 다이아몬드 주얼리 소매업체]]입니다. 주요 사업 부문은 북미, 국제, 기타로 나뉩니다. 북미 부문에서는 Kay, Zales, Jared, Diamonds Direct, Banter by Piercing Pagoda, Rocksbox 등의 브랜드로 미국과 캐나다에서 오프라인 매장과 온라인 판매를 운영합니다. 
+Signet Jewelers Limited(NYSE: SIG)는 [[세계 최대의 다이아몬드 주얼리 소매업체]]입니다. 주요 사업 부문은 북미, 국제, 기타로 나뉩니다. 북미 부문에서는 Kay, Zales, Jared, Diamonds Direct, Banter by Piercing Pagoda, Rocksbox 등의 브랜드로 미국과 캐나다에서 오프라인 매장과 온라인 판매를 운영합니다. 
 
 국제 부문에서는 영국, 아일랜드, 채널 제도에서 H. Samuel과 Ernest Jones 브랜드로 매장을 운영합니다. 기타 부문은 원석 다이아몬드 구매 및 연마 사업을 포함합니다.최근 1년 내 주요 이슈로는 디지털 전환 가속화, 지속가능성 이니셔티브 강화, 그리고 Blue Nile과 Diamonds Direct 인수를 통한 사업 확장 등이 있습니다. 특히 온라인 판매 강화와 옴니채널 전략 구축에 주력하고 있으며, 고객 경험 개선을 위한 AI 기반 기술 도입도 진행 중입니다.
 
@@ -33,30 +32,30 @@ Signet Jewelers의 핵심 경쟁력은 다음과 같습니다:
 
 전방산업:
 
-- 소비자 소매: Amazon(US, [[2.개별종목/AMZN\|AMZN]]), Walmart(US, [[2.개별종목/WMT\|WMT]])
+- 소비자 소매: Amazon(US, [[AMZN]]), Walmart(US, [[WMT]])
 - 결혼 및 이벤트 산업: David's Bridal, The Knot Worldwide
-- 럭셔리 패션: LVMH(FR, [[MC\|MC]]), Kering(FR, [[KER\|KER]])
+- 럭셔리 패션: LVMH(FR, [[MC]]), Kering(FR, [[KER]])
 
 후방산업:
 
-- 다이아몬드 채굴: De Beers Group([[Anglo American\|Anglo American]]), ALROSA(RU, [[ALRS\|ALRS]])
+- 다이아몬드 채굴: De Beers Group([[Anglo American]]), ALROSA(RU, [[ALRS]])
 - 귀금속 제련: Heraeus Group, Metalor Technologies
 - 보석 가공: Rosy Blue, KGK Group
 
 ## 밸류체인
 
-1. 원석 조달: De Beers Group([[Anglo American\|Anglo American]]), ALROSA(RU, [[ALRS\|ALRS]]) (다이아몬드 원석)
+1. 원석 조달: De Beers Group([[Anglo American]]), ALROSA(RU, [[ALRS]]) (다이아몬드 원석)
 2. 가공 및 연마: Rosy Blue, KGK Group (다이아몬드 및 보석 가공)
-3. 주얼리 디자인 및 제조: Signet Jewelers(US, [[2.개별종목/SIG\|SIG]]) (자체 브랜드 주얼리)
-4. 유통 및 판매: Signet Jewelers(US, [[2.개별종목/SIG\|SIG]]) (다양한 브랜드 매장 및 온라인 판매)
-5. 마케팅 및 브랜딩: Signet Jewelers(US, [[2.개별종목/SIG\|SIG]]) (멀티 브랜드 전략)
-6. 애프터서비스: Signet Jewelers(US, [[2.개별종목/SIG\|SIG]]) (수리, 보증 서비스)
+3. 주얼리 디자인 및 제조: Signet Jewelers(US, [[SIG]]) (자체 브랜드 주얼리)
+4. 유통 및 판매: Signet Jewelers(US, [[SIG]]) (다양한 브랜드 매장 및 온라인 판매)
+5. 마케팅 및 브랜딩: Signet Jewelers(US, [[SIG]]) (멀티 브랜드 전략)
+6. 애프터서비스: Signet Jewelers(US, [[SIG]]) (수리, 보증 서비스)
 
 ## 주요제품
 
-- [[다이아몬드\|다이아몬드]] 주얼리: 결혼 및 약혼 반지, 매출의 약 50% (2024년 기준)
-- [[패션 주얼리\|패션 주얼리]]: 목걸이, 팔찌, 귀걸이 등, 매출의 약 30% (2024년 기준)
-- [[시계\|시계]]: 다양한 브랜드의 시계, 매출의 약 15% (2024년 기준)
+- [[다이아몬드]] 주얼리: 결혼 및 약혼 반지, 매출의 약 50% (2024년 기준)
+- [[패션 주얼리]]: 목걸이, 팔찌, 귀걸이 등, 매출의 약 30% (2024년 기준)
+- [[시계]]: 다양한 브랜드의 시계, 매출의 약 15% (2024년 기준)
 - 기타 액세서리: 선글라스, 향수 등, 매출의 약 5% (2024년 기준)
 
 ## 주요 고객
@@ -69,14 +68,14 @@ Signet Jewelers의 주요 고객은 중산층 소비자들입니다. 다양한 �
 
 ## 경쟁업체
 
-- Tiffany & Co.(US, [[TIF\|TIF]]) - 고급 주얼리
-- Pandora(DK, [[PNDORA\|PNDORA]]) - 패션 주얼리
-- Richemont(CH, [[CFR\|CFR]]) - 럭셔리 주얼리 및 시계
-- Chow Tai Fook(HK, [[1929\|1929]]) - 아시아 중심 주얼리
-- LVMH(FR, [[MC\|MC]]) - 럭셔리 브랜드 포트폴리오
-- Cartier([[Richemont\|Richemont]]) - 고급 주얼리 및 시계
-- Swarovski(AT, [[Swarovski\|Swarovski]]) - 크리스탈 주얼리
-- Blue Nile(US, [[NILE\|NILE]]) - 온라인 다이아몬드 주얼리
+- Tiffany & Co.(US, [[TIF]]) - 고급 주얼리
+- Pandora(DK, [[PNDORA]]) - 패션 주얼리
+- Richemont(CH, [[CFR]]) - 럭셔리 주얼리 및 시계
+- Chow Tai Fook(HK, [[1929]]) - 아시아 중심 주얼리
+- LVMH(FR, [[MC]]) - 럭셔리 브랜드 포트폴리오
+- Cartier([[Richemont]]) - 고급 주얼리 및 시계
+- Swarovski(AT, [[Swarovski]]) - 크리스탈 주얼리
+- Blue Nile(US, [[NILE]]) - 온라인 다이아몬드 주얼리
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -99,8 +98,8 @@ Signet Jewelers는 2024년 기준 글로벌 주얼리 시장에서 약 7%의 점
 
 ## 관련 ETF
 
-- SPDR S&P Retail ETF - [[XRT\|XRT]]
-- VanEck Vectors Retail ETF - [[RTH\|RTH]]
-- Invesco Dynamic Retail ETF - [[PMR\|PMR]]
-- ProShares Online Retail ETF - [[ONLN\|ONLN]]
-- Amplify Online Retail ETF - [[IBUY\|IBUY]]
+- SPDR S&P Retail ETF - [[XRT]]
+- VanEck Vectors Retail ETF - [[RTH]]
+- Invesco Dynamic Retail ETF - [[PMR]]
+- ProShares Online Retail ETF - [[ONLN]]
+- Amplify Online Retail ETF - [[IBUY]]

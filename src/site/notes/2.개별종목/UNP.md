@@ -1,18 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/UNP/","created":"2025-03-05T10:45:39.217+09:00","updated":"2025-06-03T20:06:01.884+09:00"}
+dg-publish: true
 ---
-
 #화물철도 #북미물류 #벌크화물 #인터모달운송 #공급망 #에너지수송 #철도인프라 #디지털화 #자동화운영 #연비향상 #ESG #탄소감축 #정밀운송 #철도안전 #수송효율 #중서부운송 #곡물수송 #자동차수송 #화학수송 #미국제조업
 
 ## 산업섹터
 
-섹터: [[산업재\|산업재]]
+섹터: [[산업재]]
 
-산업: [[철도운송\|철도운송]]
+산업: [[철도운송]]
 
 ## 영위사업
 
-Union Pacific Corp(NYSE: UNP)는 [[미국 최대의 화물 철도 운송 기업\|미국 최대의 화물 철도 운송 기업]] 중 하나로, 약 32,000마일의 [[철도\|철도]] 네트워크를 미국 서부 및 중서부 23개 주에 걸쳐 운영하고 있습니다. 주요 사업 영역은 다음과 같습니다:
+Union Pacific Corp(NYSE: UNP)는 [[미국 최대의 화물 철도 운송 기업]] 중 하나로, 약 32,000마일의 [[철도]] 네트워크를 미국 서부 및 중서부 23개 주에 걸쳐 운영하고 있습니다. 주요 사업 영역은 다음과 같습니다:
 
 1. **벌크화물 운송**: 곡물, 석탄, 비료 등 대량 원자재 수송
     
@@ -42,22 +41,22 @@ Union Pacific Corp(NYSE: UNP)는 [[미국 최대의 화물 철도 운송 기업\
 
 ## 전방산업
 
-- **곡물·농업**: Archer Daniels Midland(US, [[ADM\|ADM]]), Bunge(US, [[BG\|BG]])
+- **곡물·농업**: Archer Daniels Midland(US, [[ADM]]), Bunge(US, [[BG]])
     
-- **에너지·화학**: ExxonMobil(US, [[2.개별종목/XOM\|XOM]]), Dow Inc(US, [[2.개별종목/DOW\|DOW]])
+- **에너지·화학**: ExxonMobil(US, [[XOM]]), Dow Inc(US, [[DOW]])
     
-- **자동차**: General Motors(US, [[2.개별종목/GM\|GM]]), Ford(US, [[2.개별종목/F\|F]])
+- **자동차**: General Motors(US, [[GM]]), Ford(US, [[F]])
     
-- **물류/소매**: Walmart(US, [[2.개별종목/WMT\|WMT]]), Costco(US, [[2.개별종목/COST\|COST]])
+- **물류/소매**: Walmart(US, [[WMT]]), Costco(US, [[COST]])
     
 
 ## 후방산업
 
-- **철도 차량·장비 제조**: Wabtec Corporation(US, [[WAB\|WAB]]), Trinity Industries(US, [[TRN\|TRN]])
+- **철도 차량·장비 제조**: Wabtec Corporation(US, [[WAB]]), Trinity Industries(US, [[TRN]])
     
-- **디지털·IT 솔루션**: IBM(US, [[2.개별종목/IBM\|IBM]]), Cisco(US, [[2.개별종목/CSCO\|CSCO]])
+- **디지털·IT 솔루션**: IBM(US, [[IBM]]), Cisco(US, [[CSCO]])
     
-- **에너지**: Chevron(US, [[2.개별종목/CVX\|CVX]]), ExxonMobil(US, [[2.개별종목/XOM\|XOM]])
+- **에너지**: Chevron(US, [[CVX]]), ExxonMobil(US, [[XOM]])
     
 
 ## 밸류체인
@@ -84,15 +83,15 @@ Union Pacific Corp(NYSE: UNP)는 [[미국 최대의 화물 철도 운송 기업\
 
 ## 주요 고객
 
-1. Archer Daniels Midland(US, [[ADM\|ADM]]) – 곡물/식품
+1. Archer Daniels Midland(US, [[ADM]]) – 곡물/식품
     
-2. ExxonMobil(US, [[2.개별종목/XOM\|XOM]]) – 에너지/원유/화학
+2. ExxonMobil(US, [[XOM]]) – 에너지/원유/화학
     
-3. Dow Inc.(US, [[2.개별종목/DOW\|DOW]]) – 화학제품
+3. Dow Inc.(US, [[DOW]]) – 화학제품
     
-4. General Motors(US, [[2.개별종목/GM\|GM]]) – 자동차/부품
+4. General Motors(US, [[GM]]) – 자동차/부품
     
-5. Walmart(US, [[2.개별종목/WMT\|WMT]]) – 소매/물류
+5. Walmart(US, [[WMT]]) – 소매/물류
     
 6. Cargill, Ford, BASF 등 미국 제조·유통 대기업 다수
     
@@ -105,13 +104,13 @@ Union Pacific Corp(NYSE: UNP)는 [[미국 최대의 화물 철도 운송 기업\
 
 1. BNSF Railway(비상장, Berkshire Hathaway 자회사): 미국 서부 최대 철도사
     
-2. CSX Corporation(US, [[CSX\|CSX]]): 미국 동부 중심 화물 철도
+2. CSX Corporation(US, [[CSX]]): 미국 동부 중심 화물 철도
     
-3. Norfolk Southern(US, [[NSC\|NSC]]): 미국 동남부·중남부 철도
+3. Norfolk Southern(US, [[NSC]]): 미국 동남부·중남부 철도
     
-4. Canadian National Railway(CA, [[2.개별종목/CNI\|CNI]]): 캐나다~미국 연결
+4. Canadian National Railway(CA, [[CNI]]): 캐나다~미국 연결
     
-5. Canadian Pacific Kansas City(CA, [[CP\|CP]]): 북미 대륙 연결
+5. Canadian Pacific Kansas City(CA, [[CP]]): 북미 대륙 연결
     
 
 ## 산업 내 글로벌 시장 점유율
@@ -142,8 +141,8 @@ Union Pacific은 2024년 기준 미국 Class I 철도 시장에서 약 27%의 �
 
 ## 관련 ETF
 
-- iShares U.S. Transportation ETF - [[IYT\|IYT]]
+- iShares U.S. Transportation ETF - [[IYT]]
     
-- SPDR S&P Transportation ETF - [[XTN\|XTN]]
+- SPDR S&P Transportation ETF - [[XTN]]
     
-- First Trust Nasdaq Transportation ETF - [[FTXR\|FTXR]]
+- First Trust Nasdaq Transportation ETF - [[FTXR]]

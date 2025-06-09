@@ -1,35 +1,34 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/META/","created":"2024-08-30T23:42:12.432+09:00","updated":"2025-06-03T20:06:00.079+09:00"}
+dg-publish: true
 ---
-
 #케뮤니케이션서비스 #테크 #VR #AR #XR #메타버스
 
-**산업섹터 (Sector):** [[커뮤니케이션 서비스\|커뮤니케이션 서비스]] (Communication Services)  
+**산업섹터 (Sector):** [[커뮤니케이션 서비스]] (Communication Services)  
 
-**산업 (Industry):** [[인터넷 콘텐츠 및 정보\|인터넷 콘텐츠 및 정보]] (Internet Content & Information)
+**산업 (Industry):** [[인터넷 콘텐츠 및 정보]] (Internet Content & Information)
 
 ### 영위사업
 
-Meta Platforms, Inc.는 전 세계적으로 [[소셜 미디어 플랫폼\|소셜 미디어 플랫폼]]을 운영하는 회사입니다. 주요 플랫폼으로는 Facebook, Instagram, WhatsApp, Messenger 등이 있으며, 가상 현실([[VR\|VR]]) 및 증강 현실([[2.개별종목/AR\|AR]]) 기술을 활용한 [[메타버스\|메타버스]](Metaverse) 프로젝트에도 집중하고 있습니다. 광고, 커머스, 디지털 결제, 콘텐츠 제작 및 배포 등의 다양한 서비스를 제공합니다.
+Meta Platforms, Inc.는 전 세계적으로 [[소셜 미디어 플랫폼]]을 운영하는 회사입니다. 주요 플랫폼으로는 Facebook, Instagram, WhatsApp, Messenger 등이 있으며, 가상 현실([[VR]]) 및 증강 현실([[AR]]) 기술을 활용한 [[메타버스]](Metaverse) 프로젝트에도 집중하고 있습니다. 광고, 커머스, 디지털 결제, 콘텐츠 제작 및 배포 등의 다양한 서비스를 제공합니다.
 
 ### 전방/후방산업
 
 **전방산업:**
 
-- 광고주: Procter & Gamble (US, [[2.개별종목/PG\|PG]]), Coca-Cola (US, [[2.개별종목/KO\|KO]])
-- 콘텐츠 제작자: Netflix (US, [[2.개별종목/NFLX\|2.개별종목/NFLX]]), Disney (US, [[2.개별종목/DIS\|DIS]])
+- 광고주: Procter & Gamble (US, [[PG]]), Coca-Cola (US, [[KO]])
+- 콘텐츠 제작자: Netflix (US, [[2.개별종목/NFLX]]), Disney (US, [[DIS]])
 
 **후방산업:**
 
-- 데이터 센터 운영업체: Equinix (US, [[2.개별종목/EQIX\|EQIX]]), Digital Realty (US, [[2.개별종목/DLR\|DLR]])
-- 반도체 제조업체: Intel (US, [[2.개별종목/INTC\|INTC]]), NVIDIA (US, [[2.개별종목/NVDA\|2.개별종목/NVDA]])
+- 데이터 센터 운영업체: Equinix (US, [[EQIX]]), Digital Realty (US, [[DLR]])
+- 반도체 제조업체: Intel (US, [[INTC]]), NVIDIA (US, [[2.개별종목/NVDA]])
 
 ### 주요제품
 
-- **[[페이스북\|페이스북]]:** 소셜 네트워킹 플랫폼 (매출 비중: 2023년 기준 50%)
-- **[[인스타그램\|인스타그램]]:** 사진 및 동영상 공유 플랫폼 (매출 비중: 2023년 기준 30%)
-- **[[WhatsApp\|WhatsApp]]:** 메시징 애플리케이션 (매출 비중: 2023년 기준 10%)
-- **Oculus([[오큘러스\|오큘러스]]):** 가상 현실 헤드셋 및 관련 제품 (매출 비중: 2023년 기준 10%)
+- **[[페이스북]]:** 소셜 네트워킹 플랫폼 (매출 비중: 2023년 기준 50%)
+- **[[인스타그램]]:** 사진 및 동영상 공유 플랫폼 (매출 비중: 2023년 기준 30%)
+- **[[WhatsApp]]:** 메시징 애플리케이션 (매출 비중: 2023년 기준 10%)
+- **Oculus([[오큘러스]]):** 가상 현실 헤드셋 및 관련 제품 (매출 비중: 2023년 기준 10%)
 
 ### 주요 판매국가
 
@@ -40,9 +39,9 @@ Meta Platforms, Inc.는 전 세계적으로 [[소셜 미디어 플랫폼\|소셜
 
 ### 경쟁업체
 
-- **Alphabet Inc. (US, [[2.개별종목/GOOGL\|2.개별종목/GOOGL]]):** 검색 엔진 및 광고 플랫폼 (시장 점유율 30%)
-- **Twitter, Inc. (US, [[TWTR\|TWTR]]):** 소셜 네트워킹 플랫폼 (시장 점유율 10%)
-- **Snap Inc. (US, [[2.개별종목/SNAP\|SNAP]]):** 사진 및 동영상 공유 플랫폼 (시장 점유율 5%)
+- **Alphabet Inc. (US, [[2.개별종목/GOOGL]]):** 검색 엔진 및 광고 플랫폼 (시장 점유율 30%)
+- **Twitter, Inc. (US, [[TWTR]]):** 소셜 네트워킹 플랫폼 (시장 점유율 10%)
+- **Snap Inc. (US, [[SNAP]]):** 사진 및 동영상 공유 플랫폼 (시장 점유율 5%)
 
 ### 산업 내 글로벌 시장 점유율
 

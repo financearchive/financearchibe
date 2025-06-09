@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/ABG/","created":"2024-12-25T21:20:51.772+09:00","updated":"2025-06-03T20:05:57.352+09:00"}
+dg-publish: true
 ---
-
 #자동차소매 #임의소비재 #자동차 #신차 #중고차 
  
 ## 산업섹터
 
-Sector: [[임의소비재\|임의소비재]](Consumer Discretionary)  
-Industry: [[자동차 소매\|자동차 소매]](Auto & Truck Dealerships)
+Sector: [[임의소비재]](Consumer Discretionary)  
+Industry: [[자동차 소매]](Auto & Truck Dealerships)
 
 ## 영위사업
 
 Asbury Automotive Group, Inc.는 미국의 대형 자동차 소매업체로, 주요 사업 영역은 다음과 같습니다:
 
-1. [[신차\|신차]] 및 [[중고차\|중고차]] 판매
+1. [[신차]] 및 [[중고차]] 판매
 2. 부품 및 서비스 (차량 수리, 유지보수, 부품 판매, 충돌 수리 서비스)
 3. 금융 및 보험 (F&I) 상품 (제3자를 통한 차량 금융 주선, 연장 서비스 계약 등)
 4. Total Care Auto (TCA) 부문 운영 (서비스 계약 및 차량 보호 상품 제공)
@@ -29,14 +28,14 @@ Asbury는 미국 전역에 약 154개의 신차 딜러십을 운영하며, 31개
 
 ## 후방산업
 
-- 자동차 제조업체: 신차 공급 (예: General Motors (US, [[2.개별종목/GM\|GM]]))
+- 자동차 제조업체: 신차 공급 (예: General Motors (US, [[GM]]))
 - 부품 제조업체: 차량 부품 공급
 
 ## 밸류체인
 
 1. 차량 공급: 자동차 제조업체
 2. 부품 공급: 자동차 부품 제조업체
-3. 소매 판매 및 서비스: Asbury Automotive Group (US, [[2.개별종목/ABG\|ABG]])
+3. 소매 판매 및 서비스: Asbury Automotive Group (US, [[ABG]])
 4. 금융 서비스: Asbury의 F&I 부문
 
 ## 주요제품
@@ -53,11 +52,11 @@ Asbury Automotive Group은 주로 미국 시장에서 사업을 영위하고 있
 
 ## 경쟁업체
 
-1. CarMax (US, [[2.개별종목/KMX\|KMX]]) - 중고차 판매
-2. Penske Automotive Group (US, [[2.개별종목/PAG\|PAG]]) - 자동차 소매 및 상업용 트럭 판매
-3. Lithia Motors (US, [[2.개별종목/LAD\|LAD]]) - 자동차 소매
-4. AutoNation (US, [[2.개별종목/AN\|AN]]) - 신차 및 중고차 판매
-5. Group 1 Automotive (US, [[2.개별종목/GPI\|GPI]]) - 자동차 소매
+1. CarMax (US, [[KMX]]) - 중고차 판매
+2. Penske Automotive Group (US, [[PAG]]) - 자동차 소매 및 상업용 트럭 판매
+3. Lithia Motors (US, [[LAD]]) - 자동차 소매
+4. AutoNation (US, [[AN]]) - 신차 및 중고차 판매
+5. Group 1 Automotive (US, [[GPI]]) - 자동차 소매
 
 ## 산업 내 글로벌 시장 점유율
 

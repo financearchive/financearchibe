@@ -1,20 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/CAR/","created":"2025-03-28T11:13:53.507+09:00","updated":"2025-06-03T20:05:58.139+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #차량렌탈 #모빌리티솔루션 #Zipcar #글로벌렌탈 #디지털전환 #전기차 #ESG #고객경험 #AI예약시스템 #자동차공유 #B2B렌탈 #레저여행 #비즈니스여행 #지속가능성 #탄소감축 #플릿관리 #모바일앱 #연료효율성 #운송서비스 #디지털플랫폼 
 
 ## 산업섹터
 
-섹터: [[산업재\|산업재]]
+섹터: [[산업재]]
 
-산업: [[렌탈및리스서비스\|렌탈및리스서비스]]
+산업: [[렌탈및리스서비스]]
 
 ## 영위사업
 
-Avis Budget Group Inc.(NASDAQ: CAR)는 미국 뉴저지주 파시파니에 본사를 둔 글로벌 [[차량 렌탈\|차량 렌탈]] 및 모빌리티 솔루션 제공 기업입니다. 주요 사업 부문은 다음과 같습니다:
+Avis Budget Group Inc.(NASDAQ: CAR)는 미국 뉴저지주 파시파니에 본사를 둔 글로벌 [[차량 렌탈]] 및 모빌리티 솔루션 제공 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
 1. **차량 렌탈**: Avis, Budget, Payless 브랜드를 통해 개인 및 기업 고객에게 차량 렌탈 서비스 제공
     
@@ -44,25 +43,25 @@ Avis Budget Group Inc.(NASDAQ: CAR)는 미국 뉴저지주 파시파니에 본�
 
 ## 전방산업
 
-- **여행 및 관광**: Expedia Group(US, [[2.개별종목/EXPE\|EXPE]]), Booking Holdings(US, [[2.개별종목/BKNG\|BKNG]])
+- **여행 및 관광**: Expedia Group(US, [[EXPE]]), Booking Holdings(US, [[BKNG]])
     
 - **비즈니스 여행**: American Express Global Business Travel(비상장)
     
-- **물류 및 운송**: FedEx(US, [[2.개별종목/FDX\|FDX]]), UPS(US, [[2.개별종목/UPS\|UPS]])
+- **물류 및 운송**: FedEx(US, [[FDX]]), UPS(US, [[UPS]])
     
 
 ## 후방산업
 
-- **자동차 제조사**: General Motors(US, [[2.개별종목/GM\|GM]]), Ford Motor Company(US, [[2.개별종목/F\|F]])
+- **자동차 제조사**: General Motors(US, [[GM]]), Ford Motor Company(US, [[F]])
     
-- **연료 공급사**: Chevron(US, [[2.개별종목/CVX\|CVX]]), ExxonMobil(US, [[2.개별종목/XOM\|XOM]])
+- **연료 공급사**: Chevron(US, [[CVX]]), ExxonMobil(US, [[XOM]])
     
-- **IT 인프라 제공사**: Amazon Web Services(US, [[2.개별종목/AMZN\|AMZN]]), Microsoft Azure(US, [[2.개별종목/MSFT\|MSFT]])
+- **IT 인프라 제공사**: Amazon Web Services(US, [[AMZN]]), Microsoft Azure(US, [[MSFT]])
     
 
 ## 밸류체인
 
-1. **차량 조달**: General Motors(US, [[2.개별종목/GM\|GM]]), Ford Motor Company(US, [[2.개별종목/F\|F]]) (차량 구매 및 리스)
+1. **차량 조달**: General Motors(US, [[GM]]), Ford Motor Company(US, [[F]]) (차량 구매 및 리스)
     
 2. **플릿 관리**: Avis Budget Group(CAR) (플릿 유지보수 및 최적화)
     
@@ -103,9 +102,9 @@ Avis Budget Group Inc.(NASDAQ: CAR)는 미국 뉴저지주 파시파니에 본�
 
 1. Enterprise Holdings (비상장): 미국 최대의 차량 렌탈 기업
     
-2. Hertz Global Holdings (US, [[2.개별종목/HTZ\|HTZ]]): 글로벌 차량 렌탈 기업
+2. Hertz Global Holdings (US, [[HTZ]]): 글로벌 차량 렌탈 기업
     
-3. Sixt SE (DE, [[SIX2\|SIX2]]): 독일 기반의 국제 차량 렌탈 업체
+3. Sixt SE (DE, [[SIX2]]): 독일 기반의 국제 차량 렌탈 업체
     
 4. Europcar Mobility Group (FR): 유럽 중심의 차량 렌탈 서비스 제공 업체 (비상장)
     
@@ -138,8 +137,8 @@ Avis Budget Group는 2024년 기준 글로벌 차량 렌탈 시장에서 약 26%
 
 ## 관련 ETF
 
-- SPDR S&P Transportation ETF - [[XTN\|XTN]]
+- SPDR S&P Transportation ETF - [[XTN]]
     
-- iShares U.S. Transportation ETF - [[IYT\|IYT]]
+- iShares U.S. Transportation ETF - [[IYT]]
     
-- First Trust Nasdaq Transportation ETF - [[FTXR\|FTXR]]
+- First Trust Nasdaq Transportation ETF - [[FTXR]]

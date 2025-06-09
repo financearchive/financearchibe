@@ -1,16 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/GTLB/","created":"2024-12-13T21:49:20.980+09:00","updated":"2025-06-03T20:05:59.338+09:00"}
+dg-publish: true
 ---
-
 #테크 #소프트웨어 #DevSecOps #플랫폼
 
 
-GitLab Inc.는 소프트웨어 개발 수명 주기를 위한 [[1.Study/★ 산업/AI,자율주행 산업/info_ai/DevSecOps\|DevSecOps]] [[플랫폼\|플랫폼]]을 제공하는 기업입니다.
+GitLab Inc.는 소프트웨어 개발 수명 주기를 위한 [[DevSecOps]] [[플랫폼]]을 제공하는 기업입니다.
 
 ## 산업섹터
 
-섹터(Sector): [[테크\|테크]](Technology)  
-산업(Industry): [[소프트웨어\|소프트웨어]] - 인프라(Software - Infrastructure)
+섹터(Sector): [[테크]](Technology)  
+산업(Industry): [[소프트웨어]] - 인프라(Software - Infrastructure)
 
 ## 영위사업
 
@@ -29,20 +28,20 @@ GitLab은 AI 기반 기능을 통해 개발자 생산성을 향상시키고, 기
 
 ## 전방산업
 
-- 소프트웨어 개발: Microsoft (US, [[2.개별종목/MSFT\|MSFT]]), Oracle (US, [[2.개별종목/ORCL\|ORCL]])
-- 클라우드 서비스: Amazon Web Services (US, [[2.개별종목/AMZN\|AMZN]]), Google Cloud (US, [[2.개별종목/GOOGL\|GOOGL]])
+- 소프트웨어 개발: Microsoft (US, [[MSFT]]), Oracle (US, [[ORCL]])
+- 클라우드 서비스: Amazon Web Services (US, [[AMZN]]), Google Cloud (US, [[GOOGL]])
 
 ## 후방산업
 
-- 클라우드 인프라: DigitalOcean (US, [[DOCN\|DOCN]]), Cloudflare (US, [[2.개별종목/NET\|NET]])
-- 개발자 도구: JetBrains (비상장), Atlassian (US, [[2.개별종목/TEAM\|TEAM]])
+- 클라우드 인프라: DigitalOcean (US, [[DOCN]]), Cloudflare (US, [[NET]])
+- 개발자 도구: JetBrains (비상장), Atlassian (US, [[TEAM]])
 
 ## 밸류체인
 
-1. 플랫폼 개발: GitLab (US, [[2.개별종목/GTLB\|GTLB]]) (DevSecOps 플랫폼)
-2. 클라우드 인프라: Google Cloud Platform (US, [[2.개별종목/GOOGL\|GOOGL]]) (GitLab 호스팅)
-3. 보안 및 컴플라이언스: GitLab (US, [[2.개별종목/GTLB\|GTLB]]) (내장된 보안 기능)
-4. 고객 지원 및 교육: GitLab (US, [[2.개별종목/GTLB\|GTLB]]) (전문 서비스 및 교육)
+1. 플랫폼 개발: GitLab (US, [[GTLB]]) (DevSecOps 플랫폼)
+2. 클라우드 인프라: Google Cloud Platform (US, [[GOOGL]]) (GitLab 호스팅)
+3. 보안 및 컴플라이언스: GitLab (US, [[GTLB]]) (내장된 보안 기능)
+4. 고객 지원 및 교육: GitLab (US, [[GTLB]]) (전문 서비스 및 교육)
 
 ## 주요제품
 
@@ -58,9 +57,9 @@ GitLab은 AI 기반 기능을 통해 개발자 생산성을 향상시키고, 기
 
 ## 경쟁업체
 
-1. GitHub (Microsoft 소유) (US, [[2.개별종목/MSFT\|MSFT]]) (코드 호스팅 및 협업)
-2. Atlassian (US, [[2.개별종목/TEAM\|TEAM]]) (소프트웨어 개발 도구)
-3. JFrog (US, [[FROG\|FROG]]) (DevOps 플랫폼)
+1. GitHub (Microsoft 소유) (US, [[MSFT]]) (코드 호스팅 및 협업)
+2. Atlassian (US, [[TEAM]]) (소프트웨어 개발 도구)
+3. JFrog (US, [[FROG]]) (DevOps 플랫폼)
 4. CircleCI (비상장) (CI/CD 플랫폼)
 5. Jenkins (오픈소스) (자동화 서버)
 

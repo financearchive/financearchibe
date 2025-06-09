@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/ED/","created":"2024-10-28T21:22:01.222+09:00","updated":"2025-06-03T20:05:58.867+09:00"}
+dg-publish: true
 ---
-
 #전기 #유틸리티 #천연가스 #에너지 #에너지유통 #전기및가스유틸리티 #전기유통
 
 ## 산업섹터
 
-섹터: [[유틸리티\|유틸리티]](Utilities)  
-산업: [[전기 및 가스 유틸리티\|전기 및 가스 유틸리티]](Electric and Gas Utilities)
+섹터: [[유틸리티]](Utilities)  
+산업: [[전기 및 가스 유틸리티]](Electric and Gas Utilities)
 
 ## 영위사업
 
-Consolidated Edison(Con Edison 또는 ConEd)은 [[전기\|전기]], [[1.Study/★ 산업/에너지 산업/1.화석 에너지/1.정유화학/천연가스\|천연가스]], 증기 유틸리티 서비스를 제공하는 에너지 기업입니다. 주요 사업으로는 전기 및 가스 유통, 증기 서비스, 에너지 관련 제품 및 서비스 제공 등이 있습니다.
+Consolidated Edison(Con Edison 또는 ConEd)은 [[전기]], [[천연가스]], 증기 유틸리티 서비스를 제공하는 에너지 기업입니다. 주요 사업으로는 전기 및 가스 유통, 증기 서비스, 에너지 관련 제품 및 서비스 제공 등이 있습니다.
 
 ## 전방/후방산업
 
@@ -28,7 +27,7 @@ Consolidated Edison(Con Edison 또는 ConEd)은 [[전기\|전기]], [[1.Study/�
 
 ## 주요제품 및 서비스
 
-- [[전기 유통\|전기 유통]]
+- [[전기 유통]]
 - 천연가스 유통
 - 증기 서비스 (맨해튼 지역)
 - 에너지 관리 서비스
@@ -40,10 +39,10 @@ Consolidated Edison(Con Edison 또는 ConEd)은 [[전기\|전기]], [[1.Study/�
 
 ## 경쟁업체
 
-- NextEra Energy(US, [[2.개별종목/NEE\|NEE]])
-- Duke Energy(US, [[2.개별종목/DUK\|DUK]])
-- Southern Company(US, [[2.개별종목/SO\|SO]])
-- PG&E Corporation(US, [[PCG\|PCG]])
+- NextEra Energy(US, [[NEE]])
+- Duke Energy(US, [[DUK]])
+- Southern Company(US, [[SO]])
+- PG&E Corporation(US, [[PCG]])
 
 ## 산업 내 글로벌 시장 점유율
 

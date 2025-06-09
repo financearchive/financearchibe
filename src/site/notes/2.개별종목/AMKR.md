@@ -1,16 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/AMKR/","created":"2024-12-26T21:04:58.847+09:00","updated":"2025-06-03T20:05:57.629+09:00"}
+dg-publish: true
 ---
-
 #반도체 #패키징 #테스트 #아웃소싱 #글로벌기업 #정보기술 #반도체패키징 
 
 ## 산업 섹터
 
-Amkor Technology Inc(AMKR)는 [[정보기술\|정보기술]](Information Technology) 섹터, [[1.Study/★ 산업/반도체 산업/반도체\|반도체]](Semiconductors) 산업에 속합니다.
+Amkor Technology Inc(AMKR)는 [[정보기술]](Information Technology) 섹터, [[반도체]](Semiconductors) 산업에 속합니다.
 
 ## 영위사업
 
-Amkor Technology는 세계 최대의 [[반도체 패키징\|반도체 패키징]] 및 [[테스트\|테스트]] 아웃소싱 서비스 제공업체 중 하나입니다. 주요 사업 부문은 다음과 같습니다:
+Amkor Technology는 세계 최대의 [[반도체 패키징]] 및 [[테스트]] 아웃소싱 서비스 제공업체 중 하나입니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 반도체 패키징: 다양한 패키징 솔루션 제공 (플립칩, 웨이퍼 레벨 패키지 등)
 2. 테스트 서비스: 웨이퍼, 패키지, 시스템 레벨 테스트
@@ -29,27 +28,27 @@ Amkor는 고급 패키징 기술과 글로벌 제조 능력을 바탕으로 종�
 
 1. 후방산업:
     
-    - 반도체 제조: TSMC (TW, [[2.개별종목/TSM\|TSM]]), GlobalFoundries (US, [[2.개별종목/GFS\|GFS]])
-    - 반도체 장비: Applied Materials (US, [[2.개별종목/AMAT\|AMAT]]), ASML (NL, [[2.개별종목/ASML\|ASML]])
+    - 반도체 제조: TSMC (TW, [[TSM]]), GlobalFoundries (US, [[GFS]])
+    - 반도체 장비: Applied Materials (US, [[AMAT]]), ASML (NL, [[ASML]])
     
 2. 전방산업:
     
-    - 스마트폰: Apple (US, [[2.개별종목/AAPL\|AAPL]]), Samsung Electronics (KR, [[005930\|005930]])
-    - 데이터센터: Amazon Web Services (US, [[2.개별종목/AMZN\|AMZN]]), Microsoft Azure (US, [[2.개별종목/MSFT\|MSFT]])
-    - 자동차: Tesla (US, [[2.개별종목/TSLA\|TSLA]]), General Motors (US, [[2.개별종목/GM\|GM]])
+    - 스마트폰: Apple (US, [[AAPL]]), Samsung Electronics (KR, [[005930]])
+    - 데이터센터: Amazon Web Services (US, [[AMZN]]), Microsoft Azure (US, [[MSFT]])
+    - 자동차: Tesla (US, [[TSLA]]), General Motors (US, [[GM]])
     
 
 ## 밸류체인
 
 1. 설계: Amkor Technology (자체 설계 및 고객 설계)
-2. 웨이퍼 제조: TSMC (TW, [[2.개별종목/TSM\|TSM]]), Samsung Electronics (KR, [[005930\|005930]])
+2. 웨이퍼 제조: TSMC (TW, [[TSM]]), Samsung Electronics (KR, [[005930]])
 3. 패키징 및 테스트: Amkor Technology (주요 사업 영역)
-4. 유통: Arrow Electronics (US, [[2.개별종목/ARW\|ARW]]), Avnet (US, [[2.개별종목/AVT\|AVT]])
+4. 유통: Arrow Electronics (US, [[ARW]]), Avnet (US, [[AVT]])
 5. 최종 사용자: 다양한 전자기기 제조업체
 
 ## 주요제품
 
-1. 고급 [[패키징\|패키징]] 솔루션 (플립칩, 웨이퍼 레벨 패키지 등)
+1. 고급 [[패키징]] 솔루션 (플립칩, 웨이퍼 레벨 패키지 등)
 2. 주류 패키징 솔루션 (리드프레임, 와이어본드 등)
 3. 테스트 서비스 (웨이퍼, 패키지, 시스템 레벨)
 
@@ -63,11 +62,11 @@ Amkor는 고급 패키징 기술과 글로벌 제조 능력을 바탕으로 종�
 
 ## 경쟁업체
 
-1. ASE Technology Holding (TW, [[ASX\|ASX]])
-2. JCET Group (CN, [[600584\|600584]])
-3. Powertech Technology (TW, [[6239\|6239]])
+1. ASE Technology Holding (TW, [[ASX]])
+2. JCET Group (CN, [[600584]])
+3. Powertech Technology (TW, [[6239]])
 4. UTAC Holdings (비상장)
-5. ChipMOS Technologies (TW, [[8150\|8150]])
+5. ChipMOS Technologies (TW, [[8150]])
 
 ## 산업 내 글로벌 시장 점유율
 

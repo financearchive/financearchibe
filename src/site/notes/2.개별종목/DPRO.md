@@ -1,21 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/DPRO/","created":"2025-01-02T21:08:53.270+09:00","updated":"2025-06-03T20:05:58.795+09:00"}
+dg-publish: true
 ---
-
 #드론기술 #무인항공시스템 #상업용드론 #정부계약 #항공전자공학 #데이터분석 #실시간영상 #원격조종 #항공안전 #정밀농업 #공공안전 #인프라점검 #환경모니터링 #드론서비스 #혁신기술 #임의소비재 #항공우주방위 #항공우주및방위
 #드론 
 
 ## 섹터
 
-섹터: [[임의소비재\|임의소비재]]
+섹터: [[임의소비재]]
 
 ## 산업
 
-산업: [[1.Study/★ 산업/항공,우주,방위 산업/4.방위산업/항공우주 및 방위산업\|항공우주 및 방위산업]](Aerospace & Defense)
+산업: [[항공우주 및 방위산업]](Aerospace & Defense)
 
 ## 영위사업
 
-Draganfly Inc.는 상업용 [[드론\|드론]] 및 [[무인 항공 시스템\|무인 항공 시스템]](UAS) 솔루션을 설계, 개발, 제조, 판매하는 기업입니다. 주요 사업 영역은 다음과 같습니다:
+Draganfly Inc.는 상업용 [[드론]] 및 [[무인 항공 시스템]](UAS) 솔루션을 설계, 개발, 제조, 판매하는 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
 1. 드론 하드웨어 제조: 다양한 용도의 상업용 드론 제작
 2. 드론 소프트웨어 개발: 비행 제어, 데이터 분석, 영상 처리 등
@@ -55,10 +54,10 @@ Draganfly는 정부 기관, 법 집행 기관, 기업 고객 등을 대상으로
 ## 경쟁업체
 
 1. DJI(비상장): 세계 최대 상업용 드론 제조업체
-2. Parrot SA(FR, [[PARRO\|PARRO]]): 소비자 및 전문가용 드론
-3. AeroVironment(US, [[2.개별종목/AVAV\|AVAV]]): 군사 및 상업용 드론
-4. AgEagle Aerial Systems(US, [[2.개별종목/UAVS\|UAVS]]): 농업용 드론 및 데이터 분석
-5. Red Cat Holdings(US, [[2.개별종목/RCAT\|RCAT]]): 군사 및 상업용 드론 솔루션
+2. Parrot SA(FR, [[PARRO]]): 소비자 및 전문가용 드론
+3. AeroVironment(US, [[AVAV]]): 군사 및 상업용 드론
+4. AgEagle Aerial Systems(US, [[UAVS]]): 농업용 드론 및 데이터 분석
+5. Red Cat Holdings(US, [[RCAT]]): 군사 및 상업용 드론 솔루션
 
 ## 최근 3년 내 주요 이슈
 
@@ -76,8 +75,8 @@ Draganfly는 정부 기관, 법 집행 기관, 기업 고객 등을 대상으로
 
 ## 관련 ETF
 
-1. SPDR S&P Aerospace & Defense ETF - [[XAR\|XAR]]
-2. iShares U.S. Aerospace & Defense ETF - [[ITA\|ITA]]
-3. ARK Autonomous Technology & Robotics ETF - [[ARKQ\|ARKQ]]
-4. First Trust Indxx Innovative Transaction & Process ETF - [[LEGR\|LEGR]]
-5. Invesco Aerospace & Defense ETF - [[1.Study/★ 산업/이차전지, 배터리 산업/INFO_배터리/PPA\|PPA]]
+1. SPDR S&P Aerospace & Defense ETF - [[XAR]]
+2. iShares U.S. Aerospace & Defense ETF - [[ITA]]
+3. ARK Autonomous Technology & Robotics ETF - [[ARKQ]]
+4. First Trust Indxx Innovative Transaction & Process ETF - [[LEGR]]
+5. Invesco Aerospace & Defense ETF - [[PPA]]

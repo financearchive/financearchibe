@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/TOST/","created":"2024-12-13T22:02:44.409+09:00","updated":"2025-06-03T20:06:01.693+09:00"}
+dg-publish: true
 ---
-
 #컴퓨터소프트웨어 #테크 #레스토랑 #플랫폼 #레스토랑플랫폼 #pos #레스토랑관리시스템
 
 ## 산업섹터
 
-Sector: [[테크\|테크]]
-Industry: [[컴퓨터 소프트웨어\|컴퓨터 소프트웨어]](Computer Software)
+Sector: [[테크]]
+Industry: [[컴퓨터 소프트웨어]](Computer Software)
 
 ## 영위사업
 
-Toast, Inc.는 [[레스토랑 업계를 위한 클라우드 기반의 종합 디지털 기술 플랫폼\|레스토랑 업계를 위한 클라우드 기반의 종합 디지털 기술 플랫폼]]([[레스토랑 플랫폼\|레스토랑 플랫폼]])을 제공하는 기업입니다. 주요 사업 영역은 다음과 같습니다:
+Toast, Inc.는 [[레스토랑 업계를 위한 클라우드 기반의 종합 디지털 기술 플랫폼]]([[레스토랑 플랫폼]])을 제공하는 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
 1. 레스토랑 운영 및 POS 시스템: Android 기반의 POS 시스템과 관리 소프트웨어 제공
 2. 디지털 주문 및 배달: 온라인 주문, 배달 추적 시스템 제공
@@ -27,20 +26,20 @@ Toast는 매장 내 식사, 테이크아웃, 배달, 케이터링 등 다양한 
 ## 전방산업
 
 - 레스토랑 및 식음료 업체
-- 식품 배달 서비스: DoorDash (US, [[2.개별종목/DASH\|DASH]]), Uber Eats (US, [[2.개별종목/UBER\|UBER]])
+- 식품 배달 서비스: DoorDash (US, [[DASH]]), Uber Eats (US, [[UBER]])
 
 ## 후방산업
 
-- 클라우드 서비스 제공업체: Amazon Web Services (US, [[2.개별종목/AMZN\|AMZN]]), Google Cloud (US, [[2.개별종목/GOOGL\|GOOGL]])
-- 결제 처리 업체: Stripe (비상장), PayPal (US, [[2.개별종목/PYPL\|PYPL]])
+- 클라우드 서비스 제공업체: Amazon Web Services (US, [[AMZN]]), Google Cloud (US, [[GOOGL]])
+- 결제 처리 업체: Stripe (비상장), PayPal (US, [[PYPL]])
 
 ## 밸류체인
 
-1. 소프트웨어 개발: Toast, Inc. (US, [[2.개별종목/TOST\|TOST]]) (레스토랑 관리 시스템)
-2. 하드웨어 제조: Toast, Inc. (US, [[2.개별종목/TOST\|TOST]]) (POS 단말기, 키오스크)
-3. 클라우드 인프라: Amazon Web Services (US, [[2.개별종목/AMZN\|AMZN]]) (클라우드 호스팅)
-4. 결제 처리: Toast, Inc. (US, [[2.개별종목/TOST\|TOST]]) (통합 결제 솔루션)
-5. 고객 지원: Toast, Inc. (US, [[2.개별종목/TOST\|TOST]]) (기술 지원 및 교육)
+1. 소프트웨어 개발: Toast, Inc. (US, [[TOST]]) (레스토랑 관리 시스템)
+2. 하드웨어 제조: Toast, Inc. (US, [[TOST]]) (POS 단말기, 키오스크)
+3. 클라우드 인프라: Amazon Web Services (US, [[AMZN]]) (클라우드 호스팅)
+4. 결제 처리: Toast, Inc. (US, [[TOST]]) (통합 결제 솔루션)
+5. 고객 지원: Toast, Inc. (US, [[TOST]]) (기술 지원 및 교육)
 
 ## 주요제품
 
@@ -56,15 +55,15 @@ Toast는 주로 미국 시장에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
 
-1. Square (US, [[2.개별종목/SQ\|SQ]]) (결제 및 POS 시스템)
-2. Lightspeed (캐나다, [[LSPD\|LSPD]]) (POS 및 e-커머스 솔루션)
-3. Clover (Fiserv 소유, US, [[FISV\|FISV]]) (POS 및 결제 시스템)
+1. Square (US, [[SQ]]) (결제 및 POS 시스템)
+2. Lightspeed (캐나다, [[LSPD]]) (POS 및 e-커머스 솔루션)
+3. Clover (Fiserv 소유, US, [[FISV]]) (POS 및 결제 시스템)
 4. TouchBistro (비상장) (레스토랑 POS 시스템)
-5. Aloha (NCR 소유, US, [[NCR\|NCR]]) (레스토랑 관리 시스템)
+5. Aloha (NCR 소유, US, [[NCR]]) (레스토랑 관리 시스템)
 
 ## 산업 내 글로벌 시장 점유율
 
-정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Toast는 레스토랑 [[POS\|POS]] 및 [[레스토랑 관리 시스템\|레스토랑 관리 시스템]] 시장에서 주요 플레이어 중 하나로 인식되고 있습니다.
+정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Toast는 레스토랑 [[POS]] 및 [[레스토랑 관리 시스템]] 시장에서 주요 플레이어 중 하나로 인식되고 있습니다.
 
 ## 최근 3년 내 주요 이슈
 

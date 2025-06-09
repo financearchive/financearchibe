@@ -1,32 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/RACE/","created":"2024-11-06T19:44:47.570+09:00","updated":"2025-06-03T20:06:00.865+09:00"}
+dg-publish: true
 ---
-
 #임의소비재 #자동차 #스포츠카 
 
 **산업섹터 (Sector, Industry)**:
 
-- **Sector**: [[임의소비재\|임의소비재]] (Consumer Discretionary)
-- **Industry**: [[1.Study/★ 산업/자동차 산업/자동차\|자동차]] (Automobiles)
+- **Sector**: [[임의소비재]] (Consumer Discretionary)
+- **Industry**: [[자동차]] (Automobiles)
 
-**영위사업**: Ferrari N.V.는 고성능 [[스포츠카\|스포츠카]]를 설계, 제조 및 판매하는 이탈리아의 럭셔리 자동차 제조업체입니다. 이 회사는 주로 Ferrari 브랜드의 스포츠카를 생산하며, [[모터스포츠\|모터스포츠]] 활동에도 적극적으로 참여하고 있습니다
+**영위사업**: Ferrari N.V.는 고성능 [[스포츠카]]를 설계, 제조 및 판매하는 이탈리아의 럭셔리 자동차 제조업체입니다. 이 회사는 주로 Ferrari 브랜드의 스포츠카를 생산하며, [[모터스포츠]] 활동에도 적극적으로 참여하고 있습니다
 
 
 **전방/후방산업**:
 
 - **전방산업**: 자동차 판매업, 모터스포츠
-    - **핵심 기업**: AutoNation (미국, [[2.개별종목/AN\|AN]]), Penske Automotive Group (미국, [[2.개별종목/PAG\|PAG]])
+    - **핵심 기업**: AutoNation (미국, [[AN]]), Penske Automotive Group (미국, [[PAG]])
 - **후방산업**: 자동차 부품 제조업, 전자 부품 제조업
-    - **핵심 기업**: Bosch (독일, [[BOSCH\|BOSCH]]), Brembo (이탈리아, [[BRE\|BRE]])
+    - **핵심 기업**: Bosch (독일, [[BOSCH]]), Brembo (이탈리아, [[BRE]])
 
 **밸류체인**:
 
 - **설계 및 개발**: 고성능 스포츠카의 설계 및 개발
-    - **대표 회사**: Ferrari (이탈리아, [[2.개별종목/RACE\|RACE]]), Lamborghini (이탈리아, [[VOW3\|VOW3]])
+    - **대표 회사**: Ferrari (이탈리아, [[RACE]]), Lamborghini (이탈리아, [[VOW3]])
 - **제조 및 조립**: 스포츠카의 제조 및 조립
-    - **대표 회사**: Ferrari (이탈리아, [[2.개별종목/RACE\|RACE]]), Maserati (이탈리아, [[2.개별종목/STLA\|STLA]])
+    - **대표 회사**: Ferrari (이탈리아, [[RACE]]), Maserati (이탈리아, [[STLA]])
 - **판매 및 마케팅**: 고성능 스포츠카의 판매 및 마케팅
-    - **대표 회사**: Ferrari (이탈리아, [[2.개별종목/RACE\|RACE]]), Porsche (독일, [[PAH3\|PAH3]])
+    - **대표 회사**: Ferrari (이탈리아, [[RACE]]), Porsche (독일, [[PAH3]])
 
 **주요제품**:
 
@@ -42,8 +41,8 @@
 
 **경쟁업체**:
 
-- **Lamborghini (이탈리아, [[VOW3\|VOW3]])**: 고성능 스포츠카 제조
-- **Porsche (독일, [[PAH3\|PAH3]])**: 고성능 스포츠카 및 럭셔리 자동차 제조
+- **Lamborghini (이탈리아, [[VOW3]])**: 고성능 스포츠카 제조
+- **Porsche (독일, [[PAH3]])**: 고성능 스포츠카 및 럭셔리 자동차 제조
 
 **산업 내 글로벌 시장 점유율**:
 

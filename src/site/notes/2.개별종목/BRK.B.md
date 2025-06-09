@@ -1,42 +1,41 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/BRK.B/","created":"2024-11-05T14:47:00.794+09:00","updated":"2025-06-03T20:05:58.059+09:00"}
+dg-publish: true
 ---
-
 #금융 #다각화된금융서비스 #보험 #철도 #에너지 #제조업 #소매업 
 
 #### 산업섹터 및 산업분류
 
-- **Sector:** [[금융\|금융]] (Financials)
-- **Industry:** [[다각화된 금융 서비스\|다각화된 금융 서비스]] (Diversified Financial Services)
+- **Sector:** [[금융]] (Financials)
+- **Industry:** [[다각화된 금융 서비스]] (Diversified Financial Services)
 
 #### 영위사업
 
-버크셔 해서웨이는 다양한 산업에 걸쳐 자회사를 보유하고 있으며, 주요 사업 영역은 [[보험\|보험]], [[철도\|철도]], [[에너지\|에너지]], [[제조업\|제조업]], [[소매업\|소매업]] 등입니다.
+버크셔 해서웨이는 다양한 산업에 걸쳐 자회사를 보유하고 있으며, 주요 사업 영역은 [[보험]], [[철도]], [[에너지]], [[제조업]], [[소매업]] 등입니다.
 
 #### 전방/후방산업
 
 - **전방산업:** 보험, 철도, 에너지, 제조업, 소매업
     
-    - **보험:** 보험 상품을 제공하는 산업. 주요 기업: AIG (미국, [[2.개별종목/AIG\|AIG]]), MetLife (미국, [[MET\|MET]]).
-    - **철도:** 철도 운송 서비스를 제공하는 산업. 주요 기업: Union Pacific (미국, [[2.개별종목/UNP\|UNP]]), CSX Corporation (미국, [[CSX\|CSX]]).
-    - **에너지:** 전력 및 가스 공급을 포함한 에너지 산업. 주요 기업: NextEra Energy (미국, [[2.개별종목/NEE\|NEE]]), Duke Energy (미국, [[2.개별종목/DUK\|DUK]]).
-    - **제조업:** 다양한 제품을 생산하는 산업. 주요 기업: 3M (미국, [[2.개별종목/MMM\|MMM]]), General Electric (미국, [[2.개별종목/GE\|GE]]).
-    - **소매업:** 소비자에게 제품을 판매하는 산업. 주요 기업: Walmart (미국, [[2.개별종목/WMT\|WMT]]), Amazon (미국, [[2.개별종목/AMZN\|AMZN]]).
+    - **보험:** 보험 상품을 제공하는 산업. 주요 기업: AIG (미국, [[AIG]]), MetLife (미국, [[MET]]).
+    - **철도:** 철도 운송 서비스를 제공하는 산업. 주요 기업: Union Pacific (미국, [[UNP]]), CSX Corporation (미국, [[CSX]]).
+    - **에너지:** 전력 및 가스 공급을 포함한 에너지 산업. 주요 기업: NextEra Energy (미국, [[NEE]]), Duke Energy (미국, [[DUK]]).
+    - **제조업:** 다양한 제품을 생산하는 산업. 주요 기업: 3M (미국, [[MMM]]), General Electric (미국, [[GE]]).
+    - **소매업:** 소비자에게 제품을 판매하는 산업. 주요 기업: Walmart (미국, [[WMT]]), Amazon (미국, [[AMZN]]).
 - **후방산업:** 금융 서비스, 투자 관리
     
-    - **금융 서비스:** 금융 상품 및 서비스를 제공하는 산업. 주요 기업: JPMorgan Chase (미국, [[2.개별종목/JPM\|JPM]]), Goldman Sachs (미국, [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/2.태양광/종목/GS\|GS]]).
-    - **투자 관리:** 자산 관리 및 투자 서비스를 제공하는 산업. 주요 기업: BlackRock (미국, [[2.개별종목/BLK\|BLK]]), Vanguard Group.
+    - **금융 서비스:** 금융 상품 및 서비스를 제공하는 산업. 주요 기업: JPMorgan Chase (미국, [[JPM]]), Goldman Sachs (미국, [[GS]]).
+    - **투자 관리:** 자산 관리 및 투자 서비스를 제공하는 산업. 주요 기업: BlackRock (미국, [[BLK]]), Vanguard Group.
 
 #### 밸류체인
 
 - **원자재 공급:** 보험, 철도, 에너지, 제조업에 필요한 원자재 공급
-    - 주요 기업: ExxonMobil (미국, [[2.개별종목/XOM\|XOM]]), Chevron (미국, [[2.개별종목/CVX\|CVX]]).
+    - 주요 기업: ExxonMobil (미국, [[XOM]]), Chevron (미국, [[CVX]]).
 - **제조 및 생산:** 다양한 제품의 제조 및 생산
-    - 주요 기업: 3M (미국, [[2.개별종목/MMM\|MMM]]), General Electric (미국, [[2.개별종목/GE\|GE]]).
+    - 주요 기업: 3M (미국, [[MMM]]), General Electric (미국, [[GE]]).
 - **유통 및 판매:** 제품의 유통 및 판매
-    - 주요 기업: Walmart (미국, [[2.개별종목/WMT\|WMT]]), Amazon (미국, [[2.개별종목/AMZN\|AMZN]]).
+    - 주요 기업: Walmart (미국, [[WMT]]), Amazon (미국, [[AMZN]]).
 - **서비스 제공:** 금융 서비스 및 투자 관리
-    - 주요 기업: JPMorgan Chase (미국, [[2.개별종목/JPM\|JPM]]), Goldman Sachs (미국, [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/2.태양광/종목/GS\|GS]]).
+    - 주요 기업: JPMorgan Chase (미국, [[JPM]]), Goldman Sachs (미국, [[GS]]).
 
 #### 주요제품
 
@@ -54,11 +53,11 @@
 
 #### 경쟁업체
 
-- **보험:** AIG (미국, [[2.개별종목/AIG\|AIG]]), MetLife (미국, [[MET\|MET]]).
-- **철도:** Union Pacific (미국, [[2.개별종목/UNP\|UNP]]), CSX Corporation (미국, [[CSX\|CSX]]).
-- **에너지:** NextEra Energy (미국, [[2.개별종목/NEE\|NEE]]), Duke Energy (미국, [[2.개별종목/DUK\|DUK]]).
-- **제조업:** 3M (미국, [[2.개별종목/MMM\|MMM]]), General Electric (미국, [[2.개별종목/GE\|GE]]).
-- **소매업:** Walmart (미국, [[2.개별종목/WMT\|WMT]]), Amazon (미국, [[2.개별종목/AMZN\|AMZN]]).
+- **보험:** AIG (미국, [[AIG]]), MetLife (미국, [[MET]]).
+- **철도:** Union Pacific (미국, [[UNP]]), CSX Corporation (미국, [[CSX]]).
+- **에너지:** NextEra Energy (미국, [[NEE]]), Duke Energy (미국, [[DUK]]).
+- **제조업:** 3M (미국, [[MMM]]), General Electric (미국, [[GE]]).
+- **소매업:** Walmart (미국, [[WMT]]), Amazon (미국, [[AMZN]]).
 
 #### 산업 내 글로벌 시장 점유율
 

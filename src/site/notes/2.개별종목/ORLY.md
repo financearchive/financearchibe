@@ -1,16 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/ORLY/","created":"2024-12-10T21:24:39.932+09:00","updated":"2025-06-03T20:06:00.570+09:00"}
+dg-publish: true
 ---
-
 #임의소비재 #전문소매 #자동차부품 
 
 
-O'Reilly Automotive, Inc.(ORLY)는 미국의 [[자동차 부품\|자동차 부품]] 및 액세서리 소매업체입니다.
+O'Reilly Automotive, Inc.(ORLY)는 미국의 [[자동차 부품]] 및 액세서리 소매업체입니다.
 
 ## 산업섹터
 
-섹터: [[임의소비재\|임의소비재]](Consumer Discretionary)  
-산업: [[전문 소매\|전문 소매]](Specialty Retail)
+섹터: [[임의소비재]](Consumer Discretionary)  
+산업: [[전문 소매]](Specialty Retail)
 
 ## 영위사업
 
@@ -64,8 +63,8 @@ O'Reilly Automotive은 자동차 교체 부품, 도구, 장비, 소모품 및 �
 
 ## 경쟁업체
 
-- AutoZone(US, [[2.개별종목/AZO\|AZO]])
-- Advance Auto Parts(US, [[2.개별종목/AAP\|AAP]])
+- AutoZone(US, [[AZO]])
+- Advance Auto Parts(US, [[AAP]])
 - NAPA Auto Parts
 
 ## 산업 내 글로벌 시장 점유율

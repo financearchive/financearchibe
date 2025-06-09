@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/OPEN/","created":"2024-08-29T20:54:59.366+09:00","updated":"2025-06-03T20:06:00.540+09:00"}
+dg-publish: true
 ---
-
 #부동산 #부동산서비스 
 
 
-**산업섹터 (Sector):** [[1.Study/★ 산업/부동산/부동산\|부동산]] (Real Estate)  
+**산업섹터 (Sector):** [[부동산]] (Real Estate)  
 
-**산업 (Industry):** [[부동산 서비스\|부동산 서비스]] (Real Estate Services)
+**산업 (Industry):** [[부동산 서비스]] (Real Estate Services)
 
 ### 영위사업
 
@@ -17,21 +16,21 @@ Opendoor Technologies Inc.는 미국에서 주거용 부동산 거래를 위한 
 
 **전방산업:**
 
-- **부동산 중개업체:** Zillow (US, [[2.개별종목/Z\|2.개별종목/Z]]), Redfin (US, [[2.개별종목/RDFN\|RDFN]])
-- **부동산 개발업체:** Lennar Corporation (US, [[2.개별종목/LEN\|LEN]]), D.R. Horton (US, [[2.개별종목/DHI\|DHI]])
+- **부동산 중개업체:** Zillow (US, [[2.개별종목/Z]]), Redfin (US, [[RDFN]])
+- **부동산 개발업체:** Lennar Corporation (US, [[LEN]]), D.R. Horton (US, [[DHI]])
 
 **후방산업:**
 
-- **소프트웨어 공급업체:** Microsoft (US, [[2.개별종목/MSFT\|MSFT]]), Oracle (US, [[2.개별종목/ORCL\|ORCL]])
-- **건설 장비 제조업체:** Caterpillar (US, [[2.개별종목/CAT\|CAT]]), Komatsu (JP, [[6301\|6301]])
+- **소프트웨어 공급업체:** Microsoft (US, [[MSFT]]), Oracle (US, [[ORCL]])
+- **건설 장비 제조업체:** Caterpillar (US, [[CAT]]), Komatsu (JP, [[6301]])
 
 ### 밸류체인
 
 Opendoor의 밸류체인은 주거용 부동산 거래를 위한 디지털 플랫폼 운영을 포함합니다. 주요 밸류체인 단계는 다음과 같습니다:
 
-- **소프트웨어 개발:** Opendoor Technologies (US, [[2.개별종목/OPEN\|OPEN]]) - 부동산 거래 플랫폼 개발
-- **부동산 구매 및 판매:** Opendoor Technologies (US, [[2.개별종목/OPEN\|OPEN]]) - 주택 구매 및 판매
-- **부동산 서비스 제공:** Opendoor Technologies (US, [[2.개별종목/OPEN\|OPEN]]) - 타이틀 보험, 에스크로 서비스 등 제공
+- **소프트웨어 개발:** Opendoor Technologies (US, [[OPEN]]) - 부동산 거래 플랫폼 개발
+- **부동산 구매 및 판매:** Opendoor Technologies (US, [[OPEN]]) - 주택 구매 및 판매
+- **부동산 서비스 제공:** Opendoor Technologies (US, [[OPEN]]) - 타이틀 보험, 에스크로 서비스 등 제공
 
 ### 주요제품
 
@@ -44,9 +43,9 @@ Opendoor의 밸류체인은 주거용 부동산 거래를 위한 디지털 플�
 
 ### 경쟁업체
 
-- **Zillow (US, [[2.개별종목/Z\|2.개별종목/Z]]):** 부동산 중개 및 거래 플랫폼 (시장 점유율 20%)
-- **Redfin (US, [[2.개별종목/RDFN\|RDFN]]):** 부동산 중개 및 거래 플랫폼 (시장 점유율 15%)
-- **Offerpad (US, [[OPAD\|OPAD]]):** 부동산 거래 플랫폼 (시장 점유율 10%)
+- **Zillow (US, [[2.개별종목/Z]]):** 부동산 중개 및 거래 플랫폼 (시장 점유율 20%)
+- **Redfin (US, [[RDFN]]):** 부동산 중개 및 거래 플랫폼 (시장 점유율 15%)
+- **Offerpad (US, [[OPAD]]):** 부동산 거래 플랫폼 (시장 점유율 10%)
 
 ### 산업 내 글로벌 시장 점유율
 

@@ -1,18 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/Keyence/","created":"2023-06-28T12:17:48.503+09:00","updated":"2025-06-03T20:05:59.720+09:00"}
+dg-publish: true
 ---
-
 #로봇 #검사장비 #산업자동화
 
 
 ## 산업섹터
 
-Sector: Industrials ([[산업재\|산업재]])  
-Industry: Electronic Equipment, Instruments & Components ([[전자 장비\|전자 장비]], 기기 및 [[전자 부품\|전자 부품]], [[1.Study/★ 산업/로봇 산업/로봇\|로봇]])
+Sector: Industrials ([[산업재]])  
+Industry: Electronic Equipment, Instruments & Components ([[전자 장비]], 기기 및 [[전자 부품]], [[로봇]])
 
 ## 회사 개요
 
-Keyence Corporation은 1974년에 설립된 일본의 [[산업자동화\|산업자동화]] 및 [[검사장비\|검사장비]] 제조 기업입니다. 본사는 일본 오사카에 위치해 있으며, 센서, 측정 시스템, 레이저 마커, 마이크로스코프, 머신 비전 시스템 등을 개발 및 제조합니다.
+Keyence Corporation은 1974년에 설립된 일본의 [[산업자동화]] 및 [[검사장비]] 제조 기업입니다. 본사는 일본 오사카에 위치해 있으며, 센서, 측정 시스템, 레이저 마커, 마이크로스코프, 머신 비전 시스템 등을 개발 및 제조합니다.
 
 ## 영위사업
 
@@ -54,9 +53,9 @@ Keyence는 전 세계 110개국에서 350,000개 고객사를 보유하고 있�
 
 ## 경쟁업체
 
-- Omron Corporation (JP, [[6645\|6645]])
-- Cognex Corporation (US, [[2.개별종목/CGNX\|CGNX]])
-- Mitsubishi Electric Corporation (JP, [[6503\|6503]])
+- Omron Corporation (JP, [[6645]])
+- Cognex Corporation (US, [[CGNX]])
+- Mitsubishi Electric Corporation (JP, [[6503]])
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -73,5 +72,5 @@ Keyence는 산업 자동화 및 검사 장비 시장에서 선도적인 위치�
 [Keyence Corporation - Official Website](https://www.keyence.com/)
 
 - 기업 기본정보
-	- [[자동화 기기\|자동화 기기]] 시장의 대표 기업으로 각종 [[센서\|센서]]와 [[측정기\|측정기]] 제품에 강점
-	- 로봇에 활용되는 각종 센서와 [[머신 비전\|머신 비전]] 라인업을 보유([[1.Study/★ 산업/로봇 산업/INFO_로봇/로봇 부품\|로봇 부품]])
+	- [[자동화 기기]] 시장의 대표 기업으로 각종 [[센서]]와 [[측정기]] 제품에 강점
+	- 로봇에 활용되는 각종 센서와 [[머신 비전]] 라인업을 보유([[로봇 부품]])

@@ -1,18 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/SESG/","created":"2024-11-18T14:28:34.891+09:00","updated":"2025-06-03T20:06:01.122+09:00"}
+dg-publish: true
 ---
-
 #위성통신 #커뮤니케이션서비스 #인공위성 #우주 #통신위성 
 
 
 ## 산업 섹터
 
-- Sector: Communication Services([[커뮤니케이션 서비스\|커뮤니케이션 서비스]])
-- Industry: Satellite Communication([[위성 통신\|위성 통신]])
+- Sector: Communication Services([[커뮤니케이션 서비스]])
+- Industry: Satellite Communication([[위성 통신]])
 
 ## 영위 사업
 
-SES S.A.는 룩셈부르크에 본사를 둔 세계적인 위성 통신([[1.Study/★ 산업/항공,우주,방위 산업/2.우주/INFO_우주/통신 위성\|통신 위성]]) 회사입니다. 주로 위성을 통한 비디오 및 데이터 전송 서비스를 제공합니다.
+SES S.A.는 룩셈부르크에 본사를 둔 세계적인 위성 통신([[통신 위성]]) 회사입니다. 주로 위성을 통한 비디오 및 데이터 전송 서비스를 제공합니다.
 
 ## 전방/후방 산업
 
@@ -25,19 +24,19 @@ SES S.A.는 룩셈부르크에 본사를 둔 세계적인 위성 통신([[1.Stud
     
     - 핵심 산업: 위성 제조 및 발사
     - 역할: SES의 위성 제조 및 발사 지원
-    - 주요 기업: Boeing (미국, [[2.개별종목/BA\|BA]]), [[2.개별종목/SpaceX\|SpaceX]] (미국, 비상장), [[2.개별종목/RKLB\|RKLB]]
+    - 주요 기업: Boeing (미국, [[BA]]), [[SpaceX]] (미국, 비상장), [[RKLB]]
 
 ## 밸류체인
 
 - 위성 운영:
     
     - SES는 다수의 정지궤도 및 중궤도 위성을 운영합니다.
-    - 대표 기업: Intelsat (미국), Eutelsat (프랑스, [[ETL\|ETL]])
+    - 대표 기업: Intelsat (미국), Eutelsat (프랑스, [[ETL]])
     
 - 위성 통신 서비스:
     
     - 비디오 및 데이터 전송 서비스를 제공합니다.
-    - 대표 기업: Viasat (미국, [[2.개별종목/VSAT\|VSAT]]), Iridium Communications (미국, [[2.개별종목/IRDM\|IRDM]])
+    - 대표 기업: Viasat (미국, [[VSAT]]), Iridium Communications (미국, [[IRDM]])
     
 
 ## 주요 제품
@@ -53,8 +52,8 @@ SES는 전 세계적으로 서비스를 제공하며, 특히 유럽, 북미, 아
 ## 경쟁업체
 
 - Intelsat (미국) - 위성 통신 서비스
-- Eutelsat (프랑스, [[ETL\|ETL]]) - 위성 통신 및 방송 서비스
-- Viasat (미국, [[2.개별종목/VSAT\|VSAT]]) - 위성 브로드밴드 서비스
+- Eutelsat (프랑스, [[ETL]]) - 위성 통신 및 방송 서비스
+- Viasat (미국, [[VSAT]]) - 위성 브로드밴드 서비스
 
 ## 산업 내 글로벌 시장 점유율
 

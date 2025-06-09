@@ -1,23 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/ATO/","created":"2024-12-28T08:18:46.506+09:00","updated":"2025-06-03T20:05:57.776+09:00"}
+dg-publish: true
 ---
-
   
 #천연가스 #유틸리티 #에너지유통 #파이프라인 #인프라투자 #배당성장 #텍사스 #에너지
 
 ## 산업 섹터
 
-[[유틸리티\|유틸리티]]
+[[유틸리티]]
 
 ## 산업
 
-[[규제 가스\|규제 가스]](Utilities - Regulated Gas)
+[[규제 가스]](Utilities - Regulated Gas)
 
 ## 영위사업
 
-Atmos Energy Corporation은 미국 최대의 [[천연가스 전문 유통 기업\|천연가스 전문 유통 기업]]입니다. 주요 사업 영역은 다음과 같습니다:
+Atmos Energy Corporation은 미국 최대의 [[천연가스 전문 유통 기업]]입니다. 주요 사업 영역은 다음과 같습니다:
 
-1. [[천연가스 유통\|천연가스 유통]]: 8개 주에 걸쳐 330만 이상의 고객에게 천연가스 공급
+1. [[천연가스 유통]]: 8개 주에 걸쳐 330만 이상의 고객에게 천연가스 공급
 2. 파이프라인 및 저장: 텍사스 주에서 약 5,700마일의 송유관과 53 Bcf의 저장 용량 운영
 3. 인프라 현대화: 연간 약 20억 달러를 시스템 업그레이드에 투자
 4. 고객 서비스: 주거, 상업, 산업 고객을 위한 천연가스 서비스 제공
@@ -39,18 +38,18 @@ Atmos Energy는 안전성, 고객 서비스, 재무 성과를 중시하며, 지�
 
 1. 후방산업:
     
-    - 천연가스 생산: ExxonMobil(US, [[2.개별종목/XOM\|XOM]])
-    - 파이프라인 장비: Emerson Electric(US, [[2.개별종목/EMR\|EMR]])
+    - 천연가스 생산: ExxonMobil(US, [[XOM]])
+    - 파이프라인 장비: Emerson Electric(US, [[EMR]])
     
 2. 전방산업:
     
-    - 발전: NextEra Energy(US, [[2.개별종목/NEE\|NEE]])
-    - 산업용 가스 소비: Dow Inc.(US, [[2.개별종목/DOW\|DOW]])
+    - 발전: NextEra Energy(US, [[NEE]])
+    - 산업용 가스 소비: Dow Inc.(US, [[DOW]])
     
 
 ## 밸류체인
 
-1. 천연가스 생산: ExxonMobil(US, [[2.개별종목/XOM\|XOM]]) - 천연가스 추출
+1. 천연가스 생산: ExxonMobil(US, [[XOM]]) - 천연가스 추출
 2. 파이프라인 운송: Atmos Energy (주요 사업 영역)
 3. 저장: Atmos Energy (주요 사업 영역)
 4. 유통: Atmos Energy (주요 사업 영역)  
@@ -75,11 +74,11 @@ Atmos Energy는 주로 미국 시장에서 사업을 영위하고 있으며, 특
 
 ## 경쟁업체
 
-1. CenterPoint Energy(US, [[2.개별종목/CNP\|CNP]]) - 천연가스 유통
-2. Sempra Energy(US, [[2.개별종목/SRE\|SRE]]) - 에너지 인프라 및 유틸리티
-3. ONE Gas(US, [[2.개별종목/OGS\|OGS]]) - 천연가스 유통
-4. Southwest Gas Holdings(US, [[2.개별종목/SWX\|SWX]]) - 천연가스 유통
-5. Spire Inc.(US, [[2.개별종목/SR\|SR]]) - 천연가스 유통
+1. CenterPoint Energy(US, [[CNP]]) - 천연가스 유통
+2. Sempra Energy(US, [[SRE]]) - 에너지 인프라 및 유틸리티
+3. ONE Gas(US, [[OGS]]) - 천연가스 유통
+4. Southwest Gas Holdings(US, [[SWX]]) - 천연가스 유통
+5. Spire Inc.(US, [[SR]]) - 천연가스 유통
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -103,6 +102,6 @@ Atmos Energy는 미국 최대의 천연가스 전문 유통기업이지만, 정�
 
 ## 관련 ETF
 
-1. Utilities Select Sector SPDR Fund - [[XLU\|XLU]]
-2. Vanguard Utilities ETF - [[VPU\|VPU]]
-3. iShares U.S. Utilities ETF - [[IDU\|IDU]]
+1. Utilities Select Sector SPDR Fund - [[XLU]]
+2. Vanguard Utilities ETF - [[VPU]]
+3. iShares U.S. Utilities ETF - [[IDU]]

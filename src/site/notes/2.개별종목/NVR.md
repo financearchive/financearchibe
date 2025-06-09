@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/NVR/","created":"2024-10-30T20:54:20.894+09:00","updated":"2025-06-03T20:06:00.455+09:00"}
+dg-publish: true
 ---
-
 #주택건설 #부동산 #임의소비재
 
 ## 산업섹터
 
-섹터: [[임의소비재\|임의소비재]](Consumer Discretionary)  
-산업: [[주택 건설\|주택 건설]](Homebuilding)
+섹터: [[임의소비재]](Consumer Discretionary)  
+산업: [[주택 건설]](Homebuilding)
 
 ## 영위사업
 
-NVR은 미국의 주택 건설([[1.Study/★ 산업/부동산/부동산\|부동산]]) 및 모기지 금융 서비스를 제공하는 기업입니다. 주로 단독 주택과 타운하우스를 건설하고 판매합니다.
+NVR은 미국의 주택 건설([[부동산]]) 및 모기지 금융 서비스를 제공하는 기업입니다. 주로 단독 주택과 타운하우스를 건설하고 판매합니다.
 
 ## 전방/후방산업
 
@@ -46,10 +45,10 @@ NVR은 미국의 주택 건설([[1.Study/★ 산업/부동산/부동산\|부동�
 
 ## 경쟁업체
 
-- D.R. Horton(US, [[2.개별종목/DHI\|DHI]]) (주택 건설)
-- Lennar Corporation(US, [[2.개별종목/LEN\|LEN]]) (주택 건설)
-- PulteGroup(US, [[2.개별종목/PHM\|PHM]]) (주택 건설)
-- KB Home(US, [[2.개별종목/KBH\|KBH]]) (주택 건설)
+- D.R. Horton(US, [[DHI]]) (주택 건설)
+- Lennar Corporation(US, [[LEN]]) (주택 건설)
+- PulteGroup(US, [[PHM]]) (주택 건설)
+- KB Home(US, [[KBH]]) (주택 건설)
 
 ## 산업 내 글로벌 시장 점유율
 

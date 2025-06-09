@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/GPS/","created":"2024-12-06T21:22:11.509+09:00","updated":"2025-06-03T20:05:59.316+09:00"}
+dg-publish: true
 ---
-
 #임의소비재 #의류 
 
 ## 산업섹터
 
-섹터: [[임의소비재\|임의소비재]](Consumer Cyclical)  
-산업: [[의류 소매\|의류 소매]](Apparel Retail)
+섹터: [[임의소비재]](Consumer Cyclical)  
+산업: [[의류 소매]](Apparel Retail)
 
 ## 영위사업
 
@@ -45,11 +44,11 @@
 
 ## 경쟁업체
 
-- H&M(SE, [[HM-B.ST\|HM-B.ST]]): 패스트 패션 의류
-- Inditex(ES, [[ITX.MC\|ITX.MC]]): Zara 등 다양한 패션 브랜드
-- American Eagle Outfitters(US, [[2.개별종목/AEO\|AEO]]): 청년층 대상 의류
-- Uniqlo(JP, [[9983.T\|9983.T]]): 기본 의류 및 캐주얼웨어
-- Abercrombie & Fitch(US, [[2.개별종목/ANF\|ANF]]): 청년층 대상 의류
+- H&M(SE, [[HM-B.ST]]): 패스트 패션 의류
+- Inditex(ES, [[ITX.MC]]): Zara 등 다양한 패션 브랜드
+- American Eagle Outfitters(US, [[AEO]]): 청년층 대상 의류
+- Uniqlo(JP, [[9983.T]]): 기본 의류 및 캐주얼웨어
+- Abercrombie & Fitch(US, [[ANF]]): 청년층 대상 의류
 
 ## 산업 내 글로벌 시장 점유율
 

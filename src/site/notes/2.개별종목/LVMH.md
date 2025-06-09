@@ -1,14 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/LVMH/","created":"2024-09-30T10:57:04.260+09:00","updated":"2025-06-03T20:05:59.967+09:00"}
+dg-publish: true
 ---
-
 #임의소비재 #럭셔리 
 
 
 ## 산업섹터
 
-- Sector: Consumer Cyclical ([[임의소비재\|임의소비재]])
-- Industry: Luxury Goods ([[럭셔리\|럭셔리]] 상품)
+- Sector: Consumer Cyclical ([[임의소비재]])
+- Industry: Luxury Goods ([[럭셔리]] 상품)
 
 ## 영위사업
 
@@ -55,9 +54,9 @@ LVMH는 럭셔리 상품을 전문으로 하는 프랑스 다국적 지주회사
 
 ## 경쟁업체
 
-- Kering SA (FR, [[KER.PA\|KER.PA]]) - 구찌, 생로랑 등 럭셔리 브랜드
-- Compagnie Financière Richemont SA (CH, [[CFR\|CFR]]) - 까르띠에, 몽블랑 등 럭셔리 브랜드
-- The Estée Lauder Companies Inc. (US, [[2.개별종목/EL\|EL]]) - 프리미엄 화장품 및 향수
+- Kering SA (FR, [[KER.PA]]) - 구찌, 생로랑 등 럭셔리 브랜드
+- Compagnie Financière Richemont SA (CH, [[CFR]]) - 까르띠에, 몽블랑 등 럭셔리 브랜드
+- The Estée Lauder Companies Inc. (US, [[EL]]) - 프리미엄 화장품 및 향수
 
 ## 산업 내 글로벌 시장 점유율
 

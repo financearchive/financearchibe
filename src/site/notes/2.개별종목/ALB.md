@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/ALB/","created":"2024-09-09T14:12:11.787+09:00","updated":"2025-06-03T20:05:57.533+09:00"}
+dg-publish: true
 ---
-
 #리튬 #원자재 
 
 ## 산업섹터
 
-- **Sector**: Materials ([[1.Study/★ 산업/원자재 산업/INFO_원자재/원자재\|원자재]])
-- **Industry**: Specialty Chemicals ([[특수 화학\|특수 화학]])
+- **Sector**: Materials ([[원자재]])
+- **Industry**: Specialty Chemicals ([[특수 화학]])
 
 ## 영위사업
 
-Albemarle Corporation은 미국 노스캐롤라이나주 샬럿에 본사를 둔 글로벌 특수 화학 제조 기업입니다. 주로 [[1.Study/★ 산업/원자재 산업/1.비철금속/★ 비철금속 & 귀금속/리튬/리튬\|리튬]], [[브롬\|브롬]], [[촉매제\|촉매제]] 등의 특수 화학 제품을 개발, 제조 및 판매합니다. 회사는 3개의 주요 사업 부문으로 운영됩니다:
+Albemarle Corporation은 미국 노스캐롤라이나주 샬럿에 본사를 둔 글로벌 특수 화학 제조 기업입니다. 주로 [[리튬]], [[브롬]], [[촉매제]] 등의 특수 화학 제품을 개발, 제조 및 판매합니다. 회사는 3개의 주요 사업 부문으로 운영됩니다:
 
 1. 리튬 (2022년 매출의 68.4%)
 2. 브롬 특수제품 (2022년 매출의 19.3%)
@@ -44,14 +43,14 @@ Albemarle은 전 세계적으로 사업을 운영하며, 북미, 남미, 유럽,
 
 ## 경쟁업체
 
-- Sociedad Química y Minera de Chile ([[SQM\|SQM]])
-- [[Livent\|Livent]] Corporation
-- [[2.개별종목/FMC\|FMC]] Corporation
-- [[2.개별종목/Ganfeng Lithium\|Ganfeng Lithium]]
+- Sociedad Química y Minera de Chile ([[SQM]])
+- [[Livent]] Corporation
+- [[FMC]] Corporation
+- [[Ganfeng Lithium]]
 
 ## 산업 내 글로벌 시장 점유율
 
-2020년 기준으로 Albemarle은 [[전기차 배터리용 리튬\|전기차 배터리용 리튬]] 공급 분야에서 세계 최대 기업으로 자리매김했습니다. [Albemarle, SQM, FMC Corporation이 전 세계 리튬 및 리튬 저장 제품의 절반 이상을 생산]하고 있습니다.
+2020년 기준으로 Albemarle은 [[전기차 배터리용 리튬]] 공급 분야에서 세계 최대 기업으로 자리매김했습니다. [Albemarle, SQM, FMC Corporation이 전 세계 리튬 및 리튬 저장 제품의 절반 이상을 생산]하고 있습니다.
 
 ## 최근 3년 내 주요 이슈
 

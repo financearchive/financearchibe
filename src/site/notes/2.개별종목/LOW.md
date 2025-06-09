@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/LOW/","created":"2024-11-20T11:04:19.627+09:00","updated":"2025-06-03T20:05:59.933+09:00"}
+dg-publish: true
 ---
-
 #임의소비재 #주택개조소매 #건축자재 #DIY #주택개조
 
 ## 산업 섹터
 
-- Sector: Consumer Discretionary([[임의소비재\|임의소비재]])
-- Industry: Home Improvement Retail([[주택 개조 소매\|주택 개조 소매]])
+- Sector: Consumer Discretionary([[임의소비재]])
+- Industry: Home Improvement Retail([[주택 개조 소매]])
 
 ## 영위 사업
 
-Lowe's는 [[주택 개조\|주택 개조]] 및 [[건축 자재\|건축 자재]]를 전문으로 하는 미국의 소매업체로, 주로 [[DIY\|DIY]](Do It Yourself) 고객과 전문 계약자에게 다양한 제품과 서비스를 제공합니다. 제품 포트폴리오에는 주방 가전, 건축 자재, 도구 및 하드웨어, 정원 및 야외 용품 등이 포함됩니다.
+Lowe's는 [[주택 개조]] 및 [[건축 자재]]를 전문으로 하는 미국의 소매업체로, 주로 [[DIY]](Do It Yourself) 고객과 전문 계약자에게 다양한 제품과 서비스를 제공합니다. 제품 포트폴리오에는 주방 가전, 건축 자재, 도구 및 하드웨어, 정원 및 야외 용품 등이 포함됩니다.
 
 ## 전방/후방 산업
 
@@ -19,24 +18,24 @@ Lowe's는 [[주택 개조\|주택 개조]] 및 [[건축 자재\|건축 자재]]�
     
     - 핵심 산업: 건설, 리모델링, 소매
     - 역할: 주택 개조 및 건축 자재 공급
-    - 주요 기업: The Home Depot (미국, [[2.개별종목/HD\|HD]]), Menards (미국, 비상장)
+    - 주요 기업: The Home Depot (미국, [[HD]]), Menards (미국, 비상장)
 - 후방 산업:
     
     - 핵심 산업: 제조업, 물류
     - 역할: 제품 생산 및 공급망 관리
-    - 주요 기업: Whirlpool (미국, [[2.개별종목/WHR\|WHR]]), Stanley Black & Decker (미국, [[2.개별종목/SWK\|SWK]])
+    - 주요 기업: Whirlpool (미국, [[WHR]]), Stanley Black & Decker (미국, [[SWK]])
 
 ## 밸류체인
 
 - 제품 조달 및 유통:
     
     - Lowe's는 다양한 공급업체로부터 제품을 조달하여 매장과 온라인에서 판매합니다.
-    - 대표 기업: Home Depot (미국, [[2.개별종목/HD\|HD]]), Ace Hardware (미국, 비상장)
+    - 대표 기업: Home Depot (미국, [[HD]]), Ace Hardware (미국, 비상장)
     
 - 고객 서비스 및 지원:
     
     - 고객을 위한 설치 서비스 및 기술 지원을 제공합니다.
-    - 대표 기업: Best Buy (미국, [[2.개별종목/BBY\|BBY]]), Sears (미국, 비상장)
+    - 대표 기업: Best Buy (미국, [[BBY]]), Sears (미국, 비상장)
     
 
 ## 주요 제품
@@ -52,7 +51,7 @@ Lowe's는 미국을 중심으로 사업을 운영하며, 캐나다와 멕시코�
 
 ## 경쟁업체
 
-- The Home Depot (미국, [[2.개별종목/HD\|HD]]) - 주택 개조 및 건축 자재 소매업체
+- The Home Depot (미국, [[HD]]) - 주택 개조 및 건축 자재 소매업체
 - Menards (미국, 비상장) - 중서부 지역 중심의 하드웨어 체인
 - Ace Hardware (미국, 비상장) - 지역 기반 하드웨어 소매업체
 

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/CRS/","created":"2024-12-13T22:02:44.409+09:00","updated":"2025-06-03T20:05:58.493+09:00"}
+dg-publish: true
 ---
-
 #철강 #테크 #특수합금 #스테인리스강 #항공우주엔진부품 #티타늄합금 #고온초합금
 
 
@@ -9,16 +8,16 @@ Carpenter Technology Corporation은 특수 금속 제조 및 유통 기업입니
 
 ## 산업섹터
 
-섹터(Sector): [[테크\|테크]](Technology)  
-산업(Industry): [[1.Study/★ 산업/원자재 산업/2.철강/철강\|철강]](Steel)
+섹터(Sector): [[테크]](Technology)  
+산업(Industry): [[철강]](Steel)
 
 ## 영위사업
 
 Carpenter Technology는 두 개의 주요 사업 부문을 운영하고 있습니다:
 
-1. [[특수 합금\|특수 합금]] 운영(Specialty Alloys Operations, SAO):
+1. [[특수 합금]] 운영(Specialty Alloys Operations, SAO):
     
-    - 프리미엄 합금 및 [[스테인리스 강\|스테인리스 강]] 제조
+    - 프리미엄 합금 및 [[스테인리스 강]] 제조
     - 주요 제품: 고온 초합금, 고강도강, 스테인리스강, 공구강 등
     - 주요 시설: 미국 펜실베니아, 사우스캐롤라이나, 앨라배마 주
     
@@ -35,29 +34,29 @@ Carpenter Technology는 두 개의 주요 사업 부문을 운영하고 있습�
 
 ## 전방산업
 
-- 항공우주: Boeing (US, [[2.개별종목/BA\|BA]]), Airbus (프랑스, [[AIR.PA\|AIR.PA]])
-- 국방: Lockheed Martin (US, [[2.개별종목/LMT\|LMT]]), Raytheon Technologies (US, [[2.개별종목/RTX\|RTX]])
-- 의료기기: Medtronic (US, [[2.개별종목/MDT\|MDT]]), Stryker (US, [[2.개별종목/SYK\|SYK]])
-- 에너지: ExxonMobil (US, [[2.개별종목/XOM\|XOM]]), Chevron (US, [[2.개별종목/CVX\|CVX]])
+- 항공우주: Boeing (US, [[BA]]), Airbus (프랑스, [[AIR.PA]])
+- 국방: Lockheed Martin (US, [[LMT]]), Raytheon Technologies (US, [[RTX]])
+- 의료기기: Medtronic (US, [[MDT]]), Stryker (US, [[SYK]])
+- 에너지: ExxonMobil (US, [[XOM]]), Chevron (US, [[CVX]])
 
 ## 후방산업
 
-- 원자재 공급: Rio Tinto (영국, [[2.개별종목/RIO\|RIO]]), Vale (브라질, [[2.개별종목/Vale\|VALE]])
-- 장비 제조: Siemens (독일, [[SIE.DE\|SIE.DE]]), ABB (스위스, [[ABBN.SW\|ABBN.SW]])
+- 원자재 공급: Rio Tinto (영국, [[RIO]]), Vale (브라질, [[VALE]])
+- 장비 제조: Siemens (독일, [[SIE.DE]]), ABB (스위스, [[ABBN.SW]])
 
 ## 밸류체인
 
-1. 원자재 조달: Rio Tinto (영국, [[2.개별종목/RIO\|RIO]]) (니켈, 티타늄 등 금속 원료)
-2. 제조: Carpenter Technology (US, [[2.개별종목/CRS\|CRS]]) (특수 합금 제조)
-3. 가공: Carpenter Technology (US, [[2.개별종목/CRS\|CRS]]) (열처리, 기계 가공 등)
-4. 유통: Carpenter Technology (US, [[2.개별종목/CRS\|CRS]]) (글로벌 유통 네트워크)
-5. 최종 사용자: Boeing (US, [[2.개별종목/BA\|BA]]) (항공기 부품), Medtronic (US, [[2.개별종목/MDT\|MDT]]) (의료기기)
+1. 원자재 조달: Rio Tinto (영국, [[RIO]]) (니켈, 티타늄 등 금속 원료)
+2. 제조: Carpenter Technology (US, [[CRS]]) (특수 합금 제조)
+3. 가공: Carpenter Technology (US, [[CRS]]) (열처리, 기계 가공 등)
+4. 유통: Carpenter Technology (US, [[CRS]]) (글로벌 유통 네트워크)
+5. 최종 사용자: Boeing (US, [[BA]]) (항공기 부품), Medtronic (US, [[MDT]]) (의료기기)
 
 ## 주요제품
 
-1. [[고온 초합금\|고온 초합금]] ([[항공우주 엔진 부품\|항공우주 엔진 부품]]용)
+1. [[고온 초합금]] ([[항공우주 엔진 부품]]용)
 2. 스테인리스강 (의료기기, 산업용 장비)
-3. [[티타늄 합금\|티타늄 합금]] (항공우주, 의료 분야)
+3. [[티타늄 합금]] (항공우주, 의료 분야)
 4. 금속 분말 (적층 제조용)
 5. 특수 강철 (공구, 다이 제작용)
 
@@ -67,11 +66,11 @@ Carpenter Technology는 두 개의 주요 사업 부문을 운영하고 있습�
 
 ## 경쟁업체
 
-1. ATI Inc. (US, [[ATI\|ATI]]) (특수 금속 및 합금)
-2. Allegheny Technologies (US, [[ATI\|ATI]]) (특수 재료 및 부품)
-3. Haynes International (US, [[HAYN\|HAYN]]) (고성능 합금)
-4. Nucor Corporation (US, [[2.개별종목/NUE\|NUE]]) (철강 제품)
-5. Steel Dynamics (US, [[2.개별종목/STLD\|STLD]]) (철강 제품 및 재활용)
+1. ATI Inc. (US, [[ATI]]) (특수 금속 및 합금)
+2. Allegheny Technologies (US, [[ATI]]) (특수 재료 및 부품)
+3. Haynes International (US, [[HAYN]]) (고성능 합금)
+4. Nucor Corporation (US, [[NUE]]) (철강 제품)
+5. Steel Dynamics (US, [[STLD]]) (철강 제품 및 재활용)
 
 ## 산업 내 글로벌 시장 점유율
 

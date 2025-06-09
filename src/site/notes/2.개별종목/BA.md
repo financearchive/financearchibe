@@ -1,31 +1,30 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/BA/","created":"2024-08-27T12:13:52.157+09:00","updated":"2025-06-03T20:05:57.862+09:00"}
+dg-publish: true
 ---
-
 #항공 #우주 #방산 #항공기 #보안시스템 #산업재 #항공우주
 
 ## 산업섹터
 
-Sector: Industrials ([[산업재\|산업재]])  
-Industry: Aerospace & Defense ([[1.Study/★ 산업/항공,우주,방위 산업/4.방위산업/항공우주 및 방위산업\|항공우주 및 방위산업]])
+Sector: Industrials ([[산업재]])  
+Industry: Aerospace & Defense ([[항공우주 및 방위산업]])
 
 ## 영위사업
 
-Boeing은 상업용 [[항공기\|항공기]], [[1.Study/★ 산업/항공,우주,방위 산업/4.방위산업/항공우주 및 방위산업\|항공우주 및 방위산업]], [[우주\|우주]] 및 [[보안시스템\|보안시스템]]을 설계, 제조 및 판매하는 글로벌 항공우주 기업입니다. 주요 제품에는 여객기, 화물기, 군용 항공기 및 우주선이 포함됩니다.
+Boeing은 상업용 [[항공기]], [[항공우주 및 방위산업]], [[우주]] 및 [[보안시스템]]을 설계, 제조 및 판매하는 글로벌 항공우주 기업입니다. 주요 제품에는 여객기, 화물기, 군용 항공기 및 우주선이 포함됩니다.
 
 ## 전방/후방산업
 
 전방산업:
 
 - 역할: 항공기 및 방산 시스템 사용
-- 항공사: Delta Air Lines (US, [[2.개별종목/DAL\|2.개별종목/DAL]])
-- 군사 계약자: Lockheed Martin (US, [[2.개별종목/LMT\|LMT]])
+- 항공사: Delta Air Lines (US, [[2.개별종목/DAL]])
+- 군사 계약자: Lockheed Martin (US, [[LMT]])
 
 후방산업:
 
 - 역할: 부품 및 원자재 공급
-- 항공기 부품: Honeywell International (US, [[2.개별종목/HON\|HON]])
-- 금속 공급: Alcoa Corporation (US, [[2.개별종목/AA\|AA]])
+- 항공기 부품: Honeywell International (US, [[HON]])
+- 금속 공급: Alcoa Corporation (US, [[AA]])
 
 ## 주요제품
 
@@ -40,9 +39,9 @@ Boeing은 전 세계적으로 운영되며, 주요 시장은 미국, 유럽, 아
 
 ## 경쟁업체
 
-- Airbus SE (EU, [[2.개별종목/AIR\|AIR]]) - 상업용 항공기 및 방산 시스템
-- Lockheed Martin (US, [[2.개별종목/LMT\|LMT]]) - 군용 항공기 및 방산 시스템
-- Northrop Grumman (US, [[2.개별종목/NOC\|NOC]]) - 방산 및 우주 시스템
+- Airbus SE (EU, [[AIR]]) - 상업용 항공기 및 방산 시스템
+- Lockheed Martin (US, [[LMT]]) - 군용 항공기 및 방산 시스템
+- Northrop Grumman (US, [[NOC]]) - 방산 및 우주 시스템
 
 ## 산업 내 글로벌 시장 점유율
 

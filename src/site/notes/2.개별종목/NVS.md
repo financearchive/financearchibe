@@ -1,14 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/NVS/","created":"2024-12-24T12:03:32.601+09:00","updated":"2025-06-03T20:06:00.462+09:00"}
+dg-publish: true
 ---
-
 답변
 
 #제약 #바이오 #혁신신약 #방사성의약품 #의약품 #헬스케어 
 
 ## 산업 섹터
 
-Novartis AG ADR(NVS)는 [[헬스케어\|헬스케어]] 섹터, [[제약\|제약]](Drug Manufacturers - Major) 산업에 속합니다.
+Novartis AG ADR(NVS)는 [[헬스케어]] 섹터, [[제약]](Drug Manufacturers - Major) 산업에 속합니다.
 
 ## 영위사업
 
@@ -35,31 +34,31 @@ Novartis는 자가면역질환, 항암, 심혈관질환 등 다양한 질병에 
 
 1. 후방산업:
     
-    - 제약 원료 공급: Lonza Group (CH, [[2.개별종목/LONN\|LONN]])
-    - 의약품 제조장비: Sartorius (DE, [[2.개별종목/SRT\|SRT]])
+    - 제약 원료 공급: Lonza Group (CH, [[LONN]])
+    - 의약품 제조장비: Sartorius (DE, [[SRT]])
     
 2. 전방산업:
     
-    - 병원: HCA Healthcare (US, [[2.개별종목/HCA\|HCA]])
-    - 약국 체인: CVS Health (US, [[2.개별종목/CVS\|CVS]])
-    - 의약품 유통: McKesson (US, [[2.개별종목/MCK\|MCK]])
+    - 병원: HCA Healthcare (US, [[HCA]])
+    - 약국 체인: CVS Health (US, [[CVS]])
+    - 의약품 유통: McKesson (US, [[MCK]])
     
 
 ## 밸류체인
 
 1. R&D: Novartis (자체 연구소)
-2. 임상시험: IQVIA (US, [[2.개별종목/IQV\|IQV]])
-3. 제조: Novartis (자체 생산시설), Lonza Group (CH, [[2.개별종목/LONN\|LONN]])
-4. 유통: McKesson (US, [[2.개별종목/MCK\|MCK]]), AmerisourceBergen (US, [[2.개별종목/ABC\|ABC]])
-5. 판매: CVS Health (US, [[2.개별종목/CVS\|CVS]]), Walgreens Boots Alliance (US, [[2.개별종목/WBA\|WBA]])
+2. 임상시험: IQVIA (US, [[IQV]])
+3. 제조: Novartis (자체 생산시설), Lonza Group (CH, [[LONN]])
+4. 유통: McKesson (US, [[MCK]]), AmerisourceBergen (US, [[ABC]])
+5. 판매: CVS Health (US, [[CVS]]), Walgreens Boots Alliance (US, [[WBA]])
 
 ## 주요제품
 
-1. [[코센틱스\|코센틱스]] ([[건선\|건선]], 건선성 관절염 치료제)
-2. [[엔트레스토\|엔트레스토]] ([[심부전\|심부전]] 치료제)
-3. [[케스임타\|케스임타]] (다발성 경화증 치료제)
-4. [[키스칼리\|키스칼리]] ([[유방암\|유방암]] 치료제)
-5. [[루타테라\|루타테라]] (신경내분비종양 치료 방사성의약품)
+1. [[코센틱스]] ([[건선]], 건선성 관절염 치료제)
+2. [[엔트레스토]] ([[심부전]] 치료제)
+3. [[케스임타]] (다발성 경화증 치료제)
+4. [[키스칼리]] ([[유방암]] 치료제)
+5. [[루타테라]] (신경내분비종양 치료 방사성의약품)
 
 ## 주요고객
 
@@ -74,11 +73,11 @@ Novartis는 글로벌 기업으로, 구체적인 국가별 매출 비중은 제�
 
 ## 경쟁업체
 
-1. Pfizer (US, [[2.개별종목/PFE\|PFE]])
-2. Roche (CH, [[2.개별종목/ROG\|ROG]])
-3. Merck & Co (US, [[2.개별종목/MRK\|MRK]])
-4. Johnson & Johnson (US, [[2.개별종목/JNJ\|JNJ]])
-5. AbbVie (US, [[2.개별종목/ABBV\|ABBV]])
+1. Pfizer (US, [[PFE]])
+2. Roche (CH, [[ROG]])
+3. Merck & Co (US, [[MRK]])
+4. Johnson & Johnson (US, [[JNJ]])
+5. AbbVie (US, [[ABBV]])
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -102,6 +101,6 @@ Novartis는 글로벌 기업으로, 구체적인 국가별 매출 비중은 제�
 
 ## 관련 ETF
 
-- iShares Global Healthcare ETF [[IXJ\|IXJ]]
-- VanEck Pharmaceutical ETF [[PPH\|PPH]]
-- SPDR S&P Pharmaceuticals ETF [[XPH\|XPH]]
+- iShares Global Healthcare ETF [[IXJ]]
+- VanEck Pharmaceutical ETF [[PPH]]
+- SPDR S&P Pharmaceuticals ETF [[XPH]]

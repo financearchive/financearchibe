@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/DHR/","created":"2024-11-13T16:55:18.473+09:00","updated":"2025-06-03T20:05:58.710+09:00"}
+dg-publish: true
 ---
-
 #헬스케어 #진단 #진단기기 
 
 ## 산업 섹터
 
-- **Sector(산업섹터)**: Health Care([[헬스케어\|헬스케어]])
-- **Industry(산업)**: Diagnostics([[진단\|진단]])
+- **Sector(산업섹터)**: Health Care([[헬스케어]])
+- **Industry(산업)**: Diagnostics([[진단]])
 
 ## 영위 사업
 
@@ -21,7 +20,7 @@ Danaher Corporation은 의료, 산업 및 상업 제품 및 서비스를 설계,
     - **역할**: 최종 소비자에게 건강 관리 및 진단 솔루션 제공
     - **주요 기업**:
         
-        - Abbott Laboratories (미국, [[2.개별종목/ABT\|ABT]]) - 의료 기기 및 진단 제품 제공
+        - Abbott Laboratories (미국, [[ABT]]) - 의료 기기 및 진단 제품 제공
         - Siemens Healthineers (독일, 비상장) - 의료 기술 및 진단 솔루션 제공
         
     
@@ -31,7 +30,7 @@ Danaher Corporation은 의료, 산업 및 상업 제품 및 서비스를 설계,
     - **역할**: Danaher의 제품에 필요한 원자재 및 연구 지원 제공
     - **주요 기업**:
         
-        - Thermo Fisher Scientific (미국, [[2.개별종목/TMO\|TMO]]) - 과학 장비 및 재료 제공
+        - Thermo Fisher Scientific (미국, [[TMO]]) - 과학 장비 및 재료 제공
         - Merck Group (독일, 비상장) - 생명 과학 및 화학 제품 제공
         
     
@@ -43,7 +42,7 @@ Danaher Corporation은 의료, 산업 및 상업 제품 및 서비스를 설계,
     - Danaher는 다양한 진단 장비와 기술을 개발하여 의료 기관에 제공합니다.
     - 대표 기업:
         
-        - Abbott Laboratories (미국, [[2.개별종목/ABT\|ABT]]) - 진단 기기 및 테스트 시스템 제공
+        - Abbott Laboratories (미국, [[ABT]]) - 진단 기기 및 테스트 시스템 제공
         - Roche Diagnostics (스위스, 비상장) - 진단 솔루션 제공
         
     
@@ -52,12 +51,12 @@ Danaher Corporation은 의료, 산업 및 상업 제품 및 서비스를 설계,
     - 생명 과학 연구를 위한 장비와 서비스를 제공합니다.
     - 대표 기업:
         
-        - Thermo Fisher Scientific (미국, [[2.개별종목/TMO\|TMO]]) - 생명 과학 연구 장비 제공
+        - Thermo Fisher Scientific (미국, [[TMO]]) - 생명 과학 연구 장비 제공
 
 
 ## 주요 제품
 
-- **[[진단 기기\|진단 기기]]**: 다양한 질병을 진단하기 위한 기기로 사용됩니다.
+- **[[진단 기기]]**: 다양한 질병을 진단하기 위한 기기로 사용됩니다.
     
     - 매출 비중: 전체 매출의 약 40% 차지.
     
@@ -72,8 +71,8 @@ Danaher는 미국을 주요 시장으로 하며, 유럽과 아시아 태평양 �
 
 ## 경쟁업체
 
-- **Abbott Laboratories (미국, [[2.개별종목/ABT\|ABT]])**: 의료 기기 및 진단 제품 제공.
-- **Thermo Fisher Scientific (미국, [[2.개별종목/TMO\|TMO]])**: 생명 과학 연구 장비 제공.
+- **Abbott Laboratories (미국, [[ABT]])**: 의료 기기 및 진단 제품 제공.
+- **Thermo Fisher Scientific (미국, [[TMO]])**: 생명 과학 연구 장비 제공.
 
 ## 산업 내 글로벌 시장 점유율
 

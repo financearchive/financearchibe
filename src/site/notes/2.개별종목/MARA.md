@@ -1,39 +1,38 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/MARA/","created":"2024-11-07T09:55:33.219+09:00","updated":"2025-06-03T20:06:00.002+09:00"}
+dg-publish: true
 ---
-
 #금융 #자본시장 #암호화폐 #비트코인
 
 #### 산업섹터 및 산업분류
 
-- **Sector:** [[금융\|금융]] (Financials)
-- **Industry:** [[자본 시장\|자본 시장]] (Capital Markets)
+- **Sector:** [[금융]] (Financials)
+- **Industry:** [[자본 시장]] (Capital Markets)
 
 #### 영위사업
 
-마라톤 디지털 홀딩스는 주로 [[2.개별종목/비트코인\|비트코인]] 채굴에 집중하는 디지털 자산 기술([[암호화폐\|암호화폐]]) 회사입니다. 이 회사는 비트코인 생태계 내에서 디지털 자산을 채굴하고 관리합니다.
+마라톤 디지털 홀딩스는 주로 [[비트코인]] 채굴에 집중하는 디지털 자산 기술([[암호화폐]]) 회사입니다. 이 회사는 비트코인 생태계 내에서 디지털 자산을 채굴하고 관리합니다.
 
 #### 전방/후방산업
 
 - **전방산업:** 디지털 자산 거래소, 금융 서비스
     
-    - **디지털 자산 거래소:** 비트코인 및 기타 암호화폐 거래를 지원. 주요 기업: Coinbase (미국, [[2.개별종목/COIN\|COIN]]), Binance.
-    - **금융 서비스:** 디지털 자산을 활용한 금융 서비스 제공. 주요 기업: Block (미국, [[2.개별종목/SQ\|SQ]]), PayPal (미국, [[2.개별종목/PYPL\|PYPL]]).
+    - **디지털 자산 거래소:** 비트코인 및 기타 암호화폐 거래를 지원. 주요 기업: Coinbase (미국, [[COIN]]), Binance.
+    - **금융 서비스:** 디지털 자산을 활용한 금융 서비스 제공. 주요 기업: Block (미국, [[SQ]]), PayPal (미국, [[PYPL]]).
 - **후방산업:** 반도체 제조, 데이터 센터 운영
     
-    - **반도체 제조:** 비트코인 채굴에 필요한 ASIC 칩 제조. 주요 기업: Taiwan Semiconductor Manufacturing Company (대만, [[2.개별종목/TSM\|TSM]]), [[1.Study/★ 테마/VR,AR,MR/종목/삼성전자\|삼성전자]] (한국, 005930).
-    - **데이터 센터 운영:** 채굴 장비를 운영하는 데이터 센터. 주요 기업: Equinix (미국, [[2.개별종목/EQIX\|EQIX]]), Digital Realty (미국, [[2.개별종목/DLR\|DLR]]).
+    - **반도체 제조:** 비트코인 채굴에 필요한 ASIC 칩 제조. 주요 기업: Taiwan Semiconductor Manufacturing Company (대만, [[TSM]]), [[삼성전자]] (한국, 005930).
+    - **데이터 센터 운영:** 채굴 장비를 운영하는 데이터 센터. 주요 기업: Equinix (미국, [[EQIX]]), Digital Realty (미국, [[DLR]]).
 
 #### 밸류체인
 
 - **하드웨어 제조:** 비트코인 채굴에 필요한 ASIC 칩 제조
-    - 주요 기업: Taiwan Semiconductor Manufacturing Company (대만, [[2.개별종목/TSM\|TSM]]), [[1.Study/★ 테마/VR,AR,MR/종목/삼성전자\|삼성전자]]  (한국, 005930).
+    - 주요 기업: Taiwan Semiconductor Manufacturing Company (대만, [[TSM]]), [[삼성전자]]  (한국, 005930).
 - **데이터 센터 운영:** 채굴 장비를 운영하는 데이터 센터
-    - 주요 기업: Equinix (미국, [[2.개별종목/EQIX\|EQIX]]), Digital Realty (미국, [[2.개별종목/DLR\|DLR]]).
+    - 주요 기업: Equinix (미국, [[EQIX]]), Digital Realty (미국, [[DLR]]).
 - **비트코인 채굴:** 비트코인 채굴 및 관리
-    - 주요 기업: Marathon Digital Holdings (미국, [[2.개별종목/MARA\|MARA]]), Riot Platforms (미국, [[2.개별종목/RIOT\|RIOT]]).
+    - 주요 기업: Marathon Digital Holdings (미국, [[MARA]]), Riot Platforms (미국, [[RIOT]]).
 - **디지털 자산 거래:** 비트코인 및 기타 암호화폐 거래
-    - 주요 기업: Coinbase (미국, [[2.개별종목/COIN\|COIN]]), Binance.
+    - 주요 기업: Coinbase (미국, [[COIN]]), Binance.
 
 #### 주요제품
 
@@ -48,8 +47,8 @@
 
 #### 경쟁업체
 
-- **비트코인 채굴:** Riot Platforms (미국, [[2.개별종목/RIOT\|RIOT]]), Hut 8 Mining (캐나다, [[2.개별종목/HUT\|HUT]]).
-- **디지털 자산 거래:** Coinbase (미국, [[2.개별종목/COIN\|COIN]]), Binance.
+- **비트코인 채굴:** Riot Platforms (미국, [[RIOT]]), Hut 8 Mining (캐나다, [[HUT]]).
+- **디지털 자산 거래:** Coinbase (미국, [[COIN]]), Binance.
 
 #### 산업 내 글로벌 시장 점유율
 

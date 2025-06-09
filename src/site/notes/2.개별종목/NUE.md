@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/NUE/","created":"2024-12-16T17:33:31.659+09:00","updated":"2025-06-03T20:06:00.443+09:00"}
+dg-publish: true
 ---
-
 #소재 #철강
 
 ## 산업섹터
 
-Sector: [[소재\|소재]]
+Sector: [[소재]]
 Industry: 철강(Steel)
 
 ## 영위사업
@@ -35,9 +34,9 @@ Nucor는 미국, 캐나다, 멕시코에 300개 이상의 시설을 운영하고
 
 ## 밸류체인
 
-1. 원자재 조달: Nucor Corporation (US, [[2.개별종목/NUE\|NUE]])
-2. 제강: Nucor Corporation (US, [[2.개별종목/NUE\|NUE]])
-3. 철강 제품 제조: Nucor Corporation (US, [[2.개별종목/NUE\|NUE]])
+1. 원자재 조달: Nucor Corporation (US, [[NUE]])
+2. 제강: Nucor Corporation (US, [[NUE]])
+3. 철강 제품 제조: Nucor Corporation (US, [[NUE]])
 4. 유통: 철강 서비스 센터, 직접 판매
 5. 최종 사용자: 건설업체, 자동차 제조업체, 기타 산업
 
@@ -55,11 +54,11 @@ Nucor는 주로 북미 시장에서 사업을 영위하고 있으며, 미국이 
 
 ## 경쟁업체
 
-1. ArcelorMittal (룩셈부르크, [[2.개별종목/MT\|MT]])
-2. U.S. Steel (US, [[2.개별종목/X\|X]])
-3. Steel Dynamics (US, [[2.개별종목/STLD\|STLD]])
-4. Cleveland-Cliffs (US, [[2.개별종목/CLF\|CLF]])
-5. Commercial Metals Company (US, [[CMC\|CMC]])
+1. ArcelorMittal (룩셈부르크, [[MT]])
+2. U.S. Steel (US, [[X]])
+3. Steel Dynamics (US, [[STLD]])
+4. Cleveland-Cliffs (US, [[CLF]])
+5. Commercial Metals Company (US, [[CMC]])
 
 ## 산업 내 글로벌 시장 점유율
 

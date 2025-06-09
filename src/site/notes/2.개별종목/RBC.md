@@ -1,18 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/RBC/","created":"2025-03-31T17:24:15.392+09:00","updated":"2025-06-03T20:06:00.871+09:00"}
+dg-publish: true
 ---
-
 #리쇼어링 #정밀베어링 #항공우주 #산업기계 #모션제어 #고성능부품 #에너지효율 #전기차 #방위산업 #OEM파트너십 #애프터마켓 #고온환경 #저마찰기술 #기어박스 #항공엔진부품 #철도산업 #풍력발전 #지속가능성 #미국제조업 #고객맞춤형솔루션
 
 ## 산업섹터
 
-섹터: [[산업재\|산업재]]
+섹터: [[산업재]]
 
-산업: [[산업기계및부품\|산업기계및부품]]
+산업: [[산업기계및부품]]
 
 ## 영위사업
 
-RBC Bearings Inc.(NYSE: ROLL)는미국의 우주항공 및 방위산업, 산업재 등에 베어링, 기어링, 모션 제어 및 동력 전달, 기타 부품 등 [[정밀 모션 제어 부품\|정밀 모션 제어 부품]] 및 시스템을 설계, 제조, 판매하는 글로벌 기업입니다. 판매한 제품을 유지 보수하는 사업도 영위한다. 
+RBC Bearings Inc.(NYSE: ROLL)는미국의 우주항공 및 방위산업, 산업재 등에 베어링, 기어링, 모션 제어 및 동력 전달, 기타 부품 등 [[정밀 모션 제어 부품]] 및 시스템을 설계, 제조, 판매하는 글로벌 기업입니다. 판매한 제품을 유지 보수하는 사업도 영위한다. 
 
 1. **항공우주 및 방위**: 항공기, 헬리콥터, 방위 시스템용 베어링 및 부품
     
@@ -65,20 +64,20 @@ FY 2024 기준 사업부별 매출 비중은 산업재 66.7%, 우주항공 및 �
 
 ## 전방산업
 
-- **항공우주 및 방위**: Boeing(US, [[2.개별종목/BA\|BA]]), Lockheed Martin(US, [[2.개별종목/LMT\|LMT]])
+- **항공우주 및 방위**: Boeing(US, [[BA]]), Lockheed Martin(US, [[LMT]])
     
-- **자동차 및 전기차**: Tesla(US, [[2.개별종목/TSLA\|TSLA]]), General Motors(US, [[2.개별종목/GM\|GM]])
+- **자동차 및 전기차**: Tesla(US, [[TSLA]]), General Motors(US, [[GM]])
     
 - **에너지 및 풍력 발전**: Siemens Gamesa(ES), Vestas Wind Systems(DK)
     
 
 ## 후방산업
 
-- **원자재 공급**: ArcelorMittal(LU, [[2.개별종목/MT\|MT]]), Allegheny Technologies(US, [[ATI\|ATI]])
+- **원자재 공급**: ArcelorMittal(LU, [[MT]]), Allegheny Technologies(US, [[ATI]])
     
-- **기계 장비 제조**: Caterpillar(US, [[2.개별종목/CAT\|CAT]]), John Deere(US, [[2.개별종목/DE\|DE]])
+- **기계 장비 제조**: Caterpillar(US, [[CAT]]), John Deere(US, [[DE]])
     
-- **소재 가공**: Carpenter Technology(US, [[2.개별종목/CRS\|CRS]])
+- **소재 가공**: Carpenter Technology(US, [[CRS]])
     
 
 ## 밸류체인
@@ -94,22 +93,22 @@ FY 2024 기준 사업부별 매출 비중은 산업재 66.7%, 우주항공 및 �
 
 ## 주요제품
 
-- **[[정밀 베어링\|정밀 베어링]]**: 항공우주 및 방위 산업용 고성능 베어링 (매출의 약 50%)
+- **[[정밀 베어링]]**: 항공우주 및 방위 산업용 고성능 베어링 (매출의 약 50%)
     
-- **[[산업용 베어링\|산업용 베어링]]**: 철도, 에너지 등 다양한 산업 용도 (매출의 약 30%)
+- **[[산업용 베어링]]**: 철도, 에너지 등 다양한 산업 용도 (매출의 약 30%)
     
-- **[[모션 제어 부품\|모션 제어 부품]]**: 기어박스, 커플링 등 (매출의 약 20%)
+- **[[모션 제어 부품]]**: 기어박스, 커플링 등 (매출의 약 20%)
     
 
 ## 주요 고객
 
-1. 항공기 제조사 (Boeing(US, [[2.개별종목/BA\|BA]]), Airbus(NL))
+1. 항공기 제조사 (Boeing(US, [[BA]]), Airbus(NL))
     
-2. 방위 업체 (Lockheed Martin(US, [[2.개별종목/LMT\|LMT]]), Northrop Grumman(US, [[2.개별종목/NOC\|NOC]]))
+2. 방위 업체 (Lockheed Martin(US, [[LMT]]), Northrop Grumman(US, [[NOC]]))
     
 3. 철도 및 에너지 기업 (Siemens Gamesa(ES), Vestas Wind Systems(DK))
     
-4. 자동차 제조사 (Tesla(US, [[2.개별종목/TSLA\|TSLA]]), General Motors(US, [[2.개별종목/GM\|GM]]))
+4. 자동차 제조사 (Tesla(US, [[TSLA]]), General Motors(US, [[GM]]))
     
 
 ## 주요 판매국가
@@ -120,7 +119,7 @@ FY 2024 기준 사업부별 매출 비중은 산업재 66.7%, 우주항공 및 �
 
 1. SKF(SE): 세계 최대의 베어링 제조사 중 하나
     
-2. Timken Company(US, [[TKR\|TKR]]): 정밀 베어링 및 전동 부품 전문 기업
+2. Timken Company(US, [[TKR]]): 정밀 베어링 및 전동 부품 전문 기업
     
 3. Schaeffler Group(DE): 자동차 및 산업용 모션 솔루션 제공 업체
     
@@ -155,11 +154,11 @@ RBC Bearings는 정밀 모션 제어 부품 시장에서 약 12%의 점유율을
 
 ## 관련 ETF
 
-- Industrial Select Sector SPDR Fund - [[XLI\|XLI]]
+- Industrial Select Sector SPDR Fund - [[XLI]]
     
-- iShares U.S. Industrials ETF - [[IYJ\|IYJ]]
+- iShares U.S. Industrials ETF - [[IYJ]]
     
-- Vanguard Industrials ETF - [[VIS\|VIS]]
+- Vanguard Industrials ETF - [[VIS]]
 
 
 

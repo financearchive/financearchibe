@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/NESN/","created":"2024-12-07T12:36:25.370+09:00","updated":"2025-06-03T20:06:00.340+09:00"}
+dg-publish: true
 ---
-
 #반려동물식품 #반려동물 
 
-Nestlé Purina PetCare는 세계적인 [[반려동물 식품\|반려동물 식품]] 및 관련 제품의 선두 제조업체입니다.
+Nestlé Purina PetCare는 세계적인 [[반려동물 식품]] 및 관련 제품의 선두 제조업체입니다.
 
 ## 회사 개요
 

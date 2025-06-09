@@ -1,30 +1,29 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/SBUX/","created":"2024-09-12T09:21:21.276+09:00","updated":"2025-06-03T20:06:01.105+09:00"}
+dg-publish: true
 ---
-
 #커피 #카페 #소비재 #레스토랑 #커피숍 #임의소비재
 
 #### 산업섹터 및 산업
 
-- **Sector**: [[임의소비재\|임의소비재]] (Consumer Cyclical)
-- **Industry**: [[레스토랑\|레스토랑]] (Restaurants)
+- **Sector**: [[임의소비재]] (Consumer Cyclical)
+- **Industry**: [[레스토랑]] (Restaurants)
 
 #### 영위사업
 
-Starbucks는 전 세계적으로 [[1.Study/★ 산업/원자재 산업/3.농산물/INFO_식량,가축 등/커피\|커피]]를 로스팅, 마케팅 및 판매하는 회사입니다. 주요 사업으로는 커피 및 차 음료, 로스팅된 원두 및 분쇄 커피, 싱글 서브 제품, 즉석 음료, 다양한 식품 제품(페이스트리, 아침 샌드위치, 점심 메뉴 등)을 제공합니다. 또한, 라이선스 매장 및 식료품점, 푸드 서비스 계정을 통해 상표를 라이선스합니다
+Starbucks는 전 세계적으로 [[커피]]를 로스팅, 마케팅 및 판매하는 회사입니다. 주요 사업으로는 커피 및 차 음료, 로스팅된 원두 및 분쇄 커피, 싱글 서브 제품, 즉석 음료, 다양한 식품 제품(페이스트리, 아침 샌드위치, 점심 메뉴 등)을 제공합니다. 또한, 라이선스 매장 및 식료품점, 푸드 서비스 계정을 통해 상표를 라이선스합니다
 
 #### 전방/후방산업
 
 - **전방산업**:
-    - **소매업**: 커피 및 관련 제품 판매 (예: Walmart (US, [[2.개별종목/WMT\|WMT]]), Target (US, [[2.개별종목/TGT\|TGT]]))
-    - **식음료 서비스**: 레스토랑 및 카페 운영 (예: McDonald’s (US, [[2.개별종목/MCD\|MCD]]), Dunkin’ (US, [[DNKN\|DNKN]]))
+    - **소매업**: 커피 및 관련 제품 판매 (예: Walmart (US, [[WMT]]), Target (US, [[TGT]]))
+    - **식음료 서비스**: 레스토랑 및 카페 운영 (예: McDonald’s (US, [[MCD]]), Dunkin’ (US, [[DNKN]]))
 - **후방산업**:
-    - **농업**: 커피 원두 공급 (예: Olam International (SG, [[O32\|O32]]))
-    - **포장재 제조**: 커피 포장재 공급 (예: International Paper (US, [[2.개별종목/IP\|IP]]))
+    - **농업**: 커피 원두 공급 (예: Olam International (SG, [[O32]]))
+    - **포장재 제조**: 커피 포장재 공급 (예: International Paper (US, [[IP]]))
 
 #### 밸류체인
 
-- **원료 공급**: 커피 원두 및 기타 원료 공급 (예: Olam International (SG, [[O32\|O32]]))
+- **원료 공급**: 커피 원두 및 기타 원료 공급 (예: Olam International (SG, [[O32]]))
 - **제품 제조**: 커피 로스팅 및 음료 제조 (Starbucks)
 - **유통 및 물류**: 글로벌 물류 및 유통 네트워크 운영 (Starbucks)
 - **소매 및 서비스**: 매장 운영 및 고객 서비스 제공 (Starbucks)
@@ -46,9 +45,9 @@ Starbucks는 전 세계적으로 [[1.Study/★ 산업/원자재 산업/3.농산�
 
 #### 경쟁업체
 
-- **McDonald’s (US, [[2.개별종목/MCD\|MCD]])**: 패스트푸드 및 커피 판매
-- **Dunkin’ (US, [[DNKN\|DNKN]])**: 커피 및 도넛 판매
-- **Chipotle Mexican Grill (US, [[CMG\|CMG]])**: 패스트 캐주얼 레스토랑
+- **McDonald’s (US, [[MCD]])**: 패스트푸드 및 커피 판매
+- **Dunkin’ (US, [[DNKN]])**: 커피 및 도넛 판매
+- **Chipotle Mexican Grill (US, [[CMG]])**: 패스트 캐주얼 레스토랑
 
 #### 산업 내 글로벌 시장 점유율
 

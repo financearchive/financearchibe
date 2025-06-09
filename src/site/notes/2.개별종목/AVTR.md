@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/AVTR/","created":"2024-12-13T21:47:21.512+09:00","updated":"2025-06-03T20:05:57.822+09:00"}
+dg-publish: true
 ---
-
 #금융 #헬스케어 #실험실용품
 
 ## 산업섹터
 
-[[금융\|금융]](Financials), [[헬스케어\|헬스케어]](Healthcare)
+[[금융]](Financials), [[헬스케어]](Healthcare)
 
 ## 영위사업
 
@@ -24,7 +23,7 @@ Avantor Inc는 생명과학, 첨단 기술 및 응용 재료 산업 고객을 �
 
 1. 실험실 솔루션 (Laboratory Solutions):
     
-    - [[실험실 용품\|실험실 용품]]: 피펫, 유리 제품, 플라스틱, 시약, 소모품 등
+    - [[실험실 용품]]: 피펫, 유리 제품, 플라스틱, 시약, 소모품 등
     - 세포 배양 제품: 배지, 혈청, 보충제
     - 맞춤형 솔루션: 특정 고객 요구에 맞춘 제품
     - 환경 보건 및 안전 제품
@@ -54,19 +53,19 @@ Avantor Inc는 생명과학, 첨단 기술 및 응용 재료 산업 고객을 �
 
 ## 전방산업
 
-- 제약 및 바이오기술: Pfizer (US, [[2.개별종목/PFE\|PFE]]), Moderna (US, [[2.개별종목/MRNA\|MRNA]])
+- 제약 및 바이오기술: Pfizer (US, [[PFE]]), Moderna (US, [[MRNA]])
 - 학술 연구: 대학 및 연구소
-- 반도체 제조: Intel (US, [[2.개별종목/INTC\|INTC]]), TSMC (대만, [[2.개별종목/TSM\|TSM]])
+- 반도체 제조: Intel (US, [[INTC]]), TSMC (대만, [[TSM]])
 
 ## 후방산업
 
-- 화학 원료 공급: BASF (독일, [[BAS.DE\|BAS.DE]]), Dow (US, [[2.개별종목/DOW\|DOW]])
-- 실험 장비 제조: Thermo Fisher Scientific (US, [[2.개별종목/TMO\|TMO]]), Danaher (US, [[2.개별종목/DHR\|DHR]])
+- 화학 원료 공급: BASF (독일, [[BAS.DE]]), Dow (US, [[DOW]])
+- 실험 장비 제조: Thermo Fisher Scientific (US, [[TMO]]), Danaher (US, [[DHR]])
 
 ## 밸류체인
 
-1. 원료 공급: BASF (독일, [[BAS.DE\|BAS.DE]]) (화학 원료)
-2. 제품 제조: Avantor (US, [[2.개별종목/AVTR\|AVTR]]) (실험실 용품, 시약)
+1. 원료 공급: BASF (독일, [[BAS.DE]]) (화학 원료)
+2. 제품 제조: Avantor (US, [[AVTR]]) (실험실 용품, 시약)
 3. 유통: VWR (Avantor 자회사) (실험실 용품 유통)
 4. 최종 사용자: 제약회사, 연구소, 대학 등
 
@@ -83,11 +82,11 @@ Avantor Inc는 생명과학, 첨단 기술 및 응용 재료 산업 고객을 �
 
 ## 경쟁업체
 
-1. Thermo Fisher Scientific (US, [[2.개별종목/TMO\|TMO]]) (실험실 용품 및 장비)
-2. Merck KGaA (독일, [[MRK.DE\|MRK.DE]]) (생명과학 및 성능 재료)
-3. Danaher Corporation (US, [[2.개별종목/DHR\|DHR]]) (생명과학 및 진단)
-4. PerkinElmer (US, [[PKI\|PKI]]) (진단 및 생명과학 연구)
-5. Bio-Rad Laboratories (US, [[BIO\|BIO]]) (생명과학 연구 및 임상 진단)
+1. Thermo Fisher Scientific (US, [[TMO]]) (실험실 용품 및 장비)
+2. Merck KGaA (독일, [[MRK.DE]]) (생명과학 및 성능 재료)
+3. Danaher Corporation (US, [[DHR]]) (생명과학 및 진단)
+4. PerkinElmer (US, [[PKI]]) (진단 및 생명과학 연구)
+5. Bio-Rad Laboratories (US, [[BIO]]) (생명과학 연구 및 임상 진단)
 
 ## 산업 내 글로벌 시장 점유율
 

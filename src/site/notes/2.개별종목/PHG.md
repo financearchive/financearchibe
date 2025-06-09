@@ -1,22 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/PHG/","created":"2024-12-24T12:02:45.293+09:00","updated":"2025-06-03T20:06:00.648+09:00"}
+dg-publish: true
 ---
-
 #수면무호흡 #의료기기 #헬스케어기술 #소비자가전 #진단영상 #환자모니터링 #건강정보학 #개인건강 #연구개발 #혁신 #의료솔루션 #디지털헬스 #지속가능성 #헬스케어 #의료기기및장비 #초음파장비
 
 ## 섹터 및 산업
 
-섹터: [[헬스케어\|헬스케어]]
+섹터: [[헬스케어]]
 
-산업: [[의료기기 및 장비\|의료기기 및 장비]](Medical Devices & Equipment)
+산업: [[의료기기 및 장비]](Medical Devices & Equipment)
 
 ## 영위사업
 
 Koninklijke Philips N.V.(PHG)는 글로벌 헬스케어 기술 기업으로, 주요 사업 부문은 다음과 같습니다:
 
-1. 진단 및 치료(Diagnosis & Treatment): [[영상 시스템\|영상 시스템]], [[초음파 장비\|초음파 장비]], 영상 유도 치료 솔루션 등 (매출의 약 50%)
-2. 연결 치료(Connected Care): [[병원용 모니터링 및 분석 시스템\|병원용 모니터링 및 분석 시스템]], 정보학 사업, 수면 및 호흡기 치료 (매출의 약 30%)
-3. [[개인 건강\|개인 건강]](Personal Health): 구강 건강 및 개인 관리 제품 라인 (나머지 매출)
+1. 진단 및 치료(Diagnosis & Treatment): [[영상 시스템]], [[초음파 장비]], 영상 유도 치료 솔루션 등 (매출의 약 50%)
+2. 연결 치료(Connected Care): [[병원용 모니터링 및 분석 시스템]], 정보학 사업, 수면 및 호흡기 치료 (매출의 약 30%)
+3. [[개인 건강]](Personal Health): 구강 건강 및 개인 관리 제품 라인 (나머지 매출)
 
 2022년 기준 총 매출은 약 178억 유로였습니다.
 
@@ -29,7 +28,7 @@ Koninklijke Philips N.V.(PHG)는 글로벌 헬스케어 기술 기업으로, 주
 
 ## 주요 제품
 
-1. 진단 영상 시스템: [[MRI\|MRI]], [[CT\|CT]], [[초음파\|초음파]] 등
+1. 진단 영상 시스템: [[MRI]], [[CT]], [[초음파]] 등
 2. 환자 모니터링 솔루션
 3. 건강 정보학 시스템
 4. 개인 건강 관리 제품: 전동 칫솔, 면도기 등
@@ -47,11 +46,11 @@ Koninklijke Philips N.V.(PHG)는 글로벌 헬스케어 기술 기업으로, 주
 
 ## 경쟁업체
 
-1. GE HealthCare Technologies(US, [[GEHC\|GEHC]])
-2. Siemens Healthineers(DE, [[SHL\|SHL]])
-3. Medtronic(IE, [[2.개별종목/MDT\|MDT]])
-4. Johnson & Johnson(US, [[2.개별종목/JNJ\|JNJ]])
-5. Hologic(US, [[HOLX\|HOLX]])
+1. GE HealthCare Technologies(US, [[GEHC]])
+2. Siemens Healthineers(DE, [[SHL]])
+3. Medtronic(IE, [[MDT]])
+4. Johnson & Johnson(US, [[JNJ]])
+5. Hologic(US, [[HOLX]])
 
 ## 최근 주요 이슈
 
@@ -66,6 +65,6 @@ Koninklijke Philips N.V.(PHG)는 글로벌 헬스케어 기술 기업으로, 주
 
 ## 관련 ETF
 
-1. iShares Global Healthcare ETF - [[IXJ\|IXJ]]
-2. Vanguard Health Care ETF - [[VHT\|VHT]]
-3. Health Care Select Sector SPDR Fund - [[XLV\|XLV]]
+1. iShares Global Healthcare ETF - [[IXJ]]
+2. Vanguard Health Care ETF - [[VHT]]
+3. Health Care Select Sector SPDR Fund - [[XLV]]

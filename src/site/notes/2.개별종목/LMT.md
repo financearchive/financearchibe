@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/LMT/","created":"2024-11-09T22:37:40.779+09:00","updated":"2025-06-03T20:05:59.918+09:00"}
+dg-publish: true
 ---
-
 #항공우주및방산 #방산 #항공 #우주 #산업재 #지정학 #스텔스전투기 #군용수송기 #무기 
 
 ## 산업 섹터
 
-- **Sector(산업섹터)**: Industrials([[산업재\|산업재]])
-- **Industry(산업)**: Aerospace & Defense([[1.Study/★ 산업/항공,우주,방위 산업/4.방위산업/항공우주 및 방위산업\|항공우주 및 방위산업]])
+- **Sector(산업섹터)**: Industrials([[산업재]])
+- **Industry(산업)**: Aerospace & Defense([[항공우주 및 방위산업]])
 
 ## 영위 사업
 
@@ -19,13 +18,13 @@ Lockheed Martin은 항공기, 미사일, 위성 등 다양한 방산 및 항공�
     
     - **핵심 산업**: 방산 및 군사 서비스
     - **역할**: 최종 소비자에게 방산 시스템 및 솔루션 제공
-    - **주요 기업**: Boeing (미국, [[2.개별종목/BA\|BA]]), Northrop Grumman (미국, [[2.개별종목/NOC\|NOC]])
+    - **주요 기업**: Boeing (미국, [[BA]]), Northrop Grumman (미국, [[NOC]])
     
 - **후방 산업 (Upstream Industry)**:
     
     - **핵심 산업**: 원자재 공급 및 부품 제조
     - **역할**: Lockheed Martin의 제품 생산에 필요한 자재 및 부품 제공
-    - **주요 기업**: Raytheon Technologies (미국, [[2.개별종목/RTX\|RTX]]), Honeywell International (미국, [[2.개별종목/HON\|HON]])
+    - **주요 기업**: Raytheon Technologies (미국, [[RTX]]), Honeywell International (미국, [[HON]])
     
 
 ## 밸류체인
@@ -33,23 +32,23 @@ Lockheed Martin은 항공기, 미사일, 위성 등 다양한 방산 및 항공�
 - **제품 개발**:
     
     - Lockheed Martin은 항공기 및 방산 시스템을 개발합니다.
-    - 대표 기업: General Dynamics (미국, [[2.개별종목/GD\|GD]]) - 경쟁 제품: 방산 및 항공우주 기술
+    - 대표 기업: General Dynamics (미국, [[GD]]) - 경쟁 제품: 방산 및 항공우주 기술
     
 - **제조 및 조립**:
     
     - 다양한 항공기 및 방산 시스템의 부품을 제조합니다.
-    - 대표 기업: BAE Systems (영국, [[BAESY\|BAESY]]) - 경쟁 제품: 방산 장비
+    - 대표 기업: BAE Systems (영국, [[BAESY]]) - 경쟁 제품: 방산 장비
     
 
 ## 주요 제품
 
 - **F-35 Lightning II**:
     
-    - 첨단 [[스텔스 전투기\|스텔스 전투기]]로, 다목적 작전 수행이 가능합니다.
+    - 첨단 [[스텔스 전투기]]로, 다목적 작전 수행이 가능합니다.
     - 매출 비중: 전체 매출의 약 30% 차지.
 - **C-130 Hercules**:
     
-    - [[군용 수송기\|군용 수송기]]로, 다양한 임무에 사용됩니다.
+    - [[군용 수송기]]로, 다양한 임무에 사용됩니다.
     - 매출 비중: 전체 매출의 약 25% 차지.
 
 ## 주요 판매 국가
@@ -58,8 +57,8 @@ Lockheed Martin은 미국을 주요 시장으로 하며, 유럽과 아시아에�
 
 ## 경쟁업체
 
-- **Boeing** (미국, [[2.개별종목/BA\|BA]]) - 경쟁 제품: 항공기 및 방산 시스템
-- **Northrop Grumman** (미국, [[2.개별종목/NOC\|NOC]]) - 경쟁 제품: 방산 기술 및 시스템
+- **Boeing** (미국, [[BA]]) - 경쟁 제품: 항공기 및 방산 시스템
+- **Northrop Grumman** (미국, [[NOC]]) - 경쟁 제품: 방산 기술 및 시스템
 
 ## 산업 내 글로벌 시장 점유율
 

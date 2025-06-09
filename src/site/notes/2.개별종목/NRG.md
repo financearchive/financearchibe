@@ -1,25 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/NRG/","created":"2024-11-07T12:04:11.850+09:00","updated":"2025-06-03T20:06:00.406+09:00"}
+dg-publish: true
 ---
-
 #전력생산및유통 #유틸리티 #캐나다 #전력생산 #도매전력시장 #에너지 #천연가스 #석탄 #풍력 #태양광 #원자력발전 #원전 #마이크로그리드 #분산형발전 #전기차충전 #전력유틸리티 #바이오매스
 
 
 
 **산업섹터 (Sector, Industry)**:
 
-- **Sector**: [[유틸리티\|유틸리티]] (Utilities)
-- **Industry**: [[전력 생산 및 유통\|전력 생산 및 유통]] (Electric Utilities)[[전력유틸리티\|전력유틸리티]]
+- **Sector**: [[유틸리티]] (Utilities)
+- **Industry**: [[전력 생산 및 유통]] (Electric Utilities)[[전력유틸리티]]
 
 
-**영위사업**: NRG Energy는 미국과 캐나다에서 [[전력 생산\|전력 생산]] 및 소매 전력 서비스를 제공하는 회사입니다. 이 회사는 [[1.Study/★ 산업/에너지 산업/1.화석 에너지/1.정유화학/천연가스\|천연가스]], [[1.Study/★ 산업/에너지 산업/1.화석 에너지/1.정유화학/석탄\|석탄]], [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/1.원자력발전/원자력 발전\|원자력 발전]], [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/3.풍력/풍력\|풍력]], [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/2.태양광/태양광\|태양광]] 등 다양한 에너지원으로 전력을 생산하며, 주로 [[도매 전력\|도매 전력]] 및 소매 전력 시장에서 활동합니다
+**영위사업**: NRG Energy는 미국과 캐나다에서 [[전력 생산]] 및 소매 전력 서비스를 제공하는 회사입니다. 이 회사는 [[천연가스]], [[석탄]], [[원자력 발전]], [[풍력]], [[태양광]] 등 다양한 에너지원으로 전력을 생산하며, 주로 [[도매 전력]] 및 소매 전력 시장에서 활동합니다
 
 
 ## 영위사업
 
-NRG Energy, Inc.(NYSE: NRG)는 미국의 주요 [[통합 전력 및 홈 서비스 기업\|통합 전력 및 홈 서비스 기업]]입니다. 주요 사업 부문은 발전과 [[소매 전기\|소매 전기]] 판매입니다.
+NRG Energy, Inc.(NYSE: NRG)는 미국의 주요 [[통합 전력 및 홈 서비스 기업]]입니다. 주요 사업 부문은 발전과 [[소매 전기]] 판매입니다.
 
-발전 부문에서는 [[1.Study/★ 산업/에너지 산업/1.화석 에너지/1.정유화학/천연가스\|천연가스]], [[1.Study/★ 산업/에너지 산업/1.화석 에너지/1.정유화학/석탄\|석탄]], [[원자력\|원자력]], 석유, [[바이오매스\|바이오매스]], [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/3.풍력/풍력\|풍력]], [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/2.태양광/태양광\|태양광]] 등 다양한 에너지원을 활용하여 약 50,000MW의 발전 용량을 보유하고 있습니다.소매 부문에서는 약 750만 고객에게 전기와 관련 서비스를 제공하며, NRG, Reliant, Green Mountain Energy, Stream, XOOM Energy 등의 브랜드로 운영됩니다.최근에는 Vivint Smart Home 인수를 통해 200만 가구의 홈 서비스 고객을 추가하며 사업 다각화를 추진하고 있습니다. 또한 지속가능성에 중점을 두고 재생에너지 프로젝트 개발, 전기차 충전 인프라 구축 등을 진행하고 있습니다.
+발전 부문에서는 [[천연가스]], [[석탄]], [[원자력]], 석유, [[바이오매스]], [[풍력]], [[태양광]] 등 다양한 에너지원을 활용하여 약 50,000MW의 발전 용량을 보유하고 있습니다.소매 부문에서는 약 750만 고객에게 전기와 관련 서비스를 제공하며, NRG, Reliant, Green Mountain Energy, Stream, XOOM Energy 등의 브랜드로 운영됩니다.최근에는 Vivint Smart Home 인수를 통해 200만 가구의 홈 서비스 고객을 추가하며 사업 다각화를 추진하고 있습니다. 또한 지속가능성에 중점을 두고 재생에너지 프로젝트 개발, 전기차 충전 인프라 구축 등을 진행하고 있습니다.
 
 ## 핵심 경쟁력
 
@@ -41,18 +40,18 @@ NRG Energy의 핵심 경쟁력은 다음과 같습니다:
 
 후방산업:
 
-- 발전 설비 제조: General Electric(US, [[2.개별종목/GE\|GE]]), Siemens Energy(DE, [[ENR\|ENR]])
-- 연료 공급: ExxonMobil(US, [[2.개별종목/XOM\|XOM]]), Chevron(US, [[2.개별종목/CVX\|CVX]])
-- 재생에너지 장비: First Solar(US, [[2.개별종목/FSLR\|FSLR]]), Vestas Wind Systems(DK, [[VWS\|VWS]])
+- 발전 설비 제조: General Electric(US, [[GE]]), Siemens Energy(DE, [[ENR]])
+- 연료 공급: ExxonMobil(US, [[XOM]]), Chevron(US, [[CVX]])
+- 재생에너지 장비: First Solar(US, [[FSLR]]), Vestas Wind Systems(DK, [[VWS]])
 
 ## 밸류체인
 
-1. 발전: NRG Energy(US, [[2.개별종목/NRG\|NRG]]) (다양한 에너지원 발전)
-2. 송전: American Electric Power(US, [[2.개별종목/AEP\|AEP]]) (송전망 운영)
-3. 배전: NRG Energy(US, [[2.개별종목/NRG\|NRG]]), Duke Energy(US, [[2.개별종목/DUK\|DUK]]) (지역 배전망)
-4. 소매: NRG Energy(US, [[2.개별종목/NRG\|NRG]]) (전력 및 가스 소매)
-5. 에너지 관리: NRG Energy(US, [[2.개별종목/NRG\|NRG]]), Schneider Electric(FR, [[2.개별종목/SU\|SU]]) (에너지 효율 솔루션)
-6. 고객 서비스: NRG Energy(US, [[2.개별종목/NRG\|NRG]]) (고객 지원 및 서비스)
+1. 발전: NRG Energy(US, [[NRG]]) (다양한 에너지원 발전)
+2. 송전: American Electric Power(US, [[AEP]]) (송전망 운영)
+3. 배전: NRG Energy(US, [[NRG]]), Duke Energy(US, [[DUK]]) (지역 배전망)
+4. 소매: NRG Energy(US, [[NRG]]) (전력 및 가스 소매)
+5. 에너지 관리: NRG Energy(US, [[NRG]]), Schneider Electric(FR, [[SU]]) (에너지 효율 솔루션)
+6. 고객 서비스: NRG Energy(US, [[NRG]]) (고객 지원 및 서비스)
 
 ## 주요제품
 
@@ -64,8 +63,8 @@ NRG Energy의 핵심 경쟁력은 다음과 같습니다:
 
 - 가정용 전기 소비자
 - 상업 및 산업 고객
-- 유틸리티 기업: Duke Energy(US, [[2.개별종목/DUK\|DUK]]), Southern Company(US, [[2.개별종목/SO\|SO]])
-- 대형 기업 고객: Walmart(US, [[2.개별종목/WMT\|WMT]]), Amazon(US, [[2.개별종목/AMZN\|AMZN]])
+- 유틸리티 기업: Duke Energy(US, [[DUK]]), Southern Company(US, [[SO]])
+- 대형 기업 고객: Walmart(US, [[WMT]]), Amazon(US, [[AMZN]])
 
 ## 주요 판매국가
 
@@ -73,11 +72,11 @@ NRG Energy의 핵심 경쟁력은 다음과 같습니다:
 
 ## 경쟁업체
 
-- NextEra Energy(US, [[2.개별종목/NEE\|NEE]]) - 재생에너지 발전
-- Duke Energy(US, [[2.개별종목/DUK\|DUK]]) - 통합 전력 유틸리티
-- Southern Company(US, [[2.개별종목/SO\|SO]]) - 전력 및 천연가스 유틸리티
-- Exelon Corporation(US, [[2.개별종목/EXC\|EXC]]) - 유틸리티 및 발전
-- Vistra Corp(US, [[2.개별종목/VST\|VST]]) - 통합 전력 회사
+- NextEra Energy(US, [[NEE]]) - 재생에너지 발전
+- Duke Energy(US, [[DUK]]) - 통합 전력 유틸리티
+- Southern Company(US, [[SO]]) - 전력 및 천연가스 유틸리티
+- Exelon Corporation(US, [[EXC]]) - 유틸리티 및 발전
+- Vistra Corp(US, [[VST]]) - 통합 전력 회사
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -99,11 +98,11 @@ NRG Energy는 2023년 기준 미국 전력 유틸리티 산업에서 약 5-6%의
 
 ## 관련 ETF
 
-- Utilities Select Sector SPDR Fund - [[XLU\|XLU]]
-- iShares U.S. Utilities ETF - [[IDU\|IDU]]
-- Vanguard Utilities ETF - [[VPU\|VPU]]
-- Fidelity MSCI Utilities Index ETF - [[FUTY\|FUTY]]
-- Invesco S&P 500 Equal Weight Utilities ETF - [[RYU\|RYU]]
+- Utilities Select Sector SPDR Fund - [[XLU]]
+- iShares U.S. Utilities ETF - [[IDU]]
+- Vanguard Utilities ETF - [[VPU]]
+- Fidelity MSCI Utilities Index ETF - [[FUTY]]
+- Invesco S&P 500 Equal Weight Utilities ETF - [[RYU]]
 
 공유
 

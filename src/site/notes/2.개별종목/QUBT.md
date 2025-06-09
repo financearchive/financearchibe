@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/QUBT/","created":"2024-11-26T15:12:31.865+09:00","updated":"2025-06-03T20:06:00.860+09:00"}
+dg-publish: true
 ---
-
 #정보기술 #소프트웨어 #양자 #양자컴퓨팅 #사이버보안
 
 ## 산업 섹터
 
-- Sector: Information Technology([[정보기술\|정보기술]])
-- Industry: Software - Application([[소프트웨어\|소프트웨어]] - 애플리케이션)
+- Sector: Information Technology([[정보기술]])
+- Industry: Software - Application([[소프트웨어]] - 애플리케이션)
 
 ## 영위 사업
 
-Quantum Computing Inc.는 [[양자\|양자]] 광학 및 나노포토닉 기술 회사입니다. 주요 사업으로는 [[1.Study/★ 산업/양자산업(양자보안,컴퓨팅)/양자컴퓨팅\|양자컴퓨팅]], 양자 인공지능, [[사이버 보안\|사이버 보안]], 원격 감지 및 이미징 솔루션을 위한 나노포토닉 기반 기술을 개발하고 제공합니다.
+Quantum Computing Inc.는 [[양자]] 광학 및 나노포토닉 기술 회사입니다. 주요 사업으로는 [[양자컴퓨팅]], 양자 인공지능, [[사이버 보안]], 원격 감지 및 이미징 솔루션을 위한 나노포토닉 기반 기술을 개발하고 제공합니다.
 
 ## 전방/후방 산업
 
@@ -33,12 +32,12 @@ Quantum Computing Inc.는 [[양자\|양자]] 광학 및 나노포토닉 기술 �
 - 양자 기술 개발:
     
     - Quantum Computing Inc.는 자체적으로 양자 기술을 개발합니다.
-    - 대표 기업: IBM (미국, [[2.개별종목/IBM\|IBM]]), Google (미국, [[2.개별종목/GOOGL\|GOOGL]])
+    - 대표 기업: IBM (미국, [[IBM]]), Google (미국, [[GOOGL]])
     
 - 양자 솔루션 제공:
     
     - 개발된 기술을 다양한 산업 분야에 적용합니다.
-    - 대표 기업: D-Wave Quantum (미국, [[2.개별종목/QBTS\|QBTS]]), IonQ (미국, [[2.개별종목/IONQ\|IONQ]])
+    - 대표 기업: D-Wave Quantum (미국, [[QBTS]]), IonQ (미국, [[IONQ]])
     
 
 ## 주요 제품
@@ -54,9 +53,9 @@ Quantum Computing Inc.는 [[양자\|양자]] 광학 및 나노포토닉 기술 �
 
 ## 경쟁업체
 
-- D-Wave Quantum (미국, [[2.개별종목/QBTS\|QBTS]]) - 양자 컴퓨팅 솔루션
-- IonQ (미국, [[2.개별종목/IONQ\|IONQ]]) - 양자 컴퓨팅 하드웨어
-- Rigetti Computing (미국, [[2.개별종목/RGTI\|RGTI]]) - 양자 프로세서 및 클라우드 서비스
+- D-Wave Quantum (미국, [[QBTS]]) - 양자 컴퓨팅 솔루션
+- IonQ (미국, [[IONQ]]) - 양자 컴퓨팅 하드웨어
+- Rigetti Computing (미국, [[RGTI]]) - 양자 프로세서 및 클라우드 서비스
 
 ## 산업 내 글로벌 시장 점유율
 

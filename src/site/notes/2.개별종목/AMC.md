@@ -1,20 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/AMC/","created":"2024-12-07T12:26:37.038+09:00","updated":"2025-06-03T20:05:57.622+09:00"}
+dg-publish: true
 ---
-
 #커뮤니케이션서비스 #밈주식 #엔터테인먼트 #영화 #극장 
 
 
-AMC Entertainment Holdings, Inc.(AMC)는 세계 최대 규모의 [[영화\|영화]] 상영 기업입니다.
+AMC Entertainment Holdings, Inc.(AMC)는 세계 최대 규모의 [[영화]] 상영 기업입니다.
 
 ## 산업섹터
 
-섹터: [[커뮤니케이션 서비스\|커뮤니케이션 서비스]](Communication Services)  
-산업: [[엔터테인먼트\|엔터테인먼트]](Entertainment)
+섹터: [[커뮤니케이션 서비스]](Communication Services)  
+산업: [[엔터테인먼트]](Entertainment)
 
 ## 영위사업
 
-AMC는 미국과 유럽에서 약 900개의 [[극장\|극장]]과 10,000개의 스크린을 운영하는 영화 상영 기업입니다. 주요 사업으로는 영화 상영, 프리미엄 좌석 제공, 향상된 식음료 서비스, 충성도 및 구독 프로그램 운영 등이 있습니다. 최신 할리우드 영화와 독립 영화 등 다양한 콘텐츠를 상영합니다.
+AMC는 미국과 유럽에서 약 900개의 [[극장]]과 10,000개의 스크린을 운영하는 영화 상영 기업입니다. 주요 사업으로는 영화 상영, 프리미엄 좌석 제공, 향상된 식음료 서비스, 충성도 및 구독 프로그램 운영 등이 있습니다. 최신 할리우드 영화와 독립 영화 등 다양한 콘텐츠를 상영합니다.
 
 ## 전방/후방산업
 
@@ -49,8 +48,8 @@ AMC는 미국과 유럽에서 약 900개의 [[극장\|극장]]과 10,000개의 �
 ## 경쟁업체
 
 - Cineworld Group(UK)
-- Cinemark Holdings(US, [[CNK\|CNK]])
-- IMAX Corporation(CA, [[2.개별종목/IMAX\|IMAX]])
+- Cinemark Holdings(US, [[CNK]])
+- IMAX Corporation(CA, [[IMAX]])
 
 ## 산업 내 글로벌 시장 점유율
 

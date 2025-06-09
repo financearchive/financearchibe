@@ -1,22 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/Kairos Power/","created":"2024-11-19T17:08:51.195+09:00","updated":"2025-06-03T20:05:59.696+09:00"}
+dg-publish: true
 ---
-
 #불화염냉각고온로 #SMR #4세대SMR #저농축산화우라늄 #고순도저농축우라늄 #피복입자 #TRISO연료 #원자력발전 #에너지 #원전 #원자력 #흑연 #헬륨기체 #불화염 #소형모듈형원자로 
 
 
 
 ## 산업 섹터
 
-- Sector: Energy([[에너지\|에너지]])
-- Industry: Nuclear Power([[1.Study/★ 산업/에너지 산업/2.친환경 에너지/1.원자력발전/원자력 발전\|원자력 발전]])
+- Sector: Energy([[에너지]])
+- Industry: Nuclear Power([[원자력 발전]])
 
 ## 영위 사업
 
-Kairos Power는 [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/1.원자력발전/INFO_원자력발전/4세대 SMR\|4세대 SMR]]개발 업체로 청정하고 안전하며 경제적인 에너지 솔루션을 제공하기 위해 설립된 엔지니어링 회사입니다. 주요 사업은 [[불화염냉각 고온로\|불화염냉각 고온로]](FHR) 기술 개발 및 상용화입니다. 에너지로는 [[저농축 산화 우라늄\|저농축 산화 우라늄]]/[[고순도 저농축 우라늄\|고순도 저농축 우라늄]](LEU, HALEU), 피복입자([[TRISO\|TRISO]]) 사용함.
+Kairos Power는 [[4세대 SMR]]개발 업체로 청정하고 안전하며 경제적인 에너지 솔루션을 제공하기 위해 설립된 엔지니어링 회사입니다. 주요 사업은 [[불화염냉각 고온로]](FHR) 기술 개발 및 상용화입니다. 에너지로는 [[저농축 산화 우라늄]]/[[고순도 저농축 우라늄]](LEU, HALEU), 피복입자([[TRISO]]) 사용함.
 
 
-- 감속재 : [[1.Study/★ 산업/원자재 산업/1.비철금속/★ 비철금속 & 귀금속/흑연/흑연\|흑연]] / 냉각재 : [[헬륨기체\|헬륨기체]], [[불화염\|불화염]]
+- 감속재 : [[흑연]] / 냉각재 : [[헬륨기체]], [[불화염]]
 
 ## 전방/후방 산업
 
@@ -24,7 +23,7 @@ Kairos Power는 [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/1.�
     
     - 핵심 산업: 전력 공급, 데이터 센터
     - 역할: 청정 에너지 공급
-    - 주요 기업: Google (미국, [[2.개별종목/GOOGL\|GOOGL]]), Microsoft (미국, [[2.개별종목/MSFT\|MSFT]])
+    - 주요 기업: Google (미국, [[GOOGL]]), Microsoft (미국, [[MSFT]])
     
 - 후방 산업:
     
@@ -38,12 +37,12 @@ Kairos Power는 [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/1.�
 - 원자로 설계 및 개발:
     
     - Kairos Power는 자체적으로 KP-FHR 기술을 개발합니다.
-    - 대표 기업: NuScale Power (미국, [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/1.원자력발전/SMR\|SMR]]), [[2.개별종목/TerraPower\|TerraPower]] (미국, 비상장)
+    - 대표 기업: NuScale Power (미국, [[SMR]]), [[TerraPower]] (미국, 비상장)
       
 - 원자로 건설 및 운영:
     
     - Kairos Power는 자사의 원자로를 건설하고 운영할 계획입니다.
-    - 대표 기업: [[Bechtel Corporation\|Bechtel Corporation]] (미국, 비상장), Fluor Corporation (미국, [[2.개별종목/FLR\|FLR]])
+    - 대표 기업: [[Bechtel Corporation]] (미국, 비상장), Fluor Corporation (미국, [[FLR]])
 
 ## 주요 제품
 
@@ -58,9 +57,9 @@ Kairos Power는 [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/1.�
 
 ## 경쟁업체
 
-- NuScale Power (미국, [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/1.원자력발전/SMR\|SMR]]) - 소형 모듈형 원자로
-- [[2.개별종목/TerraPower\|TerraPower]] (미국, 비상장) - 진행파 원자로
-- X-energy (미국, [[2.개별종목/XE\|XE]]) - 고온가스로
+- NuScale Power (미국, [[SMR]]) - 소형 모듈형 원자로
+- [[TerraPower]] (미국, 비상장) - 진행파 원자로
+- X-energy (미국, [[XE]]) - 고온가스로
 
 ## 산업 내 글로벌 시장 점유율
 

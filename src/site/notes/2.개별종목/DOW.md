@@ -1,24 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/DOW/","created":"2024-12-28T08:18:50.662+09:00","updated":"2025-06-03T20:05:58.767+09:00"}
+dg-publish: true
 ---
-
 #화학 #소재과학 #플라스틱 #산업용화학제품 #포장솔루션 #다각화 #원자재 #소재 #폴리에틸렌 #기능성폴리머 #폴리우레탄 #실리콘 #아크릴 
 
 ## 산업 섹터
 
-[[소재\|소재]]
+[[소재]]
 
 ## 산업
 
-[[화학\|화학]](Chemicals)
+[[화학]](Chemicals)
 
 ## 영위사업
 
 Dow Inc.는 글로벌 소재 과학 기업으로, 주요 사업 부문은 다음과 같습니다:
 
-1. 포장 및 특수 플라스틱: [[폴리에틸렌\|폴리에틸렌]], [[기능성 폴리머\|기능성 폴리머]] 등 생산
-2. 산업 중간체 및 인프라: [[폴리우레탄\|폴리우레탄]], 산업용 화학제품 등 제조
-3. 성능 소재 및 코팅: [[실리콘\|실리콘]], [[아크릴\|아크릴]] 등 특수 화학제품 생산
+1. 포장 및 특수 플라스틱: [[폴리에틸렌]], [[기능성 폴리머]] 등 생산
+2. 산업 중간체 및 인프라: [[폴리우레탄]], 산업용 화학제품 등 제조
+3. 성능 소재 및 코팅: [[실리콘]], [[아크릴]] 등 특수 화학제품 생산
 
 Dow는 포장, 인프라, 소비재, 전자기기 등 다양한 산업에 솔루션을 제공하며, 지속가능한 제품 개발에 주력하고 있습니다. 글로벌 생산 네트워크를 바탕으로 31개국에서 사업을 영위하고 있습니다.
 
@@ -35,22 +34,22 @@ Dow는 포장, 인프라, 소비재, 전자기기 등 다양한 산업에 솔루
 
 1. 후방산업:
     
-    - 석유화학: ExxonMobil(US, [[2.개별종목/XOM\|XOM]])
-    - 천연가스: Chevron(US, [[2.개별종목/CVX\|CVX]])
+    - 석유화학: ExxonMobil(US, [[XOM]])
+    - 천연가스: Chevron(US, [[CVX]])
     
 2. 전방산업:
     
-    - 자동차: General Motors(US, [[2.개별종목/GM\|GM]])
-    - 전자기기: Apple(US, [[2.개별종목/AAPL\|AAPL]])
-    - 건설: Lennar(US, [[2.개별종목/LEN\|LEN]])
+    - 자동차: General Motors(US, [[GM]])
+    - 전자기기: Apple(US, [[AAPL]])
+    - 건설: Lennar(US, [[LEN]])
     
 
 ## 밸류체인
 
-1. 원자재 조달: ExxonMobil(US, [[2.개별종목/XOM\|XOM]]) - 석유화학 원료
+1. 원자재 조달: ExxonMobil(US, [[XOM]]) - 석유화학 원료
 2. 생산: Dow Inc. (주요 사업 영역)
-3. 유통: Brenntag(DE, [[BNR\|BNR]]) - 화학제품 유통
-4. 최종 소비자: Procter & Gamble(US, [[2.개별종목/PG\|PG]]) - 소비재 제조
+3. 유통: Brenntag(DE, [[BNR]]) - 화학제품 유통
+4. 최종 소비자: Procter & Gamble(US, [[PG]]) - 소비재 제조
 
 ## 주요제품
 
@@ -61,11 +60,11 @@ Dow는 포장, 인프라, 소비재, 전자기기 등 다양한 산업에 솔루
 
 ## 주요고객
 
-1. Procter & Gamble(US, [[2.개별종목/PG\|PG]])
-2. 3M(US, [[2.개별종목/MMM\|MMM]])
-3. [[LG전자\|LG전자]](KR, 066570)
-4. BMW(DE, [[2.개별종목/BMW\|BMW]])
-5. Saint-Gobain(FR, [[SGO\|SGO]])
+1. Procter & Gamble(US, [[PG]])
+2. 3M(US, [[MMM]])
+3. [[LG전자]](KR, 066570)
+4. BMW(DE, [[BMW]])
+5. Saint-Gobain(FR, [[SGO]])
 
 ## 주요 판매국가
 
@@ -76,11 +75,11 @@ Dow는 포장, 인프라, 소비재, 전자기기 등 다양한 산업에 솔루
 
 ## 경쟁업체
 
-1. BASF(DE, [[BAS\|BAS]]) - 종합 화학제품
-2. LyondellBasell(US, [[LYB\|LYB]]) - 폴리올레핀, 화학제품
-3. DuPont(US, [[2.개별종목/DD\|DD]]) - 특수 화학제품
-4. Covestro(DE, [[1COV\|1COV]]) - 폴리머 소재
-5. Huntsman(US, [[2.개별종목/HUN\|HUN]]) - 특수 화학제품
+1. BASF(DE, [[BAS]]) - 종합 화학제품
+2. LyondellBasell(US, [[LYB]]) - 폴리올레핀, 화학제품
+3. DuPont(US, [[DD]]) - 특수 화학제품
+4. Covestro(DE, [[1COV]]) - 폴리머 소재
+5. Huntsman(US, [[HUN]]) - 특수 화학제품
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -104,6 +103,6 @@ Dow는 포장, 인프라, 소비재, 전자기기 등 다양한 산업에 솔루
 
 ## 관련 ETF
 
-1. Materials Select Sector SPDR Fund - [[XLB\|XLB]]
-2. Vanguard Materials ETF - [[VAW\|VAW]]
-3. iShares U.S. Basic Materials ETF - [[IYM\|IYM]]
+1. Materials Select Sector SPDR Fund - [[XLB]]
+2. Vanguard Materials ETF - [[VAW]]
+3. iShares U.S. Basic Materials ETF - [[IYM]]

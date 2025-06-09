@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/KLAC/","created":"2025-01-17T06:51:48.598+09:00","updated":"2025-06-03T20:05:59.770+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #반도체장비 #웨이퍼검사 #수율관리 #공정제어 #메트롤로지 #AI #빅데이터 #EUV #첨단패키징 #IC기판 #ADAS #5G #HPC #클라우드컴퓨팅 #IoT #엣지컴퓨팅 #ESG #정보기술 
 
 ## 산업섹터
 
-섹터: [[정보기술\|정보기술]]
-산업: [[반도체장비\|반도체장비]]
+섹터: [[정보기술]]
+산업: [[반도체장비]]
 
 ## 영위사업
 
-KLA Corporation(NASDAQ: KLAC)은 [[1.Study/★ 산업/반도체 산업/반도체\|반도체]] 제조 공정에서 필수적인 공정 제어 및 수율 관리 솔루션을 제공하는 글로벌 기업입니다. 주요 제품으로는 [[웨이퍼 검사 장비\|웨이퍼 검사 장비]], [[패킹 검사 시스템\|패킹 검사 시스템]], 계측 장비, 데이터 분석 소프트웨어 등이 있습니다.회사의 주요 사업 부문은 다음과 같습니다:
+KLA Corporation(NASDAQ: KLAC)은 [[반도체]] 제조 공정에서 필수적인 공정 제어 및 수율 관리 솔루션을 제공하는 글로벌 기업입니다. 주요 제품으로는 [[웨이퍼 검사 장비]], [[패킹 검사 시스템]], 계측 장비, 데이터 분석 소프트웨어 등이 있습니다.회사의 주요 사업 부문은 다음과 같습니다:
 
 1. 반도체 공정 제어: 웨이퍼, 레티클, IC 제조 전 과정에 걸친 검사 및 계측 솔루션 제공
 2. 특수 반도체 공정: 첨단 패키징, LED, 파워 디바이스 등을 위한 진공 증착 및 에칭 장비 제공
@@ -37,15 +36,15 @@ KLA Corporation의 핵심 경쟁력은 다음과 같습니다:
 
 전방산업:
 
-- 반도체 제조: TSMC(TW, [[2.개별종목/TSM\|TSM]]), Samsung Electronics(KR, [[005930\|005930]])
-- 파운드리: GlobalFoundries(US, [[2.개별종목/GFS\|GFS]]), UMC(TW, [[UMC\|UMC]])
-- 종합반도체(IDM): Intel(US, [[2.개별종목/INTC\|INTC]]), Micron Technology(US, [[2.개별종목/MU\|MU]])
+- 반도체 제조: TSMC(TW, [[TSM]]), Samsung Electronics(KR, [[005930]])
+- 파운드리: GlobalFoundries(US, [[GFS]]), UMC(TW, [[UMC]])
+- 종합반도체(IDM): Intel(US, [[INTC]]), Micron Technology(US, [[MU]])
 
 후방산업:
 
-- 반도체 장비 부품: MKS Instruments(US, [[MKSI\|MKSI]]), Entegris(US, [[ENTG\|ENTG]])
-- 특수 가스 및 화학물질: Air Products and Chemicals(US, [[APD\|APD]]), Linde(IE, [[LIN\|LIN]])
-- 정밀 광학 부품: II-VI(US, [[IIVI\|IIVI]]), Corning(US, [[2.개별종목/GLW\|GLW]])
+- 반도체 장비 부품: MKS Instruments(US, [[MKSI]]), Entegris(US, [[ENTG]])
+- 특수 가스 및 화학물질: Air Products and Chemicals(US, [[APD]]), Linde(IE, [[LIN]])
+- 정밀 광학 부품: II-VI(US, [[IIVI]]), Corning(US, [[GLW]])
 
 ## 주요제품
 
@@ -60,11 +59,11 @@ KLA Corporation의 핵심 경쟁력은 다음과 같습니다:
 
 ## 경쟁업체
 
-- Applied Materials(US, [[2.개별종목/AMAT\|AMAT]]) - 반도체 제조 장비
-- ASML Holding(NL, [[2.개별종목/ASML\|ASML]]) - 리소그래피 장비
-- Lam Research(US, [[2.개별종목/LRCX\|LRCX]]) - 에칭 및 증착 장비
-- Tokyo Electron(JP, [[8035\|8035]]) - 반도체 제조 장비
-- Teradyne(US, [[2.개별종목/TER\|TER]]) - 반도체 테스트 장비
+- Applied Materials(US, [[AMAT]]) - 반도체 제조 장비
+- ASML Holding(NL, [[ASML]]) - 리소그래피 장비
+- Lam Research(US, [[LRCX]]) - 에칭 및 증착 장비
+- Tokyo Electron(JP, [[8035]]) - 반도체 제조 장비
+- Teradyne(US, [[TER]]) - 반도체 테스트 장비
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -87,8 +86,8 @@ KLA Corporation은 2024년 기준 반도체 검사 및 계측 장비 시장에�
 
 ## 관련 ETF
 
-- VanEck Semiconductor ETF - [[SMH\|SMH]]
-- iShares Semiconductor ETF - [[SOXX\|SOXX]]
-- SPDR S&P Semiconductor ETF - [[XSD\|XSD]]
-- Invesco PHLX Semiconductor ETF - [[SOXQ\|SOXQ]]
-- Direxion Daily Semiconductor Bull 3X Shares - [[SOXL\|SOXL]]
+- VanEck Semiconductor ETF - [[SMH]]
+- iShares Semiconductor ETF - [[SOXX]]
+- SPDR S&P Semiconductor ETF - [[XSD]]
+- Invesco PHLX Semiconductor ETF - [[SOXQ]]
+- Direxion Daily Semiconductor Bull 3X Shares - [[SOXL]]

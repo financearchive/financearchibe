@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/TLRY/","created":"2024-11-09T13:03:54.276+09:00","updated":"2025-06-03T20:06:01.633+09:00"}
+dg-publish: true
 ---
-
 #헬스케어 #제약및생명공학 #대마초 
 
 ## 산업섹터
 
-섹터: [[헬스케어\|헬스케어]](Healthcare)  
-산업: [[제약 및 생명공학\|제약 및 생명공학]](Pharmaceuticals & Biotechnology)
+섹터: [[헬스케어]](Healthcare)  
+산업: [[제약 및 생명공학]](Pharmaceuticals & Biotechnology)
 
 ## 영위사업
 
-Tilray는 의료용 및 성인용 [[대마초\|대마초]] 제품의 연구, 재배, 가공 및 유통에 종사하는 기업입니다.
+Tilray는 의료용 및 성인용 [[대마초]] 제품의 연구, 재배, 가공 및 유통에 종사하는 기업입니다.
 
 ## 주요제품
 
@@ -26,9 +25,9 @@ Tilray는 의료용 및 성인용 [[대마초\|대마초]] 제품의 연구, 재
 
 ## 경쟁업체
 
-- Canopy Growth(US, [[2.개별종목/CGC\|CGC]])
-- Aurora Cannabis(캐나다, [[ACB\|ACB]])
-- Cronos Group(캐나다, [[CRON\|CRON]])
+- Canopy Growth(US, [[CGC]])
+- Aurora Cannabis(캐나다, [[ACB]])
+- Cronos Group(캐나다, [[CRON]])
 
 ## 주요 브랜드
 

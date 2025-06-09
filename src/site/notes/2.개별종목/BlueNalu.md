@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/BlueNalu/","created":"2024-08-31T08:30:41.504+09:00","updated":"2025-06-03T20:05:58.018+09:00"}
+dg-publish: true
 ---
-
 #푸드테크 #세포농업 #세포배양수산물
 
 ## 산업섹터
 
-Sector: Food Technology ([[1.Study/★ 산업/식음료픔 산업/Info_식료품/푸드테크\|푸드테크]])  
-Industry: Cellular Agriculture ([[세포농업\|세포농업]])
+Sector: Food Technology ([[푸드테크]])  
+Industry: Cellular Agriculture ([[세포농업]])
 
 ## 회사 개요
 
-BlueNalu는 2017년에 설립된 미국의 [[세포 배양 수산물\|세포 배양 수산물]](cellular aquaculture) 회사입니다. 본사는 캘리포니아주 샌디에고에 위치해 있으며, 해양 생태계에 영향을 주지 않으면서 안전하고 영양가 있는 수산물을 제공하는 것을 목표로 하고 있습니다.
+BlueNalu는 2017년에 설립된 미국의 [[세포 배양 수산물]](cellular aquaculture) 회사입니다. 본사는 캘리포니아주 샌디에고에 위치해 있으며, 해양 생태계에 영향을 주지 않으면서 안전하고 영양가 있는 수산물을 제공하는 것을 목표로 하고 있습니다.
 
 ## 영위사업
 
@@ -31,11 +30,11 @@ BlueNalu는 2017년에 설립된 미국의 [[세포 배양 수산물\|세포 배
 
 - 역할: 원료 및 기술 공급
 - 세포 배양 배지 제조업체: Nutreco
-- [[1.Study/★ 산업/헬스케어/1.제약 바이오산업(CDMO 등)/info_제약 바이오/바이오리액터\|바이오리액터]] 제조업체
+- [[바이오리액터]] 제조업체
 
 ## 주요제품
 
-- [[세포 배양 참치 토로\|세포 배양 참치 토로]](bluefin tuna toro)
+- [[세포 배양 참치 토로]](bluefin tuna toro)
 - 기타 세포 배양 수산물 제품 (개발 중)
 
 ## 주요 판매국가
@@ -50,9 +49,9 @@ BlueNalu는 2017년에 설립된 미국의 [[세포 배양 수산물\|세포 배
 
 ## 경쟁업체
 
-- [[Finless Foods\|Finless Foods]] (US, 비상장) - 세포 배양 수산물 개발
-- [[Wild Type\|Wild Type]] (US, 비상장) - 세포 배양 연어 개발
-- [[Shiok Meats\|Shiok Meats]] (SG, 비상장) - 세포 배양 갑각류 개발
+- [[Finless Foods]] (US, 비상장) - 세포 배양 수산물 개발
+- [[Wild Type]] (US, 비상장) - 세포 배양 연어 개발
+- [[Shiok Meats]] (SG, 비상장) - 세포 배양 갑각류 개발
 
 ## 산업 내 글로벌 시장 점유율
 

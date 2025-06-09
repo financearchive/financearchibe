@@ -1,15 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/ROP/","created":"2025-02-01T12:46:23.832+09:00","updated":"2025-06-03T20:06:01.034+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #클라우드컴퓨팅 #AI #하이브리드클라우드 #RedHat #왓슨 #컨설팅 #소프트웨어 #인프라 #양자컴퓨팅 #블록체인 #엣지컴퓨팅 #사이버보안 #디지털전환 #엔터프라이즈IT #오픈소스 #5G #IoT #빅데이터분석 #머신러닝 #지속가능성
 
 ## 산업섹터
 
-섹터: [[산업재\|산업재]]
-산업: [[산업기계\|산업기계]]
+섹터: [[산업재]]
+산업: [[산업기계]]
 
 ## 영위사업
 
@@ -33,37 +32,37 @@ Roper Technologies, Inc.(NYSE: ROP)는 다양한 틈새 시장을 위한 소프�
 
 전방산업:
 
-- 의료 서비스: UnitedHealth Group(US, [[2.개별종목/UNH\|UNH]]), CVS Health(US, [[2.개별종목/CVS\|CVS]])
-- 교통 및 물류: FedEx(US, [[2.개별종목/FDX\|FDX]]), Union Pacific(US, [[2.개별종목/UNP\|UNP]])
-- 에너지 관리: NextEra Energy(US, [[2.개별종목/NEE\|NEE]]), Duke Energy(US, [[2.개별종목/DUK\|DUK]])
+- 의료 서비스: UnitedHealth Group(US, [[UNH]]), CVS Health(US, [[CVS]])
+- 교통 및 물류: FedEx(US, [[FDX]]), Union Pacific(US, [[UNP]])
+- 에너지 관리: NextEra Energy(US, [[NEE]]), Duke Energy(US, [[DUK]])
 
 후방산업:
 
-- 반도체: Intel(US, [[2.개별종목/INTC\|INTC]]), NVIDIA(US, [[2.개별종목/NVDA\|NVDA]])
-- 클라우드 인프라: Amazon Web Services(US, [[2.개별종목/AMZN\|AMZN]]), Microsoft Azure(US, [[2.개별종목/MSFT\|MSFT]])
-- 데이터 분석: Palantir Technologies(US, [[2.개별종목/PLTR\|PLTR]]), Splunk(US, [[2.개별종목/SPLK\|SPLK]])
+- 반도체: Intel(US, [[INTC]]), NVIDIA(US, [[NVDA]])
+- 클라우드 인프라: Amazon Web Services(US, [[AMZN]]), Microsoft Azure(US, [[MSFT]])
+- 데이터 분석: Palantir Technologies(US, [[PLTR]]), Splunk(US, [[SPLK]])
 
 ## 밸류체인
 
-9. 소프트웨어 개발: Roper Technologies(US, [[2.개별종목/ROP\|ROP]]) (애플리케이션 및 네트워크 소프트웨어)
-10. 하드웨어 제조: Roper Technologies(US, [[2.개별종목/ROP\|ROP]]) (센서 및 측정 장비)
-11. 시스템 통합: Accenture(IE, [[2.개별종목/ACN\|ACN]]) (엔터프라이즈 솔루션 구현)
-12. 클라우드 인프라: Amazon Web Services(US, [[2.개별종목/AMZN\|AMZN]]) (클라우드 호스팅)
-13. 고객 지원: Roper Technologies(US, [[2.개별종목/ROP\|ROP]]) (기술 지원 및 컨설팅)
+9. 소프트웨어 개발: Roper Technologies(US, [[ROP]]) (애플리케이션 및 네트워크 소프트웨어)
+10. 하드웨어 제조: Roper Technologies(US, [[ROP]]) (센서 및 측정 장비)
+11. 시스템 통합: Accenture(IE, [[ACN]]) (엔터프라이즈 솔루션 구현)
+12. 클라우드 인프라: Amazon Web Services(US, [[AMZN]]) (클라우드 호스팅)
+13. 고객 지원: Roper Technologies(US, [[ROP]]) (기술 지원 및 컨설팅)
 
 ## 주요제품
 
-- 애플리케이션 소프트웨어: [[SaaS\|SaaS]] 및 라이선스 기반 솔루션, 매출의 약 70% (2024년 기준)
-- 네트워크 소프트웨어: [[네트워크 관리 및 통신 솔루션\|네트워크 관리 및 통신 솔루션]], 매출의 약 20% (2024년 기준)
+- 애플리케이션 소프트웨어: [[SaaS]] 및 라이선스 기반 솔루션, 매출의 약 70% (2024년 기준)
+- 네트워크 소프트웨어: [[네트워크 관리 및 통신 솔루션]], 매출의 약 20% (2024년 기준)
 - 기술 지원 제품: 센서, 측정 장비 등 하드웨어, 매출의 약 10% (2024년 기준)
 
 ## 주요 고객
 
-- 의료 기관: HCA Healthcare(US, [[2.개별종목/HCA\|HCA]]), Tenet Healthcare(US, [[2.개별종목/THC\|THC]])
+- 의료 기관: HCA Healthcare(US, [[HCA]]), Tenet Healthcare(US, [[THC]])
 - 교육 기관: 주요 대학 및 학교 시스템
 - 정부 기관: 미국 연방 정부 및 주정부
-- 에너지 기업: ExxonMobil(US, [[2.개별종목/XOM\|XOM]]), Chevron(US, [[2.개별종목/CVX\|CVX]])
-- 물류 기업: UPS(US, [[2.개별종목/UPS\|UPS]]), DHL Group(DE, [[DPW\|DPW]])
+- 에너지 기업: ExxonMobil(US, [[XOM]]), Chevron(US, [[CVX]])
+- 물류 기업: UPS(US, [[UPS]]), DHL Group(DE, [[DPW]])
 
 ## 주요 판매국가
 
@@ -71,11 +70,11 @@ Roper Technologies, Inc.(NYSE: ROP)는 다양한 틈새 시장을 위한 소프�
 
 ## 경쟁업체
 
-- Dassault Systèmes(FR, [[DSY\|DSY]]): 3D 설계 및 PLM 소프트웨어
-- Autodesk(US, [[2.개별종목/ADSK\|ADSK]]): CAD 및 엔지니어링 소프트웨어
-- Ansys(US, [[2.개별종목/ANSS\|ANSS]]): 엔지니어링 시뮬레이션 소프트웨어
-- PTC(US, [[PTC\|PTC]]): CAD 및 PLM 소프트웨어
-- Bentley Systems(US, [[BSY\|BSY]]): 인프라 엔지니어링 소프트웨어
+- Dassault Systèmes(FR, [[DSY]]): 3D 설계 및 PLM 소프트웨어
+- Autodesk(US, [[ADSK]]): CAD 및 엔지니어링 소프트웨어
+- Ansys(US, [[ANSS]]): 엔지니어링 시뮬레이션 소프트웨어
+- PTC(US, [[PTC]]): CAD 및 PLM 소프트웨어
+- Bentley Systems(US, [[BSY]]): 인프라 엔지니어링 소프트웨어
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -97,8 +96,8 @@ Roper Technologies는 2024년 기준 글로벌 산업용 소프트웨어 시장�
 
 ## 관련 ETF
 
-- iShares U.S. Industrials ETF - [[IYJ\|IYJ]]
-- Vanguard Industrials ETF - [[VIS\|VIS]]
-- SPDR S&P Capital Markets ETF - [[KCE\|KCE]]
-- Invesco S&P 500 Equal Weight Industrials ETF - [[RGI\|RGI]]
-- First Trust Industrials/Producer Durables AlphaDEX Fund - [[FXR\|FXR]]
+- iShares U.S. Industrials ETF - [[IYJ]]
+- Vanguard Industrials ETF - [[VIS]]
+- SPDR S&P Capital Markets ETF - [[KCE]]
+- Invesco S&P 500 Equal Weight Industrials ETF - [[RGI]]
+- First Trust Industrials/Producer Durables AlphaDEX Fund - [[FXR]]

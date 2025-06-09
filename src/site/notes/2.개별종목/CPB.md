@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/CPB/","created":"2024-12-19T12:00:24.607+09:00","updated":"2025-06-03T20:05:58.414+09:00"}
+dg-publish: true
 ---
-
 #식품제품 #필수소비재 #식품제조 #수프
 
 ## 산업섹터
 
-Sector: [[필수 소비재\|필수 소비재]](Consumer Staples)  
-Industry: [[식품 제품\|식품 제품]](Food Products)
+Sector: [[필수 소비재]](Consumer Staples)  
+Industry: [[식품 제품]](Food Products)
 
 ## 영위사업
 
-Campbell's Company(이전 Campbell Soup Company)는 미국의 [[식품 제조\|식품 제조]] 기업으로, 주요 사업 영역은 다음과 같습니다:
+Campbell's Company(이전 Campbell Soup Company)는 미국의 [[식품 제조]] 기업으로, 주요 사업 영역은 다음과 같습니다:
 
 1. 수프 및 통조림 식품 생산
 2. 베이커리 제품 제조
@@ -22,7 +21,7 @@ Campbell's는 Campbell's, Pepperidge Farm, Snyder's of Hanover, V8, Swanson 등�
 
 ## 주요제품
 
-1. Campbell's [[수프\|수프]] (농축 수프, 즉석 수프 등)
+1. Campbell's [[수프]] (농축 수프, 즉석 수프 등)
 2. Pepperidge Farm 제품 (빵, 쿠키, 크래커)
 3. V8 채소 주스
 4. Prego 파스타 소스
@@ -36,11 +35,11 @@ Campbell's는 전 세계 시장에서 사업을 영위하고 있으며, 특히 �
 
 ## 경쟁업체
 
-1. Nestlé (스위스, [[NESN.SW\|NESN.SW]])
-2. PepsiCo (US, [[2.개별종목/PEP\|PEP]])
-3. Unilever (영국/네덜란드, [[UL\|UL]])
-4. Mondelez International (US, [[2.개별종목/MDLZ\|MDLZ]])
-5. Kraft Heinz (US, [[2.개별종목/KHC\|KHC]])
+1. Nestlé (스위스, [[NESN.SW]])
+2. PepsiCo (US, [[PEP]])
+3. Unilever (영국/네덜란드, [[UL]])
+4. Mondelez International (US, [[MDLZ]])
+5. Kraft Heinz (US, [[KHC]])
 
 ## 산업 내 글로벌 시장 점유율
 

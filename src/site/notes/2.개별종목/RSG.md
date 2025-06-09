@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/RSG/","created":"2024-09-12T12:19:53.120+09:00","updated":"2025-06-03T20:06:01.028+09:00"}
+dg-publish: true
 ---
-
 #산업재 #폐기물관리 #재활용
 
 #### 산업섹터 및 산업
 
-- **Sector**: [[산업재\|산업재]] (Industrials)
-- **Industry**: [[폐기물 관리\|폐기물 관리]] (Waste Management)
+- **Sector**: [[산업재]] (Industrials)
+- **Industry**: [[폐기물 관리]] (Waste Management)
 
 #### 영위사업
 
@@ -16,15 +15,15 @@ Republic Services Inc.는 미국과 캐나다에서 환경 서비스를 제공�
 #### 전방/후방산업
 
 - **전방산업**:
-    - **재활용 산업**: 재활용된 자재 공급 (예: International Paper (US, [[2.개별종목/IP\|IP]]))
-    - **에너지 생산**: 매립지 가스를 이용한 재생 가능 에너지 생산 (예: NextEra Energy (US, [[2.개별종목/NEE\|NEE]]))
+    - **재활용 산업**: 재활용된 자재 공급 (예: International Paper (US, [[IP]]))
+    - **에너지 생산**: 매립지 가스를 이용한 재생 가능 에너지 생산 (예: NextEra Energy (US, [[NEE]]))
 - **후방산업**:
-    - **폐기물 수거 장비 제조**: 폐기물 수거 차량 및 장비 공급 (예: Caterpillar (US, [[2.개별종목/CAT\|CAT]]))
-    - **화학 제조**: 폐기물 처리용 화학 물질 공급 (예: BASF (DE, [[BAS\|BAS]]))
+    - **폐기물 수거 장비 제조**: 폐기물 수거 차량 및 장비 공급 (예: Caterpillar (US, [[CAT]]))
+    - **화학 제조**: 폐기물 처리용 화학 물질 공급 (예: BASF (DE, [[BAS]]))
 
 #### 밸류체인
 
-- **원료 공급**: 폐기물 수거 장비 및 화학 물질 공급 (예: Caterpillar (US, [[2.개별종목/CAT\|CAT]]), BASF (DE, [[BAS\|BAS]]))
+- **원료 공급**: 폐기물 수거 장비 및 화학 물질 공급 (예: Caterpillar (US, [[CAT]]), BASF (DE, [[BAS]]))
 - **제품 제조**: 폐기물 수거 및 처리 시스템 제조 (Republic Services Inc.)
 - **시스템 통합**: 폐기물 관리 시스템 통합 및 운영 (Republic Services Inc.)
 - **서비스 제공**: 폐기물 수거, 운송, 처리 및 재활용 서비스 제공 (Republic Services Inc.)
@@ -43,7 +42,7 @@ Republic Services Inc.는 미국과 캐나다에서 환경 서비스를 제공�
 
 #### 경쟁업체
 
-- **Waste Management (US, [[2.개별종목/WM\|WM]])**: 폐기물 수거 및 재활용 서비스
-- **Clean Harbors (US, [[2.개별종목/CLH\|CLH]])**: 유해 폐기물 처리 및 환경 서비스
-- **Waste Connections (US, [[2.개별종목/WCN\|WCN]])**: 폐기물 수거 및 재활용 서비스
-- **GFL Environmental (CA, [[2.개별종목/GFL\|GFL]])**: 폐기물 수거 및 재활용 서비스
+- **Waste Management (US, [[WM]])**: 폐기물 수거 및 재활용 서비스
+- **Clean Harbors (US, [[CLH]])**: 유해 폐기물 처리 및 환경 서비스
+- **Waste Connections (US, [[WCN]])**: 폐기물 수거 및 재활용 서비스
+- **GFL Environmental (CA, [[GFL]])**: 폐기물 수거 및 재활용 서비스

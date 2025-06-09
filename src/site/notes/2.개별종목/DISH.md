@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/DISH/","created":"2024-12-10T21:16:51.099+09:00","updated":"2025-06-03T20:05:58.718+09:00"}
+dg-publish: true
 ---
-
 #위성TV
 
 ## 산업섹터
@@ -13,7 +12,7 @@
 
 Dish Network는 다음과 같은 주요 사업 부문을 운영합니다:
 
-1. [[위성 TV\|위성 TV]] 서비스: 다양한 채널 패키지 제공
+1. [[위성 TV]] 서비스: 다양한 채널 패키지 제공
 
 - 스포츠 패키지
 - 가족 패키지
@@ -39,8 +38,8 @@ Dish Network는 다음과 같은 주요 사업 부문을 운영합니다:
 
 ## 후방산업
 
-- 위성 통신 장비 제조업체: EchoStar(US, [[2.개별종목/SATS\|SATS]])
-- 네트워크 장비 제조업체: Ericsson(SE, [[ERIC\|ERIC]])
+- 위성 통신 장비 제조업체: EchoStar(US, [[SATS]])
+- 네트워크 장비 제조업체: Ericsson(SE, [[ERIC]])
 
 ## 전방산업
 
@@ -68,10 +67,10 @@ Dish Network는 다음과 같은 주요 사업 부문을 운영합니다:
 
 ## 경쟁업체
 
-- DIRECTV(US, [[2.개별종목/T\|2.개별종목/T]])
-- Comcast(US, [[2.개별종목/CMCSA\|CMCSA]])
-- Netflix(US, [[2.개별종목/NFLX\|NFLX]])
-- T-Mobile(US, [[2.개별종목/TMUS\|TMUS]])
+- DIRECTV(US, [[2.개별종목/T]])
+- Comcast(US, [[CMCSA]])
+- Netflix(US, [[NFLX]])
+- T-Mobile(US, [[TMUS]])
 
 ## 산업 내 글로벌 시장 점유율
 

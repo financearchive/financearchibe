@@ -1,18 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/PAG/","created":"2024-12-25T21:16:21.815+09:00","updated":"2025-06-03T20:06:00.591+09:00"}
+dg-publish: true
 ---
-
 #프라이빗에쿼티 #대체투자 #자산운용 #글로벌투자 #아시아태평양 #사모펀드 #벤처캐피탈 #부동산투자 #인수합병 #기업구조조정 #금융
 
 ## 섹터 및 산업
 
-섹터: [[금융\|금융]]
+섹터: [[금융]]
 
-산업: [[자산운용\|자산운용]](Asset Management)
+산업: [[자산운용]](Asset Management)
 
 ## 영위사업
 
-PAG(Pacific Alliance Group)는 아시아 태평양 지역을 중심으로 활동하는 글로벌[[ 대체투자\| 대체투자]] 자산운용사입니다.
+PAG(Pacific Alliance Group)는 아시아 태평양 지역을 중심으로 활동하는 글로벌[[ 대체투자]] 자산운용사입니다.
 
 - 주요 사업 영역: 프라이빗 에쿼티, 부동산, 절대수익형 전략
 - 설립: 1997년
@@ -53,9 +52,9 @@ PAG(Pacific Alliance Group)는 아시아 태평양 지역을 중심으로 활동
 
 ## 전방산업
 
-1. [[기업 인수 및 구조조정\|기업 인수 및 구조조정]]
-2. [[부동산 개발 및 운용\|부동산 개발 및 운용]]
-3. [[인프라 투자\|인프라 투자]]
+1. [[기업 인수 및 구조조정]]
+2. [[부동산 개발 및 운용]]
+3. [[인프라 투자]]
 
 ## 후방산업
 
@@ -65,11 +64,11 @@ PAG(Pacific Alliance Group)는 아시아 태평양 지역을 중심으로 활동
 
 ## 밸류체인
 
-1. 자금 조달: BlackRock(US, [[2.개별종목/BLK\|BLK]]), Fidelity Investments(US, [[Fidelity\|Fidelity]])
-2. 투자 대상 발굴 및 실사: Bain & Company(US, [[Bain\|Bain]]), McKinsey & Company(US, [[McKinsey\|McKinsey]])
-3. 투자 집행: Goldman Sachs(US, [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/2.태양광/종목/GS\|GS]]), Morgan Stanley(US, [[2.개별종목/MS\|MS]])
-4. 포트폴리오 관리 및 가치 제고: Boston Consulting Group(US, [[BCG\|BCG]]), Alvarez & Marsal(US, [[Alvarez & Marsal\|Alvarez & Marsal]])
-5. 투자 회수: JPMorgan Chase(US, [[2.개별종목/JPM\|JPM]]), Citigroup(US, [[2.개별종목/C\|C]])
+1. 자금 조달: BlackRock(US, [[BLK]]), Fidelity Investments(US, [[Fidelity]])
+2. 투자 대상 발굴 및 실사: Bain & Company(US, [[Bain]]), McKinsey & Company(US, [[McKinsey]])
+3. 투자 집행: Goldman Sachs(US, [[GS]]), Morgan Stanley(US, [[MS]])
+4. 포트폴리오 관리 및 가치 제고: Boston Consulting Group(US, [[BCG]]), Alvarez & Marsal(US, [[Alvarez & Marsal]])
+5. 투자 회수: JPMorgan Chase(US, [[JPM]]), Citigroup(US, [[C]])
 
 ## 주요제품
 
@@ -79,10 +78,10 @@ PAG(Pacific Alliance Group)는 아시아 태평양 지역을 중심으로 활동
 
 ## 주요 고객
 
-1. 국부펀드: Government of Singapore Investment Corporation(SG, [[GIC\|GIC]]), Abu Dhabi Investment Authority(AE, [[ADIA\|ADIA]])
-2. 연기금: California Public Employees' Retirement System(US, [[CalPERS\|CalPERS]]), Canada Pension Plan Investment Board(CA, [[CPPIB\|CPPIB]])
-3. 대학기금: Harvard University(US, [[Harvard\|Harvard]]), Yale University(US, [[Yale\|Yale]])
-4. 보험사: AIG(US, [[2.개별종목/AIG\|AIG]]), Prudential Financial(US, [[PRU\|PRU]])
+1. 국부펀드: Government of Singapore Investment Corporation(SG, [[GIC]]), Abu Dhabi Investment Authority(AE, [[ADIA]])
+2. 연기금: California Public Employees' Retirement System(US, [[CalPERS]]), Canada Pension Plan Investment Board(CA, [[CPPIB]])
+3. 대학기금: Harvard University(US, [[Harvard]]), Yale University(US, [[Yale]])
+4. 보험사: AIG(US, [[AIG]]), Prudential Financial(US, [[PRU]])
 5. 고액자산가 및 패밀리오피스
 
 ## 주요 판매국가
@@ -91,13 +90,13 @@ PAG(Pacific Alliance Group)는 아시아 태평양 지역을 중심으로 활동
 
 ## 경쟁업체
 
-1. Blackstone Group(US, [[2.개별종목/BX\|BX]])
-2. KKR(US, [[2.개별종목/KKR\|KKR]])
-3. Carlyle Group(US, [[CG\|CG]])
-4. Apollo Global Management(US, [[2.개별종목/APO\|APO]])
-5. Baring Private Equity Asia(HK, [[Baring Private Equity Asia\|Baring Private Equity Asia]])
-6. Hillhouse Capital(CN, [[Hillhouse Capital\|Hillhouse Capital]])
-7. EQT(SE, [[2.개별종목/EQT\|EQT]])
+1. Blackstone Group(US, [[BX]])
+2. KKR(US, [[KKR]])
+3. Carlyle Group(US, [[CG]])
+4. Apollo Global Management(US, [[APO]])
+5. Baring Private Equity Asia(HK, [[Baring Private Equity Asia]])
+6. Hillhouse Capital(CN, [[Hillhouse Capital]])
+7. EQT(SE, [[EQT]])
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -119,8 +118,8 @@ PAG(Pacific Alliance Group)는 아시아 태평양 지역을 중심으로 활동
 
 ## 관련 ETF
 
-1. iShares Global Financials ETF - [[IXG\|IXG]]
-2. Financial Select Sector SPDR Fund - [[XLF\|XLF]]
-3. Vanguard Financials ETF - [[VFH\|VFH]]
-4. SPDR S&P Capital Markets ETF - [[KCE\|KCE]]
-5. Invesco Global Listed Private Equity ETF - [[PSP\|PSP]]
+1. iShares Global Financials ETF - [[IXG]]
+2. Financial Select Sector SPDR Fund - [[XLF]]
+3. Vanguard Financials ETF - [[VFH]]
+4. SPDR S&P Capital Markets ETF - [[KCE]]
+5. Invesco Global Listed Private Equity ETF - [[PSP]]

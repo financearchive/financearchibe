@@ -1,15 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/MDT/","created":"2024-12-06T22:09:58.879+09:00","updated":"2025-06-03T20:06:00.074+09:00"}
+dg-publish: true
 ---
-
 #헬스케어 #의료장비및용품 
 
 Medtronic plc(MDT)는 광범위한 의료 기기와 솔루션을 설계, 개발, 제조 및 마케팅하는 의료 기술 회사입니다.
 
 ## 산업섹터
 
-섹터: [[헬스케어\|헬스케어]](Health Care)  
-산업: [[의료 장비 및 용품\|의료 장비 및 용품]](Health Care Equipment & Supplies)
+섹터: [[헬스케어]](Health Care)  
+산업: [[의료 장비 및 용품]](Health Care Equipment & Supplies)
 
 ## 영위사업
 
@@ -20,7 +19,7 @@ Medtronic은 심장 판막 질환, 심부전, 관상 동맥 질환, 대동맥, �
 ## 후방산업
 
 - 의료 장비 제조업체
-- 반도체 제조업체: TSMC(TW, [[2.개별종목/TSM\|TSM]])
+- 반도체 제조업체: TSMC(TW, [[TSM]])
 
 ## 전방산업
 
@@ -49,11 +48,11 @@ Medtronic은 심장 판막 질환, 심부전, 관상 동맥 질환, 대동맥, �
 
 ## 경쟁업체
 
-- Abbott Laboratories(US, [[2.개별종목/ABT\|ABT]])
-- Boston Scientific Corporation(US, [[2.개별종목/BSX\|BSX]])
-- Johnson & Johnson(US, [[2.개별종목/JNJ\|JNJ]])
-- Stryker Corp(US, [[2.개별종목/SYK\|SYK]])
-- Becton, Dickinson and Company(US, [[2.개별종목/BDX\|BDX]])
+- Abbott Laboratories(US, [[ABT]])
+- Boston Scientific Corporation(US, [[BSX]])
+- Johnson & Johnson(US, [[JNJ]])
+- Stryker Corp(US, [[SYK]])
+- Becton, Dickinson and Company(US, [[BDX]])
 
 ## 산업 내 글로벌 시장 점유율
 

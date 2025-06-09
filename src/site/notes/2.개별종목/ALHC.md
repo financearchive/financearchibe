@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/ALHC/","created":"2024-11-21T11:04:53.929+09:00","updated":"2025-06-03T20:05:57.545+09:00"}
+dg-publish: true
 ---
-
 #헬스케어 #관리형의료 #건강관리서비스 #원격의료
 
 ## 산업 섹터
 
-- Sector: Health Care([[헬스케어\|헬스케어]])
-- Industry: Managed Health Care([[관리형 의료\|관리형 의료]])
+- Sector: Health Care([[헬스케어]])
+- Industry: Managed Health Care([[관리형 의료]])
 
 ## 영위 사업
 
-Alignment Healthcare는 미국의 Medicare Advantage 플랜을 제공하는 기업입니다. 주로 노인을 대상으로 맞춤형 [[건강 관리 서비스\|건강 관리 서비스]]를 제공하며, 자체 개발한 기술 플랫폼인 AVA(Alignment's Virtual Application)를 통해 24/7 원격 의료 서비스를 제공합니다.
+Alignment Healthcare는 미국의 Medicare Advantage 플랜을 제공하는 기업입니다. 주로 노인을 대상으로 맞춤형 [[건강 관리 서비스]]를 제공하며, 자체 개발한 기술 플랫폼인 AVA(Alignment's Virtual Application)를 통해 24/7 원격 의료 서비스를 제공합니다.
 
 ## 전방/후방 산업
 
@@ -19,13 +18,13 @@ Alignment Healthcare는 미국의 Medicare Advantage 플랜을 제공하는 기�
     
     - 핵심 산업: 노인 의료 서비스
     - 역할: Medicare Advantage 플랜 제공
-    - 주요 기업: UnitedHealth Group (미국, [[2.개별종목/UNH\|UNH]]), Humana (미국, [[2.개별종목/HUM\|HUM]])
+    - 주요 기업: UnitedHealth Group (미국, [[UNH]]), Humana (미국, [[HUM]])
     
 - 후방 산업:
     
     - 핵심 산업: 의료 기술, 데이터 분석
     - 역할: 의료 서비스 플랫폼 및 분석 도구 제공
-    - 주요 기업: Cerner (미국, [[CERN\|CERN]]), Allscripts (미국, [[MDRX\|MDRX]])
+    - 주요 기업: Cerner (미국, [[CERN]]), Allscripts (미국, [[MDRX]])
     
 
 ## 밸류체인
@@ -33,19 +32,19 @@ Alignment Healthcare는 미국의 Medicare Advantage 플랜을 제공하는 기�
 - Medicare Advantage 플랜 제공:
     
     - Alignment Healthcare는 다양한 Medicare Advantage 플랜을 직접 제공합니다.
-    - 대표 기업: UnitedHealth Group (미국, [[2.개별종목/UNH\|UNH]]), Humana (미국, [[2.개별종목/HUM\|HUM]])
+    - 대표 기업: UnitedHealth Group (미국, [[UNH]]), Humana (미국, [[HUM]])
     
 - 의료 서비스 기술 플랫폼:
     
     - AVA 플랫폼을 통해 맞춤형 의료 서비스를 제공합니다.
-    - 대표 기업: Teladoc Health (미국, [[TDOC\|TDOC]]), Amwell (미국, [[AMWL\|AMWL]])
+    - 대표 기업: Teladoc Health (미국, [[TDOC]]), Amwell (미국, [[AMWL]])
     
 
 ## 주요 제품
 
 - Medicare Advantage 플랜 (HMO, PPO, 특수 요구 플랜 등)
 - AVA (Alignment's Virtual Application) 기술 플랫폼
-- 24/7 [[원격 의료\|원격 의료]] 서비스
+- 24/7 [[원격 의료]] 서비스
 
 ## 주요 판매 국가
 
@@ -53,9 +52,9 @@ Alignment Healthcare는 미국의 Medicare Advantage 플랜을 제공하는 기�
 
 ## 경쟁업체
 
-- Clover Health (미국, [[CLOV\|CLOV]]) - Medicare Advantage 플랜
-- Molina Healthcare (미국, [[2.개별종목/MOH\|MOH]]) - 관리형 의료 서비스
-- Centene Corp (미국, [[CNC\|CNC]]) - 정부 후원 의료 프로그램
+- Clover Health (미국, [[CLOV]]) - Medicare Advantage 플랜
+- Molina Healthcare (미국, [[MOH]]) - 관리형 의료 서비스
+- Centene Corp (미국, [[CNC]]) - 정부 후원 의료 프로그램
 
 ## 산업 내 글로벌 시장 점유율
 

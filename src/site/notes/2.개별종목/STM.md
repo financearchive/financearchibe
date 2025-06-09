@@ -1,24 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/STM/","created":"2024-12-25T21:44:16.161+09:00","updated":"2025-06-03T20:06:01.385+09:00"}
+dg-publish: true
 ---
-
 #마이크로컨트롤러 #MCU #반도체 #전자부품 #자동차전자 #산업용전자 #IoT #센서 #전력반도체 #아날로그IC #MEMS #임베디드시스템 #스마트홈 #스마트시티 #공장자동화 #에너지관리 #유럽반도체 #정보기술 #반도체및반도체장비 #유럽 #자동차용전용IC #아날로그반도체
 
 ## 섹터
 
-섹터: [[정보기술\|정보기술]]
+섹터: [[정보기술]]
 
 ## 산업
 
-산업: [[반도체 및 반도체 장비\|반도체 및 반도체 장비]](Semiconductors & Semiconductor Equipment)
+산업: [[반도체 및 반도체 장비]](Semiconductors & Semiconductor Equipment)
 
 ## 영위사업
 
-STMicroelectronics는 [[유럽\|유럽]] 최대의 [[1.Study/★ 산업/반도체 산업/반도체\|반도체]] 기업으로, 다양한 산업 분야에 걸쳐 광범위한 반도체 제품을 설계, 개발, 제조 및 판매합니다. 주요 사업 부문은 다음과 같습니다:
+STMicroelectronics는 [[유럽]] 최대의 [[반도체]] 기업으로, 다양한 산업 분야에 걸쳐 광범위한 반도체 제품을 설계, 개발, 제조 및 판매합니다. 주요 사업 부문은 다음과 같습니다:
 
-1. 아날로그 제품, [[MEMS\|MEMS]] 및 [[센서\|센서]] (AM&S)
+1. 아날로그 제품, [[MEMS]] 및 [[센서]] (AM&S)
 2. 전력 및 개별 반도체 제품 (P&D)
-3. [[1.Study/★ 산업/반도체 산업/INFO_반도체/마이크로컨트롤러\|마이크로컨트롤러]] (MCU)
+3. [[마이크로컨트롤러]] (MCU)
 4. 디지털 IC 및 RF 제품 (D&RF)
 
 STMicroelectronics는 자동차, 산업, 개인 전자기기, 통신 장비 등 다양한 응용 분야를 위한 반도체 솔루션을 제공합니다. 회사는 자체 제조 시설을 보유하고 있으며, 지속적인 R&D 투자를 통해 기술 혁신을 추구하고 있습니다.
@@ -33,23 +32,23 @@ STMicroelectronics는 자동차, 산업, 개인 전자기기, 통신 장비 등 
 
 ## 주요제품
 
-1. [[자동차용 전용 IC\|자동차용 전용 IC]] (매출 비중: 약 35%, 2023년 기준)
-2. [[아날로그 반도체\|아날로그 반도체]], 산업 및 전력 변환 IC (매출 비중: 약 30%, 2023년 기준)
-3. 범용 및 보안 MCU, [[MPU\|MPU]], EEPROM (매출 비중: 약 20%, 2023년 기준)
+1. [[자동차용 전용 IC]] (매출 비중: 약 35%, 2023년 기준)
+2. [[아날로그 반도체]], 산업 및 전력 변환 IC (매출 비중: 약 30%, 2023년 기준)
+3. 범용 및 보안 MCU, [[MPU]], EEPROM (매출 비중: 약 20%, 2023년 기준)
 4. MEMS 및 광학 센싱 솔루션 (매출 비중: 약 15%, 2023년 기준)
 
 ## 주요 고객
 
-1. Apple(US, [[2.개별종목/AAPL\|AAPL]])
-2. Bosch(DE, [[Bosch\|Bosch]])
-3. Continental(DE, [[CON\|CON]])
-4. Delta Electronics(TW, [[2308\|2308]])
-5. HP(US, [[HPQ\|HPQ]])
-6. Huawei(CN, [[Huawei\|Huawei]])
-7. Intel-Mobileye(US, [[2.개별종목/INTC\|INTC]])
-8. Samsung(KR, [[005930\|005930]])
-9. Seagate(US, [[2.개별종목/STX\|STX]])
-10. Tesla(US, [[2.개별종목/TSLA\|TSLA]])
+1. Apple(US, [[AAPL]])
+2. Bosch(DE, [[Bosch]])
+3. Continental(DE, [[CON]])
+4. Delta Electronics(TW, [[2308]])
+5. HP(US, [[HPQ]])
+6. Huawei(CN, [[Huawei]])
+7. Intel-Mobileye(US, [[INTC]])
+8. Samsung(KR, [[005930]])
+9. Seagate(US, [[STX]])
+10. Tesla(US, [[TSLA]])
 
 ## 주요 판매국가
 
@@ -57,11 +56,11 @@ STMicroelectronics는 자동차, 산업, 개인 전자기기, 통신 장비 등 
 
 ## 경쟁업체
 
-1. Infineon Technologies(DE, [[2.개별종목/IFX\|IFX]]): 자동차 및 산업용 반도체
-2. NXP Semiconductors(NL, [[2.개별종목/NXPI\|NXPI]]): 자동차 및 보안 솔루션
-3. Texas Instruments(US, [[2.개별종목/TXN\|TXN]]): 아날로그 및 임베디드 프로세싱
-4. Renesas Electronics(JP, [[6723\|6723]]): 자동차 및 산업용 반도체
-5. ON Semiconductor(US, [[2.개별종목/ON\|ON]]): 전력 및 센서 솔루션
+1. Infineon Technologies(DE, [[IFX]]): 자동차 및 산업용 반도체
+2. NXP Semiconductors(NL, [[NXPI]]): 자동차 및 보안 솔루션
+3. Texas Instruments(US, [[TXN]]): 아날로그 및 임베디드 프로세싱
+4. Renesas Electronics(JP, [[6723]]): 자동차 및 산업용 반도체
+5. ON Semiconductor(US, [[ON]]): 전력 및 센서 솔루션
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -84,11 +83,11 @@ STMicroelectronics는 2023년 기준 글로벌 반도체 시장에서 약 3%의 
 
 ## 관련 ETF
 
-1. iShares PHLX Semiconductor ETF - [[SOXX\|SOXX]]
-2. VanEck Vectors Semiconductor ETF - [[SMH\|SMH]]
-3. SPDR S&P Semiconductor ETF - [[XSD\|XSD]]
-4. Invesco PHLX Semiconductor ETF - [[SOXQ\|SOXQ]]
-5. Direxion Daily Semiconductor Bull 3X Shares - [[SOXL\|SOXL]]
+1. iShares PHLX Semiconductor ETF - [[SOXX]]
+2. VanEck Vectors Semiconductor ETF - [[SMH]]
+3. SPDR S&P Semiconductor ETF - [[XSD]]
+4. Invesco PHLX Semiconductor ETF - [[SOXQ]]
+5. Direxion Daily Semiconductor Bull 3X Shares - [[SOXL]]
 
 공유
 

@@ -1,21 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/QRVO/","created":"2025-01-21T06:51:51.396+09:00","updated":"2025-06-03T20:06:00.852+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #RF솔루션 #5G #IoT #반도체 #무선통신 #전력관리 #모바일 #인프라 #국방항공 #GaN #MEMS #UWB #커넥티비티 #센서 #아날로그혼합신호 #RFIC #필터 #증폭기 #스위치 #안테나제어
 
 ## 산업섹터
 
-섹터: [[정보기술\|정보기술]]
-산업: [[1.Study/★ 산업/반도체 산업/반도체\|반도체]]
+섹터: [[정보기술]]
+산업: [[반도체]]
 
 ## 영위사업
 
-Qorvo, Inc.(NASDAQ: QRVO)는 [[무선 통신, 유선 및 전력 시장을 위한 반도체 솔루션\|무선 통신, 유선 및 전력 시장을 위한 반도체 솔루션]]을 제공하는 글로벌 기업입니다. 주요 사업 부문은 다음과 같습니다:
+Qorvo, Inc.(NASDAQ: QRVO)는 [[무선 통신, 유선 및 전력 시장을 위한 반도체 솔루션]]을 제공하는 글로벌 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
-1. [[고성능 아날로그 반도체\|고성능 아날로그 반도체]](HPA): RF, 아날로그 혼합 신호 및 전력 관리 솔루션 제공
+1. [[고성능 아날로그 반도체]](HPA): RF, 아날로그 혼합 신호 및 전력 관리 솔루션 제공
 2. 커넥티비티 및 센서 그룹(CSG): UWB, Bluetooth LE, Zigbee, Wi-Fi 등 연결성 및 센서 솔루션 제공
 3. 첨단 셀룰러 그룹(ACG): 스마트폰, 웨어러블, 노트북 등을 위한 셀룰러 RF 솔루션 제공
 
@@ -33,21 +32,21 @@ Qorvo, Inc.(NASDAQ: QRVO)는 [[무선 통신, 유선 및 전력 시장을 위한
 
 전방산업:
 
-- 스마트폰 제조: Apple(US, [[2.개별종목/AAPL\|AAPL]]), Samsung Electronics(KR, [[005930\|005930]])
-- 통신 장비: Ericsson(SE, [[ERIC\|ERIC]]), Nokia(FI, [[NOKIA\|NOKIA]])
-- 자동차 전자: Continental(DE, [[CON\|CON]]), Bosch(DE, [[Bosch\|Bosch]])
+- 스마트폰 제조: Apple(US, [[AAPL]]), Samsung Electronics(KR, [[005930]])
+- 통신 장비: Ericsson(SE, [[ERIC]]), Nokia(FI, [[NOKIA]])
+- 자동차 전자: Continental(DE, [[CON]]), Bosch(DE, [[Bosch]])
 
 후방산업:
 
-- 반도체 장비: ASML(NL, [[2.개별종목/ASML\|ASML]]), Applied Materials(US, [[2.개별종목/AMAT\|AMAT]])
-- 웨이퍼 제조: Shin-Etsu Chemical(JP, [[4063\|4063]]), SUMCO(JP, [[3436\|3436]])
-- 패키징 및 테스트: ASE Technology(TW, [[ASX\|ASX]]), Amkor Technology(US, [[2.개별종목/AMKR\|AMKR]])
+- 반도체 장비: ASML(NL, [[ASML]]), Applied Materials(US, [[AMAT]])
+- 웨이퍼 제조: Shin-Etsu Chemical(JP, [[4063]]), SUMCO(JP, [[3436]])
+- 패키징 및 테스트: ASE Technology(TW, [[ASX]]), Amkor Technology(US, [[AMKR]])
 
 ## 주요제품
 
-- RF 솔루션: [[모바일 기기용 RF 프론트엔드 모듈\|모바일 기기용 RF 프론트엔드 모듈]], 매출의 약 60% (2024년 기준)
-- 인프라 및 국방: 기지국, [[레이더 시스템용 솔루션\|레이더 시스템용 솔루션]], 매출의 약 25% (2024년 기준)
-- [[IoT\|IoT]] 및 기타: 커넥티비티, 센서 솔루션, 매출의 약 15% (2024년 기준)
+- RF 솔루션: [[모바일 기기용 RF 프론트엔드 모듈]], 매출의 약 60% (2024년 기준)
+- 인프라 및 국방: 기지국, [[레이더 시스템용 솔루션]], 매출의 약 25% (2024년 기준)
+- [[IoT]] 및 기타: 커넥티비티, 센서 솔루션, 매출의 약 15% (2024년 기준)
 
 ## 주요 판매국가
 
@@ -55,11 +54,11 @@ Qorvo, Inc.(NASDAQ: QRVO)는 [[무선 통신, 유선 및 전력 시장을 위한
 
 ## 경쟁업체
 
-- Broadcom Inc.(US, [[2.개별종목/AVGO\|AVGO]])
-- Skyworks Solutions Inc.(US, [[2.개별종목/SWKS\|SWKS]])
-- Analog Devices Inc.(US, [[2.개별종목/ADI\|ADI]])
-- Murata Manufacturing Co.(JP, [[6981\|6981]])
-- Qualcomm Inc.(US, [[2.개별종목/QCOM\|QCOM]])
+- Broadcom Inc.(US, [[AVGO]])
+- Skyworks Solutions Inc.(US, [[SWKS]])
+- Analog Devices Inc.(US, [[ADI]])
+- Murata Manufacturing Co.(JP, [[6981]])
+- Qualcomm Inc.(US, [[QCOM]])
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -81,11 +80,11 @@ Qorvo의 정확한 글로벌 시장 점유율 데이터는 제공되지 않았�
 
 ## 관련 ETF
 
-- VanEck Semiconductor ETF - [[SMH\|SMH]]
-- iShares Semiconductor ETF - [[SOXX\|SOXX]]
-- SPDR S&P Semiconductor ETF - [[XSD\|XSD]]
-- Invesco PHLX Semiconductor ETF - [[SOXQ\|SOXQ]]
-- Direxion Daily Semiconductor Bull 3X Shares - [[SOXL\|SOXL]]
+- VanEck Semiconductor ETF - [[SMH]]
+- iShares Semiconductor ETF - [[SOXX]]
+- SPDR S&P Semiconductor ETF - [[XSD]]
+- Invesco PHLX Semiconductor ETF - [[SOXQ]]
+- Direxion Daily Semiconductor Bull 3X Shares - [[SOXL]]
 
 공유
 

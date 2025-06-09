@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/CLF/","created":"2025-02-11T12:50:17.629+09:00","updated":"2025-06-03T20:05:58.284+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #철강생산 #철광석채굴 #수직계열화 #전기아크로 #자동차강판 #특수강 #재활용철강 #탄소중립 #수소환원제철 #전기차배터리소재 #ESG #원자재 #미국제조업 #인프라투자 #관세정책 #노동조합 #철스크랩 #HBI #열연강판 #냉연강판
 
 ## 산업섹터
 
-섹터: [[소재\|소재]]
-산업: [[1.Study/★ 산업/원자재 산업/2.철강/철강\|철강]]
+섹터: [[소재]]
+산업: [[철강]]
 
 ## 영위사업
 
-Cleveland-Cliffs Inc(NYSE: CLF)는 [[미국 최대의 평판 압연 강철 생산업체\|미국 최대의 평판 압연 강철 생산업체]]이자 북미에서 가장 큰 [[철광석 펠릿 공급업체\|철광석 펠릿 공급업체]]입니다. 회사는 1847년에 설립되었으며, 최근 몇 년간의 전략적 인수를 통해 완전 수직 계열화된 철강 회사로 변모했습니다.주요 사업 부문:
+Cleveland-Cliffs Inc(NYSE: CLF)는 [[미국 최대의 평판 압연 강철 생산업체]]이자 북미에서 가장 큰 [[철광석 펠릿 공급업체]]입니다. 회사는 1847년에 설립되었으며, 최근 몇 년간의 전략적 인수를 통해 완전 수직 계열화된 철강 회사로 변모했습니다.주요 사업 부문:
 
 1. 철강 생산: 열연, 냉연, 도금 강판 등 다양한 철강 제품 생산
 2. 철광석 채굴 및 가공: 자체 철광산 운영 및 펠릿 생산
@@ -34,22 +33,22 @@ Cleveland-Cliffs Inc(NYSE: CLF)는 [[미국 최대의 평판 압연 강철 생�
 
 전방산업:
 
-- 자동차 제조: General Motors(US, [[2.개별종목/GM\|GM]]), Ford(US, [[2.개별종목/F\|F]])
-- 건설 및 인프라: Caterpillar(US, [[2.개별종목/CAT\|CAT]]), Deere & Company(US, [[2.개별종목/DE\|DE]])
-- 가전 제조: Whirlpool(US, [[2.개별종목/WHR\|WHR]]), Electrolux(SE, [[ELUX-B\|ELUX-B]])
+- 자동차 제조: General Motors(US, [[GM]]), Ford(US, [[F]])
+- 건설 및 인프라: Caterpillar(US, [[CAT]]), Deere & Company(US, [[DE]])
+- 가전 제조: Whirlpool(US, [[WHR]]), Electrolux(SE, [[ELUX-B]])
 
 후방산업:
 
-- 광산 장비: Joy Global(현 Komatsu Mining Corp.), Caterpillar(US, [[2.개별종목/CAT\|CAT]])
-- 에너지: ExxonMobil(US, [[2.개별종목/XOM\|XOM]]), Chevron(US, [[2.개별종목/CVX\|CVX]])
-- 운송: Union Pacific(US, [[2.개별종목/UNP\|UNP]]), Canadian National Railway(CA, [[2.개별종목/CNI\|CNI]])
+- 광산 장비: Joy Global(현 Komatsu Mining Corp.), Caterpillar(US, [[CAT]])
+- 에너지: ExxonMobil(US, [[XOM]]), Chevron(US, [[CVX]])
+- 운송: Union Pacific(US, [[UNP]]), Canadian National Railway(CA, [[CNI]])
 
 ## 주요제품
 
-- [[열연강판\|열연강판]]: 자동차, 건설 등에 사용, 매출의 약 40% (2024년 기준)
-- [[냉연강판\|냉연강판]]: 가전, 포장 등에 사용, 매출의 약 25% (2024년 기준)
-- [[도금강판\|도금강판]]: 자동차, 건설 등에 사용, 매출의 약 20% (2024년 기준)
-- [[철광석 펠릿\|철광석 펠릿]]: 자체 사용 및 판매, 매출의 약 15% (2024년 기준)
+- [[열연강판]]: 자동차, 건설 등에 사용, 매출의 약 40% (2024년 기준)
+- [[냉연강판]]: 가전, 포장 등에 사용, 매출의 약 25% (2024년 기준)
+- [[도금강판]]: 자동차, 건설 등에 사용, 매출의 약 20% (2024년 기준)
+- [[철광석 펠릿]]: 자체 사용 및 판매, 매출의 약 15% (2024년 기준)
 
 ## 주요 판매국가
 
@@ -57,15 +56,15 @@ Cleveland-Cliffs Inc(NYSE: CLF)는 [[미국 최대의 평판 압연 강철 생�
 
 ## 경쟁업체
 
-- Nucor Corporation(US, [[2.개별종목/NUE\|NUE]]): 미국 최대의 철강 생산업체
-- United States Steel Corporation(US, [[2.개별종목/X\|X]]): 통합 철강 생산업체
-- Steel Dynamics(US, [[2.개별종목/STLD\|STLD]]): 미니밀 기반 철강 생산업체
-- ArcelorMittal(LU, [[2.개별종목/MT\|MT]]): 세계 최대의 철강 생산업체
-- POSCO Holdings(KR, [[005490\|005490]]): 한국의 대표적 철강 기업
+- Nucor Corporation(US, [[NUE]]): 미국 최대의 철강 생산업체
+- United States Steel Corporation(US, [[X]]): 통합 철강 생산업체
+- Steel Dynamics(US, [[STLD]]): 미니밀 기반 철강 생산업체
+- ArcelorMittal(LU, [[MT]]): 세계 최대의 철강 생산업체
+- POSCO Holdings(KR, [[005490]]): 한국의 대표적 철강 기업
 
 ## 산업 내 글로벌 시장 점유율
 
-Cleveland-Cliffs는 2024년 기준 북미 철강 시장에서 약 20%의 점유율을 보유하고 있으며, 미국 내에서는 약 25%의 시장 점유율로 2위를 차지하고 있습니다. 특히 [[자동차용 강판\|자동차용 강판]] 시장에서는 약 30%의 점유율로 선두를 유지하고 있습니다. 최근 3년간 시장 점유율은 전략적 인수를 통해 꾸준히 증가하는 추세를 보이고 있습니다.
+Cleveland-Cliffs는 2024년 기준 북미 철강 시장에서 약 20%의 점유율을 보유하고 있으며, 미국 내에서는 약 25%의 시장 점유율로 2위를 차지하고 있습니다. 특히 [[자동차용 강판]] 시장에서는 약 30%의 점유율로 선두를 유지하고 있습니다. 최근 3년간 시장 점유율은 전략적 인수를 통해 꾸준히 증가하는 추세를 보이고 있습니다.
 
 ## 최근 3년 내 주요 이슈
 
@@ -84,11 +83,11 @@ Cleveland-Cliffs는 2024년 기준 북미 철강 시장에서 약 20%의 점유�
 
 ## 관련 ETF
 
-- VanEck Vectors Steel ETF - [[SLX\|SLX]]
-- Materials Select Sector SPDR Fund - [[XLB\|XLB]]
-- iShares U.S. Basic Materials ETF - [[IYM\|IYM]]
-- Invesco S&P 500 Equal Weight Materials ETF - [[RTM\|RTM]]
-- SPDR S&P Metals and Mining ETF - [[XME\|XME]]
+- VanEck Vectors Steel ETF - [[SLX]]
+- Materials Select Sector SPDR Fund - [[XLB]]
+- iShares U.S. Basic Materials ETF - [[IYM]]
+- Invesco S&P 500 Equal Weight Materials ETF - [[RTM]]
+- SPDR S&P Metals and Mining ETF - [[XME]]
 
 공유
 

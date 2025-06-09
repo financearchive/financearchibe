@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/PLTR/","created":"2024-09-10T16:28:10.728+09:00","updated":"2025-06-03T20:06:00.716+09:00"}
+dg-publish: true
 ---
-
 - 최근이슈
 	- 2024년
-		- [[00.투자기록/과거/2024/12월/2024-12-06\|2024-12-06]] ,FedRAMP 하이 베이스라인 승인 획득
+		- [[2024-12-06]] ,FedRAMP 하이 베이스라인 승인 획득
 			- 팔란티어는 팔란티어 연방 클라우드 서비스(PFCS) 및 팔란티어 연방 클라우드 서비스 - 지원 서비스에 대한 FedRAMP 하이 승인을 받았습니다. 이러한 승인은 팔란티어의 모든 제품 및 프로그램에 적용되며, 따라서 팔란티어는 미국 정부에 FedRAMP High 기준의 모든 제품을 제공할 수 있습니다. 
 			  
 			  FedRAMP는 클라우드 기술 및 연방 기관에 보안 및 위험 평가에 대한 표준화된 접근 방식을 제공함으로써 연방 정부 전반에 걸쳐 안전한 클라우드 서비스 채택을 촉진하는 정부 차원의 프로그램입니다. 
@@ -19,21 +18,21 @@
 
 - 최근이슈
 	- 2025년
-		- [[2025-03-08\|2025-03-08]], 팔란티어의 FY4Q24 실적에서 가장 놀라운 숫자는 매출성장률과 FCF 마진이었다. 
+		- [[2025-03-08]], 팔란티어의 FY4Q24 실적에서 가장 놀라운 숫자는 매출성장률과 FCF 마진이었다. 
 		  
-		  [[SaaS\|SaaS]]는 수익 모델이 구독 형태이기에 시장점유율 확보를 위한 초기 투자가 매우 중요하고, 그 이후에 매출이 지속적으로 발생(recurring)한다는 특징이 있다. 또한 연단위 계약을 하고 현금이 매월 들어오는 구조이 기 때문에, FCF가 현재 기업의 이익 상태를 가장 직접적으로 보여준다고 해석이 가능하다. 팔란티어의 경우 정부 사업은 주로 단일 계약 형태이지만, 커머셜 제품 Foundry는 구독 형 태이다. 그리고 최근 매출의 중심인 AIP는 플랫폼은 라이선스 매출이고, LLM API는 사용량에 따라 과금하는 형태로 두 종류가 혼합되어 있다. 따라서 현금흐름 확대는 사용량 증가와 밀접 하게 연관된다고 해석한다. 현금흐름의 폭발적 증가는, 그만큼 팔란티어 제품의 수요가 늘어났다는 것을 의미한다. 매 출성장률과 현금흐름은 DCF의 주요 팩터기도 하다. 따라서 현금흐름 상승세가 지속되는 것은 주가에 대한 기대감을 강화하는 요인으로 지속 작용할 것으로 판단한다.
+		  [[SaaS]]는 수익 모델이 구독 형태이기에 시장점유율 확보를 위한 초기 투자가 매우 중요하고, 그 이후에 매출이 지속적으로 발생(recurring)한다는 특징이 있다. 또한 연단위 계약을 하고 현금이 매월 들어오는 구조이 기 때문에, FCF가 현재 기업의 이익 상태를 가장 직접적으로 보여준다고 해석이 가능하다. 팔란티어의 경우 정부 사업은 주로 단일 계약 형태이지만, 커머셜 제품 Foundry는 구독 형 태이다. 그리고 최근 매출의 중심인 AIP는 플랫폼은 라이선스 매출이고, LLM API는 사용량에 따라 과금하는 형태로 두 종류가 혼합되어 있다. 따라서 현금흐름 확대는 사용량 증가와 밀접 하게 연관된다고 해석한다. 현금흐름의 폭발적 증가는, 그만큼 팔란티어 제품의 수요가 늘어났다는 것을 의미한다. 매 출성장률과 현금흐름은 DCF의 주요 팩터기도 하다. 따라서 현금흐름 상승세가 지속되는 것은 주가에 대한 기대감을 강화하는 요인으로 지속 작용할 것으로 판단한다.
 
 
 ## 산업섹터
 
-섹터: [[정보기술\|정보기술]]  
-산업: [[소프트웨어\|소프트웨어]]
+섹터: [[정보기술]]  
+산업: [[소프트웨어]]
 
 ## 영위사업
 
-Palantir Technologies Inc는 [[데이터 분석\|데이터 분석]] 및 [[AI 솔루션\|AI 솔루션]]을 제공하는 소프트웨어 기업입니다. 주요 사업 영역은 다음과 같습니다:
+Palantir Technologies Inc는 [[데이터 분석]] 및 [[AI 솔루션]]을 제공하는 소프트웨어 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
-1. Palantir Gotham: 정부 및 [[국방\|국방]] 기관을 위한 데이터 통합 및 분석 플랫폼
+1. Palantir Gotham: 정부 및 [[국방]] 기관을 위한 데이터 통합 및 분석 플랫폼
     
 2. Palantir Foundry: 기업을 위한 데이터 관리 및 분석 플랫폼
     
@@ -62,16 +61,16 @@ Palantir Technologies Inc는 [[데이터 분석\|데이터 분석]] 및 [[AI 솔
 
 전방산업:
 
-- 정부 및 국방: 정보 분석 및 의사결정 지원 (Lockheed Martin(US, [[2.개별종목/LMT\|LMT]]), Northrop Grumman(US, [[2.개별종목/NOC\|NOC]]))
+- 정부 및 국방: 정보 분석 및 의사결정 지원 (Lockheed Martin(US, [[LMT]]), Northrop Grumman(US, [[NOC]]))
     
-- 금융 서비스: 리스크 관리 및 사기 탐지 (JPMorgan Chase(US, [[2.개별종목/JPM\|JPM]]), Goldman Sachs(US, [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/2.태양광/종목/GS\|GS]]))
+- 금융 서비스: 리스크 관리 및 사기 탐지 (JPMorgan Chase(US, [[JPM]]), Goldman Sachs(US, [[GS]]))
     
 
 후방산업:
 
-- 클라우드 인프라: 데이터 저장 및 처리 (Amazon Web Services(US, [[2.개별종목/AMZN\|AMZN]]), Microsoft Azure(US, [[2.개별종목/MSFT\|MSFT]]))
+- 클라우드 인프라: 데이터 저장 및 처리 (Amazon Web Services(US, [[AMZN]]), Microsoft Azure(US, [[MSFT]]))
     
-- 반도체: AI 및 데이터 처리 칩 (NVIDIA(US, [[2.개별종목/NVDA\|NVDA]]), Intel(US, [[2.개별종목/INTC\|INTC]]))
+- 반도체: AI 및 데이터 처리 칩 (NVIDIA(US, [[NVDA]]), Intel(US, [[INTC]]))
     
 
 ## 밸류체인
@@ -93,7 +92,7 @@ Palantir Technologies Inc는 [[데이터 분석\|데이터 분석]] 및 [[AI 솔
 
 ## 주요제품
 
-1. Palantir Gotham: [[정부 및 국방용 데이터 분석 플랫폼\|정부 및 국방용 데이터 분석 플랫폼]] (2024년 매출의 약 45%)
+1. Palantir Gotham: [[정부 및 국방용 데이터 분석 플랫폼]] (2024년 매출의 약 45%)
     
 2. Palantir Foundry: 기업용 데이터 관리 및 분석 솔루션 (2024년 매출의 약 40%)
     
@@ -108,15 +107,15 @@ Palantir Technologies Inc는 [[데이터 분석\|데이터 분석]] 및 [[AI 솔
 
 ## 경쟁업체
 
-1. IBM(US, [[2.개별종목/IBM\|IBM]]): AI 및 클라우드 컴퓨팅 솔루션
+1. IBM(US, [[IBM]]): AI 및 클라우드 컴퓨팅 솔루션
     
-2. Microsoft(US, [[2.개별종목/MSFT\|MSFT]]): 데이터 분석 및 클라우드 서비스
+2. Microsoft(US, [[MSFT]]): 데이터 분석 및 클라우드 서비스
     
-3. Oracle(US, [[2.개별종목/ORCL\|ORCL]]): 엔터프라이즈 소프트웨어 및 클라우드 솔루션
+3. Oracle(US, [[ORCL]]): 엔터프라이즈 소프트웨어 및 클라우드 솔루션
     
-4. SAP(DE, [[SAP\|SAP]]): 기업용 소프트웨어 및 분석 도구
+4. SAP(DE, [[SAP]]): 기업용 소프트웨어 및 분석 도구
     
-5. Splunk(US, [[2.개별종목/SPLK\|SPLK]]): 데이터 분석 및 보안 솔루션
+5. Splunk(US, [[SPLK]]): 데이터 분석 및 보안 솔루션
     
 
 ## 산업 내 글로벌 시장 점유율
@@ -147,12 +146,12 @@ Palantir Technologies Inc는 [[데이터 분석\|데이터 분석]] 및 [[AI 솔
 
 ## 관련 ETF
 
-1. ARK Next Generation Internet ETF - [[ARKW\|ARKW]]
+1. ARK Next Generation Internet ETF - [[ARKW]]
     
-2. iShares Expanded Tech-Software Sector ETF - [[IGV\|IGV]]
+2. iShares Expanded Tech-Software Sector ETF - [[IGV]]
     
-3. SPDR S&P Software & Services ETF - [[XSW\|XSW]]
+3. SPDR S&P Software & Services ETF - [[XSW]]
     
-4. First Trust Cloud Computing ETF - [[SKYY\|SKYY]]
+4. First Trust Cloud Computing ETF - [[SKYY]]
     
-5. Global X Artificial Intelligence & Technology ETF - [[AIQ\|AIQ]]
+5. Global X Artificial Intelligence & Technology ETF - [[AIQ]]

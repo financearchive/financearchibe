@@ -1,23 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/COP/","created":"2025-02-01T12:57:15.376+09:00","updated":"2025-06-03T20:05:58.363+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #석유가스 #업스트림 #탐사생산 #LNG #셰일오일 #천연가스 #탄소포집 #지속가능에너지 #석유화학 #글로벌에너지기업 #석유정제 #해상시추 #육상시추 #파이프라인 #에너지전환 #신재생에너지 #탄소중립 #ESG #디지털화 #에너지효율
 
 ## 산업섹터
 
-섹터: [[에너지\|에너지]]
-산업: [[석유가스탐사및생산\|석유가스탐사및생산]]
+섹터: [[에너지]]
+산업: [[석유가스탐사및생산]]
 
 ## 영위사업
 
 ConocoPhillips(NYSE: COP)는 미국의 다국적 에너지 기업으로, 주로 석유와 천연가스의 탐사, 생산, 운송 및 마케팅에 종사합니다. 회사는 전 세계 14개국에서 사업을 운영하고 있으며, 특히 북미, 아시아, 유럽, 호주 지역에 집중되어 있습니다.주요 사업 부문은 다음과 같습니다:
 
-1. [[알래스카\|알래스카]]: 북극 지역 석유 및 가스 생산
+1. [[알래스카]]: 북극 지역 석유 및 가스 생산
 2. 하부 48개주: 미국 본토의 셰일 오일 및 가스 생산
-3. [[캐나다\|캐나다]]: [[오일샌드\|오일샌드]] 및 [[1.Study/★ 산업/에너지 산업/1.화석 에너지/1.정유화학/천연가스\|천연가스]] 생산
+3. [[캐나다]]: [[오일샌드]] 및 [[천연가스]] 생산
 4. 유럽, 중동 및 북아프리카: 노르웨이, 리비아 등에서의 생산
 5. 아시아 태평양: 중국, 인도네시아, 말레이시아 등에서의 생산
 6. 기타 국제: 남미 등 기타 지역에서의 생산
@@ -36,36 +35,36 @@ ConocoPhillips(NYSE: COP)는 미국의 다국적 에너지 기업으로, 주로 
 
 전방산업:
 
-- 석유 정제: ExxonMobil(US, [[2.개별종목/XOM\|XOM]]), Chevron(US, [[2.개별종목/CVX\|CVX]])
-- 석유화학: Dow Inc.(US, [[2.개별종목/DOW\|DOW]]), LyondellBasell(US, [[LYB\|LYB]])
-- 전력 생산: NextEra Energy(US, [[2.개별종목/NEE\|NEE]]), Duke Energy(US, [[2.개별종목/DUK\|DUK]])
+- 석유 정제: ExxonMobil(US, [[XOM]]), Chevron(US, [[CVX]])
+- 석유화학: Dow Inc.(US, [[DOW]]), LyondellBasell(US, [[LYB]])
+- 전력 생산: NextEra Energy(US, [[NEE]]), Duke Energy(US, [[DUK]])
 
 후방산업:
 
-- 석유 서비스: Schlumberger(US, [[2.개별종목/SLB\|SLB]]), Halliburton(US, [[2.개별종목/HAL\|HAL]])
-- 장비 제조: Baker Hughes(US, [[2.개별종목/BKR\|BKR]]), National Oilwell Varco(US, [[2.개별종목/NOV\|NOV]])
-- 파이프라인: Kinder Morgan(US, [[2.개별종목/KMI\|KMI]]), Enterprise Products Partners(US, [[2.개별종목/EPD\|EPD]])
+- 석유 서비스: Schlumberger(US, [[SLB]]), Halliburton(US, [[HAL]])
+- 장비 제조: Baker Hughes(US, [[BKR]]), National Oilwell Varco(US, [[NOV]])
+- 파이프라인: Kinder Morgan(US, [[KMI]]), Enterprise Products Partners(US, [[EPD]])
 
 ## 밸류체인
 
-6. 탐사: ConocoPhillips(US, [[2.개별종목/COP\|COP]]) (석유 및 가스 탐사)
-7. 시추: Transocean(US, [[RIG\|RIG]]) (해상 시추 서비스)
-8. 생산: ConocoPhillips(US, [[2.개별종목/COP\|COP]]) (원유 및 천연가스 생산)
-9. 운송: Enterprise Products Partners(US, [[2.개별종목/EPD\|EPD]]) (파이프라인 운영)
-10. 정제: Phillips 66(US, [[2.개별종목/PSX\|PSX]]) (석유 정제)
-11. 유통: Shell(UK, [[SHEL\|SHEL]]) (주유소 네트워크)
+6. 탐사: ConocoPhillips(US, [[COP]]) (석유 및 가스 탐사)
+7. 시추: Transocean(US, [[RIG]]) (해상 시추 서비스)
+8. 생산: ConocoPhillips(US, [[COP]]) (원유 및 천연가스 생산)
+9. 운송: Enterprise Products Partners(US, [[EPD]]) (파이프라인 운영)
+10. 정제: Phillips 66(US, [[PSX]]) (석유 정제)
+11. 유통: Shell(UK, [[SHEL]]) (주유소 네트워크)
 
 ## 주요제품
 
-- [[1.Study/★ 산업/에너지 산업/1.화석 에너지/1.정유화학/원유\|원유]]: 다양한 유전에서 생산, 매출의 약 60% (2024년 기준)
+- [[원유]]: 다양한 유전에서 생산, 매출의 약 60% (2024년 기준)
 - 천연가스: 육상 및 해상 가스전 생산, 매출의 약 30% (2024년 기준)
-- [[1.Study/★ 산업/에너지 산업/1.화석 에너지/1.정유화학/INFO_정유, 기타에너지/LNG\|LNG]]: 액화천연가스 생산 및 판매, 매출의 약 10% (2024년 기준)
+- [[LNG]]: 액화천연가스 생산 및 판매, 매출의 약 10% (2024년 기준)
 
 ## 주요 고객
 
-- 정유사: ExxonMobil(US, [[2.개별종목/XOM\|XOM]]), Valero Energy(US, [[2.개별종목/VLO\|VLO]])
-- 석유화학 기업: Dow Inc.(US, [[2.개별종목/DOW\|DOW]]), BASF(DE, [[BAS\|BAS]])
-- 전력 회사: NextEra Energy(US, [[2.개별종목/NEE\|NEE]]), Dominion Energy(US, [[2.개별종목/D\|D]])
+- 정유사: ExxonMobil(US, [[XOM]]), Valero Energy(US, [[VLO]])
+- 석유화학 기업: Dow Inc.(US, [[DOW]]), BASF(DE, [[BAS]])
+- 전력 회사: NextEra Energy(US, [[NEE]]), Dominion Energy(US, [[D]])
 - 정부 기관: 미국 전략비축유 프로그램
 - 트레이딩 회사: Vitol, Trafigura
 
@@ -75,11 +74,11 @@ ConocoPhillips(NYSE: COP)는 미국의 다국적 에너지 기업으로, 주로 
 
 ## 경쟁업체
 
-- ExxonMobil(US, [[2.개별종목/XOM\|XOM]]): 종합 석유 회사
-- Chevron(US, [[2.개별종목/CVX\|CVX]]): 종합 석유 회사
-- Shell(UK, [[SHEL\|SHEL]]): 종합 에너지 회사
-- BP(UK, [[BP\|BP]]): 종합 에너지 회사
-- TotalEnergies(FR, [[TTE\|TTE]]): 종합 에너지 회사
+- ExxonMobil(US, [[XOM]]): 종합 석유 회사
+- Chevron(US, [[CVX]]): 종합 석유 회사
+- Shell(UK, [[SHEL]]): 종합 에너지 회사
+- BP(UK, [[BP]]): 종합 에너지 회사
+- TotalEnergies(FR, [[TTE]]): 종합 에너지 회사
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -101,8 +100,8 @@ ConocoPhillips는 2024년 기준 글로벌 석유 및 가스 생산량 기준으
 
 ## 관련 ETF
 
-- Energy Select Sector SPDR Fund - [[XLE\|XLE]]
-- iShares U.S. Energy ETF - [[IYE\|IYE]]
-- Vanguard Energy ETF - [[VDE\|VDE]]
-- SPDR S&P Oil & Gas Exploration & Production ETF - [[XOP\|XOP]]
-- Fidelity MSCI Energy Index ETF - [[FENY\|FENY]]
+- Energy Select Sector SPDR Fund - [[XLE]]
+- iShares U.S. Energy ETF - [[IYE]]
+- Vanguard Energy ETF - [[VDE]]
+- SPDR S&P Oil & Gas Exploration & Production ETF - [[XOP]]
+- Fidelity MSCI Energy Index ETF - [[FENY]]

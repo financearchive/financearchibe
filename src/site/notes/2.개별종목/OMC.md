@@ -1,14 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/OMC/","created":"2024-12-09T22:03:40.091+09:00","updated":"2025-06-03T20:06:00.516+09:00"}
+dg-publish: true
 ---
-
 #광고 #커뮤니케이션서비스 
 
 ## 산업섹터  
 
-섹터: [[커뮤니케이션 서비스\|커뮤니케이션 서비스]](Communication Services)  
+섹터: [[커뮤니케이션 서비스]](Communication Services)  
 
-산업: [[광고\|광고]](Advertising)
+산업: [[광고]](Advertising)
 
 ## 영위사업  
 
@@ -28,14 +27,14 @@ Omnicom Group은 글로벌 미디어, 마케팅 및 기업 커뮤니케이션 �
 
 ### 후방산업:
 
-- 데이터 분석 기업: Adobe(US, [[2.개별종목/ADBE\|ADBE]])
-- 클라우드 서비스 제공업체: Amazon Web Services(US, [[2.개별종목/AMZN\|AMZN]])
+- 데이터 분석 기업: Adobe(US, [[ADBE]])
+- 클라우드 서비스 제공업체: Amazon Web Services(US, [[AMZN]])
 
 ### 전방산업:
 
-- 소비재 기업: PepsiCo(US, [[2.개별종목/PEP\|PEP]]), Unilever(UK, [[ULVR.L\|ULVR.L]])
-- 자동차 제조업체: Volkswagen(DE, [[VOW3.DE\|VOW3.DE]]), Nissan(JP, [[7201.T\|7201.T]])
-- 통신 기업: AT&T(US, [[2.개별종목/T\|2.개별종목/T]])
+- 소비재 기업: PepsiCo(US, [[PEP]]), Unilever(UK, [[ULVR.L]])
+- 자동차 제조업체: Volkswagen(DE, [[VOW3.DE]]), Nissan(JP, [[7201.T]])
+- 통신 기업: AT&T(US, [[2.개별종목/T]])
 
 ## 밸류체인
 
@@ -58,10 +57,10 @@ Omnicom Group은 글로벌 미디어, 마케팅 및 기업 커뮤니케이션 �
 
 북미(54.2%), 유럽(29%), 아시아/태평양(12.1%), 라틴아메리카(2.6%), 중동 및 아프리카(2.1%)경쟁업체
 
-- WPP(UK, [[WPP.L\|WPP.L]])
-- Publicis Groupe(FR, [[PUB.PA\|PUB.PA]])
-- Interpublic Group(US, [[2.개별종목/IPG\|IPG]])
-- Dentsu Group(JP, [[4324.T\|4324.T]])
+- WPP(UK, [[WPP.L]])
+- Publicis Groupe(FR, [[PUB.PA]])
+- Interpublic Group(US, [[IPG]])
+- Dentsu Group(JP, [[4324.T]])
 
 ## 산업 내 글로벌 시장 점유율  
 

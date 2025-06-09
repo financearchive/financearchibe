@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/AMTD/","created":"2024-10-31T21:58:24.084+09:00","updated":"2025-06-03T20:05:57.648+09:00"}
+dg-publish: true
 ---
-
 #금융 #자본시장 #주식거래 
 
 ## 산업섹터
 
 섹터: [금융](Financials)  
-산업: [[자본 시장\|자본 시장]](Capital Markets)
+산업: [[자본 시장]](Capital Markets)
 
 ## 영위사업
 
@@ -27,10 +26,10 @@ TD Ameritrade는 개인 및 기관 투자자를 위한 온라인 중개 및 금�
 
 ## 경쟁업체
 
-- Charles Schwab(US, [[2.개별종목/SCHW\|SCHW]])
+- Charles Schwab(US, [[SCHW]])
 - Fidelity Investments
 - E*TRADE (Morgan Stanley의 자회사)
-- Robinhood Markets(US, [[2.개별종목/HOOD\|HOOD]])
+- Robinhood Markets(US, [[HOOD]])
 
 ## 주요 특징
 

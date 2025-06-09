@@ -1,36 +1,35 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/LCID/","created":"2024-10-18T14:52:39.826+09:00","updated":"2025-06-03T20:05:59.844+09:00"}
+dg-publish: true
 ---
-
 #임의소비재 #자동차 #전기차 
 
 #### 산업섹터 및 영위사업
 
-- **산업섹터(Sector)**: [[임의소비재\|임의소비재]](Consumer Cyclical)
-- **산업(Industry)**: [[1.Study/★ 산업/자동차 산업/자동차\|자동차]](Automotive)
+- **산업섹터(Sector)**: [[임의소비재]](Consumer Cyclical)
+- **산업(Industry)**: [[자동차]](Automotive)
 
 #### 전방/후방산업
 
 - **전방산업**: 소매업, 자동차 판매 및 서비스
     - **핵심 산업 및 역할**: 자동차 딜러, 온라인 자동차 판매 플랫폼 등. 이들은 Lucid 차량을 최종 소비자에게 판매합니다.
-    - **관련 기업**: AutoNation Inc. (미국, [[2.개별종목/AN\|AN]]), Carvana Co. (미국, [[2.개별종목/CVNA\|CVNA]])
+    - **관련 기업**: AutoNation Inc. (미국, [[AN]]), Carvana Co. (미국, [[CVNA]])
       
 - **후방산업**: 배터리 제조, 전자 부품 공급업체
     - **핵심 산업 및 역할**: 배터리 제조업체와 전자 부품 공급업체는 Lucid 차량의 핵심 부품을 제공합니다.
-    - **관련 기업**: [[Panasonic\|Panasonic]] Corporation (일본, 6752), [[1.Study/★ 산업/이차전지, 배터리 산업/1.이차전지/종목/LG에너지솔루션\|LG에너지솔루션]] (한국, 373220)
+    - **관련 기업**: [[Panasonic]] Corporation (일본, 6752), [[LG에너지솔루션]] (한국, 373220)
 
 #### 밸류체인
 
 - **원재료 조달**: 배터리 및 전자 부품 조달
-    - **대표 회사**: [[Panasonic\|Panasonic]] Corporation (일본, 6752),[[1.Study/★ 산업/이차전지, 배터리 산업/1.이차전지/종목/LG에너지솔루션\|LG에너지솔루션]] (한국, 373220)
+    - **대표 회사**: [[Panasonic]] Corporation (일본, 6752),[[LG에너지솔루션]] (한국, 373220)
 - **제조 및 생산**: 전기차 제조 및 생산
-    - **대표 회사**: Tesla Inc. (미국, [[2.개별종목/TSLA\|TSLA]]), Rivian Automotive Inc. (미국, [[2.개별종목/RIVN\|RIVN]])
+    - **대표 회사**: Tesla Inc. (미국, [[TSLA]]), Rivian Automotive Inc. (미국, [[RIVN]])
 - **유통 및 판매**: 차량 유통 및 판매
-    - **대표 회사**: AutoNation Inc. (미국, [[2.개별종목/AN\|AN]]), Carvana Co. (미국, [[2.개별종목/CVNA\|CVNA]])
+    - **대표 회사**: AutoNation Inc. (미국, [[AN]]), Carvana Co. (미국, [[CVNA]])
 
 #### 주요제품
 
-- **[[1.Study/★ 산업/자동차 산업/전기차/전기차\|전기차]]**: Lucid Air (럭셔리 전기 세단)
+- **[[전기차]]**: Lucid Air (럭셔리 전기 세단)
 - **향후 출시 예정**: Lucid Gravity (전기 SUV, 2024년 말 생산 예정)
 
 #### 주요 판매국가
@@ -41,9 +40,9 @@
 
 #### 경쟁업체
 
-- **Tesla Inc. (미국, [[2.개별종목/TSLA\|TSLA]])**: 전기차
-- **Rivian Automotive Inc. (미국, [[2.개별종목/RIVN\|RIVN]])**: 전기차
-- **NIO Inc. (중국, [[2.개별종목/NIO\|NIO]])**: 전기차
+- **Tesla Inc. (미국, [[TSLA]])**: 전기차
+- **Rivian Automotive Inc. (미국, [[RIVN]])**: 전기차
+- **NIO Inc. (중국, [[NIO]])**: 전기차
 
 #### 산업 내 글로벌 시장 점유율
 

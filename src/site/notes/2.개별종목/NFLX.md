@@ -1,29 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/NFLX/","created":"2024-08-21T17:26:56.547+09:00","updated":"2025-06-03T20:06:00.336+09:00"}
+dg-publish: true
 ---
-
 #소프트웨어 #테크 #스트리밍 #동영상 #통신 #콘텐츠 #미디어 #엔터테인먼트 #커뮤니케이션서비스 #OTT
 
 
-**산업섹터 (Sector):** [[커뮤니케이션 서비스\|커뮤니케이션 서비스]] (Communication Services)  
+**산업섹터 (Sector):** [[커뮤니케이션 서비스]] (Communication Services)  
 
-**산업 (Industry):** [[엔터테인먼트\|엔터테인먼트]] (Entertainment)
+**산업 (Industry):** [[엔터테인먼트]] (Entertainment)
 
 ### 영위사업
 
-Netflix, Inc.는 전 세계적으로 스트리밍 엔터테인먼트 서비스를 제공하는 회사([[OTT\|OTT]])입니다. 주요 서비스로는 TV 시리즈, 다큐멘터리, 영화 및 게임을 다양한 장르와 언어로 제공하며, 인터넷에 연결된 다양한 장치에서 스트리밍 콘텐츠를 제공합니다. 또한, 오리지널 콘텐츠 제작에도 집중하고 있습니다
+Netflix, Inc.는 전 세계적으로 스트리밍 엔터테인먼트 서비스를 제공하는 회사([[OTT]])입니다. 주요 서비스로는 TV 시리즈, 다큐멘터리, 영화 및 게임을 다양한 장르와 언어로 제공하며, 인터넷에 연결된 다양한 장치에서 스트리밍 콘텐츠를 제공합니다. 또한, 오리지널 콘텐츠 제작에도 집중하고 있습니다
 
 ### 전방/후방산업
 
 **전방산업:**
 
-- 광고주: Procter & Gamble (US, [[2.개별종목/PG\|PG]]), Coca-Cola (US, [[2.개별종목/KO\|KO]])
-- 콘텐츠 제작자: Disney (US, [[2.개별종목/DIS\|DIS]]), Warner Bros. Discovery (US, [[DISCA\|DISCA]])
+- 광고주: Procter & Gamble (US, [[PG]]), Coca-Cola (US, [[KO]])
+- 콘텐츠 제작자: Disney (US, [[DIS]]), Warner Bros. Discovery (US, [[DISCA]])
 
 **후방산업:**
 
-- 데이터 센터 운영업체: Equinix (US, [[2.개별종목/EQIX\|EQIX]]), Digital Realty (US, [[2.개별종목/DLR\|DLR]])
-- 반도체 제조업체: Intel (US, [[2.개별종목/INTC\|INTC]]), NVIDIA (US, [[2.개별종목/NVDA\|NVDA]])
+- 데이터 센터 운영업체: Equinix (US, [[EQIX]]), Digital Realty (US, [[DLR]])
+- 반도체 제조업체: Intel (US, [[INTC]]), NVIDIA (US, [[NVDA]])
 
 ### 주요제품
 
@@ -39,9 +38,9 @@ Netflix, Inc.는 전 세계적으로 스트리밍 엔터테인먼트 서비스�
 
 ### 경쟁업체
 
-- **Disney+ (US, [[2.개별종목/DIS\|DIS]]):** 스트리밍 서비스 (시장 점유율 15%)
-- **Amazon Prime Video (US, [[2.개별종목/AMZN\|2.개별종목/AMZN]]):** 스트리밍 서비스 (시장 점유율 10%)
-- **Hulu (US, [[DISCA\|DISCA]]):** 스트리밍 서비스 (시장 점유율 8%)
+- **Disney+ (US, [[DIS]]):** 스트리밍 서비스 (시장 점유율 15%)
+- **Amazon Prime Video (US, [[2.개별종목/AMZN]]):** 스트리밍 서비스 (시장 점유율 10%)
+- **Hulu (US, [[DISCA]]):** 스트리밍 서비스 (시장 점유율 8%)
 
 ### 산업 내 글로벌 시장 점유율
 

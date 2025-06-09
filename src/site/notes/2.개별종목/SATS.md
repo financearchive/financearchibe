@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/SATS/","created":"2024-11-13T22:38:05.727+09:00","updated":"2025-06-03T20:06:01.087+09:00"}
+dg-publish: true
 ---
-
 #커뮤니케이션서비스 #위성통신 #고속위성인터넷 #위성방송  #정지궤도위성 #통신위성 #소형위성 
 
 ## 산업 섹터
 
-- **Sector(산업섹터)**: Communication Services([[커뮤니케이션 서비스\|커뮤니케이션 서비스]])
-- **Industry(산업)**: Satellite Communication([[위성 통신\|위성 통신]])
+- **Sector(산업섹터)**: Communication Services([[커뮤니케이션 서비스]])
+- **Industry(산업)**: Satellite Communication([[위성 통신]])
 
 ## 영위 사업
 
-EchoStar Corporation은 미국에 본사를 둔 [[위성 통신\|위성 통신]] 및 인터넷 서비스 제공업체입니다. 이 회사는 Hughes Network Systems와 EchoStar Satellite Services를 통해 위성 기반의 통신 솔루션을 제공하며, Dish Network 브랜드 하에 텔레비전 서비스를 운영합니다. EchoStar는 2008년에 비소비자 자산을 분리하여 현재의 형태로 재편성되었으며, 2023년에는 Dish Network와의 합병을 통해 사업을 통합했습니다.
+EchoStar Corporation은 미국에 본사를 둔 [[위성 통신]] 및 인터넷 서비스 제공업체입니다. 이 회사는 Hughes Network Systems와 EchoStar Satellite Services를 통해 위성 기반의 통신 솔루션을 제공하며, Dish Network 브랜드 하에 텔레비전 서비스를 운영합니다. EchoStar는 2008년에 비소비자 자산을 분리하여 현재의 형태로 재편성되었으며, 2023년에는 Dish Network와의 합병을 통해 사업을 통합했습니다.
 
-- 자회사 Hughes Network Systems를 보유. [[1.Study/★ 산업/항공,우주,방위 산업/2.우주/INFO_우주/정지궤도 위성\|정지궤도 위성]](GEO), [[1.Study/★ 산업/항공,우주,방위 산업/2.우주/INFO_우주/통신 위성\|통신 위성]] 활용 광범위 위성 통신 및 인터넷 서비스
+- 자회사 Hughes Network Systems를 보유. [[정지궤도 위성]](GEO), [[통신 위성]] 활용 광범위 위성 통신 및 인터넷 서비스
 
 ## 전방/후방 산업
 
@@ -23,8 +22,8 @@ EchoStar Corporation은 미국에 본사를 둔 [[위성 통신\|위성 통신]]
     - **역할**: 최종 소비자에게 위성 및 인터넷 서비스 제공
     - **주요 기업**:
         
-        - Dish Network (미국, [[2.개별종목/DISH\|DISH]]) - 위성 TV 서비스 제공
-        - Comcast (미국, [[2.개별종목/CMCSA\|CMCSA]]) - 케이블 TV 및 인터넷 서비스 제공
+        - Dish Network (미국, [[DISH]]) - 위성 TV 서비스 제공
+        - Comcast (미국, [[CMCSA]]) - 케이블 TV 및 인터넷 서비스 제공
         
     
 - **후방 산업 (Upstream Industry)**:
@@ -33,8 +32,8 @@ EchoStar Corporation은 미국에 본사를 둔 [[위성 통신\|위성 통신]]
     - **역할**: EchoStar의 서비스에 필요한 위성 및 장비 공급
     - **주요 기업**:
         
-        - Boeing (미국, [[2.개별종목/BA\|BA]]) - 위성 및 항공기 제조
-        - Lockheed Martin (미국, [[2.개별종목/LMT\|LMT]]) - 방산 및 우주 시스템 제공
+        - Boeing (미국, [[BA]]) - 위성 및 항공기 제조
+        - Lockheed Martin (미국, [[LMT]]) - 방산 및 우주 시스템 제공
         
     
 
@@ -46,7 +45,7 @@ EchoStar Corporation은 미국에 본사를 둔 [[위성 통신\|위성 통신]]
     - 대표 기업:
         
         - Intelsat (룩셈부르크, 비상장) - 글로벌 위성 통신 서비스 제공
-        - SES S.A. (룩셈부르크, [[2.개별종목/SESG\|SESG]]) - 위성 기반 데이터 전송 서비스 제공
+        - SES S.A. (룩셈부르크, [[SESG]]) - 위성 기반 데이터 전송 서비스 제공
         
     
 - **텔레비전 방송 서비스**:
@@ -58,11 +57,11 @@ EchoStar Corporation은 미국에 본사를 둔 [[위성 통신\|위성 통신]]
 
 ## 주요 제품
 
-- **HughesNet**: [[고속 위성 인터넷 \|고속 위성 인터넷 ]]서비스로 사용됩니다.
+- **HughesNet**: [[고속 위성 인터넷 ]]서비스로 사용됩니다.
     
     - 매출 비중: 전체 매출의 약 40% 차지.
     
-- **[[위성 방송\|위성 방송]] 서비스**: Dish Network를 통해 제공되는 텔레비전 방송입니다.
+- **[[위성 방송]] 서비스**: Dish Network를 통해 제공되는 텔레비전 방송입니다.
     
     - 매출 비중: 전체 매출의 약 30% 차지.
     
@@ -73,8 +72,8 @@ EchoStar는 미국을 주요 시장으로 하며, 유럽 및 아시아 태평양
 
 ## 경쟁업체
 
-- **Dish Network (미국, [[2.개별종목/DISH\|DISH]])**: 위성 TV 및 인터넷 서비스 제공.
-- **Comcast (미국, [[2.개별종목/CMCSA\|CMCSA]])**: 케이블 TV 및 인터넷 서비스 제공.
+- **Dish Network (미국, [[DISH]])**: 위성 TV 및 인터넷 서비스 제공.
+- **Comcast (미국, [[CMCSA]])**: 케이블 TV 및 인터넷 서비스 제공.
 
 ## 산업 내 글로벌 시장 점유율
 

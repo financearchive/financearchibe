@@ -1,24 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/RL/","created":"2024-12-06T21:22:13.730+09:00","updated":"2025-06-03T20:06:00.984+09:00"}
+dg-publish: true
 ---
-
 #임의소비재 #의류 #사치품 #향수 
 
 ## 산업섹터
 
-섹터: [[임의소비재\|임의소비재]](Consumer Cyclical)  
-산업: [[의류\|의류]], 액세서리 및 [[사치품\|사치품]](Apparel, Accessories & Luxury Goods)
+섹터: [[임의소비재]](Consumer Cyclical)  
+산업: [[의류]], 액세서리 및 [[사치품]](Apparel, Accessories & Luxury Goods)
 
 ## 영위사업
 
-의류, 액세서리, 신발, 가정용품, [[향수\|향수]] 등 프리미엄 라이프스타일 제품의 디자인, 유통 및 마케팅
+의류, 액세서리, 신발, 가정용품, [[향수]] 등 프리미엄 라이프스타일 제품의 디자인, 유통 및 마케팅
 
 ## 전방/후방산업
 
 ## 후방산업
 
 - 섬유 제조업체: 의류 생산을 위한 원자재 공급
-- 향수 및 화장품 제조업체: L'Oréal(FR, [[OR.PA\|OR.PA]])
+- 향수 및 화장품 제조업체: L'Oréal(FR, [[OR.PA]])
 
 ## 전방산업
 
@@ -45,9 +44,9 @@
 
 ## 경쟁업체
 
-- Burberry(UK, [[BRBY.L\|BRBY.L]]): 영국 럭셔리 패션
-- 필립스 반 휴센(US, [[2.개별종목/PVH\|PVH]]): 현대적 디자인 의류
-- Capri Holdings(US, [[2.개별종목/CPRI\|CPRI]]): 현대적 럭셔리 의류
+- Burberry(UK, [[BRBY.L]]): 영국 럭셔리 패션
+- 필립스 반 휴센(US, [[PVH]]): 현대적 디자인 의류
+- Capri Holdings(US, [[CPRI]]): 현대적 럭셔리 의류
 - Brooks Brothers: 클래식 미국 스타일 의류
 
 ## 산업 내 글로벌 시장 점유율

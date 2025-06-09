@@ -1,18 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/BLDP/","created":"2024-12-03T20:19:22.016+09:00","updated":"2025-06-03T20:05:57.992+09:00"}
+dg-publish: true
 ---
-
 #산업재 #전기장비 #프로톤교환막 #연료전지 #PEM #프로톤교환막연료전지
 
 
 ## 산업섹터
 
-섹터: [[산업재\|산업재]](Industrials)  
-산업: [[전기 장비\|전기 장비]](Electrical Equipment)
+섹터: [[산업재]](Industrials)  
+산업: [[전기 장비]](Electrical Equipment)
 
 ## 영위사업
 
-Ballard Power Systems는 [[프로톤 교환막\|프로톤 교환막]]([[PEM\|PEM]]) [[연료전지\|연료전지]] 제품을 설계, 개발, 제조, 판매 및 서비스하는 기업입니다. 주로 중장비 모빌리티, 휴대용 전원, 물류 처리, 백업 전원 등의 시장에 제품을 공급합니다.
+Ballard Power Systems는 [[프로톤 교환막]]([[PEM]]) [[연료전지]] 제품을 설계, 개발, 제조, 판매 및 서비스하는 기업입니다. 주로 중장비 모빌리티, 휴대용 전원, 물류 처리, 백업 전원 등의 시장에 제품을 공급합니다.
 
 ## 전방/후방산업
 
@@ -23,8 +22,8 @@ Ballard Power Systems는 [[프로톤 교환막\|프로톤 교환막]]([[PEM\|PEM
 
 ## 전방산업
 
-- 자동차 제조업체: 연료전지 시스템 도입 (예: Daimler AG(독일, [[DAI.DE\|DAI.DE]]), Ford Motor Company(US, [[2.개별종목/F\|F]]))
-- 물류 기업: 지게차 등 물류 장비에 연료전지 적용 (예: Amazon(US, [[2.개별종목/AMZN\|AMZN]]))
+- 자동차 제조업체: 연료전지 시스템 도입 (예: Daimler AG(독일, [[DAI.DE]]), Ford Motor Company(US, [[F]]))
+- 물류 기업: 지게차 등 물류 장비에 연료전지 적용 (예: Amazon(US, [[AMZN]]))
 
 ## 밸류체인
 
@@ -47,13 +46,13 @@ Ballard Power Systems는 [[프로톤 교환막\|프로톤 교환막]]([[PEM\|PEM
 
 ## 경쟁업체
 
-- Plug Power(US, [[2.개별종목/PLUG\|PLUG]]): 수소 연료전지 시스템
-- FuelCell Energy(US, [[2.개별종목/FCEL\|FCEL]]): 고체 산화물 및 용융탄산염 연료전지
-- Bloom Energy(US, [[2.개별종목/BE\|BE]]): 고체 산화물 연료전지
+- Plug Power(US, [[PLUG]]): 수소 연료전지 시스템
+- FuelCell Energy(US, [[FCEL]]): 고체 산화물 및 용융탄산염 연료전지
+- Bloom Energy(US, [[BE]]): 고체 산화물 연료전지
 
 ## 산업 내 글로벌 시장 점유율
 
-정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Ballard는 PEM [[프로톤 교환막 연료전지\|프로톤 교환막 연료전지]] 시장에서 주요 플레이어 중 하나입니다.
+정확한 글로벌 시장 점유율 데이터는 제공되지 않았으나, Ballard는 PEM [[프로톤 교환막 연료전지]] 시장에서 주요 플레이어 중 하나입니다.
 
 ## 최근 3년 내 주요 이슈
 

@@ -1,33 +1,32 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/KO/","created":"2024-10-23T21:05:42.397+09:00","updated":"2025-06-03T20:05:59.765+09:00"}
+dg-publish: true
 ---
-
 #소비자방어주 #음료 #콜라 
 
 #### 산업섹터 및 영위사업
 
-- **산업섹터(Sector)**: [[소비자 방어주\|소비자 방어주]](Consumer Defensive)
-- **산업(Industry)**: [[음료\|음료]] - 청량음료(Beverages - Soft Drinks)
+- **산업섹터(Sector)**: [[소비자 방어주]](Consumer Defensive)
+- **산업(Industry)**: [[음료]] - 청량음료(Beverages - Soft Drinks)
 
 
 #### 전방/후방산업
 
 - **전방산업**: 소매업, 레스토랑 및 외식업
     - **핵심 산업 및 역할**: 소매업체와 레스토랑은 Coca-Cola 제품을 최종 소비자에게 판매합니다.
-    - **관련 기업**: Walmart Inc. (미국, [[2.개별종목/WMT\|WMT]]), McDonald’s Corporation (미국, [[2.개별종목/MCD\|MCD]])
+    - **관련 기업**: Walmart Inc. (미국, [[WMT]]), McDonald’s Corporation (미국, [[MCD]])
       
 - **후방산업**: 원재료 공급업체, 포장재 제조업체
     - **핵심 산업 및 역할**: 원재료 공급업체는 음료 제조에 필요한 재료를 제공하고, 포장재 제조업체는 제품 포장을 담당합니다.
-    - **관련 기업**: Archer Daniels Midland Company (미국, [[ADM\|ADM]]), Ball Corporation (미국, [[2.개별종목/BALL\|BALL]])
+    - **관련 기업**: Archer Daniels Midland Company (미국, [[ADM]]), Ball Corporation (미국, [[BALL]])
 
 #### 밸류체인
 
 - **원재료 조달**: 음료 제조에 필요한 원재료 조달
-    - **대표 회사**: Cargill Inc. (미국, 비상장), Ingredion Incorporated (미국, [[INGR\|INGR]])
+    - **대표 회사**: Cargill Inc. (미국, 비상장), Ingredion Incorporated (미국, [[INGR]])
 - **제조 및 생산**: 음료 제조 및 생산
-    - **대표 회사**: PepsiCo Inc. (미국, [[2.개별종목/PEP\|PEP]]), Keurig Dr Pepper Inc. (미국, [[2.개별종목/KDP\|KDP]])
+    - **대표 회사**: PepsiCo Inc. (미국, [[PEP]]), Keurig Dr Pepper Inc. (미국, [[KDP]])
 - **유통 및 물류**: 제품 유통 및 물류
-    - **대표 회사**: United Parcel Service Inc. (미국, [[2.개별종목/UPS\|UPS]]), FedEx Corporation (미국, [[2.개별종목/FDX\|FDX]])
+    - **대표 회사**: United Parcel Service Inc. (미국, [[UPS]]), FedEx Corporation (미국, [[FDX]])
 
 #### 주요제품
 
@@ -44,9 +43,9 @@
 
 #### 경쟁업체
 
-- **PepsiCo Inc. (미국, [[2.개별종목/PEP\|PEP]])**: 탄산음료, 스낵
-- **Keurig Dr Pepper Inc. (미국, [[2.개별종목/KDP\|KDP]])**: 탄산음료, 커피
-- **Nestlé S.A. (스위스, [[2.개별종목/NESN\|NESN]])**: 물, 유제품 음료
+- **PepsiCo Inc. (미국, [[PEP]])**: 탄산음료, 스낵
+- **Keurig Dr Pepper Inc. (미국, [[KDP]])**: 탄산음료, 커피
+- **Nestlé S.A. (스위스, [[NESN]])**: 물, 유제품 음료
 
 #### 산업 내 글로벌 시장 점유율
 

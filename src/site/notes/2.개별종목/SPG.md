@@ -1,48 +1,47 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/SPG/","created":"2024-08-30T20:31:57.841+09:00","updated":"2025-06-03T20:06:01.313+09:00"}
+dg-publish: true
 ---
-
 #리츠 #부동산 #상업용부동산 #아울렛
 
 
 ## 산업섹터
 
-- **Sector**: Real Estate ([[1.Study/★ 산업/부동산/부동산\|부동산]])
-- **Industry**: Real Estate Investment Trusts (REITs) ([[1.Study/★ 산업/부동산/리츠\|리츠]])
+- **Sector**: Real Estate ([[부동산]])
+- **Industry**: Real Estate Investment Trusts (REITs) ([[리츠]])
 
 ## 영위사업
 
-Simon Property Group는 미국을 중심으로 쇼핑몰, 프리미엄 아울렛, 밀레니엄 쇼핑센터 등([[상업용부동산\|상업용부동산]])을 소유 및 운영하는 부동산 투자 신탁(REIT)입니다. 이 회사는 다양한 소매 및 엔터테인먼트 공간을 제공하여 고객과 테넌트에게 다양한 쇼핑 경험을 제공합니다.
+Simon Property Group는 미국을 중심으로 쇼핑몰, 프리미엄 아울렛, 밀레니엄 쇼핑센터 등([[상업용부동산]])을 소유 및 운영하는 부동산 투자 신탁(REIT)입니다. 이 회사는 다양한 소매 및 엔터테인먼트 공간을 제공하여 고객과 테넌트에게 다양한 쇼핑 경험을 제공합니다.
 
 ## 전방/후방산업
 
 - **전방산업**:
     
     - **핵심 산업 및 역할**: 소매업 및 엔터테인먼트 서비스 제공
-    - **관련 기업**: Macy's (US, [[2.개별종목/M\|M]]), Nordstrom (US, [[2.개별종목/JWN\|JWN]])
+    - **관련 기업**: Macy's (US, [[M]]), Nordstrom (US, [[JWN]])
     
 - **후방산업**:
     
     - **핵심 산업 및 역할**: 부동산 개발 및 관리 서비스
-    - **관련 기업**: CBRE Group (US, [[CBRE\|CBRE]]), JLL (US, [[JLL\|JLL]])
+    - **관련 기업**: CBRE Group (US, [[CBRE]]), JLL (US, [[JLL]])
     
 
 ## 밸류체인
 
 - **부동산 개발 및 관리**: 쇼핑몰 및 아울렛 개발 및 유지 관리
     
-    - **대표 회사**: Brookfield Property Partners (CA, [[BPY\|BPY]]) - 부동산 개발 및 관리
-    - **대표 회사**: Unibail-Rodamco-Westfield (FR, [[URW\|URW]]) - 쇼핑몰 및 상업 부동산 관리
+    - **대표 회사**: Brookfield Property Partners (CA, [[BPY]]) - 부동산 개발 및 관리
+    - **대표 회사**: Unibail-Rodamco-Westfield (FR, [[URW]]) - 쇼핑몰 및 상업 부동산 관리
     
 - **테넌트 관리**: 소매점 및 엔터테인먼트 공간 임대 및 관리
     
-    - **대표 회사**: Taubman Centers (US, [[TCO\|TCO]]) - 쇼핑몰 운영
-    - **대표 회사**: Macerich (US, [[MAC\|MAC]]) - 쇼핑몰 관리
+    - **대표 회사**: Taubman Centers (US, [[TCO]]) - 쇼핑몰 운영
+    - **대표 회사**: Macerich (US, [[MAC]]) - 쇼핑몰 관리
     
 - **고객 서비스**: 쇼핑 경험 개선을 위한 서비스 제공
     
-    - **대표 회사**: Westfield Corporation (AU, [[WFD\|WFD]]) - 쇼핑몰 고객 서비스
-    - **대표 회사**: GGP Inc. (US, [[GGP\|GGP]]) - 쇼핑몰 운영 및 고객 서비스
+    - **대표 회사**: Westfield Corporation (AU, [[WFD]]) - 쇼핑몰 고객 서비스
+    - **대표 회사**: GGP Inc. (US, [[GGP]]) - 쇼핑몰 운영 및 고객 서비스
     
 
 ## 주요제품
@@ -57,9 +56,9 @@ Simon Property Group는 주로 미국 내에서 운영되며, 일부 국제 시�
 
 ## 경쟁업체
 
-- **Brookfield Property Partners (CA, [[BPY\|BPY]])** - 부동산 개발 및 관리
-- **Unibail-Rodamco-Westfield (FR, [[URW\|URW]])** - 쇼핑몰 및 상업 부동산 관리
-- **Macerich (US, [[MAC\|MAC]])** - 쇼핑몰 관리
+- **Brookfield Property Partners (CA, [[BPY]])** - 부동산 개발 및 관리
+- **Unibail-Rodamco-Westfield (FR, [[URW]])** - 쇼핑몰 및 상업 부동산 관리
+- **Macerich (US, [[MAC]])** - 쇼핑몰 관리
 
 ## 산업 내 글로벌 시장 점유율
 

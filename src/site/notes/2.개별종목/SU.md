@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/SU/","created":"2024-09-10T10:24:00.650+09:00","updated":"2025-06-03T20:06:01.403+09:00"}
+dg-publish: true
 ---
-
 #산업재 #특수산업기계 #전력관리 #데이터센터 
 
 #### 산업섹터 (Sector, Industry)
 
-- **Sector**: Industrials ([[산업재\|산업재]])
-- **Industry**: Specialty Industrial Machinery ([[특수 산업 기계\|특수 산업 기계]])
+- **Sector**: Industrials ([[산업재]])
+- **Industry**: Specialty Industrial Machinery ([[특수 산업 기계]])
 
 #### 영위사업
 
@@ -20,19 +19,19 @@ Schneider Electric은 에너지 관리 및 자동화 솔루션을 제공하는 �
 
 #### 전방산업
 
-- **전력 및 에너지 산업**: Schneider Electric의 제품은 전력 분배 및 관리에 사용됩니다. 주요 기업: Siemens (DE, [[2.개별종목/SIE\|SIE]]), ABB (CH, [[ABBN\|ABBN]]).
-- **건설 및 인프라 산업**: 스마트 빌딩 솔루션 및 자동화 시스템이 사용됩니다. 주요 기업: Honeywell (US, [[2.개별종목/HON\|HON]]), Johnson Controls (US, [[2.개별종목/JCI\|JCI]]).
+- **전력 및 에너지 산업**: Schneider Electric의 제품은 전력 분배 및 관리에 사용됩니다. 주요 기업: Siemens (DE, [[SIE]]), ABB (CH, [[ABBN]]).
+- **건설 및 인프라 산업**: 스마트 빌딩 솔루션 및 자동화 시스템이 사용됩니다. 주요 기업: Honeywell (US, [[HON]]), Johnson Controls (US, [[JCI]]).
 
 #### 후방산업
 
-- **전자 부품 산업**: Schneider Electric의 제품에 필요한 전자 부품을 공급합니다. 주요 기업: Texas Instruments (US, [[2.개별종목/TXN\|TXN]]), Analog Devices (US, [[2.개별종목/ADI\|ADI]]).
-- **기계 부품 산업**: 자동화 시스템에 필요한 기계 부품을 공급합니다. 주요 기업: SKF (SE, [[SKF\|SKF]]), Timken (US, [[TKR\|TKR]]).
+- **전자 부품 산업**: Schneider Electric의 제품에 필요한 전자 부품을 공급합니다. 주요 기업: Texas Instruments (US, [[TXN]]), Analog Devices (US, [[ADI]]).
+- **기계 부품 산업**: 자동화 시스템에 필요한 기계 부품을 공급합니다. 주요 기업: SKF (SE, [[SKF]]), Timken (US, [[TKR]]).
 
 #### 밸류체인
 
 1. **부품 공급**
-    - 전자 부품: Texas Instruments (US, [[2.개별종목/TXN\|TXN]]), Analog Devices (US, [[2.개별종목/ADI\|ADI]])
-    - 기계 부품: SKF (SE, [[SKF\|SKF]]), Timken (US, [[TKR\|TKR]])
+    - 전자 부품: Texas Instruments (US, [[TXN]]), Analog Devices (US, [[ADI]])
+    - 기계 부품: SKF (SE, [[SKF]]), Timken (US, [[TKR]])
 2. **제조**
     - Schneider Electric 자체 제조 시설
 3. **유통**
@@ -42,10 +41,10 @@ Schneider Electric은 에너지 관리 및 자동화 솔루션을 제공하는 �
 
 #### 주요제품
 
-- **[[전력 관리\|전력 관리]] 시스템**: 전력 분배 및 모니터링 시스템
-- **[[산업 자동화\|산업 자동화]] 솔루션**: 프로세스 제어 시스템, 로봇 공학
-- **[[스마트 빌딩\|스마트 빌딩]] 솔루션**: HVAC 제어 시스템, 조명 제어 시스템
-- **[[1.Study/★ 산업/통신_데이터센터 산업/2.데이터센터/데이터센터\|데이터센터]] 솔루션**: 전력 및 냉각 시스템
+- **[[전력 관리]] 시스템**: 전력 분배 및 모니터링 시스템
+- **[[산업 자동화]] 솔루션**: 프로세스 제어 시스템, 로봇 공학
+- **[[스마트 빌딩]] 솔루션**: HVAC 제어 시스템, 조명 제어 시스템
+- **[[데이터센터]] 솔루션**: 전력 및 냉각 시스템
 
 #### 주요 판매국가
 
@@ -56,7 +55,7 @@ Schneider Electric은 에너지 관리 및 자동화 솔루션을 제공하는 �
 
 #### 경쟁업체
 
-- **Siemens (DE, [[2.개별종목/SIE\|SIE]])**: 전력 관리 및 자동화 솔루션
-- **ABB (CH, [[ABBN\|ABBN]])**: 전력 및 자동화 솔루션
-- **Honeywell (US, [[2.개별종목/HON\|HON]])**: 스마트 빌딩 솔루션
-- **Johnson Controls (US, [[2.개별종목/JCI\|JCI]])**: HVAC 제어 시스템
+- **Siemens (DE, [[SIE]])**: 전력 관리 및 자동화 솔루션
+- **ABB (CH, [[ABBN]])**: 전력 및 자동화 솔루션
+- **Honeywell (US, [[HON]])**: 스마트 빌딩 솔루션
+- **Johnson Controls (US, [[JCI]])**: HVAC 제어 시스템

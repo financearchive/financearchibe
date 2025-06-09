@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/ADCT/","created":"2024-12-07T11:30:19.992+09:00","updated":"2025-06-03T20:05:57.421+09:00"}
+dg-publish: true
 ---
-
 #혈액암 #고형암 #헬스케어 #바이오테크
 
 ADC Therapeutics SA(ADCT)는 항체-약물 접합체(ADC) 개발 분야의 선도적인 생명공학 기업입니다.
 
 ## 산업섹터
 
-섹터: [[헬스케어\|헬스케어]](Health Care)  
-산업: [[1.Study/★ 산업/헬스케어/3.바이오테크/바이오테크\|바이오테크]](Biotechnology)
+섹터: [[헬스케어]](Health Care)  
+산업: [[바이오테크]](Biotechnology)
 
 ## 영위사업
 
-ADC Therapeutics는 [[혈액암\|혈액암]]과 [[고형암\|고형암]] 치료를 위한 항체-약물 접합체(ADC)를 개발하고 있습니다. 주력 제품인 ZYNLONTA®(loncastuximab tesirine-lpyl)는 미국 FDA와 유럽 위원회로부터 재발성 또는 불응성 미만성 거대 B세포 림프종(DLBCL) 치료제로 승인을 받았습니다. 회사는 다양한 임상 및 전임상 단계의 ADC 파이프라인을 보유하고 있으며, 독자적인 PBD 기반 ADC 기술을 통해 혈액암과 고형암 치료 패러다임을 변화시키는 것을 목표로 하고 있습니다
+ADC Therapeutics는 [[혈액암]]과 [[고형암]] 치료를 위한 항체-약물 접합체(ADC)를 개발하고 있습니다. 주력 제품인 ZYNLONTA®(loncastuximab tesirine-lpyl)는 미국 FDA와 유럽 위원회로부터 재발성 또는 불응성 미만성 거대 B세포 림프종(DLBCL) 치료제로 승인을 받았습니다. 회사는 다양한 임상 및 전임상 단계의 ADC 파이프라인을 보유하고 있으며, 독자적인 PBD 기반 ADC 기술을 통해 혈액암과 고형암 치료 패러다임을 변화시키는 것을 목표로 하고 있습니다
 
 ## 전방/후방산업
 
@@ -46,9 +45,9 @@ ADC Therapeutics는 [[혈액암\|혈액암]]과 [[고형암\|고형암]] 치료�
 
 ## 경쟁업체
 
-- Seagen Inc.(US, [[SGEN\|SGEN]])
-- ImmunoGen, Inc.(US, [[IMGN\|IMGN]])
-- Daiichi Sankyo Company, Limited(JP, [[4568.T\|4568.T]])
+- Seagen Inc.(US, [[SGEN]])
+- ImmunoGen, Inc.(US, [[IMGN]])
+- Daiichi Sankyo Company, Limited(JP, [[4568.T]])
 
 ## 산업 내 글로벌 시장 점유율
 

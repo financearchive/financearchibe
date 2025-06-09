@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/MGM/","created":"2024-11-07T21:43:23.877+09:00","updated":"2025-06-03T20:06:00.114+09:00"}
+dg-publish: true
 ---
-
 #임의소비재 #호텔 #레저 #호텔 #카지노 #엔터테인먼트 
 
 ## 산업섹터
 
-섹터: [[임의소비재\|임의소비재]](Consumer Discretionary)  
-산업: [[호텔\|호텔]], 레스토랑 & [[레저\|레저]](Hotels, Restaurants & Leisure)
+섹터: [[임의소비재]](Consumer Discretionary)  
+산업: [[호텔]], 레스토랑 & [[레저]](Hotels, Restaurants & Leisure)
 
 ## 영위사업
 
@@ -35,10 +34,10 @@ MGM Resorts International은 카지노, 호텔, 엔터테인먼트 시설을 소
 
 ## 주요제품
 
-- [[1.Study/★ 산업/카지노, 도박/카지노\|카지노]] 게임 운영
+- [[카지노]] 게임 운영
 - 호텔 숙박 서비스
 - 레스토랑 및 바
-- [[엔터테인먼트\|엔터테인먼트]] 공연
+- [[엔터테인먼트]] 공연
 - 회의 및 컨벤션 시설
 
 ## 주요 판매국가
@@ -47,9 +46,9 @@ MGM Resorts International은 카지노, 호텔, 엔터테인먼트 시설을 소
 
 ## 경쟁업체
 
-- Las Vegas Sands(US, [[2.개별종목/LVS\|LVS]])
-- Wynn Resorts(US, [[2.개별종목/WYNN\|WYNN]])
-- Caesars Entertainment(US, [[2.개별종목/CZR\|CZR]])
+- Las Vegas Sands(US, [[LVS]])
+- Wynn Resorts(US, [[WYNN]])
+- Caesars Entertainment(US, [[CZR]])
 
 ## 산업 내 글로벌 시장 점유율
 

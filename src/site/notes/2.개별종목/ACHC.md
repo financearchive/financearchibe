@@ -1,20 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/ACHC/","created":"2024-12-26T22:20:43.145+09:00","updated":"2025-06-03T20:05:57.387+09:00"}
+dg-publish: true
 ---
-
 #의료시설 #행동건강 #정신건강  #헬스케어 #중독치료 #청소년치료 #의료서비스 #정신과치료 #헬스케어
 
 ## 산업 섹터
 
-[[헬스케어\|헬스케어]]
+[[헬스케어]]
 
 ## 산업
 
-[[의료시설\|의료시설]](Medical Care Facilities)
+[[의료시설]](Medical Care Facilities)
 
 ## 영위사업
 
-Acadia Healthcare Company Inc는 행동 건강 및 [[중독 치료 서비스\|중독 치료 서비스]]를 제공하는 미국 최대의 독립 행동 건강 서비스 제공업체입니다. 주요 사업 부문은 다음과 같습니다:
+Acadia Healthcare Company Inc는 행동 건강 및 [[중독 치료 서비스]]를 제공하는 미국 최대의 독립 행동 건강 서비스 제공업체입니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 입원 정신과 치료 시설 운영
 2. 특수 치료 시설 운영 (중독 치료 등)
@@ -41,25 +40,25 @@ Acadia Healthcare의 핵심 경쟁력은 다음과 같습니다:
 
 1. 후방산업:
     
-    - 의료기기 제조: Medtronic (US, [[2.개별종목/MDT\|MDT]]), Abbott Laboratories (US, [[2.개별종목/ABT\|ABT]])
-    - 제약: Pfizer (US, [[2.개별종목/PFE\|PFE]]), Johnson & Johnson (US, [[2.개별종목/JNJ\|JNJ]])
-    - 의료 IT: Cerner Corporation [[CERN\|CERN]]
+    - 의료기기 제조: Medtronic (US, [[MDT]]), Abbott Laboratories (US, [[ABT]])
+    - 제약: Pfizer (US, [[PFE]]), Johnson & Johnson (US, [[JNJ]])
+    - 의료 IT: Cerner Corporation [[CERN]]
     
 2. 전방산업:
     
-    - 보험: UnitedHealth Group (US, [[2.개별종목/UNH\|UNH]]), Anthem (US, [[2.개별종목/ANTM\|ANTM]])
-    - 의약품 유통: McKesson (US, [[2.개별종목/MCK\|MCK]]), AmerisourceBergen (US, [[2.개별종목/ABC\|ABC]])
+    - 보험: UnitedHealth Group (US, [[UNH]]), Anthem (US, [[ANTM]])
+    - 의약품 유통: McKesson (US, [[MCK]]), AmerisourceBergen (US, [[ABC]])
     - 정부 기관: Medicare, Medicaid
     
 
 ## 밸류체인
 
-1. 의료시설 건설: [[Turner Construction\|Turner Construction]]
-2. 의료기기 공급: Medtronic (IE, [[2.개별종목/MDT\|MDT]]), Stryker (US, [[2.개별종목/SYK\|SYK]])
+1. 의료시설 건설: [[Turner Construction]]
+2. 의료기기 공급: Medtronic (IE, [[MDT]]), Stryker (US, [[SYK]])
 3. 의료 서비스 제공: Acadia Healthcare (주요 사업 영역)
-4. 의약품 공급: McKesson (US, [[2.개별종목/MCK\|MCK]]), AmerisourceBergen (US, [[2.개별종목/ABC\|ABC]])
-5. 보험 청구: UnitedHealth Group (US, [[2.개별종목/UNH\|UNH]]), Anthem (US, [[2.개별종목/ANTM\|ANTM]])
-6. 환자 후속 관리: [[Talkspace\|Talkspace]], [[BetterHelp\|BetterHelp]]
+4. 의약품 공급: McKesson (US, [[MCK]]), AmerisourceBergen (US, [[ABC]])
+5. 보험 청구: UnitedHealth Group (US, [[UNH]]), Anthem (US, [[ANTM]])
+6. 환자 후속 관리: [[Talkspace]], [[BetterHelp]]
 
 ## 주요제품
 
@@ -73,7 +72,7 @@ Acadia Healthcare의 핵심 경쟁력은 다음과 같습니다:
 ## 주요고객
 
 1. 개인 환자
-2. 보험회사: UnitedHealth Group (US, [[2.개별종목/UNH\|UNH]]), Anthem (US, [[2.개별종목/ANTM\|ANTM]])
+2. 보험회사: UnitedHealth Group (US, [[UNH]]), Anthem (US, [[ANTM]])
 3. 정부 기관: Medicare, Medicaid
 4. 기업 건강보험 가입자
 5. 교육 기관
@@ -86,16 +85,16 @@ Acadia Healthcare의 핵심 경쟁력은 다음과 같습니다:
 
 ## 경쟁업체
 
-1. Universal Health Services (US, [[2.개별종목/UHS\|UHS]]) - 행동 건강 서비스
-2. HCA Healthcare (US, [[2.개별종목/HCA\|HCA]]) - 종합 의료 서비스
-3. Tenet Healthcare (US, [[2.개별종목/THC\|THC]]) - 종합 의료 서비스
-4. Community Health Systems (US, [[2.개별종목/CYH\|CYH]]) - 종합 의료 서비스
-5. LifePoint Health [[2.개별종목/LPNT\|LPNT]] - 농촌 지역 의료 서비스
-6. Behavioral Health Group [[BHG\|BHG]] - 중독 치료 서비스
-7. American Addiction Centers [[AAC\|AAC]] - 중독 치료 서비스
-8. Springstone [[SPRI\|SPRI]] - 행동 건강 서비스
-9. Odyssey Behavioral Healthcare [[OBH\|OBH]] - 행동 건강 서비스
-10. Summit BHC [[SBHC\|SBHC]] - 중독 및 정신 건강 치료
+1. Universal Health Services (US, [[UHS]]) - 행동 건강 서비스
+2. HCA Healthcare (US, [[HCA]]) - 종합 의료 서비스
+3. Tenet Healthcare (US, [[THC]]) - 종합 의료 서비스
+4. Community Health Systems (US, [[CYH]]) - 종합 의료 서비스
+5. LifePoint Health [[LPNT]] - 농촌 지역 의료 서비스
+6. Behavioral Health Group [[BHG]] - 중독 치료 서비스
+7. American Addiction Centers [[AAC]] - 중독 치료 서비스
+8. Springstone [[SPRI]] - 행동 건강 서비스
+9. Odyssey Behavioral Healthcare [[OBH]] - 행동 건강 서비스
+10. Summit BHC [[SBHC]] - 중독 및 정신 건강 치료
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -119,7 +118,7 @@ Acadia Healthcare의 핵심 경쟁력은 다음과 같습니다:
 
 ## 관련 ETF
 
-1. iShares U.S. Healthcare Providers ETF - [[IHF\|IHF]]
-2. Vanguard Health Care ETF - [[VHT\|VHT]]
-3. Health Care Select Sector SPDR Fund - [[XLV\|XLV]]
-4. Tema Neuroscience And Mental Health ETF - [[MNTL\|MNTL]]
+1. iShares U.S. Healthcare Providers ETF - [[IHF]]
+2. Vanguard Health Care ETF - [[VHT]]
+3. Health Care Select Sector SPDR Fund - [[XLV]]
+4. Tema Neuroscience And Mental Health ETF - [[MNTL]]

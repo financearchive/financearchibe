@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/BX/","created":"2025-01-16T22:16:36.588+09:00","updated":"2025-06-03T20:05:58.087+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #사모펀드 #대체투자 #부동산 #인프라 #크레딧 #헤지펀드 #프라이빗에쿼티 #자산운용  #구조화금융 #자본시장 #금융 #자산운용
 
 ## 산업섹터
 
-섹터: [[금융\|금융]]
-산업: [[자산운용\|자산운용]]
+섹터: [[금융]]
+산업: [[자산운용]]
 
 ## 영위사업
 
-Blackstone Inc.(NYSE: BX)는 [[세계 최대의 대체투자 자산운용사\|세계 최대의 대체투자 자산운용사]]입니다. 1985년 설립된 이 회사는 프라이빗 에쿼티, 부동산, 헤지펀드 전략, 크레딧, 인프라 등 다양한 대체투자 분야에서 활동하고 있습니다.주요 사업 부문은 다음과 같습니다:
+Blackstone Inc.(NYSE: BX)는 [[세계 최대의 대체투자 자산운용사]]입니다. 1985년 설립된 이 회사는 프라이빗 에쿼티, 부동산, 헤지펀드 전략, 크레딧, 인프라 등 다양한 대체투자 분야에서 활동하고 있습니다.주요 사업 부문은 다음과 같습니다:
 
 1. 프라이빗 에쿼티: 기업 인수 및 성장 투자
 2. 부동산: 상업용 및 주거용 부동산 투자
@@ -47,18 +46,18 @@ Blackstone의 핵심 경쟁력은 다음과 같습니다:
 후방산업:
 
 - 투자대상 기업: 다양한 산업의 비상장 및 상장 기업
-- 부동산 개발 및 관리: CBRE Group(US, [[CBRE\|CBRE]]), Jones Lang LaSalle(US, [[JLL\|JLL]])
+- 부동산 개발 및 관리: CBRE Group(US, [[CBRE]]), Jones Lang LaSalle(US, [[JLL]])
 - 금융 데이터 제공업체: Bloomberg L.P., Refinitiv
 
 ## 밸류체인
 
-1. 자금조달: Blackstone(US, [[2.개별종목/BX\|BX]]) (투자자로부터 자금 모집)
-2. 투자대상 발굴: Blackstone(US, [[2.개별종목/BX\|BX]]) (딜소싱 및 실사)
-3. 투자 실행: Blackstone(US, [[2.개별종목/BX\|BX]]) (기업 인수, 부동산 매입 등)
-4. 자산 관리: Blackstone(US, [[2.개별종목/BX\|BX]]) (포트폴리오 기업 및 자산 관리)
-5. 가치 창출: Blackstone(US, [[2.개별종목/BX\|BX]]) (운영 개선, 성장 전략 수립)
-6. 투자 회수: Blackstone(US, [[2.개별종목/BX\|BX]]) (IPO, M&A, 매각 등)
-7. 성과 분배: Blackstone(US, [[2.개별종목/BX\|BX]]) (투자자에게 수익 분배)
+1. 자금조달: Blackstone(US, [[BX]]) (투자자로부터 자금 모집)
+2. 투자대상 발굴: Blackstone(US, [[BX]]) (딜소싱 및 실사)
+3. 투자 실행: Blackstone(US, [[BX]]) (기업 인수, 부동산 매입 등)
+4. 자산 관리: Blackstone(US, [[BX]]) (포트폴리오 기업 및 자산 관리)
+5. 가치 창출: Blackstone(US, [[BX]]) (운영 개선, 성장 전략 수립)
+6. 투자 회수: Blackstone(US, [[BX]]) (IPO, M&A, 매각 등)
+7. 성과 분배: Blackstone(US, [[BX]]) (투자자에게 수익 분배)
 
 ## 주요제품
 
@@ -72,7 +71,7 @@ Blackstone의 핵심 경쟁력은 다음과 같습니다:
 
 - 연금펀드: CalPERS(US), APG(NL), CPPIB(CA)
 - 국부펀드: GIC(SG), ADIA(AE), CIC(CN)
-- 보험사: Allianz(DE, [[ALV\|ALV]]), AXA(FR, [[CS\|CS]])
+- 보험사: Allianz(DE, [[ALV]]), AXA(FR, [[CS]])
 - 대학기금: Harvard University, Yale University
 - 고액자산가 및 패밀리오피스
 
@@ -82,12 +81,12 @@ Blackstone의 핵심 경쟁력은 다음과 같습니다:
 
 ## 경쟁업체
 
-- KKR & Co.(US, [[2.개별종목/KKR\|KKR]]) - 프라이빗 에쿼티, 부동산
-- The Carlyle Group(US, [[CG\|CG]]) - 프라이빗 에쿼티, 크레딧
-- Apollo Global Management(US, [[2.개별종목/APO\|APO]]) - 프라이빗 에쿼티, 크레딧
-- Brookfield Asset Management(CA, [[BAM\|BAM]]) - 부동산, 인프라
-- TPG(US, [[TPG\|TPG]]) - 프라이빗 에쿼티, 부동산
-- Ares Management(US, [[ARES\|ARES]]) - 크레딧, 프라이빗 에쿼티
+- KKR & Co.(US, [[KKR]]) - 프라이빗 에쿼티, 부동산
+- The Carlyle Group(US, [[CG]]) - 프라이빗 에쿼티, 크레딧
+- Apollo Global Management(US, [[APO]]) - 프라이빗 에쿼티, 크레딧
+- Brookfield Asset Management(CA, [[BAM]]) - 부동산, 인프라
+- TPG(US, [[TPG]]) - 프라이빗 에쿼티, 부동산
+- Ares Management(US, [[ARES]]) - 크레딧, 프라이빗 에쿼티
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -110,8 +109,8 @@ Blackstone은 2024년 기준 글로벌 대체투자 시장에서 약 7%의 점�
 
 ## 관련 ETF
 
-- iShares U.S. Financials ETF - [[IYF\|IYF]]
-- Financial Select Sector SPDR Fund - [[XLF\|XLF]]
-- Invesco Global Listed Private Equity ETF - [[PSP\|PSP]]
-- ProShares Global Listed Private Equity ETF - [[PEX\|PEX]]
-- VanEck Vectors BDC Income ETF - [[BIZD\|BIZD]]
+- iShares U.S. Financials ETF - [[IYF]]
+- Financial Select Sector SPDR Fund - [[XLF]]
+- Invesco Global Listed Private Equity ETF - [[PSP]]
+- ProShares Global Listed Private Equity ETF - [[PEX]]
+- VanEck Vectors BDC Income ETF - [[BIZD]]

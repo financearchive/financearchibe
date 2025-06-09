@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/LEA/","created":"2025-02-06T21:23:46.802+09:00","updated":"2025-06-03T20:05:59.865+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #자동차부품 #시트시스템 #전자시스템 #E-Systems #전기차 #자율주행 #커넥티드카 #인테리어 #경량화 #지속가능성 #모듈화 #스마트시트 #파워트레인전기화 #사이버보안 #OEM파트너십 #글로벌공급망 #인체공학 #안전기술 #ESG #디지털화
 
 ## 산업섹터
 
-섹터: [[임의소비재\|임의소비재]]
-산업: [[자동차부품\|자동차부품]]
+섹터: [[임의소비재]]
+산업: [[자동차부품]]
 
 ## 영위사업
 
-Lear Corporation(NYSE: LEA)는 글로벌 [[1.Study/★ 산업/자동차 산업/자동차\|자동차]] 기술 기업으로, 주로 [[자동차 시트\|자동차 시트]] 시스템과 전자 시스템을 설계, 개발, 제조합니다. 회사는 1917년에 설립되어 100년 이상의 역사를 가지고 있습니다.주요 사업 부문:
+Lear Corporation(NYSE: LEA)는 글로벌 [[자동차]] 기술 기업으로, 주로 [[자동차 시트]] 시스템과 전자 시스템을 설계, 개발, 제조합니다. 회사는 1917년에 설립되어 100년 이상의 역사를 가지고 있습니다.주요 사업 부문:
 
 1. 시트 시스템: 완전한 자동차 시트 및 관련 부품 생산
 2. E-Systems: 전기 배전 시스템, 전자 제어 모듈, 연결성 제품 등
@@ -32,28 +31,28 @@ Lear Corporation(NYSE: LEA)는 글로벌 [[1.Study/★ 산업/자동차 산업/�
 
 전방산업:
 
-- 자동차 제조: General Motors(US, [[2.개별종목/GM\|GM]]), Ford(US, [[2.개별종목/F\|F]]), BMW(DE, [[2.개별종목/BMW\|BMW]])
-- 전기차 제조: Tesla(US, [[2.개별종목/TSLA\|TSLA]]), Rivian(US, [[2.개별종목/RIVN\|RIVN]])
-- 상용차 제조: Daimler Truck(DE, [[DTG\|DTG]]), Volvo Group(SE, [[VOLV-B\|VOLV-B]])
+- 자동차 제조: General Motors(US, [[GM]]), Ford(US, [[F]]), BMW(DE, [[BMW]])
+- 전기차 제조: Tesla(US, [[TSLA]]), Rivian(US, [[RIVN]])
+- 상용차 제조: Daimler Truck(DE, [[DTG]]), Volvo Group(SE, [[VOLV-B]])
 
 후방산업:
 
-- 원자재 공급: BASF(DE, [[BAS\|BAS]]), DuPont(US, [[2.개별종목/DD\|DD]])
-- 반도체: NXP Semiconductors(NL, [[2.개별종목/NXPI\|NXPI]]), Infineon Technologies(DE, [[2.개별종목/IFX\|IFX]])
-- 전자부품: TE Connectivity(CH, [[TEL\|TEL]]), Aptiv(IE, [[2.개별종목/APTV\|APTV]])
+- 원자재 공급: BASF(DE, [[BAS]]), DuPont(US, [[DD]])
+- 반도체: NXP Semiconductors(NL, [[NXPI]]), Infineon Technologies(DE, [[IFX]])
+- 전자부품: TE Connectivity(CH, [[TEL]]), Aptiv(IE, [[APTV]])
 
 ## 주요제품
 
 - 시트 시스템: 완전한 자동차 시트 세트 및 부품, 매출의 약 75% (2024년 기준)
-- E-Systems: [[전기 배전 시스템\|전기 배전 시스템]], [[전자 제어 모듈\|전자 제어 모듈]] 등, 매출의 약 25% (2024년 기준)
+- E-Systems: [[전기 배전 시스템]], [[전자 제어 모듈]] 등, 매출의 약 25% (2024년 기준)
 
 ## 주요 고객
 
-- General Motors(US, [[2.개별종목/GM\|GM]]): 글로벌 자동차 제조사
-- Ford Motor Company(US, [[2.개별종목/F\|F]]): 미국 자동차 제조사
-- Stellantis(NL, [[2.개별종목/STLA\|STLA]]): 다국적 자동차 제조사
-- BMW(DE, [[2.개별종목/BMW\|BMW]]): 독일 프리미엄 자동차 제조사
-- Volkswagen Group(DE, [[VOW3\|VOW3]]): 독일 자동차 그룹
+- General Motors(US, [[GM]]): 글로벌 자동차 제조사
+- Ford Motor Company(US, [[F]]): 미국 자동차 제조사
+- Stellantis(NL, [[STLA]]): 다국적 자동차 제조사
+- BMW(DE, [[BMW]]): 독일 프리미엄 자동차 제조사
+- Volkswagen Group(DE, [[VOW3]]): 독일 자동차 그룹
 
 ## 주요 판매국가
 
@@ -61,10 +60,10 @@ Lear Corporation(NYSE: LEA)는 글로벌 [[1.Study/★ 산업/자동차 산업/�
 
 ## 경쟁업체
 
-- Adient(IE, [[2.개별종목/ADNT\|ADNT]]): 자동차 시트 및 인테리어 시스템 제조
-- Faurecia(FR, [[EO\|EO]]): 자동차 인테리어 및 배기 시스템 전문
-- Magna International(CA, [[2.개별종목/MGA\|MGA]]): 다양한 자동차 부품 및 시스템 제조
-- Visteon Corporation(US, [[VC\|VC]]): 자동차 전자 및 인포테인먼트 시스템 제조
+- Adient(IE, [[ADNT]]): 자동차 시트 및 인테리어 시스템 제조
+- Faurecia(FR, [[EO]]): 자동차 인테리어 및 배기 시스템 전문
+- Magna International(CA, [[MGA]]): 다양한 자동차 부품 및 시스템 제조
+- Visteon Corporation(US, [[VC]]): 자동차 전자 및 인포테인먼트 시스템 제조
 - Yanfeng Automotive Interiors(CN): 자동차 인테리어 솔루션 제공 (비상장)
 
 ## 산업 내 글로벌 시장 점유율
@@ -88,8 +87,8 @@ Lear Corporation은 2024년 기준 글로벌 자동차 시트 시장에서 약 2
 
 ## 관련 ETF
 
-- First Trust NASDAQ Global Auto Index Fund - [[CARZ\|CARZ]]
-- iShares Self-Driving EV and Tech ETF - [[IDRV\|IDRV]]
-- Global X Autonomous & Electric Vehicles ETF - [[DRIV\|DRIV]]
-- SPDR S&P Kensho Smart Mobility ETF - [[HAIL\|HAIL]]
-- Invesco S&P 500 Equal Weight Consumer Discretionary ETF - [[RCD\|RCD]]
+- First Trust NASDAQ Global Auto Index Fund - [[CARZ]]
+- iShares Self-Driving EV and Tech ETF - [[IDRV]]
+- Global X Autonomous & Electric Vehicles ETF - [[DRIV]]
+- SPDR S&P Kensho Smart Mobility ETF - [[HAIL]]
+- Invesco S&P 500 Equal Weight Consumer Discretionary ETF - [[RCD]]

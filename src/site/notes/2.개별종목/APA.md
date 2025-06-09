@@ -1,23 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/APA/","created":"2024-12-30T09:24:10.486+09:00","updated":"2025-06-03T20:05:57.702+09:00"}
+dg-publish: true
 ---
-
 #석유가스 #탐사생산 #에너지 #천연가스 #원유 #미드스트림 #배당주 #에너지
 
 ## 산업 섹터
 
-[[에너지\|에너지]]
+[[에너지]]
 
 ## 산업
 
-[[석유, 가스 및 소비 연료\|석유, 가스 및 소비 연료]](Oil, Gas & Consumable Fuels)
+[[석유, 가스 및 소비 연료]](Oil, Gas & Consumable Fuels)
 
 ## 영위사업
 
-APA Corporation은 독립 에너지 기업으로, [[1.Study/★ 산업/에너지 산업/1.화석 에너지/1.정유화학/천연가스\|천연가스]], [[1.Study/★ 산업/에너지 산업/1.화석 에너지/1.정유화학/원유\|원유]], 천연가스 액체의 탐사, 개발, 생산을 주요 사업으로 영위하고 있습니다. 주요 사업 영역은 다음과 같습니다:
+APA Corporation은 독립 에너지 기업으로, [[천연가스]], [[원유]], 천연가스 액체의 탐사, 개발, 생산을 주요 사업으로 영위하고 있습니다. 주요 사업 영역은 다음과 같습니다:
 
 1. 석유 및 천연가스 탐사 및 생산
-2. [[미드스트림\|미드스트림]] 사업 (파이프라인 운영)
+2. [[미드스트림]] 사업 (파이프라인 운영)
 3. 해상 탐사 및 생산 (북해, 수리남)
 
 APA는 미국, 이집트, 북해 지역에서 주요 사업을 운영하고 있으며, 수리남에서도 탐사 활동을 진행 중입니다. 2023년 기준 원유 7,400만 배럴, 천연가스 86억 입방미터, 천연가스 액체 2,340만 배럴을 생산했습니다.
@@ -35,24 +34,24 @@ APA는 미국, 이집트, 북해 지역에서 주요 사업을 운영하고 있�
 
 1. 후방산업:
     
-    - 석유 서비스: Schlumberger(US, [[2.개별종목/SLB\|SLB]])
-    - 시추 장비: Baker Hughes(US, [[2.개별종목/BKR\|BKR]])
+    - 석유 서비스: Schlumberger(US, [[SLB]])
+    - 시추 장비: Baker Hughes(US, [[BKR]])
     
 2. 전방산업:
     
-    - 정유: ExxonMobil(US, [[2.개별종목/XOM\|XOM]])
-    - 석유화학: Dow Inc.(US, [[2.개별종목/DOW\|DOW]])
-    - 전력 생산: NextEra Energy(US, [[2.개별종목/NEE\|NEE]])
+    - 정유: ExxonMobil(US, [[XOM]])
+    - 석유화학: Dow Inc.(US, [[DOW]])
+    - 전력 생산: NextEra Energy(US, [[NEE]])
     
 
 ## 밸류체인
 
 1. 탐사: APA Corporation (주요 사업 영역)
-2. 시추: Helmerich & Payne(US, [[2.개별종목/HP\|HP]]) - 육상 시추 서비스
+2. 시추: Helmerich & Payne(US, [[HP]]) - 육상 시추 서비스
 3. 생산: APA Corporation (주요 사업 영역)
-4. 수송: Energy Transfer(US, [[2.개별종목/ET\|ET]]) - 파이프라인 운영
-5. 정제: Valero Energy(US, [[2.개별종목/VLO\|VLO]]) - 석유 정제
-6. 유통: Phillips 66(US, [[2.개별종목/PSX\|PSX]]) - 주유소 운영
+4. 수송: Energy Transfer(US, [[ET]]) - 파이프라인 운영
+5. 정제: Valero Energy(US, [[VLO]]) - 석유 정제
+6. 유통: Phillips 66(US, [[PSX]]) - 주유소 운영
 
 ## 주요제품
 
@@ -76,11 +75,11 @@ APA는 미국, 이집트, 북해 지역에서 주요 사업을 운영하고 있�
 
 ## 경쟁업체
 
-1. Occidental Petroleum(US, [[2.개별종목/OXY\|OXY]]) - 석유 및 가스 탐사 생산
-2. Devon Energy(US, [[2.개별종목/DVN\|DVN]]) - 석유 및 가스 탐사 생산
-3. EOG Resources(US, [[2.개별종목/EOG\|EOG]]) - 석유 및 천연가스 탐사
-4. ConocoPhillips(US, [[2.개별종목/COP\|COP]]) - 석유 및 가스 탐사 생산
-5. Marathon Oil(US, [[1.Study/★ 산업/항공,우주,방위 산업/1.항공/INFO-항공/MRO\|MRO]]) - 석유 및 가스 탐사 생산
+1. Occidental Petroleum(US, [[OXY]]) - 석유 및 가스 탐사 생산
+2. Devon Energy(US, [[DVN]]) - 석유 및 가스 탐사 생산
+3. EOG Resources(US, [[EOG]]) - 석유 및 천연가스 탐사
+4. ConocoPhillips(US, [[COP]]) - 석유 및 가스 탐사 생산
+5. Marathon Oil(US, [[MRO]]) - 석유 및 가스 탐사 생산
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -104,6 +103,6 @@ APA는 미국, 이집트, 북해 지역에서 주요 사업을 운영하고 있�
 
 ## 관련 ETF
 
-1. Energy Select Sector SPDR Fund - [[XLE\|XLE]]
-2. iShares U.S. Oil & Gas Exploration & Production ETF - [[IEO\|IEO]]
-3. SPDR S&P Oil & Gas Exploration & Production ETF - [[XOP\|XOP]]
+1. Energy Select Sector SPDR Fund - [[XLE]]
+2. iShares U.S. Oil & Gas Exploration & Production ETF - [[IEO]]
+3. SPDR S&P Oil & Gas Exploration & Production ETF - [[XOP]]

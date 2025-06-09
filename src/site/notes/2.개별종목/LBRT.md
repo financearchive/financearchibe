@@ -1,31 +1,30 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/LBRT/","created":"2024-11-19T13:25:19.676+09:00","updated":"2025-06-03T20:05:59.854+09:00"}
+dg-publish: true
 ---
-
 #석유및가스장비및서비스 #에너지 #셰일가스 #유정시추 #원유 #정유 
 
 
 **산업섹터 (Sector, Industry)**:
 
-- **Sector**: [[에너지\|에너지]] (Energy)
-- **Industry**: [[석유 및 가스 장비 및 서비스\|석유 및 가스 장비 및 서비스]] (Oil & Gas Equipment & Services)
+- **Sector**: [[에너지]] (Energy)
+- **Industry**: [[석유 및 가스 장비 및 서비스]] (Oil & Gas Equipment & Services)
 
-**영위사업**: Liberty Oilfield Services Inc.는 주로 북미 지역에서 유압 파쇄([[셰일가스\|셰일가스]]) 및 기타 완공 서비스를 제공하는 회사입니다. 주요 고객은 석유 및 가스 탐사 및 생산 회사입니다.
+**영위사업**: Liberty Oilfield Services Inc.는 주로 북미 지역에서 유압 파쇄([[셰일가스]]) 및 기타 완공 서비스를 제공하는 회사입니다. 주요 고객은 석유 및 가스 탐사 및 생산 회사입니다.
 
 **전방/후방산업**:
 
 - **전방산업**: 석유 및 가스 탐사 및 생산
     - **핵심 산업**: 석유 및 가스 생산, 정유
-    - **관련 기업**: ExxonMobil (미국, [[2.개별종목/XOM\|XOM]]), Chevron (미국, [[2.개별종목/CVX\|CVX]])
+    - **관련 기업**: ExxonMobil (미국, [[XOM]]), Chevron (미국, [[CVX]])
 - **후방산업**: 장비 제조, 화학 물질 공급
     - **핵심 산업**: 유압 파쇄 장비 제조, 화학 물질 공급
-    - **관련 기업**: Halliburton (미국, [[2.개별종목/HAL\|HAL]]), Schlumberger (미국, [[2.개별종목/SLB\|SLB]])
+    - **관련 기업**: Halliburton (미국, [[HAL]]), Schlumberger (미국, [[SLB]])
 
 **밸류체인**:
 
-- **장비 제조**: Halliburton (미국, [[2.개별종목/HAL\|HAL]]), Schlumberger (미국, [[2.개별종목/SLB\|SLB]])
-- **화학 물질 공급**: Dow Inc. (미국, [[2.개별종목/DOW\|DOW]]), BASF (독일, BAS)
-- **유압 파쇄 서비스**: Liberty Oilfield Services (미국, [[2.개별종목/LBRT\|LBRT]]), ProPetro Holding Corp (미국, [[PUMP\|PUMP]])
+- **장비 제조**: Halliburton (미국, [[HAL]]), Schlumberger (미국, [[SLB]])
+- **화학 물질 공급**: Dow Inc. (미국, [[DOW]]), BASF (독일, BAS)
+- **유압 파쇄 서비스**: Liberty Oilfield Services (미국, [[LBRT]]), ProPetro Holding Corp (미국, [[PUMP]])
 
 **주요제품**:
 
@@ -39,9 +38,9 @@
 
 **경쟁업체**:
 
-- **Halliburton** (미국, [[2.개별종목/HAL\|HAL]]): 유압 파쇄 및 기타 석유 서비스
-- **Schlumberger** (미국, [[2.개별종목/SLB\|SLB]]): 유압 파쇄 및 기타 석유 서비스
-- **ProPetro Holding Corp** (미국, [[PUMP\|PUMP]]): 유압 파쇄 서비스
+- **Halliburton** (미국, [[HAL]]): 유압 파쇄 및 기타 석유 서비스
+- **Schlumberger** (미국, [[SLB]]): 유압 파쇄 및 기타 석유 서비스
+- **ProPetro Holding Corp** (미국, [[PUMP]]): 유압 파쇄 서비스
 
 **산업 내 글로벌 시장 점유율**: Liberty Oilfield Services는 북미 유압 파쇄 시장에서 약 10%의 점유율을 차지하고 있습니다 (2023년 기준).
 

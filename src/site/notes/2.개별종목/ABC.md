@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/ABC/","created":"2024-12-26T21:53:41.726+09:00","updated":"2025-06-03T20:05:57.346+09:00"}
+dg-publish: true
 ---
-
 #제약유통 #의료기기유통 #헬스케어솔루션 #헬스케어 #의약품유통
 
 ## 산업 섹터
 
-AmerisourceBergen Corporation(ABC)은 [[헬스케어\|헬스케어]] 섹터, [[의약품 유통\|의약품 유통]](Drug Distributors) 산업에 속합니다.
+AmerisourceBergen Corporation(ABC)은 [[헬스케어]] 섹터, [[의약품 유통]](Drug Distributors) 산업에 속합니다.
 
 ## 영위사업
 
@@ -14,7 +13,7 @@ AmerisourceBergen은 글로벌 헬스케어 솔루션 기업으로, 주요 사�
 
 1. 의약품 유통: 브랜드 및 제네릭 의약품, OTC 제품 유통
 2. 특수 의약품 유통: 희귀질환, 암 등 특수 의약품 유통
-3. [[의료기기 유통\|의료기기 유통]] 및 용품 유통
+3. [[의료기기 유통]] 및 용품 유통
 4. 동물 건강 제품 유통 (MWI Animal Health)
 5. 컨설팅 서비스: 제약사 및 의료기관 대상 컨설팅
 6. 물류 서비스: World Courier를 통한 특수 의약품 운송
@@ -34,21 +33,21 @@ AmerisourceBergen은 미국 의약품 유통 시장의 약 30%를 차지하는 �
 
 1. 후방산업:
     
-    - 제약사: Pfizer (US, [[2.개별종목/PFE\|PFE]]), Johnson & Johnson (US, [[2.개별종목/JNJ\|JNJ]])
-    - 의료기기 제조: Medtronic (IE, [[2.개별종목/MDT\|MDT]]), Abbott Laboratories (US, [[2.개별종목/ABT\|ABT]])
+    - 제약사: Pfizer (US, [[PFE]]), Johnson & Johnson (US, [[JNJ]])
+    - 의료기기 제조: Medtronic (IE, [[MDT]]), Abbott Laboratories (US, [[ABT]])
     
 2. 전방산업:
     
-    - 병원: HCA Healthcare (US, [[2.개별종목/HCA\|HCA]])
-    - 약국 체인: CVS Health (US, [[2.개별종목/CVS\|CVS]]), Walgreens Boots Alliance (US, [[2.개별종목/WBA\|WBA]])
-    - 의료기관: UnitedHealth Group (US, [[2.개별종목/UNH\|UNH]])
+    - 병원: HCA Healthcare (US, [[HCA]])
+    - 약국 체인: CVS Health (US, [[CVS]]), Walgreens Boots Alliance (US, [[WBA]])
+    - 의료기관: UnitedHealth Group (US, [[UNH]])
     
 
 ## 밸류체인
 
-1. 제조: Pfizer (US, [[2.개별종목/PFE\|PFE]]), Johnson & Johnson (US, [[2.개별종목/JNJ\|JNJ]])
+1. 제조: Pfizer (US, [[PFE]]), Johnson & Johnson (US, [[JNJ]])
 2. 유통: AmerisourceBergen (주요 사업 영역)
-3. 소매: CVS Health (US, [[2.개별종목/CVS\|CVS]]), Walgreens Boots Alliance (US, [[2.개별종목/WBA\|WBA]])
+3. 소매: CVS Health (US, [[CVS]]), Walgreens Boots Alliance (US, [[WBA]])
 4. 최종 소비자: 환자 및 의료기관
 
 ## 주요제품
@@ -61,9 +60,9 @@ AmerisourceBergen은 미국 의약품 유통 시장의 약 30%를 차지하는 �
 
 ## 주요고객
 
-1. CVS Health (US, [[2.개별종목/CVS\|CVS]])
-2. Walgreens Boots Alliance (US, [[2.개별종목/WBA\|WBA]])
-3. Express Scripts (US, [[ESRX\|ESRX]])
+1. CVS Health (US, [[CVS]])
+2. Walgreens Boots Alliance (US, [[WBA]])
+3. Express Scripts (US, [[ESRX]])
 4. 병원 및 의료기관
 5. 독립 약국
 
@@ -73,10 +72,10 @@ AmerisourceBergen은 주로 미국 시장에서 사업을 영위하고 있으며
 
 ## 경쟁업체
 
-1. McKesson Corporation (US, [[2.개별종목/MCK\|MCK]])
-2. Cardinal Health (US, [[CAH\|CAH]])
-3. Owens & Minor (US, [[OMI\|OMI]])
-4. Henry Schein (US, [[HSIC\|HSIC]])
+1. McKesson Corporation (US, [[MCK]])
+2. Cardinal Health (US, [[CAH]])
+3. Owens & Minor (US, [[OMI]])
+4. Henry Schein (US, [[HSIC]])
 5. Morris & Dickson (비상장)
 
 ## 산업 내 글로벌 시장 점유율
@@ -101,6 +100,6 @@ AmerisourceBergen은 주로 미국 시장에서 사업을 영위하고 있으며
 
 ## 관련 ETF
 
-- iShares U.S. Healthcare Providers ETF [[IHF\|IHF]]
-- VanEck Pharmaceutical ETF [[PPH\|PPH]]
-- SPDR S&P Health Care Services ETF [[XHS\|XHS]]
+- iShares U.S. Healthcare Providers ETF [[IHF]]
+- VanEck Pharmaceutical ETF [[PPH]]
+- SPDR S&P Health Care Services ETF [[XHS]]

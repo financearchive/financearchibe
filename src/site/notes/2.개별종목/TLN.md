@@ -1,31 +1,30 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/TLN/","created":"2024-11-05T14:48:52.171+09:00","updated":"2025-06-03T20:06:01.653+09:00"}
+dg-publish: true
 ---
-
 #독립전력생산및에너지거래 #유틸리티 #전력 #에너지 #천연가스 #원전 #석탄 #원자력발전 
 
 
 **산업섹터 (Sector, Industry)**:
 
-- **Sector**: [[유틸리티\|유틸리티]] (Utilities)
-- **Industry**: [[독립 전력 생산 및 에너지 거래\|독립 전력 생산 및 에너지 거래]] (Independent Power and Renewable Electricity Producers)
+- **Sector**: [[유틸리티]] (Utilities)
+- **Industry**: [[독립 전력 생산 및 에너지 거래]] (Independent Power and Renewable Electricity Producers)
 
-**영위사업**: Talen Energy Corporation은 미국에서 전력 생산 및 에너지 거래를 전문으로 하는 회사입니다. 이 회사는 다양한 에너지원([[1.Study/★ 산업/에너지 산업/1.화석 에너지/1.정유화학/석탄\|석탄]], [[1.Study/★ 산업/에너지 산업/1.화석 에너지/1.정유화학/천연가스\|천연가스]], [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/1.원자력발전/원자력 발전\|원자력 발전]], 재생 가능 에너지)을 사용하여 전력을 생산하며, 주로 도매 전력 시장에서 활동합니다
+**영위사업**: Talen Energy Corporation은 미국에서 전력 생산 및 에너지 거래를 전문으로 하는 회사입니다. 이 회사는 다양한 에너지원([[석탄]], [[천연가스]], [[원자력 발전]], 재생 가능 에너지)을 사용하여 전력을 생산하며, 주로 도매 전력 시장에서 활동합니다
 
 
 **전방/후방산업**:
 
 - **전방산업**: 전력 유통업체, 산업 및 상업 고객
-    - **핵심 기업**: Exelon Corporation (미국, [[2.개별종목/EXC\|EXC]]), Duke Energy (미국, [[2.개별종목/DUK\|DUK]])
+    - **핵심 기업**: Exelon Corporation (미국, [[EXC]]), Duke Energy (미국, [[DUK]])
 - **후방산업**: 연료 공급업체, 발전소 건설업체
-    - **핵심 기업**: Peabody Energy (미국, [[BTU\|BTU]]), Fluor Corporation (미국, [[2.개별종목/FLR\|FLR]])
+    - **핵심 기업**: Peabody Energy (미국, [[BTU]]), Fluor Corporation (미국, [[FLR]])
 
 **밸류체인**:
 
 - **전력 생산**: 다양한 에너지원으로 전력을 생산
-    - **대표 회사**: NRG Energy (미국, [[2.개별종목/NRG\|NRG]]), Vistra Corp (미국, [[2.개별종목/VST\|VST]])
+    - **대표 회사**: NRG Energy (미국, [[NRG]]), Vistra Corp (미국, [[VST]])
 - **에너지 거래**: 도매 전력 시장에서 전력 및 에너지 관련 상품 거래
-    - **대표 회사**: Calpine Corporation (미국, [[2.개별종목/CPN\|CPN]]), NextEra Energy (미국, [[2.개별종목/NEE\|NEE]])
+    - **대표 회사**: Calpine Corporation (미국, [[CPN]]), NextEra Energy (미국, [[NEE]])
 
 **주요제품**:
 
@@ -38,5 +37,5 @@
 
 **경쟁업체**:
 
-- **NRG Energy (미국, [[2.개별종목/NRG\|NRG]])**: 전력 생산 및 에너지 거래 서비스 제공
-- **Vistra Corp (미국, [[2.개별종목/VST\|VST]])**: 전력 생산 및 에너지 거래 서비스 제공
+- **NRG Energy (미국, [[NRG]])**: 전력 생산 및 에너지 거래 서비스 제공
+- **Vistra Corp (미국, [[VST]])**: 전력 생산 및 에너지 거래 서비스 제공

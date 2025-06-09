@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/BITX/","created":"2024-12-05T22:13:44.959+09:00","updated":"2025-06-03T20:05:57.964+09:00"}
+dg-publish: true
 ---
-
 #비트코인 #암호화폐 
 
 BITX (2x Bitcoin Strategy ETF):  

@@ -1,23 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/OGS/","created":"2024-12-30T21:01:58.881+09:00","updated":"2025-06-03T20:06:00.501+09:00"}
+dg-publish: true
 ---
-
 #천연가스 #유틸리티 #에너지유통 #파이프라인 #인프라투자 #배당성장 #텍사스 #에너지 #천연가스유통
 
 ## 산업 섹터
 
-[[유틸리티\|유틸리티]]
+[[유틸리티]]
 
 ## 산업
 
-[[규제 가스\|규제 가스]](Utilities - Regulated Gas)
+[[규제 가스]](Utilities - Regulated Gas)
 
 ## 영위사업
 
-ONE Gas, Inc.는 미국의 규제 [[천연가스 유통\|천연가스 유통]] 기업입니다. 주요 사업 영역은 다음과 같습니다:
+ONE Gas, Inc.는 미국의 규제 [[천연가스 유통]] 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
 1. 천연가스 유통: 오클라호마, 캔자스, 텍사스 주에서 약 230만 고객에게 천연가스 공급
-2. [[파이프라인\|파이프라인]] 운영 및 유지보수
+2. [[파이프라인]] 운영 및 유지보수
 3. 천연가스 저장 서비스
 4. 고객 서비스 및 계량
 5. 안전 및 규정 준수 관리
@@ -37,18 +36,18 @@ ONE Gas는 주거용, 상업용, 산업용, 운송용 고객에게 서비스를 
 
 1. 후방산업:
     
-    - 천연가스 생산: ExxonMobil(US, [[2.개별종목/XOM\|XOM]])
-    - 파이프라인 장비: Emerson Electric(US, [[2.개별종목/EMR\|EMR]])
+    - 천연가스 생산: ExxonMobil(US, [[XOM]])
+    - 파이프라인 장비: Emerson Electric(US, [[EMR]])
     
 2. 전방산업:
     
-    - 발전: NextEra Energy(US, [[2.개별종목/NEE\|NEE]])
-    - 산업용 가스 소비: Dow Inc.(US, [[2.개별종목/DOW\|DOW]])
+    - 발전: NextEra Energy(US, [[NEE]])
+    - 산업용 가스 소비: Dow Inc.(US, [[DOW]])
     
 
 ## 밸류체인
 
-1. 천연가스 생산: ExxonMobil(US, [[2.개별종목/XOM\|XOM]]) - 천연가스 추출
+1. 천연가스 생산: ExxonMobil(US, [[XOM]]) - 천연가스 추출
 2. 파이프라인 운송: ONE Gas (주요 사업 영역)
 3. 저장: ONE Gas (주요 사업 영역)
 4. 유통: ONE Gas (주요 사업 영역)
@@ -58,7 +57,7 @@ ONE Gas는 주거용, 상업용, 산업용, 운송용 고객에게 서비스를 
 
 1. 천연가스 유통 서비스 (주거, 상업, 산업용)
 2. 파이프라인 운송 서비스
-3. [[천연가스 저장\|천연가스 저장]] 서비스
+3. [[천연가스 저장]] 서비스
 
 ## 주요고객
 
@@ -74,11 +73,11 @@ ONE Gas는 미국 시장에서만 사업을 영위하고 있으며, 특히 오�
 
 ## 경쟁업체
 
-1. Atmos Energy(US, [[2.개별종목/ATO\|ATO]])
-2. Southwest Gas Holdings(US, [[2.개별종목/SWX\|SWX]])
-3. Spire Inc.(US, [[2.개별종목/SR\|SR]])
-4. NiSource Inc.(US, [[NI\|NI]])
-5. New Jersey Resources(US, [[NJR\|NJR]])
+1. Atmos Energy(US, [[ATO]])
+2. Southwest Gas Holdings(US, [[SWX]])
+3. Spire Inc.(US, [[SR]])
+4. NiSource Inc.(US, [[NI]])
+5. New Jersey Resources(US, [[NJR]])
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -102,6 +101,6 @@ ONE Gas는 미국 내 주요 천연가스 유통기업 중 하나이지만, 정�
 
 ## 관련 ETF
 
-1. Utilities Select Sector SPDR Fund - [[XLU\|XLU]]
-2. Vanguard Utilities ETF - [[VPU\|VPU]]
-3. iShares U.S. Utilities ETF - [[IDU\|IDU]]
+1. Utilities Select Sector SPDR Fund - [[XLU]]
+2. Vanguard Utilities ETF - [[VPU]]
+3. iShares U.S. Utilities ETF - [[IDU]]

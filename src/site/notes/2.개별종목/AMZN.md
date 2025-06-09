@@ -1,30 +1,29 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/AMZN/","created":"2023-07-12T10:42:22.768+09:00","updated":"2025-06-03T20:05:57.655+09:00"}
+dg-publish: true
 ---
-
 #테크 #소비재 #전자상거래 #임의소비재 #인터넷소매
 
 
 ## 산업섹터
 
-Sector: Consumer Cyclical ([[임의소비재\|임의소비재]])  
-Industry: Internet Retail ([[인터넷 소매\|인터넷 소매]])
+Sector: Consumer Cyclical ([[임의소비재]])  
+Industry: Internet Retail ([[인터넷 소매]])
 
 ## 영위사업
 
-Amazon은 [[전자상거래\|전자상거래]] 플랫폼을 제공하며, 의류, 자동차 및 산업 용품, 건강 및 미용 제품, 전자제품, 식료품 등 다양한 상품을 판매합니다. 또한, Amazon Web Services(AWS)를 통해 클라우드 컴퓨팅 서비스를 제공합니다.
+Amazon은 [[전자상거래]] 플랫폼을 제공하며, 의류, 자동차 및 산업 용품, 건강 및 미용 제품, 전자제품, 식료품 등 다양한 상품을 판매합니다. 또한, Amazon Web Services(AWS)를 통해 클라우드 컴퓨팅 서비스를 제공합니다.
 
 ## 전방/후방산업
 
 전방산업:
 
-- 소매업체: Walmart (국가:US, [[2.개별종목/WMT\|WMT]])
-- 전자상거래 플랫폼: eBay (국가:US, [[2.개별종목/EBAY\|EBAY]])
+- 소매업체: Walmart (국가:US, [[WMT]])
+- 전자상거래 플랫폼: eBay (국가:US, [[EBAY]])
 
 후방산업:
 
-- 물류 및 배송 서비스: FedEx (국가:US, [[2.개별종목/FDX\|FDX]])
-- 클라우드 서비스: Microsoft (국가:US, [[2.개별종목/MSFT\|MSFT]])
+- 물류 및 배송 서비스: FedEx (국가:US, [[FDX]])
+- 클라우드 서비스: Microsoft (국가:US, [[MSFT]])
 
 ## 주요제품
 
@@ -38,9 +37,9 @@ Amazon은 전 세계적으로 운영되며, 주요 시장은 미국, 유럽, 아
 
 ## 경쟁업체
 
-- Walmart Inc. (국가:US, [[2.개별종목/WMT\|WMT]]) - 오프라인 및 온라인 소매
-- Alibaba Group (국가:CN, [[2.개별종목/BABA\|BABA]]) - 전자상거래 및 클라우드 서비스
-- eBay Inc. (국가:US, [[2.개별종목/EBAY\|EBAY]]) - 온라인 경매 및 쇼핑
+- Walmart Inc. (국가:US, [[WMT]]) - 오프라인 및 온라인 소매
+- Alibaba Group (국가:CN, [[BABA]]) - 전자상거래 및 클라우드 서비스
+- eBay Inc. (국가:US, [[EBAY]]) - 온라인 경매 및 쇼핑
 
 ## 산업 내 글로벌 시장 점유율
 

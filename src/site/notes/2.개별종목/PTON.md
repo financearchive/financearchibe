@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/PTON/","created":"2025-01-05T18:33:42.951+09:00","updated":"2025-06-03T20:06:00.791+09:00"}
+dg-publish: true
 ---
-
 #커넥티드피트니스 #홈피트니스 #구독모델 #디지털콘텐츠 #프리미엄브랜드 #혁신기술 #사용자경험 #커뮤니티 #데이터분석 #라이브스트리밍 #온디맨드클래스 #하드웨어 #소프트웨어 #글로벌확장 #경쟁심화 #리브랜딩 #제품다각화 #임의소비재 #레저제품
 
 ## 섹터 및 산업
 
-[[임의소비재\|임의소비재]] 섹터  
-[[레저제품\|레저제품]](Leisure Products) 산업
+[[임의소비재]] 섹터  
+[[레저제품]](Leisure Products) 산업
 
 ## 기업소개
 
-Peloton Interactive, Inc.는 2012년 설립되어 2019년 나스닥에 상장된 [[글로벌 피트니스 기업\|글로벌 피트니스 기업]]입니다. 회사는 혁신적인 커넥티드 [[피트니스 플랫폼\|피트니스 플랫폼]]을 운영하며, 고급 실내 자전거, 트레드밀, 로잉머신 등의 피트니스 장비와 라이브 및 온디맨드 운동 클래스를 결합한 독특한 비즈니스 모델을 제공합니다.
+Peloton Interactive, Inc.는 2012년 설립되어 2019년 나스닥에 상장된 [[글로벌 피트니스 기업]]입니다. 회사는 혁신적인 커넥티드 [[피트니스 플랫폼]]을 운영하며, 고급 실내 자전거, 트레드밀, 로잉머신 등의 피트니스 장비와 라이브 및 온디맨드 운동 클래스를 결합한 독특한 비즈니스 모델을 제공합니다.
 
 ## 주요제품
 
@@ -54,7 +53,7 @@ Peloton의 핵심 경쟁력은 다음과 같습니다:
 
 ## 후방산업
 
-- 전자 제조 산업: Rexon Industrial Corp.(TW, [[Rexon Industrial\|Rexon Industrial]])
+- 전자 제조 산업: Rexon Industrial Corp.(TW, [[Rexon Industrial]])
 - 소프트웨어 개발 산업
 - 콘텐츠 제작 산업
 - 물류 및 배송 산업
@@ -62,7 +61,7 @@ Peloton의 핵심 경쟁력은 다음과 같습니다:
 ## 밸류체인
 
 1. 연구 개발: 혁신적인 피트니스 장비와 소프트웨어 개발
-2. 제조: Rexon Industrial Corp.(TW, [[Rexon Industrial\|Rexon Industrial]]) - 주요 하드웨어 제조
+2. 제조: Rexon Industrial Corp.(TW, [[Rexon Industrial]]) - 주요 하드웨어 제조
 3. 콘텐츠 제작: 자체 스튜디오에서 피트니스 클래스 제작
 4. 마케팅 및 판매: 온라인 및 오프라인 채널을 통한 제품 홍보 및 판매
 5. 배송 및 설치: 자체 물류 네트워크 및 외부 파트너십
@@ -87,16 +86,16 @@ Peloton의 주요 고객층은 중상위 소득의 건강과 피트니스에 관
 
 ## 경쟁업체
 
-1. NordicTrack(US, [[NordicTrack\|NordicTrack]]) - iFit 플랫폼, 실내 자전거, 트레드밀
-2. Echelon(US, [[Echelon Fitness\|Echelon Fitness]]) - 저가형 커넥티드 피트니스 장비
-3. SoulCycle(US, [[SoulCycle\|SoulCycle]]) - 프리미엄 실내 사이클링 스튜디오, At-Home Bike
-4. Tonal(US, [[Tonal\|Tonal]]) - AI 기반 근력 트레이닝 시스템
-5. Mirror(US, [[Mirror\|Mirror]]) - 인터랙티브 피트니스 미러
-6. Hydrow(US, [[Hydrow\|Hydrow]]) - 커넥티드 로잉머신
-7. FightCamp(US, [[FightCamp\|FightCamp]]) - 인터랙티브 복싱 트레이닝
-8. Tempo(US, [[Tempo\|Tempo]]) - AI 기반 홈 짐 시스템
-9. Apple(US, [[2.개별종목/AAPL\|AAPL]]) - Apple Fitness+
-10. Nike(US, [[2.개별종목/NKE\|NKE]]) - Nike Training Club
+1. NordicTrack(US, [[NordicTrack]]) - iFit 플랫폼, 실내 자전거, 트레드밀
+2. Echelon(US, [[Echelon Fitness]]) - 저가형 커넥티드 피트니스 장비
+3. SoulCycle(US, [[SoulCycle]]) - 프리미엄 실내 사이클링 스튜디오, At-Home Bike
+4. Tonal(US, [[Tonal]]) - AI 기반 근력 트레이닝 시스템
+5. Mirror(US, [[Mirror]]) - 인터랙티브 피트니스 미러
+6. Hydrow(US, [[Hydrow]]) - 커넥티드 로잉머신
+7. FightCamp(US, [[FightCamp]]) - 인터랙티브 복싱 트레이닝
+8. Tempo(US, [[Tempo]]) - AI 기반 홈 짐 시스템
+9. Apple(US, [[AAPL]]) - Apple Fitness+
+10. Nike(US, [[NKE]]) - Nike Training Club
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -122,8 +121,8 @@ Peloton의 주요 고객층은 중상위 소득의 건강과 피트니스에 관
 
 ## 관련 ETF
 
-1. IQ Healthy Hearts ETF - [[HART\|HART]]
-2. Global X Millennials Thematic ETF - [[MILN\|MILN]]
-3. Vanguard Russell 2000 Growth ETF - [[VTWG\|VTWG]]
-4. Goldman Sachs Innovate Equity ETF - [[GINN\|GINN]]
-5. Invesco Dynamic Leisure and Entertainment ETF - [[PEJ\|PEJ]]
+1. IQ Healthy Hearts ETF - [[HART]]
+2. Global X Millennials Thematic ETF - [[MILN]]
+3. Vanguard Russell 2000 Growth ETF - [[VTWG]]
+4. Goldman Sachs Innovate Equity ETF - [[GINN]]
+5. Invesco Dynamic Leisure and Entertainment ETF - [[PEJ]]

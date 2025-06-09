@@ -1,18 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/AJG/","created":"2024-12-13T21:48:09.726+09:00","updated":"2025-06-03T20:05:57.509+09:00"}
+dg-publish: true
 ---
-
 #금융 #보험 
 
 ## 산업섹터
 
-Arthur J. Gallagher & Co.의 산업섹터는 [[금융\|금융]](Financials), [[보험\|보험]](Insurance) 입니다.
+Arthur J. Gallagher & Co.의 산업섹터는 [[금융]](Financials), [[보험]](Insurance) 입니다.
 
 ## 영위사업
 
 Arthur J. Gallagher & Co.는 글로벌 보험 중개, 리스크 관리 및 컨설팅 서비스 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
-이 회사와 그 자회사는 국내 및 해외 법인에 [[보험\|보험]] 중개, 컨설팅, 제3자 클레임 정산 및 관리 서비스를 제공한다.  
+이 회사와 그 자회사는 국내 및 해외 법인에 [[보험]] 중개, 컨설팅, 제3자 클레임 정산 및 관리 서비스를 제공한다.  
 
 보험 중개, 리스크 관리, 기업 부문이 있다. 중개 부문은 영리, 비영리, 공공 부문, 개인을 포함한 모든 유형의 법인에 보험 및 재보험 알선, 손실 위험 관리, 고용주 후원 복지 프로그램 관리 등의 분야에서 중개 및 컨설팅 서비스를 제공한다.  
   
@@ -39,16 +38,16 @@ Arthur J. Gallagher & Co.는 글로벌 보험 중개, 리스크 관리 및 컨�
 
 ## 후방산업
 
-- 보험 상품 공급 산업: AIG (US, [[2.개별종목/AIG\|AIG]]), Chubb (US, [[2.개별종목/CB\|CB]]), Allianz (독일, [[ALV.DE\|ALV.DE]])
-- 리스크 평가 및 데이터 분석 산업: Verisk Analytics (US, [[VRSK\|VRSK]]), Moody's (US, [[MCO\|MCO]])
+- 보험 상품 공급 산업: AIG (US, [[AIG]]), Chubb (US, [[CB]]), Allianz (독일, [[ALV.DE]])
+- 리스크 평가 및 데이터 분석 산업: Verisk Analytics (US, [[VRSK]]), Moody's (US, [[MCO]])
 
 ## 밸류체인
 
-1. 보험 상품 개발: AIG (US, [[2.개별종목/AIG\|AIG]]), Chubb (US, [[2.개별종목/CB\|CB]]) (종합 보험 상품)
-2. 리스크 평가: Verisk Analytics (US, [[VRSK\|VRSK]]) (데이터 기반 리스크 분석)
-3. 보험 중개: Arthur J. Gallagher & Co. (US, [[2.개별종목/AJG\|AJG]]), Marsh & McLennan (US, [[MMC\|MMC]]) (기업 및 개인 보험 중개)
+1. 보험 상품 개발: AIG (US, [[AIG]]), Chubb (US, [[CB]]) (종합 보험 상품)
+2. 리스크 평가: Verisk Analytics (US, [[VRSK]]) (데이터 기반 리스크 분석)
+3. 보험 중개: Arthur J. Gallagher & Co. (US, [[AJG]]), Marsh & McLennan (US, [[MMC]]) (기업 및 개인 보험 중개)
 4. 청구 관리: Sedgwick (비상장) (보험 청구 처리 및 관리)
-5. 리스크 컨설팅: Aon (UK, [[AON\|AON]]), Willis Towers Watson (US, [[WTW\|WTW]]) (기업 리스크 관리 자문)
+5. 리스크 컨설팅: Aon (UK, [[AON]]), Willis Towers Watson (US, [[WTW]]) (기업 리스크 관리 자문)
 
 ## 주요제품
 
@@ -63,10 +62,10 @@ Arthur J. Gallagher & Co.는 글로벌 보험 중개, 리스크 관리 및 컨�
 
 ## 경쟁업체
 
-1. Marsh & McLennan (US, [[MMC\|MMC]]) (보험 중개 및 리스크 관리)
-2. Aon (UK, [[AON\|AON]]) (보험 중개 및 전문 서비스)
-3. Willis Towers Watson (US, [[WTW\|WTW]]) (보험 중개 및 컨설팅)
-4. Brown & Brown (US, [[BRO\|BRO]]) (보험 중개 및 리스크 관리)
+1. Marsh & McLennan (US, [[MMC]]) (보험 중개 및 리스크 관리)
+2. Aon (UK, [[AON]]) (보험 중개 및 전문 서비스)
+3. Willis Towers Watson (US, [[WTW]]) (보험 중개 및 컨설팅)
+4. Brown & Brown (US, [[BRO]]) (보험 중개 및 리스크 관리)
 5. Hub International (비상장) (보험 중개)
 6. USI Insurance Services (비상장) (보험 중개 및 컨설팅)
 7. Acrisure (비상장) (보험 중개 및 금융 서비스)

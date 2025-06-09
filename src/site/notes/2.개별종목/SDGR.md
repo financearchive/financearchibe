@@ -1,20 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/SDGR/","created":"2024-12-17T21:21:37.817+09:00","updated":"2025-06-03T20:06:01.111+09:00"}
+dg-publish: true
 ---
-
 #컴퓨터생물학 #약물발견 #분자모델링 #생명과학 #제약 #인공지능 #소프트웨어 #임상시험 #정밀의학 #구조생물학 #계산화학 #바이오테크 #신약개발 #물리학기반모델링 #협업연구 #혁신기술 #헬스케어 #생명과학도구및서비스
 
 ## 섹터
 
-섹터: [[헬스케어\|헬스케어]]
+섹터: [[헬스케어]]
 
 ## 산업
 
-산업: [[생명과학 도구 및 서비스\|생명과학 도구 및 서비스]](Life Sciences Tools & Services)
+산업: [[생명과학 도구 및 서비스]](Life Sciences Tools & Services)
 
 ## 영위사업
 
-Schrödinger, Inc.는 [[물리학 기반의 컴퓨터 플랫폼\|물리학 기반의 컴퓨터 플랫폼]]을 개발하여 신약 개발 및 재료 응용 분야에서 새로운 분자를 발견하는 데 사용되는 기업입니다. 주요 사업 부문은 다음과 같습니다:
+Schrödinger, Inc.는 [[물리학 기반의 컴퓨터 플랫폼]]을 개발하여 신약 개발 및 재료 응용 분야에서 새로운 분자를 발견하는 데 사용되는 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 소프트웨어: 생명과학 및 재료과학 산업에서 약물 발견을 혁신하기 위한 소프트웨어 판매
 2. 신약 발견: 내부적으로 그리고 협력을 통해 전임상 및 임상 프로그램의 다양한 포트폴리오 구축
@@ -36,11 +35,11 @@ Schrödinger, Inc.는 [[물리학 기반의 컴퓨터 플랫폼\|물리학 기�
 
 ## 주요 고객
 
-1. 제약 회사: Pfizer(US, [[2.개별종목/PFE\|PFE]]), Novartis(CH, [[2.개별종목/NOVN\|NOVN]])
-2. 바이오테크 기업: Moderna(US, [[2.개별종목/MRNA\|MRNA]]), BioNTech(US, [[2.개별종목/BNTX\|BNTX]])
+1. 제약 회사: Pfizer(US, [[PFE]]), Novartis(CH, [[NOVN]])
+2. 바이오테크 기업: Moderna(US, [[MRNA]]), BioNTech(US, [[BNTX]])
 3. 학술 기관: Harvard University, MIT
 4. 정부 연구소: National Institutes of Health(NIH)
-5. 재료 과학 기업: DuPont(US, [[2.개별종목/DD\|DD]]), BASF(DE, [[BAS\|BAS]])
+5. 재료 과학 기업: DuPont(US, [[DD]]), BASF(DE, [[BAS]])
 
 ## 주요 판매국가
 
@@ -48,11 +47,11 @@ Schrödinger, Inc.는 [[물리학 기반의 컴퓨터 플랫폼\|물리학 기�
 
 ## 경쟁업체
 
-1. Dassault Systèmes(FR, [[DSY\|DSY]]): 3D 설계 및 생명과학 소프트웨어
-2. Certara(US, [[CERT\|CERT]]): 바이오시뮬레이션 소프트웨어
-3. Simulations Plus(US, [[SLP\|SLP]]): 약물 발견 및 개발 소프트웨어
-4. Exscientia(US, [[2.개별종목/EXAI\|EXAI]]): AI 기반 약물 발견 플랫폼
-5. Relay Therapeutics(US, [[2.개별종목/RLAY\|RLAY]]): 컴퓨터 기반 약물 발견
+1. Dassault Systèmes(FR, [[DSY]]): 3D 설계 및 생명과학 소프트웨어
+2. Certara(US, [[CERT]]): 바이오시뮬레이션 소프트웨어
+3. Simulations Plus(US, [[SLP]]): 약물 발견 및 개발 소프트웨어
+4. Exscientia(US, [[EXAI]]): AI 기반 약물 발견 플랫폼
+5. Relay Therapeutics(US, [[RLAY]]): 컴퓨터 기반 약물 발견
 
 ## 최근 3년 내 주요 이슈
 
@@ -72,8 +71,8 @@ Schrödinger, Inc.는 [[물리학 기반의 컴퓨터 플랫폼\|물리학 기�
 
 ## 관련 ETF
 
-1. ARK Genomic Revolution ETF - [[ARKG\|ARKG]]
-2. SPDR S&P Biotech ETF - [[XBI\|XBI]]
-3. iShares Biotechnology ETF - [[IBB\|IBB]]
-4. Invesco Dynamic Biotechnology & Genome ETF - [[PBE\|PBE]]
-5. VanEck Biotech ETF - [[BBH\|BBH]]
+1. ARK Genomic Revolution ETF - [[ARKG]]
+2. SPDR S&P Biotech ETF - [[XBI]]
+3. iShares Biotechnology ETF - [[IBB]]
+4. Invesco Dynamic Biotechnology & Genome ETF - [[PBE]]
+5. VanEck Biotech ETF - [[BBH]]

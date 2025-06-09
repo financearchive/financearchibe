@@ -1,18 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/AVT/","created":"2024-12-26T21:05:03.919+09:00","updated":"2025-06-03T20:05:57.817+09:00"}
+dg-publish: true
 ---
-
 #전자부품 #유통 #임의소비재 #전자부품유통 #반도체유통
 
 ## 산업 섹터
 
-Avnet Inc(AVT)는 [[임의소비재\|임의소비재]](Consumer Discretionary) 섹터, [[전자부품 유통\|전자부품 유통]](Electronics Distributors) 산업에 속합니다.
+Avnet Inc(AVT)는 [[임의소비재]](Consumer Discretionary) 섹터, [[전자부품 유통]](Electronics Distributors) 산업에 속합니다.
 
 ## 영위사업
 
 Avnet Inc는 글로벌 기술 솔루션 기업으로, 전 세계 140개국 이상의 고객에게 전자 부품 및 엔터프라이즈 컴퓨팅 솔루션을 제공합니다. 주요 사업 부문은 다음과 같습니다:
 
-1. 전자 부품(EC): [[반도체 유통\|반도체 유통]], 수동 부품, 전자기계 부품 등의 유통
+1. 전자 부품(EC): [[반도체 유통]], 수동 부품, 전자기계 부품 등의 유통
 2. Farnell: 소량 주문 및 프로토타입 제작을 위한 전자 부품 유통
 3. 설계 및 엔지니어링 서비스: 제품 설계, 개발, 테스트 지원
 4. 공급망 관리: 재고 관리, 물류, 주문 이행 서비스
@@ -24,19 +23,19 @@ Avnet은 약 100,000개의 OEM, CM, ODM 고객을 대상으로 100개 이상의 
 
 1. 후방산업:
     
-    - 반도체 제조: Advanced Micro Devices (US, [[2.개별종목/AMD\|AMD]]), Intel (US, [[2.개별종목/INTC\|INTC]])
-    - 전자부품 제조: TE Connectivity (CH, [[TEL\|TEL]]), Amphenol (US, [[APH\|APH]])
+    - 반도체 제조: Advanced Micro Devices (US, [[AMD]]), Intel (US, [[INTC]])
+    - 전자부품 제조: TE Connectivity (CH, [[TEL]]), Amphenol (US, [[APH]])
     
 2. 전방산업:
     
-    - 전자제품 제조: Apple (US, [[2.개별종목/AAPL\|AAPL]]), Samsung Electronics (KR, [[005930\|005930]])
-    - 자동차 제조: General Motors (US, [[2.개별종목/GM\|GM]]), Volkswagen (DE, [[VOW3\|VOW3]])
-    - 산업용 장비: Siemens (DE, [[2.개별종목/SIE\|SIE]]), ABB (CH, [[ABBN\|ABBN]])
+    - 전자제품 제조: Apple (US, [[AAPL]]), Samsung Electronics (KR, [[005930]])
+    - 자동차 제조: General Motors (US, [[GM]]), Volkswagen (DE, [[VOW3]])
+    - 산업용 장비: Siemens (DE, [[SIE]]), ABB (CH, [[ABBN]])
     
 
 ## 밸류체인
 
-1. 제조: Advanced Micro Devices (US, [[2.개별종목/AMD\|AMD]]), Intel (US, [[2.개별종목/INTC\|INTC]]) - 반도체 및 전자부품
+1. 제조: Advanced Micro Devices (US, [[AMD]]), Intel (US, [[INTC]]) - 반도체 및 전자부품
 2. 유통: Avnet (주요 사업 영역)
 3. 솔루션 제공: Avnet (설계, 공급망 관리, 기술 솔루션)
 4. 고객: 다양한 전자제품 제조업체 및 기업 고객
@@ -54,13 +53,13 @@ Avnet은 글로벌 기업으로, 북미, 유럽, 중동, 아프리카, 아시아
 
 ## 경쟁업체
 
-1. Arrow Electronics (US, [[2.개별종목/ARW\|ARW]])
+1. Arrow Electronics (US, [[ARW]])
 2. Future Electronics (비상장)
 3. World Peace Group (비상장)
-4. WT Microelectronics (TW, [[3036\|3036]])
+4. WT Microelectronics (TW, [[3036]])
 5. Mouser Electronics (비상장)
 6. Digi-Key Electronics (비상장)
-7. RS Components (UK, [[RS1\|RS1]])
+7. RS Components (UK, [[RS1]])
 
 ## 산업 내 글로벌 시장 점유율
 

@@ -1,24 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/SERV/","created":"2024-12-17T21:14:01.969+09:00","updated":"2025-06-03T20:06:01.149+09:00"}
+dg-publish: true
 ---
-
 #로봇공학 #자율주행 #배달서비스 #인공지능 #테크놀로지 #스타트업 #라스트마일배송 #자동화 #모빌리티 #스마트시티 #서비스로봇 #도시물류 #임의소비재 #전문소매 #로봇 #자율주행로봇 #배달 
 
 ## 섹터
 
-섹터: [[임의소비재\|임의소비재]]
+섹터: [[임의소비재]]
 
 ## 산업
 
-산업: [[전문 소매\|전문 소매]](Specialty Retail)
+산업: [[전문 소매]](Specialty Retail)
 
 ## 영위사업
 
-Serve Robotics Inc.는 [[자율 주행 로봇\|자율 주행 로봇]]을 이용한 [[라스트마일 배달\|라스트마일 배달]] 서비스를 제공하는 기업입니다. 주요 사업 영역은 다음과 같습니다:
+Serve Robotics Inc.는 [[자율 주행 로봇]]을 이용한 [[라스트마일 배달]] 서비스를 제공하는 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
-1. 자율 주행 [[배달\|배달]] 로봇 개발 및 운영
+1. 자율 주행 [[배달]] 로봇 개발 및 운영
 2. 식품 및 소매 업체를 위한 배달 서비스 제공
-3. [[1.Study/★ 산업/로봇 산업/로봇\|로봇]] 운영 플랫폼 및 소프트웨어 개발
+3. [[로봇]] 운영 플랫폼 및 소프트웨어 개발
 4. 도시 물류 솔루션 제공
 
 회사는 인공지능과 로봇 기술을 활용하여 효율적이고 친환경적인 도시 내 배달 서비스를 구현하는 데 주력하고 있습니다.
@@ -53,9 +52,9 @@ Serve Robotics Inc.는 [[자율 주행 로봇\|자율 주행 로봇]]을 이용�
 
 1. Starship Technologies(비상장): 캠퍼스 및 도시 배달 로봇
 2. Nuro(비상장): 자율 주행 배달 차량
-3. Amazon Scout(Amazon.com Inc. 자회사, US, [[2.개별종목/AMZN\|AMZN]]): 라스트마일 배달 로봇
+3. Amazon Scout(Amazon.com Inc. 자회사, US, [[AMZN]]): 라스트마일 배달 로봇
 4. Kiwibot(비상장): 대학 캠퍼스 중심 배달 로봇
-5. Postmates(Uber Technologies Inc. 자회사, US, [[2.개별종목/UBER\|UBER]]): 자율 배달 로봇 개발
+5. Postmates(Uber Technologies Inc. 자회사, US, [[UBER]]): 자율 배달 로봇 개발
 
 ## 최근 3년 내 주요 이슈
 
@@ -71,8 +70,8 @@ Serve Robotics Inc.는 [[자율 주행 로봇\|자율 주행 로봇]]을 이용�
 
 ## 관련 ETF
 
-1. ARK Autonomous Technology & Robotics ETF - [[ARKQ\|ARKQ]]
-2. Global X Robotics & Artificial Intelligence ETF - [[BOTZ\|BOTZ]]
-3. ROBO Global Robotics and Automation Index ETF - [[ROBO\|ROBO]]
-4. First Trust Nasdaq Artificial Intelligence and Robotics ETF - [[ROBT\|ROBT]]
-5. iShares Robotics and Artificial Intelligence Multisector ETF - [[IRBO\|IRBO]]
+1. ARK Autonomous Technology & Robotics ETF - [[ARKQ]]
+2. Global X Robotics & Artificial Intelligence ETF - [[BOTZ]]
+3. ROBO Global Robotics and Automation Index ETF - [[ROBO]]
+4. First Trust Nasdaq Artificial Intelligence and Robotics ETF - [[ROBT]]
+5. iShares Robotics and Artificial Intelligence Multisector ETF - [[IRBO]]

@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/SCHW/","created":"2024-10-31T21:57:04.974+09:00","updated":"2025-06-03T20:06:01.094+09:00"}
+dg-publish: true
 ---
-
 #자본시장 #금융 #은행 
 
 ## 산업섹터
 
-섹터: [[금융\|금융]](Financials)  
-산업: [[자본 시장\|자본 시장]](Capital Markets)
+섹터: [[금융]](Financials)  
+산업: [[자본 시장]](Capital Markets)
 
 ## 영위사업
 
@@ -31,7 +30,7 @@ Charles Schwab는 소매 및 기관 고객을 대상으로 금융, 상업 은행
 - Fidelity Investments
 - E*TRADE (Morgan Stanley의 자회사)
 - TD Ameritrade (Charles Schwab의 자회사)
-- Robinhood Markets(US, [[2.개별종목/HOOD\|HOOD]])
+- Robinhood Markets(US, [[HOOD]])
 
 ## 산업 내 글로벌 시장 점유율
 

@@ -1,47 +1,46 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/TSM/","created":"2024-08-29T21:47:48.355+09:00","updated":"2025-06-03T20:06:01.767+09:00"}
+dg-publish: true
 ---
-
 #테크 #반도체 #파운드리
 
 ## 산업섹터
 
-- **Sector**: Technology ([[테크\|테크]])
-- **Industry**: Semiconductors ([[1.Study/★ 산업/반도체 산업/반도체\|반도체]])
+- **Sector**: Technology ([[테크]])
+- **Industry**: Semiconductors ([[반도체]])
 
 ## 영위사업
 
-TSMC는 세계 최대의 반도체 [[파운드리\|파운드리]] 회사로, 고객의 설계에 따라 반도체 칩을 제조합니다. TSMC는 다양한 산업에 걸쳐 고객에게 서비스를 제공하며, 고급 공정 기술을 통해 다양한 반도체 제품을 생산합니다. 주요 고객으로는 Apple, NVIDIA, Qualcomm 등이 있습니다.
+TSMC는 세계 최대의 반도체 [[파운드리]] 회사로, 고객의 설계에 따라 반도체 칩을 제조합니다. TSMC는 다양한 산업에 걸쳐 고객에게 서비스를 제공하며, 고급 공정 기술을 통해 다양한 반도체 제품을 생산합니다. 주요 고객으로는 Apple, NVIDIA, Qualcomm 등이 있습니다.
 
 ## 전방/후방산업
 
 - **전방산업**:
     
     - **핵심 산업 및 역할**: 전자 제품 제조 및 판매
-    - **관련 기업**: Apple (US, [[2.개별종목/AAPL\|AAPL]]), [[1.Study/★ 테마/VR,AR,MR/종목/삼성전자\|삼성전자]] (KR, 005930.KS)
+    - **관련 기업**: Apple (US, [[AAPL]]), [[삼성전자]] (KR, 005930.KS)
     
 - **후방산업**:
     
     - **핵심 산업 및 역할**: 반도체 장비 및 재료 공급
-    - **관련 기업**: Applied Materials (US, [[2.개별종목/AMAT\|AMAT]]), ASML Holding (NL, [[2.개별종목/ASML\|ASML]])
+    - **관련 기업**: Applied Materials (US, [[AMAT]]), ASML Holding (NL, [[ASML]])
     
 
 ## 밸류체인
 
 - **반도체 설계**: 고객의 반도체 설계를 기반으로 제조
     
-    - **대표 회사**: NVIDIA (US, [[2.개별종목/NVDA\|NVDA]]) - 그래픽 처리 장치 설계
-    - **대표 회사**: AMD (US, [[2.개별종목/AMD\|AMD]]) - 반도체 설계
+    - **대표 회사**: NVIDIA (US, [[NVDA]]) - 그래픽 처리 장치 설계
+    - **대표 회사**: AMD (US, [[AMD]]) - 반도체 설계
     
 - **제조**: 반도체 칩의 대량 생산
     
-    - **대표 회사**: GlobalFoundries (US, [[2.개별종목/GFS\|GFS]]) - 반도체 제조
-    - **대표 회사**: [[1.Study/★ 테마/VR,AR,MR/종목/삼성전자\|삼성전자]] (KR, 005930.KS) - 반도체 제조
+    - **대표 회사**: GlobalFoundries (US, [[GFS]]) - 반도체 제조
+    - **대표 회사**: [[삼성전자]] (KR, 005930.KS) - 반도체 제조
     
 - **판매 및 유통**: 고객에게 반도체 제품 공급
     
-    - **대표 회사**: [[Digi-Key Electronics\|Digi-Key Electronics]] (US, 비상장) - 전자 부품 유통
-    - **대표 회사**: [[Mouser Electronics\|Mouser Electronics]] (US, 비상장) - 전자 부품 유통
+    - **대표 회사**: [[Digi-Key Electronics]] (US, 비상장) - 전자 부품 유통
+    - **대표 회사**: [[Mouser Electronics]] (US, 비상장) - 전자 부품 유통
     
 
 ## 주요제품
@@ -55,9 +54,9 @@ TSMC는 전 세계적으로 운영되며, 주요 시장은 미국, 중국, 일�
 
 ## 경쟁업체
 
-- **[[1.Study/★ 테마/VR,AR,MR/종목/삼성전자\|삼성전자]] (KR, 005930.KS)** - 반도체 제조 및 설계
-- **GlobalFoundries (US, [[2.개별종목/GFS\|GFS]])** - 반도체 제조
-- **Intel Corporation (US, [[2.개별종목/INTC\|INTC]])** - 반도체 설계 및 제조
+- **[[삼성전자]] (KR, 005930.KS)** - 반도체 제조 및 설계
+- **GlobalFoundries (US, [[GFS]])** - 반도체 제조
+- **Intel Corporation (US, [[INTC]])** - 반도체 설계 및 제조
 
 ## 산업 내 글로벌 시장 점유율
 

@@ -1,14 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/ANF/","created":"2024-08-30T09:16:59.320+09:00","updated":"2025-06-03T20:05:57.673+09:00"}
+dg-publish: true
 ---
-
 #임의소비재 #의류
 
 
 ## 산업섹터
 
-Sector: Consumer Cyclical ([[임의소비재\|임의소비재]])  
-Industry: Apparel Retail ([[의류 소매\|의류 소매]])
+Sector: Consumer Cyclical ([[임의소비재]])  
+Industry: Apparel Retail ([[의류 소매]])
 
 ## 영위사업
 
@@ -19,14 +18,14 @@ Abercrombie & Fitch는 청소년과 젊은 성인을 대상으로 하는 캐주�
 전방산업:
 
 - 역할: 제품 판매 및 유통
-- 온라인 소매: Amazon (미국, [[2.개별종목/AMZN\|AMZN]])
-- 쇼핑몰: Simon Property Group (미국, [[2.개별종목/SPG\|SPG]])
+- 온라인 소매: Amazon (미국, [[AMZN]])
+- 쇼핑몰: Simon Property Group (미국, [[SPG]])
 
 후방산업:
 
 - 역할: 원자재 및 물류 공급
-- 섬유 제조: Unifi (미국, [[2.개별종목/UFI\|UFI]])
-- 물류: FedEx (미국, [[2.개별종목/FDX\|FDX]])
+- 섬유 제조: Unifi (미국, [[UFI]])
+- 물류: FedEx (미국, [[FDX]])
 
 ## 주요제품
 
@@ -40,9 +39,9 @@ Abercrombie & Fitch는 전 세계적으로 운영되며, 주요 시장은 미국
 
 ## 경쟁업체
 
-- American Eagle Outfitters (미국, [[2.개별종목/AEO\|AEO]]) - 청소년 및 젊은 성인 대상 의류
-- Gap Inc. (미국, [[2.개별종목/GPS\|GPS]]) - 다양한 연령대 대상 의류
-- Urban Outfitters (미국, [[2.개별종목/URBN\|URBN]]) - 젊은 성인 대상 의류 및 라이프스타일 제품
+- American Eagle Outfitters (미국, [[AEO]]) - 청소년 및 젊은 성인 대상 의류
+- Gap Inc. (미국, [[GPS]]) - 다양한 연령대 대상 의류
+- Urban Outfitters (미국, [[URBN]]) - 젊은 성인 대상 의류 및 라이프스타일 제품
 
 ## 산업 내 글로벌 시장 점유율
 

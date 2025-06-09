@@ -1,32 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/BMW/","created":"2023-06-20T14:09:13.900+09:00","updated":"2025-06-03T20:05:58.030+09:00"}
+dg-publish: true
 ---
-
 #자동차 #소비재 #전기차 #자동차제조업체  #임의소비재 
 
 
 ## 산업섹터
 
-Sector: Consumer Cyclical ([[임의소비재\|임의소비재]])  
-Industry: Auto Manufacturers ([[자동차 제조업\|자동차 제조업]])
+Sector: Consumer Cyclical ([[임의소비재]])  
+Industry: Auto Manufacturers ([[자동차 제조업]])
 
 ## 영위사업
 
-BMW는 고급 [[1.Study/★ 산업/자동차 산업/자동차\|자동차]] 및 [[오토바이\|오토바이]]를 설계, 제조 및 판매하는 독일의 다국적 기업입니다. BMW 그룹은 BMW, MINI, Rolls-Royce 브랜드를 포함하며, 전 세계적으로 자동차 및 모터사이클을 제공합니다.
+BMW는 고급 [[자동차]] 및 [[오토바이]]를 설계, 제조 및 판매하는 독일의 다국적 기업입니다. BMW 그룹은 BMW, MINI, Rolls-Royce 브랜드를 포함하며, 전 세계적으로 자동차 및 모터사이클을 제공합니다.
 
 ## 전방/후방산업
 
 전방산업:
 
 - 역할: 자동차 및 오토바이 판매
-- 자동차 판매: Mercedes-Benz (DE, [[MBG\|MBG]])
-- 전기차 제조: Tesla (US, [[2.개별종목/TSLA\|2.개별종목/TSLA]])
+- 자동차 판매: Mercedes-Benz (DE, [[MBG]])
+- 전기차 제조: Tesla (US, [[2.개별종목/TSLA]])
 
 후방산업:
 
 - 역할: 부품 및 원자재 공급
-- 자동차 부품: Bosch (DE, [[BOSCH\|BOSCH]])
-- 금속 공급: ArcelorMittal (LU, [[2.개별종목/MT\|MT]])
+- 자동차 부품: Bosch (DE, [[BOSCH]])
+- 금속 공급: ArcelorMittal (LU, [[MT]])
 
 ## 주요제품
 
@@ -46,9 +45,9 @@ BMW는 전 세계적으로 제품을 판매하고 있으며, 주요 시장은 �
 
 ## 경쟁업체
 
-- Daimler AG (DE, [[DAI\|DAI]]) - Mercedes-Benz 브랜드
-- Volkswagen AG (DE, [[2.개별종목/Volkswagen\|Volkswagen]]) - Volkswagen, Audi, Porsche 브랜드
-- Ford Motor Company (US, [[2.개별종목/F\|2.개별종목/F]]) - 다양한 자동차 모델
+- Daimler AG (DE, [[DAI]]) - Mercedes-Benz 브랜드
+- Volkswagen AG (DE, [[Volkswagen]]) - Volkswagen, Audi, Porsche 브랜드
+- Ford Motor Company (US, [[2.개별종목/F]]) - 다양한 자동차 모델
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -60,7 +59,7 @@ BMW는 전 세계적으로 제품을 판매하고 있으며, 주요 시장은 �
 
 
 - 세부정보
-	- [[1.Study/★ 산업/이차전지, 배터리 산업/1.이차전지/실리콘 음극재\|실리콘 음극재]]
-		- 2025년부터 '뉴 클래스' 제품군에 차세대 원통형 배터리 [[46phi 셀\|46phi 셀]] 탑재 예정. 해당 셀에는 [실리콘 함량 증가시킨 음극재 적용] 계획 
+	- [[실리콘 음극재]]
+		- 2025년부터 '뉴 클래스' 제품군에 차세대 원통형 배터리 [[46phi 셀]] 탑재 예정. 해당 셀에는 [실리콘 함량 증가시킨 음극재 적용] 계획 
 
 

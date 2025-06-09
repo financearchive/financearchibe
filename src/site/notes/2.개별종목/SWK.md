@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/SWK/","created":"2024-10-30T17:34:36.493+09:00","updated":"2025-06-03T20:06:01.430+09:00"}
+dg-publish: true
 ---
-
 #산업재 #기계 #공구 
 
 ## 산업섹터
 
-섹터: [[산업재\|산업재]](Industrials)  
-산업: [[기계\|기계]](Machinery)
+섹터: [[산업재]](Industrials)  
+산업: [[기계]](Machinery)
 
 ## 영위사업
 
-Stanley Black & Decker는 전동 및 수[[공구\|공구]], 산업용 장비, 보안 시스템 등을 제조, 판매하는 글로벌 기업입니다.
+Stanley Black & Decker는 전동 및 수[[공구]], 산업용 장비, 보안 시스템 등을 제조, 판매하는 글로벌 기업입니다.
 
 ## 주요제품
 

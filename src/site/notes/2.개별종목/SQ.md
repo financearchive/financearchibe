@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/SQ/","created":"2024-08-29T21:57:11.297+09:00","updated":"2025-06-03T20:06:01.338+09:00"}
+dg-publish: true
 ---
-
 #금융서비스 #핀테크 #대출
 
 ## 산업섹터
 
-- **Sector**: Financial Services ([[금융 서비스\|금융 서비스]])
-- **Industry**: Financial Technology ([[핀테크\|핀테크]])
+- **Sector**: Financial Services ([[금융 서비스]])
+- **Industry**: Financial Technology ([[핀테크]])
 
 ## 영위사업
 
@@ -18,20 +17,20 @@ Square는 중소기업을 위한 포괄적인 금융 서비스 플랫폼을 제�
 - **전방산업**:
     
     - **핵심 산업 및 역할**: 소매업 및 서비스업의 결제 처리
-    - **관련 기업**: PayPal (US, [[2.개별종목/PYPL\|PYPL]]), Shopify (CA, [[2.개별종목/SHOP\|SHOP]])
+    - **관련 기업**: PayPal (US, [[PYPL]]), Shopify (CA, [[SHOP]])
     
 - **후방산업**:
     
     - **핵심 산업 및 역할**: 금융 데이터 처리 및 소프트웨어 솔루션 제공
-    - **관련 기업**: Intuit (US, [[2.개별종목/INTU\|INTU]]), Fiserv (US, [[FISV\|FISV]])
+    - **관련 기업**: Intuit (US, [[INTU]]), Fiserv (US, [[FISV]])
     
 
 ## 밸류체인
 
 - **결제 처리**: Square의 결제 처리 시스템
     
-    - **대표 회사**: PayPal (US, [[2.개별종목/PYPL\|PYPL]]) - 온라인 결제 처리
-    - **대표 회사**: Adyen (NL, [[ADYEY\|ADYEY]]) - 글로벌 결제 처리 솔루션
+    - **대표 회사**: PayPal (US, [[PYPL]]) - 온라인 결제 처리
+    - **대표 회사**: Adyen (NL, [[ADYEY]]) - 글로벌 결제 처리 솔루션
     
 - **소프트웨어 개발**: Square의 POS 소프트웨어 및 관리 도구 개발
     
@@ -40,7 +39,7 @@ Square는 중소기업을 위한 포괄적인 금융 서비스 플랫폼을 제�
     
 - **고객 서비스**: 비즈니스 운영을 지원하는 고객 서비스 제공
     
-    - **대표 회사**: Zendesk (US, [[ZEN\|ZEN]]) - 고객 지원 소프트웨어
+    - **대표 회사**: Zendesk (US, [[ZEN]]) - 고객 지원 소프트웨어
     - **대표 회사**: Freshdesk (US, 비상장) - 고객 서비스 플랫폼
     
 
@@ -48,7 +47,7 @@ Square는 중소기업을 위한 포괄적인 금융 서비스 플랫폼을 제�
 
 - **Square Reader** (모바일 결제 수신 장치, 매출의 약 30%)
 - **Square POS** (판매 시점 소프트웨어, 매출의 약 40%)
-- **Square Capital** (상인 [[대출\|대출]] 서비스, 매출의 약 15%)
+- **Square Capital** (상인 [[대출]] 서비스, 매출의 약 15%)
 - **Square Payroll** (급여 처리 서비스, 매출의 약 15%)
 
 ## 주요 판매국가
@@ -57,9 +56,9 @@ Square는 미국을 중심으로 캐나다, 호주, 일본, 영국, 아일랜드
 
 ## 경쟁업체
 
-- **PayPal (US, [[2.개별종목/PYPL\|PYPL]])** - 온라인 결제 및 송금 서비스
-- **Shopify (CA, [[2.개별종목/SHOP\|SHOP]])** - 전자상거래 플랫폼 및 결제 처리
-- **Adyen (NL, [[ADYEY\|ADYEY]])** - 글로벌 결제 처리 솔루션
+- **PayPal (US, [[PYPL]])** - 온라인 결제 및 송금 서비스
+- **Shopify (CA, [[SHOP]])** - 전자상거래 플랫폼 및 결제 처리
+- **Adyen (NL, [[ADYEY]])** - 글로벌 결제 처리 솔루션
 
 ## 산업 내 글로벌 시장 점유율
 

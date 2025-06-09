@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/TJX/","created":"2024-12-24T21:26:03.342+09:00","updated":"2025-06-03T20:06:01.621+09:00"}
+dg-publish: true
 ---
-
 #오프프라이스리테일 #의류 #홈패션 #글로벌유통 #브랜드가치 #재고관리 #보물찾기쇼핑 #다각화 #유연한비즈니스모델 #이커머스 #임의소비재 #의류소매
 
-[[임의소비재\|임의소비재]] 섹터  
-[[의류소매\|의류소매]](Apparel Retail) 산업
+[[임의소비재]] 섹터  
+[[의류소매]](Apparel Retail) 산업
 
 ## 영위사업
 
@@ -30,25 +29,25 @@ TJX는 브랜드, 패션, 가격, 품질의 조합을 통해 가치를 제공하
 
 전방산업:
 
-1. 소비자 소매업: Target Corporation(US, [[2.개별종목/TGT\|TGT]])
-2. 온라인 소매업: Amazon.com, Inc.(US, [[2.개별종목/AMZN\|AMZN]])
+1. 소비자 소매업: Target Corporation(US, [[TGT]])
+2. 온라인 소매업: Amazon.com, Inc.(US, [[AMZN]])
 
 후방산업:
 
-1. 의류 제조업: VF Corporation(US, [[VFC\|VFC]])
-2. 물류 및 유통: FedEx Corporation(US, [[2.개별종목/FDX\|FDX]])
+1. 의류 제조업: VF Corporation(US, [[VFC]])
+2. 물류 및 유통: FedEx Corporation(US, [[FDX]])
 
 ## 밸류체인
 
-1. 상품 소싱: Li & Fung Limited(HK, [[Li & Fung\|Li & Fung]]) - 글로벌 공급망 관리
-2. 물류 및 유통: XPO Logistics, Inc.(US, [[2.개별종목/XPO\|XPO]]) - 공급망 솔루션
+1. 상품 소싱: Li & Fung Limited(HK, [[Li & Fung]]) - 글로벌 공급망 관리
+2. 물류 및 유통: XPO Logistics, Inc.(US, [[XPO]]) - 공급망 솔루션
 3. 소매 운영: TJX Companies - 오프프라이스 리테일
-4. 마케팅 및 브랜딩: Interpublic Group of Companies, Inc.(US, [[2.개별종목/IPG\|IPG]]) - 광고 및 마케팅 서비스
-5. 고객 서비스: Salesforce.com, Inc.(US, [[2.개별종목/CRM\|CRM]]) - 고객 관계 관리 솔루션
+4. 마케팅 및 브랜딩: Interpublic Group of Companies, Inc.(US, [[IPG]]) - 광고 및 마케팅 서비스
+5. 고객 서비스: Salesforce.com, Inc.(US, [[CRM]]) - 고객 관계 관리 솔루션
 
 ## 주요제품
 
-1. [[의류\|의류]] 및 액세서리: 여성, 남성, 아동용 패션 상품
+1. [[의류]] 및 액세서리: 여성, 남성, 아동용 패션 상품
 2. 홈 패션: 가구, 침구, 주방용품, 장식품 등
 3. 뷰티 및 웰빙 제품: 화장품, 향수, 개인 케어 용품
 4. 신발 및 가방
@@ -64,11 +63,11 @@ TJX Companies의 주요 고객은 가치 지향적인 중산층 소비자들입�
 
 ## 경쟁업체
 
-1. Ross Stores, Inc.(US, [[2.개별종목/ROST\|ROST]]) - 오프프라이스 의류 및 홈패션 리테일러
-2. Burlington Stores, Inc.(US, [[BURL\|BURL]]) - 오프프라이스 리테일러
-3. Kohl's Corporation(US, [[2.개별종목/KSS\|KSS]]) - 백화점 체인
-4. Nordstrom, Inc.(US, [[2.개별종목/JWN\|JWN]]) - 럭셔리 백화점 체인
-5. Target Corporation(US, [[2.개별종목/TGT\|TGT]]) - 대형 할인점 체인
+1. Ross Stores, Inc.(US, [[ROST]]) - 오프프라이스 의류 및 홈패션 리테일러
+2. Burlington Stores, Inc.(US, [[BURL]]) - 오프프라이스 리테일러
+3. Kohl's Corporation(US, [[KSS]]) - 백화점 체인
+4. Nordstrom, Inc.(US, [[JWN]]) - 럭셔리 백화점 체인
+5. Target Corporation(US, [[TGT]]) - 대형 할인점 체인
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -96,8 +95,8 @@ TJX Companies의 주요 고객은 가치 지향적인 중산층 소비자들입�
 
 ## 관련 ETF
 
-1. Consumer Discretionary Select Sector SPDR Fund - [[XLY\|XLY]]
-2. Vanguard Consumer Discretionary ETF - [[VCR\|VCR]]
-3. iShares U.S. Consumer Discretionary ETF - [[IYC\|IYC]]
-4. Fidelity MSCI Consumer Discretionary Index ETF - [[FDIS\|FDIS]]
-5. Invesco S&P 500 Equal Weight Consumer Discretionary ETF - [[RCD\|RCD]]
+1. Consumer Discretionary Select Sector SPDR Fund - [[XLY]]
+2. Vanguard Consumer Discretionary ETF - [[VCR]]
+3. iShares U.S. Consumer Discretionary ETF - [[IYC]]
+4. Fidelity MSCI Consumer Discretionary Index ETF - [[FDIS]]
+5. Invesco S&P 500 Equal Weight Consumer Discretionary ETF - [[RCD]]

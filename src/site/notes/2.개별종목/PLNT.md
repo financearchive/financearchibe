@@ -1,22 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/PLNT/","created":"2025-01-05T18:29:43.364+09:00","updated":"2025-06-03T20:06:00.683+09:00"}
+dg-publish: true
 ---
-
 #임의소비재 #호텔레스토랑레저 #피트니스프랜차이즈 #체육관체인 #저가피트니스  #디지털통합 #장비혁신 #건강과웰빙
 
 ## 섹터
 
-섹터: [[임의소비재\|임의소비재]]
+섹터: [[임의소비재]]
 
 ## 산업
 
-산업: [[호텔, 레스토랑 & 레저\|호텔, 레스토랑 & 레저]](Hotels, Restaurants & Leisure)
+산업: [[호텔, 레스토랑 & 레저]](Hotels, Restaurants & Leisure)
 
 ## 영위사업
 
-Planet Fitness는 [[미국 최대의 저가 헬스클럽 체인\|미국 최대의 저가 헬스클럽 체인]]으로, "Judgement Free Zone" 컨셉으로 유명합니다. 주요 사업은 다음과 같습니다:
+Planet Fitness는 [[미국 최대의 저가 헬스클럽 체인]]으로, "Judgement Free Zone" 컨셉으로 유명합니다. 주요 사업은 다음과 같습니다:
 
-1. 프랜차이즈 운영: 2,500개 이상의 프랜차이즈 [[헬스클럽\|헬스클럽]] 운영
+1. 프랜차이즈 운영: 2,500개 이상의 프랜차이즈 [[헬스클럽]] 운영
 2. 기업 소유 매장: 직접 운영하는 헬스클럽 체인
 3. 장비 판매: 프랜차이즈 가맹점에 피트니스 장비 공급
 
@@ -25,7 +24,7 @@ Planet Fitness는 저렴한 회원권과 비위협적인 운동 환경을 제공
 ## 핵심 경쟁력
 
 1. 강력한 브랜드 인지도: "Judgement Free Zone" 컨셉으로 차별화
-2. 저가 모델: [[월 $10의 저렴한 기본 회원권\|월 $10의 저렴한 기본 회원권]]으로 넓은 고객층 확보
+2. 저가 모델: [[월 $10의 저렴한 기본 회원권]]으로 넓은 고객층 확보
 3. 프랜차이즈 모델: 빠른 확장과 안정적인 수익 창출
 4. 규모의 경제: 대규모 운영을 통한 비용 효율성
 5. 기술 혁신: 모바일 앱, 가상 트레이닝 등 디지털 서비스 강화
@@ -73,8 +72,8 @@ Planet Fitness는 저렴한 회원권과 비위협적인 운동 환경을 제공
 
 ## 관련 ETF
 
-1. Global X Health & Wellness ETF - [[BFIT\|BFIT]]
-2. Invesco Dynamic Leisure and Entertainment ETF - [[PEJ\|PEJ]]
-3. VanEck Retail ETF - [[RTH\|RTH]]
-4. Invesco S&P 500 Equal Weight Consumer Discretionary ETF - [[RCD\|RCD]]
-5. iShares U.S. Consumer Discretionary ETF - [[IYC\|IYC]]
+1. Global X Health & Wellness ETF - [[BFIT]]
+2. Invesco Dynamic Leisure and Entertainment ETF - [[PEJ]]
+3. VanEck Retail ETF - [[RTH]]
+4. Invesco S&P 500 Equal Weight Consumer Discretionary ETF - [[RCD]]
+5. iShares U.S. Consumer Discretionary ETF - [[IYC]]

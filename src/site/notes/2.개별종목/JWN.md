@@ -1,18 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/JWN/","created":"2024-12-24T15:08:57.553+09:00","updated":"2025-06-03T20:05:59.701+09:00"}
+dg-publish: true
 ---
-
 #임의소비재 #백화점 #의류 #소매 #고급백화점
 
 
 ## 산업섹터
 
-Sector: [[임의소비재\|임의소비재]](Consumer Discretionary)  
-Industry: [[백화점\|백화점]](Department Stores)
+Sector: [[임의소비재]](Consumer Discretionary)  
+Industry: [[백화점]](Department Stores)
 
 ## 영위사업
 
-Nordstrom, Inc.는 1901년 설립된 미국의 [[고급 백화점\|고급 백화점]] 체인으로, 다음과 같은 주요 사업을 영위하고 있습니다:
+Nordstrom, Inc.는 1901년 설립된 미국의 [[고급 백화점]] 체인으로, 다음과 같은 주요 사업을 영위하고 있습니다:
 
 1. 의류, 신발, 액세서리, 화장품 판매
 2. Nordstrom과 Nordstrom Rack 브랜드 운영
@@ -21,7 +20,7 @@ Nordstrom, Inc.는 1901년 설립된 미국의 [[고급 백화점\|고급 백화
 
 ## 주요제품
 
-1. 여성, 남성, 아동용 [[의류\|의류]]
+1. 여성, 남성, 아동용 [[의류]]
 2. 신발 및 액세서리
 3. 화장품 및 미용 제품
 4. 홈 인테리어 상품
@@ -33,11 +32,11 @@ Nordstrom, Inc.는 1901년 설립된 미국의 [[고급 백화점\|고급 백화
 
 ## 경쟁업체
 
-1. Macy's (US, [[2.개별종목/M\|M]])
-2. Dillard's (US, [[2.개별종목/DDS\|DDS]])
+1. Macy's (US, [[M]])
+2. Dillard's (US, [[DDS]])
 3. Neiman Marcus
 4. Saks Fifth Avenue
-5. TJX Companies (US, [[2.개별종목/TJX\|TJX]])
+5. TJX Companies (US, [[TJX]])
 
 ## 최근 3년 내 주요 이슈
 

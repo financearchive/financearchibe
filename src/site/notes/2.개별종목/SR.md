@@ -1,24 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/SR/","created":"2024-12-30T21:02:06.001+09:00","updated":"2025-06-03T20:06:01.345+09:00"}
+dg-publish: true
 ---
-
 #유틸리티 #천연가스 #에너지유통 #주거용가스 #상업용가스 #산업용가스 #에너지인프라 #규제산업 #배당주 #지역독점 #에너지효율 #천연가스구매 #소매유통 #에너지서비스 #가스유틸리티 #유틸리티 #천연가스 #미드스트림 
 
 ## 섹터
 
-섹터: [[유틸리티\|유틸리티]]
+섹터: [[유틸리티]]
 
 ## 산업
 
-산업: [[가스 유틸리티\|가스 유틸리티]](Gas Utilities)
+산업: [[가스 유틸리티]](Gas Utilities)
 
 ## 영위사업
 
-Spire Inc.는 미국의 [[1.Study/★ 산업/에너지 산업/1.화석 에너지/1.정유화학/천연가스\|천연가스]] 유틸리티 기업으로, 주로 주거용, 상업용, 산업용 및 기타 최종 사용자에게 [[천연가스 구매\|천연가스 구매]], 소매 유통 및 판매하는 사업을 영위하고 있습니다. 회사는 미주리주, 앨라배마주, 미시시피주 등에서 규제된 천연가스 유통 사업을 운영하고 있으며, 약 170만 명의 고객에게 서비스를 제공하고 있습니다.주요 사업 부문:
+Spire Inc.는 미국의 [[천연가스]] 유틸리티 기업으로, 주로 주거용, 상업용, 산업용 및 기타 최종 사용자에게 [[천연가스 구매]], 소매 유통 및 판매하는 사업을 영위하고 있습니다. 회사는 미주리주, 앨라배마주, 미시시피주 등에서 규제된 천연가스 유통 사업을 운영하고 있으며, 약 170만 명의 고객에게 서비스를 제공하고 있습니다.주요 사업 부문:
 
-1. 가스 유틸리티: 규제된 [[천연가스 유통\|천연가스 유통]] 서비스
+1. 가스 유틸리티: 규제된 [[천연가스 유통]] 서비스
 2. 가스 마케팅: 비규제 천연가스 마케팅 서비스
-3. [[미드스트림\|미드스트림]]: 파이프라인 운영 및 저장 서비스(전체 매출의 3.9%)
+3. [[미드스트림]]: 파이프라인 운영 및 저장 서비스(전체 매출의 3.9%)
 
 Spire Inc.는 안정적인 규제 환경에서 운영되며, 지역 독점적 특성을 가진 유틸리티 기업으로서 예측 가능한 현금흐름과 배당을 제공하는 특징이 있습니다.
 
@@ -36,53 +35,53 @@ Spire Inc.는 안정적인 규제 환경에서 운영되며, 지역 독점적 �
 
 1. 주거용 에너지: 가정용 난방 및 조리
     
-    - 주택 건설업체: Lennar Corporation(US, [[2.개별종목/LEN\|LEN]])
+    - 주택 건설업체: Lennar Corporation(US, [[LEN]])
     
 2. 상업용 에너지: 사무실, 상점 등의 난방 및 에너지 사용
     
-    - 상업용 부동산: Simon Property Group(US, [[2.개별종목/SPG\|SPG]])
+    - 상업용 부동산: Simon Property Group(US, [[SPG]])
     
 3. 산업용 에너지: 제조 공정 및 발전소 연료
     
-    - 제조업체: General Electric(US, [[2.개별종목/GE\|GE]])
+    - 제조업체: General Electric(US, [[GE]])
     
 
 ## 후방산업:
 
 1. 천연가스 생산: 원료 공급
     
-    - ExxonMobil(US, [[2.개별종목/XOM\|XOM]])
+    - ExxonMobil(US, [[XOM]])
     
 2. 파이프라인 인프라: 가스 운송
     
-    - Kinder Morgan(US, [[2.개별종목/KMI\|KMI]])
+    - Kinder Morgan(US, [[KMI]])
     
 3. 가스 저장 시설: 수요 변동 대응
     
-    - Cheniere Energy(US, [[1.Study/★ 산업/에너지 산업/1.화석 에너지/1.정유화학/INFO_정유, 기타에너지/LNG\|LNG]])
+    - Cheniere Energy(US, [[LNG]])
     
 
 ## 밸류체인
 
 1. 천연가스 생산: 원료 공급
     
-    - ExxonMobil(US, [[2.개별종목/XOM\|XOM]]) (천연가스 생산)
+    - ExxonMobil(US, [[XOM]]) (천연가스 생산)
     
 2. 가스 운송: 파이프라인을 통한 운송
     
-    - Kinder Morgan(US, [[2.개별종목/KMI\|KMI]]) (파이프라인 운영)
+    - Kinder Morgan(US, [[KMI]]) (파이프라인 운영)
     
 3. 가스 저장: 수요 변동 대응
     
-    - Spire Inc.(US, [[2.개별종목/SR\|SR]]) (저장 시설 운영)
+    - Spire Inc.(US, [[SR]]) (저장 시설 운영)
     
 4. 가스 유통: 최종 소비자에게 공급
     
-    - Spire Inc.(US, [[2.개별종목/SR\|SR]]) (가스 유틸리티 서비스)
+    - Spire Inc.(US, [[SR]]) (가스 유틸리티 서비스)
     
 5. 소비자 서비스: 고객 지원 및 요금 징수
     
-    - Spire Inc.(US, [[2.개별종목/SR\|SR]]) (고객 서비스)
+    - Spire Inc.(US, [[SR]]) (고객 서비스)
     
 SR의 비즈니스 밸류체인은 미드스트림(업스트림(생산)과 다운스트림(정제 및 판매) 사이에 위치해 이 두 영역을 연결하는 역할을 합니다.) 중에서 제한적인 천연가스 유통을 주로 다루므로 [다운스트림에 가까운 미드스트림의 끝부분]에 위치합니다.
 
@@ -106,11 +105,11 @@ SR의 비즈니스 밸류체인은 미드스트림(업스트림(생산)과 다�
 
 ## 경쟁업체
 
-1. Atmos Energy Corporation(US, [[2.개별종목/ATO\|ATO]])
-2. ONE Gas, Inc.(US, [[2.개별종목/OGS\|OGS]])
-3. NiSource Inc.(US, [[NI\|NI]])
-4. Southwest Gas Holdings, Inc.(US, [[2.개별종목/SWX\|SWX]])
-5. New Jersey Resources Corporation(US, [[NJR\|NJR]])
+1. Atmos Energy Corporation(US, [[ATO]])
+2. ONE Gas, Inc.(US, [[OGS]])
+3. NiSource Inc.(US, [[NI]])
+4. Southwest Gas Holdings, Inc.(US, [[SWX]])
+5. New Jersey Resources Corporation(US, [[NJR]])
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -134,8 +133,8 @@ SR의 비즈니스 밸류체인은 미드스트림(업스트림(생산)과 다�
 
 ## 관련 ETF
 
-1. Utilities Select Sector SPDR Fund - [[XLU\|XLU]]
-2. Vanguard Utilities ETF - [[VPU\|VPU]]
-3. iShares U.S. Utilities ETF - [[IDU\|IDU]]
-4. Fidelity MSCI Utilities Index ETF - [[FUTY\|FUTY]]
-5. Invesco S&P 500 Equal Weight Utilities ETF - [[RYU\|RYU]]
+1. Utilities Select Sector SPDR Fund - [[XLU]]
+2. Vanguard Utilities ETF - [[VPU]]
+3. iShares U.S. Utilities ETF - [[IDU]]
+4. Fidelity MSCI Utilities Index ETF - [[FUTY]]
+5. Invesco S&P 500 Equal Weight Utilities ETF - [[RYU]]

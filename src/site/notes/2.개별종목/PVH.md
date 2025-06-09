@@ -1,14 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/PVH/","created":"2024-12-06T21:23:49.709+09:00","updated":"2025-06-03T20:06:00.827+09:00"}
+dg-publish: true
 ---
-
 #임의소비재 #의류 #사치품 #향수 #TommyHilfiger #CalvinKlein
 
 
 ## 산업섹터
 
-섹터: [[임의소비재\|임의소비재]](Consumer Discretionary)  
-산업: [[의류\|의류]], 액세서리 및 [[사치품\|사치품]](Apparel, Accessories & Luxury Goods)
+섹터: [[임의소비재]](Consumer Discretionary)  
+산업: [[의류]], 액세서리 및 [[사치품]](Apparel, Accessories & Luxury Goods)
 
 ## 영위사업
 
@@ -23,7 +22,7 @@
 
 ## 전방산업
 
-- 소매업체: 백화점, 전문점 등 (예: JCPenney(US, [[JCP\|JCP]]), Macy's(US, [[2.개별종목/M\|M]]))
+- 소매업체: 백화점, 전문점 등 (예: JCPenney(US, [[JCP]]), Macy's(US, [[M]]))
 - 소비자: 최종 제품 구매자
 
 ## 밸류체인
@@ -35,8 +34,8 @@
 
 ## 주요제품
 
-- [[Tommy Hilfiger\|Tommy Hilfiger]]: 캐주얼 의류 및 액세서리
-- [[Calvin Klein\|Calvin Klein]]: 의류, 속옷, [[향수\|향수]]
+- [[Tommy Hilfiger]]: 캐주얼 의류 및 액세서리
+- [[Calvin Klein]]: 의류, 속옷, [[향수]]
 - Van Heusen: 드레스 셔츠 및 비즈니스 캐주얼 의류
 - IZOD: 스포츠웨어 및 골프 의류
 - Warner's, Olga: 여성 속옷
@@ -47,10 +46,10 @@
 
 ## 경쟁업체
 
-- Ralph Lauren Corporation(US, [[2.개별종목/RL\|RL]]): 프리미엄 의류 및 액세서리
-- VF Corporation(US, [[VFC\|VFC]]): 다양한 의류 브랜드 보유
-- Tapestry, Inc.(US, [[2.개별종목/TPR\|TPR]]): 럭셔리 액세서리 및 라이프스타일 브랜드
-- Capri Holdings(US, [[2.개별종목/CPRI\|CPRI]]): 럭셔리 패션 브랜드
+- Ralph Lauren Corporation(US, [[RL]]): 프리미엄 의류 및 액세서리
+- VF Corporation(US, [[VFC]]): 다양한 의류 브랜드 보유
+- Tapestry, Inc.(US, [[TPR]]): 럭셔리 액세서리 및 라이프스타일 브랜드
+- Capri Holdings(US, [[CPRI]]): 럭셔리 패션 브랜드
 
 ## 산업 내 글로벌 시장 점유율
 

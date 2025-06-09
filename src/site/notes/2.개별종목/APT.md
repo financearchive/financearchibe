@@ -1,31 +1,30 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/APT/","created":"2024-08-29T21:56:51.872+09:00","updated":"2025-06-03T20:05:57.718+09:00"}
+dg-publish: true
 ---
-
 #금융서비스 #신용서비스
 
 ## 산업섹터
 
-Sector: Financial Services ([[금융 서비스\|금융 서비스]])  
-Industry: Credit Services ([[신용 서비스\|신용 서비스]])
+Sector: Financial Services ([[금융 서비스]])  
+Industry: Credit Services ([[신용 서비스]])
 
 ## 영위사업
 
-Afterpay는 소비자에게 즉각적인 구매와 분할 결제를 제공하는 "구매 지금, 나중에 지불" (Buy Now, Pay Later, [[1.Study/★ 산업/금융,결제 산업/BNPL\|BNPL]]) 서비스를 운영하는 금융 기술 회사입니다.
+Afterpay는 소비자에게 즉각적인 구매와 분할 결제를 제공하는 "구매 지금, 나중에 지불" (Buy Now, Pay Later, [[BNPL]]) 서비스를 운영하는 금융 기술 회사입니다.
 
 ## 전방/후방산업
 
 전방산업:
 
 - 역할: BNPL 서비스 사용
-- 전자상거래: Amazon (US, [[2.개별종목/AMZN\|2.개별종목/AMZN]])
-- 소매업: Walmart (US, [[2.개별종목/WMT\|WMT]])
+- 전자상거래: Amazon (US, [[2.개별종목/AMZN]])
+- 소매업: Walmart (US, [[WMT]])
 
 후방산업:
 
 - 역할: 결제 처리 및 기술 지원
-- 결제 처리: Visa (US, [[2.개별종목/V\|V]])
-- 클라우드 서비스: Amazon Web Services (US, [[2.개별종목/AMZN\|2.개별종목/AMZN]])
+- 결제 처리: Visa (US, [[V]])
+- 클라우드 서비스: Amazon Web Services (US, [[2.개별종목/AMZN]])
 
 ## 주요제품
 
@@ -38,9 +37,9 @@ Afterpay는 주로 호주, 뉴질랜드, 미국, 영국, 캐나다에서 서비�
 
 ## 경쟁업체
 
-- Zip Co Limited (AU, [[Z1P\|Z1P]]) - BNPL 서비스
+- Zip Co Limited (AU, [[Z1P]]) - BNPL 서비스
 - Klarna (비상장) - BNPL 서비스
-- Affirm (US, [[2.개별종목/AFRM\|2.개별종목/AFRM]]) - BNPL 서비스
+- Affirm (US, [[2.개별종목/AFRM]]) - BNPL 서비스
 
 경쟁사들의 정확한 시장점유율 데이터는 제공된 정보에 없습니다.
 

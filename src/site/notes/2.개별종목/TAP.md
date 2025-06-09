@@ -1,16 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/TAP/","created":"2025-01-06T13:59:47.647+09:00","updated":"2025-06-03T20:06:01.517+09:00"}
+dg-publish: true
 ---
-
 #맥주 #양조 #알코올음료 #프리미엄브랜드 #글로벌기업 #쿠어스라이트 #밀러라이트 #블루문 #CdTe  #북미시장 #유럽시장  #디지털전환 #비알코올음료 #하드셀처 #크래프트맥주 
 
 ## 산업섹터
 
-섹터: [[임의소비재\|임의소비재]]산업: #주류제조
+섹터: [[임의소비재]]산업: #주류제조
 
 ## 영위사업
 
-Molson Coors Beverage Company(NYSE: TAP)는 [[맥주\|맥주]] 및 기타 알코올 음료를 제조, 마케팅, 판매하는 다국적 음료 기업입니다. 주요 브랜드로는 Coors Light, Miller Lite, Molson Canadian, Carling, Blue Moon 등이 있습니다.회사는 북미와 유럽을 중심으로 전 세계 시장에서 사업을 영위하고 있으며, 프리미엄 브랜드부터 경제적인 브랜드까지 다양한 포트폴리오를 보유하고 있습니다. 최근에는 하드 셀처, 비알코올 음료 등으로 사업 영역을 확장하고 있습니다.2023년 기준 순매출은 약 109억 달러를 기록했으며, 전년 대비 9.3% 성장했습니다. 최근 1년 내 주요 이슈로는 마케팅 투자 확대, 디지털 전환 가속화, 지속가능성 이니셔티브 강화 등이 있습니다.
+Molson Coors Beverage Company(NYSE: TAP)는 [[맥주]] 및 기타 알코올 음료를 제조, 마케팅, 판매하는 다국적 음료 기업입니다. 주요 브랜드로는 Coors Light, Miller Lite, Molson Canadian, Carling, Blue Moon 등이 있습니다.회사는 북미와 유럽을 중심으로 전 세계 시장에서 사업을 영위하고 있으며, 프리미엄 브랜드부터 경제적인 브랜드까지 다양한 포트폴리오를 보유하고 있습니다. 최근에는 하드 셀처, 비알코올 음료 등으로 사업 영역을 확장하고 있습니다.2023년 기준 순매출은 약 109억 달러를 기록했으며, 전년 대비 9.3% 성장했습니다. 최근 1년 내 주요 이슈로는 마케팅 투자 확대, 디지털 전환 가속화, 지속가능성 이니셔티브 강화 등이 있습니다.
 
 ## 핵심 경쟁력
 
@@ -26,15 +25,15 @@ Molson Coors의 핵심 경쟁력은 다음과 같습니다:
 
 전방산업:
 
-- 도소매업: Walmart(US, [[2.개별종목/WMT\|WMT]]), Costco(US, [[2.개별종목/COST\|COST]])
-- 요식업: McDonald's(US, [[2.개별종목/MCD\|MCD]]), Yum! Brands(US, [[YUM\|YUM]])
-- 숙박업: Marriott International(US, [[2.개별종목/MAR\|MAR]]), Hilton(US, [[2.개별종목/HLT\|HLT]])
+- 도소매업: Walmart(US, [[WMT]]), Costco(US, [[COST]])
+- 요식업: McDonald's(US, [[MCD]]), Yum! Brands(US, [[YUM]])
+- 숙박업: Marriott International(US, [[MAR]]), Hilton(US, [[HLT]])
 
 후방산업:
 
-- 농업: Archer-Daniels-Midland(US, [[ADM\|ADM]]), Bunge(US, [[BG\|BG]])
-- 포장재: Ball Corporation(US, [[2.개별종목/BALL\|BALL]]), Crown Holdings(US, [[CCK\|CCK]])
-- 물류: FedEx(US, [[2.개별종목/FDX\|FDX]]), UPS(US, [[2.개별종목/UPS\|UPS]])
+- 농업: Archer-Daniels-Midland(US, [[ADM]]), Bunge(US, [[BG]])
+- 포장재: Ball Corporation(US, [[BALL]]), Crown Holdings(US, [[CCK]])
+- 물류: FedEx(US, [[FDX]]), UPS(US, [[UPS]])
 
 ## 주요제품
 
@@ -50,11 +49,11 @@ Molson Coors의 핵심 경쟁력은 다음과 같습니다:
 
 ## 경쟁업체
 
-- Anheuser-Busch InBev(BE, [[ABI\|ABI]])
-- Heineken(NL, [[HEIA\|HEIA]])
-- Carlsberg(DK, [[CARL-A\|CARL-A]])
-- Constellation Brands(US, [[2.개별종목/STZ\|STZ]])
-- Boston Beer Company(US, [[SAM\|SAM]])
+- Anheuser-Busch InBev(BE, [[ABI]])
+- Heineken(NL, [[HEIA]])
+- Carlsberg(DK, [[CARL-A]])
+- Constellation Brands(US, [[STZ]])
+- Boston Beer Company(US, [[SAM]])
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -76,8 +75,8 @@ Molson Coors는 2023년 기준 글로벌 맥주 시장에서 약 5%의 점유율
 
 ## 관련 ETF
 
-- Consumer Staples Select Sector SPDR Fund - [[XLP\|XLP]]
-- iShares Global Consumer Staples ETF - [[KXI\|KXI]]
-- Invesco Dynamic Food & Beverage ETF - [[PBJ\|PBJ]]
-- First Trust Consumer Staples AlphaDEX Fund - [[FXG\|FXG]]
-- Invesco S&P 500 Equal Weight Consumer Staples ETF - [[RHS\|RHS]]
+- Consumer Staples Select Sector SPDR Fund - [[XLP]]
+- iShares Global Consumer Staples ETF - [[KXI]]
+- Invesco Dynamic Food & Beverage ETF - [[PBJ]]
+- First Trust Consumer Staples AlphaDEX Fund - [[FXG]]
+- Invesco S&P 500 Equal Weight Consumer Staples ETF - [[RHS]]

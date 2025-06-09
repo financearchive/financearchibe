@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/BKSY/","created":"2024-11-17T23:12:14.475+09:00","updated":"2025-06-03T20:05:57.979+09:00"}
+dg-publish: true
 ---
-
 #항공우주및방위산업 #정보기술 #위성 #위성이미지 #인공위성 #위성운영 #위성설계 #관측위성 
 
 ## 산업 섹터
 
-- Sector: Information Technology([[정보기술\|정보기술]])
-- Industry: Aerospace & Defense ([[1.Study/★ 산업/항공,우주,방위 산업/4.방위산업/항공우주 및 방위산업\|항공우주 및 방위산업]])
+- Sector: Information Technology([[정보기술]])
+- Industry: Aerospace & Defense ([[항공우주 및 방위산업]])
 
 ## 영위 사업
 
-BlackSky는 [[실시간 지리공간 정보\|실시간 지리공간 정보]] 및 [[글로벌 모니터링\|글로벌 모니터링]] 서비스를 제공하는 기업입니다. 자체 위성 군집과 AI 기반 분석 플랫폼을 통해 정부 및 기업 고객에게 [[고해상도 위성 데이터\|고해상도 위성 데이터]]를 제공합니다.
+BlackSky는 [[실시간 지리공간 정보]] 및 [[글로벌 모니터링]] 서비스를 제공하는 기업입니다. 자체 위성 군집과 AI 기반 분석 플랫폼을 통해 정부 및 기업 고객에게 [[고해상도 위성 데이터]]를 제공합니다.
 
-- 안보 및 정부 대상 지구 관측 데이터 분석 서비스 제공. [[1.Study/★ 산업/항공,우주,방위 산업/2.우주/INFO_우주/관측 위성\|관측 위성]] 데이터에 AI 및 머신러닝 활용
+- 안보 및 정부 대상 지구 관측 데이터 분석 서비스 제공. [[관측 위성]] 데이터에 AI 및 머신러닝 활용
 
 ## 전방/후방 산업
 
@@ -21,13 +20,13 @@ BlackSky는 [[실시간 지리공간 정보\|실시간 지리공간 정보]] 및
     
     - 핵심 산업: 국방, 정보기관, 환경 모니터링, 도시계획
     - 역할: 실시간 위성 이미지 및 분석 데이터 제공
-    - 주요 기업: Esri (미국, 비상장), Palantir Technologies (미국, [[2.개별종목/PLTR\|PLTR]])
+    - 주요 기업: Esri (미국, 비상장), Palantir Technologies (미국, [[PLTR]])
     
 - 후방 산업:
     
     - 핵심 산업: 위성 제조 및 발사
     - 역할: BlackSky의 위성 제조 및 발사 지원
-    - 주요 기업: LeoStella (미국, 비상장), Rocket Lab (미국, [[2.개별종목/RKLB\|RKLB]])
+    - 주요 기업: LeoStella (미국, 비상장), Rocket Lab (미국, [[RKLB]])
     
 
 ## 밸류체인
@@ -35,11 +34,11 @@ BlackSky는 [[실시간 지리공간 정보\|실시간 지리공간 정보]] 및
 - 위성 설계 및 제조:
     
     - BlackSky는 LeoStella와 협력하여 자체 위성을 설계 및 제조합니다.
-    - 대표 기업: Maxar Technologies (미국, [[2.개별종목/MAXR\|MAXR]]), Planet Labs (미국, [[2.개별종목/PL\|PL]])
+    - 대표 기업: Maxar Technologies (미국, [[MAXR]]), Planet Labs (미국, [[PL]])
 - 위성 이미지 분석 및 서비스:
     
     - Spectra AI 플랫폼을 통해 수집된 이미지를 분석하고 고객에게 제공합니다.
-    - 대표 기업: Spire Global (미국, [[2.개별종목/SPIR\|SPIR]]), Satellogic (미국, [[2.개별종목/SATL\|SATL]])
+    - 대표 기업: Spire Global (미국, [[SPIR]]), Satellogic (미국, [[SATL]])
 
 ## 주요 제품
 
@@ -53,9 +52,9 @@ BlackSky는 주로 미국 정부 및 기업을 대상으로 서비스를 제공�
 
 ## 경쟁업체
 
-- Planet Labs (미국, [[2.개별종목/PL\|PL]]) - 지구 관측 위성 서비스
-- Maxar Technologies (미국, [[2.개별종목/MAXR\|MAXR]]) - 고해상도 위성 이미지 제공
-- Spire Global (미국, [[2.개별종목/SPIR\|SPIR]]) - 위성 기반 데이터 및 분석 서비스
+- Planet Labs (미국, [[PL]]) - 지구 관측 위성 서비스
+- Maxar Technologies (미국, [[MAXR]]) - 고해상도 위성 이미지 제공
+- Spire Global (미국, [[SPIR]]) - 위성 기반 데이터 및 분석 서비스
 
 ## 산업 내 글로벌 시장 점유율
 

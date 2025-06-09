@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/CHPT/","created":"2024-09-06T12:12:07.428+09:00","updated":"2025-06-03T20:05:58.259+09:00"}
+dg-publish: true
 ---
-
  #임의소비재 #전문소매 #전기차충전기 
 
 #### 산업섹터 (Sector, Industry)
 
-- **Sector**: [[임의소비재\|임의소비재]] (Consumer Cyclical)
-- **Industry**: [[전문 소매\|전문 소매]] (Specialty Retail)
+- **Sector**: [[임의소비재]] (Consumer Cyclical)
+- **Industry**: [[전문 소매]] (Specialty Retail)
 
 #### 영위사업
 
@@ -18,23 +17,23 @@ ChargePoint는 북미와 유럽에서 전기차(EV) 충전 네트워크 및 충�
 - **전방산업**: 전기차 제조 및 판매
     - **핵심 산업**: 전기차 제조 및 판매
     - **역할**: ChargePoint의 충전 솔루션을 사용하여 전기차 충전 인프라 구축
-    - **관련 기업**: Tesla (US, [[2.개별종목/TSLA\|TSLA]]), General Motors (US, [[2.개별종목/GM\|GM]]), Ford (US, [[2.개별종목/F\|F]])
+    - **관련 기업**: Tesla (US, [[TSLA]]), General Motors (US, [[GM]]), Ford (US, [[F]])
 
 - **후방산업**: 전자 부품 및 하드웨어 제조
     - **핵심 산업**: 충전기 및 관련 하드웨어 제조
     - **역할**: ChargePoint의 충전 솔루션에 필요한 부품 공급
-    - **관련 기업**: ABB (CH, [[2.개별종목/ABB\|ABB]]), Siemens (DE, [[2.개별종목/SIE\|SIE]]), Schneider Electric (FR, [[2.개별종목/SU\|SU]])
+    - **관련 기업**: ABB (CH, [[ABB]]), Siemens (DE, [[SIE]]), Schneider Electric (FR, [[SU]])
 
 #### 밸류체인
 
 - **연구개발 (R&D)**: 새로운 충전 기술 및 솔루션 개발
-    - **대표 회사**: ChargePoint (US, [[2.개별종목/CHPT\|CHPT]]), ABB (CH, [[2.개별종목/ABB\|ABB]])
+    - **대표 회사**: ChargePoint (US, [[CHPT]]), ABB (CH, [[ABB]])
 - **부품 제조**: 충전기 및 관련 하드웨어 제조
-    - **대표 회사**: ABB (CH, [[2.개별종목/ABB\|ABB]]), Siemens (DE, [[2.개별종목/SIE\|SIE]])
+    - **대표 회사**: ABB (CH, [[ABB]]), Siemens (DE, [[SIE]])
 - **시스템 조립**: 충전기 시스템 조립 및 테스트
-    - **대표 회사**: ChargePoint (US, [[2.개별종목/CHPT\|CHPT]]), Schneider Electric (FR, [[2.개별종목/SU\|SU]])
+    - **대표 회사**: ChargePoint (US, [[CHPT]]), Schneider Electric (FR, [[SU]])
 - **판매 및 서비스**: 충전 솔루션 판매 및 유지보수 서비스 제공
-    - **대표 회사**: ChargePoint (US, [[2.개별종목/CHPT\|CHPT]]), Blink Charging (US, [[2.개별종목/BLNK\|BLNK]])
+    - **대표 회사**: ChargePoint (US, [[CHPT]]), Blink Charging (US, [[BLNK]])
 
 #### 주요제품
 
@@ -49,10 +48,10 @@ ChargePoint는 북미와 유럽에서 전기차(EV) 충전 네트워크 및 충�
 
 #### 경쟁업체
 
-- **Blink Charging (US, [[2.개별종목/BLNK\|BLNK]])**: 전기차 충전 솔루션
-- **EVgo (US, [[2.개별종목/EVGO\|EVGO]])**: 전기차 충전 네트워크
-- **Tesla (US, [[2.개별종목/TSLA\|TSLA]])**: 전기차 충전 네트워크
-- **Siemens (DE, [[2.개별종목/SIE\|SIE]])**: 전기차 충전 솔루션
+- **Blink Charging (US, [[BLNK]])**: 전기차 충전 솔루션
+- **EVgo (US, [[EVGO]])**: 전기차 충전 네트워크
+- **Tesla (US, [[TSLA]])**: 전기차 충전 네트워크
+- **Siemens (DE, [[SIE]])**: 전기차 충전 솔루션
 
 #### 최근 3년 내 주요 이슈
 

@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/MNDY/","created":"2025-01-21T06:53:20.058+09:00","updated":"2025-06-03T20:06:00.123+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #프로젝트관리 #협업툴 #SaaS #클라우드플랫폼 #워크OS #저코드노코드 #디지털전환 #원격근무 #생산성향상 #워크플로우자동화 #팀협업 #애자일 #커스터마이징 #비주얼인터페이스 #API통합 #모바일앱 #대시보드 #태스크관리 #리소스관리 #실시간협업
 
 ## 산업섹터
 
-섹터: [[정보기술\|정보기술]]
-산업: [[소프트웨어\|소프트웨어]]
+섹터: [[정보기술]]
+산업: [[소프트웨어]]
 
 ## 영위사업
 
-Monday.com Ltd.(NASDAQ: MNDY)는 [[클라우드 기반의 작업 운영 체제(Work OS) 플랫폼\|클라우드 기반의 작업 운영 체제(Work OS) 플랫폼]]을 제공하는 이스라엘 기업입니다. 2012년 설립되어 2021년 6월 나스닥에 상장했습니다.주요 제품인 monday.com Work OS는 [[저코드/노코드 플랫폼\|저코드/노코드 플랫폼]]으로, 조직이 쉽게 작업 관리 도구와 소프트웨어 애플리케이션을 구축할 수 있게 해줍니다.
+Monday.com Ltd.(NASDAQ: MNDY)는 [[클라우드 기반의 작업 운영 체제(Work OS) 플랫폼]]을 제공하는 이스라엘 기업입니다. 2012년 설립되어 2021년 6월 나스닥에 상장했습니다.주요 제품인 monday.com Work OS는 [[저코드/노코드 플랫폼]]으로, 조직이 쉽게 작업 관리 도구와 소프트웨어 애플리케이션을 구축할 수 있게 해줍니다.
 
 이 플랫폼은 프로젝트 관리, 마케팅 캠페인, 영업 파이프라인, 제품 로드맵 등 다양한 비즈니스 프로세스를 관리하는 데 사용됩니다.2024년 기준으로 225,000개 이상의 고객을 보유하고 있으며, 200개 이상의 산업 분야와 200개 국가 및 지역에서 사용되고 있습니다. 최근에는 AI 기능을 강화하고 엔터프라이즈 시장 진출을 확대하고 있습니다.
 
@@ -31,15 +30,15 @@ Monday.com Ltd.(NASDAQ: MNDY)는 [[클라우드 기반의 작업 운영 체제(W
 
 전방산업:
 
-- 기업 IT: IBM(US, [[2.개별종목/IBM\|IBM]]), Microsoft(US, [[2.개별종목/MSFT\|MSFT]])
-- 디지털 마케팅: HubSpot(US, [[HUBS\|HUBS]]), Salesforce(US, [[2.개별종목/CRM\|CRM]])
-- 인사관리: Workday(US, [[2.개별종목/WDAY\|WDAY]]), ServiceNow(US, [[2.개별종목/NOW\|NOW]])
+- 기업 IT: IBM(US, [[IBM]]), Microsoft(US, [[MSFT]])
+- 디지털 마케팅: HubSpot(US, [[HUBS]]), Salesforce(US, [[CRM]])
+- 인사관리: Workday(US, [[WDAY]]), ServiceNow(US, [[NOW]])
 
 후방산업:
 
-- 클라우드 인프라: Amazon Web Services(US, [[2.개별종목/AMZN\|AMZN]]), Google Cloud(US, [[2.개별종목/GOOGL\|GOOGL]])
-- 데이터 분석: Snowflake(US, [[2.개별종목/SNOW\|SNOW]]), Databricks
-- 보안 솔루션: Okta(US, [[2.개별종목/OKTA\|OKTA]]), CrowdStrike(US, [[2.개별종목/CRWD\|CRWD]])
+- 클라우드 인프라: Amazon Web Services(US, [[AMZN]]), Google Cloud(US, [[GOOGL]])
+- 데이터 분석: Snowflake(US, [[SNOW]]), Databricks
+- 보안 솔루션: Okta(US, [[OKTA]]), CrowdStrike(US, [[CRWD]])
 
 ## 주요제품
 
@@ -53,9 +52,9 @@ Monday.com Ltd.(NASDAQ: MNDY)는 [[클라우드 기반의 작업 운영 체제(W
 
 ## 경쟁업체
 
-- Atlassian(US, [[2.개별종목/TEAM\|TEAM]]) - Jira, Trello
-- Asana(US, [[ASAN\|ASAN]]) - 작업 관리 플랫폼
-- Smartsheet(US, [[SMAR\|SMAR]]) - 협업 플랫폼
+- Atlassian(US, [[TEAM]]) - Jira, Trello
+- Asana(US, [[ASAN]]) - 작업 관리 플랫폼
+- Smartsheet(US, [[SMAR]]) - 협업 플랫폼
 - Notion(비상장) - 올인원 워크스페이스
 - ClickUp(비상장) - 생산성 플랫폼
 
@@ -81,8 +80,8 @@ Monday.com의 정확한 글로벌 시장 점유율 데이터는 제공되지 않
 
 ## 관련 ETF
 
-- Global X Cloud Computing ETF - [[CLOU\|CLOU]]
-- WisdomTree Cloud Computing Fund - [[WCLD\|WCLD]]
-- iShares Expanded Tech-Software Sector ETF - [[IGV\|IGV]]
-- SPDR S&P Software & Services ETF - [[XSW\|XSW]]
-- Invesco NASDAQ Next Gen 100 ETF - [[QQQJ\|QQQJ]]
+- Global X Cloud Computing ETF - [[CLOU]]
+- WisdomTree Cloud Computing Fund - [[WCLD]]
+- iShares Expanded Tech-Software Sector ETF - [[IGV]]
+- SPDR S&P Software & Services ETF - [[XSW]]
+- Invesco NASDAQ Next Gen 100 ETF - [[QQQJ]]

@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/S/","created":"2025-01-17T20:39:20.932+09:00","updated":"2025-06-03T20:06:01.082+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #AI기반사이버보안 #엔드포인트보안 #XDR #클라우드보안 #위협탐지및대응 #자율보안 #기계학습 #Singularity플랫폼 #EDR #IoT보안 #제로트러스트 #SASE #데이터분석 #보안자동화 #위협인텔리전스 #PurpleAI #클라우드네이티브보안 #데이터레이크 #엔터프라이즈보안 #사이버위협대응 #정보기술 #소프트웨어 #AI 
 
 ## 산업섹터
 
-섹터: [[정보기술\|정보기술]]
-산업: [[소프트웨어\|소프트웨어]]
+섹터: [[정보기술]]
+산업: [[소프트웨어]]
 
 ## 영위사업
 
-SentinelOne, Inc.(NYSE: S)는 AI 기반의 [[사이버 보안\|사이버 보안]] 솔루션을 제공하는 기업입니다. 2013년 설립된 이 회사는 엔드포인트, 클라우드 워크로드, IoT 디바이스를 위한 자율 위협 예방, 탐지, 대응 기능을 제공하는 Singularity 플랫폼을 주력 제품으로 운영하고 있습니다.
+SentinelOne, Inc.(NYSE: S)는 AI 기반의 [[사이버 보안]] 솔루션을 제공하는 기업입니다. 2013년 설립된 이 회사는 엔드포인트, 클라우드 워크로드, IoT 디바이스를 위한 자율 위협 예방, 탐지, 대응 기능을 제공하는 Singularity 플랫폼을 주력 제품으로 운영하고 있습니다.
 
 주요 제품 및 서비스로는 엔드포인트 보호(EPP), 엔드포인트 탐지 및 대응(EDR), 확장 탐지 및 대응(XDR), 클라우드 보안, 데이터 분석 등이 있습니다. 회사는 AI와 기계학습을 활용하여 실시간으로 사이버 위협을 탐지하고 자동으로 대응하는 기술을 제공합니다.최근 1년 내 주요 이슈로는 Purple AI, Cloud Native Security, Singularity Data Lake 등 신규 솔루션 출시, Attivo Networks 인수를 통한 ID 보안 강화, 그리고 Lenovo와의 전략적 파트너십 체결 등이 있습니다.
 
@@ -33,16 +32,16 @@ SentinelOne의 핵심 경쟁력은 다음과 같습니다:
 
 전방산업:
 
-- 기업 IT: IBM(US, [[2.개별종목/IBM\|IBM]]), Microsoft(US, [[2.개별종목/MSFT\|MSFT]])
-- 클라우드 서비스: Amazon Web Services(US, [[2.개별종목/AMZN\|AMZN]]), Google Cloud(US, [[2.개별종목/GOOGL\|GOOGL]])
+- 기업 IT: IBM(US, [[IBM]]), Microsoft(US, [[MSFT]])
+- 클라우드 서비스: Amazon Web Services(US, [[AMZN]]), Google Cloud(US, [[GOOGL]])
 - 정부 및 공공기관
-- 금융 서비스: JPMorgan Chase(US, [[2.개별종목/JPM\|JPM]]), Bank of America(US, [[2.개별종목/BAC\|BAC]])
+- 금융 서비스: JPMorgan Chase(US, [[JPM]]), Bank of America(US, [[BAC]])
 
 후방산업:
 
-- 반도체: NVIDIA(US, [[2.개별종목/NVDA\|NVDA]]), Intel(US, [[2.개별종목/INTC\|INTC]])
-- 클라우드 인프라: Equinix(US, [[2.개별종목/EQIX\|EQIX]]), Digital Realty(US, [[2.개별종목/DLR\|DLR]])
-- 데이터 분석: Splunk(US, [[2.개별종목/SPLK\|SPLK]]), Elastic(US, [[ESTC\|ESTC]])
+- 반도체: NVIDIA(US, [[NVDA]]), Intel(US, [[INTC]])
+- 클라우드 인프라: Equinix(US, [[EQIX]]), Digital Realty(US, [[DLR]])
+- 데이터 분석: Splunk(US, [[SPLK]]), Elastic(US, [[ESTC]])
 
 ## 주요제품
 
@@ -57,11 +56,11 @@ SentinelOne의 핵심 경쟁력은 다음과 같습니다:
 
 ## 경쟁업체
 
-- CrowdStrike Holdings(US, [[2.개별종목/CRWD\|CRWD]]) - 엔드포인트 보안
-- Palo Alto Networks(US, [[2.개별종목/PANW\|PANW]]) - 네트워크 보안, 클라우드 보안
-- Microsoft(US, [[2.개별종목/MSFT\|MSFT]]) - 통합 보안 솔루션
-- Cisco Systems(US, [[2.개별종목/CSCO\|CSCO]]) - 네트워크 보안
-- VMware(US, [[2.개별종목/VMW\|VMW]]) - 가상화 및 클라우드 보안
+- CrowdStrike Holdings(US, [[CRWD]]) - 엔드포인트 보안
+- Palo Alto Networks(US, [[PANW]]) - 네트워크 보안, 클라우드 보안
+- Microsoft(US, [[MSFT]]) - 통합 보안 솔루션
+- Cisco Systems(US, [[CSCO]]) - 네트워크 보안
+- VMware(US, [[VMW]]) - 가상화 및 클라우드 보안
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -83,11 +82,11 @@ SentinelOne의 정확한 글로벌 시장 점유율 데이터는 제공되지 �
 
 ## 관련 ETF
 
-- First Trust NASDAQ Cybersecurity ETF - [[CIBR\|CIBR]]
-- iShares Cybersecurity and Tech ETF - [[IHAK\|IHAK]]
-- Global X Cybersecurity ETF - [[BUG\|BUG]]
-- ETFMG Prime Cyber Security ETF - [[HACK\|HACK]]
-- WisdomTree Cybersecurity Fund - [[WCBR\|WCBR]]
+- First Trust NASDAQ Cybersecurity ETF - [[CIBR]]
+- iShares Cybersecurity and Tech ETF - [[IHAK]]
+- Global X Cybersecurity ETF - [[BUG]]
+- ETFMG Prime Cyber Security ETF - [[HACK]]
+- WisdomTree Cybersecurity Fund - [[WCBR]]
 
 공유
 

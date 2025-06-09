@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/JKS/","created":"2025-01-21T22:07:46.642+09:00","updated":"2025-06-03T20:05:59.669+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #태양광 #PV산업 #실리콘웨이퍼 #태양전지 #태양광모듈 #수직계열화 #재생에너지 #클린에너지 #모노웨이퍼 #태양광발전 #글로벌확장 #기술혁신 #고효율모듈 #페로브스카이트 #탠덤태양전지 #지속가능성 #중국제조 #그린에너지 #탄소중립 #에너지전환
 
 ## 산업섹터
 
-섹터: [[정보기술\|정보기술]]
-산업: [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/2.태양광/태양광\|태양광]]
+섹터: [[정보기술]]
+산업: [[태양광]]
 
 ## 영위사업
 
-JinkoSolar Holding Co., Ltd.(NYSE: JKS)는 [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/2.태양광/태양광\|태양광]](PV) 산업에서 선도적인 위치를 차지하고 있는 중국 기업입니다. 회사는 [[실리콘 웨이퍼\|실리콘 웨이퍼]]부터 [[태양전지\|태양전지]], [[태양광 모듈\|태양광 모듈]]에 이르는[[ 수직 계열화된 태양광 제품 가치 사슬\| 수직 계열화된 태양광 제품 가치 사슬]]을 구축하고 있습니다.
+JinkoSolar Holding Co., Ltd.(NYSE: JKS)는 [[태양광]](PV) 산업에서 선도적인 위치를 차지하고 있는 중국 기업입니다. 회사는 [[실리콘 웨이퍼]]부터 [[태양전지]], [[태양광 모듈]]에 이르는[[ 수직 계열화된 태양광 제품 가치 사슬]]을 구축하고 있습니다.
 
 주요 제품으로는 실리콘 웨이퍼, 태양전지, 태양광 모듈이 있으며, 태양광 시스템 통합 서비스도 제공합니다. 2022년 말 기준으로 모노 웨이퍼 65GW, 태양전지 55GW, 태양광 모듈 70GW의 연간 생산 능력을 보유하고 있습니다.
 
@@ -31,19 +30,19 @@ JinkoSolar Holding Co., Ltd.(NYSE: JKS)는 [[1.Study/★ 산업/에너지 산업
 
 전방산업:
 
-- 태양광 발전소 개발: NextEra Energy(US, [[2.개별종목/NEE\|NEE]]), Brookfield Renewable(CA, [[BEP\|BEP]])
-- 태양광 설치: Sunrun(US, [[2.개별종목/RUN\|RUN]]), SunPower(US, [[2.개별종목/SPWR\|SPWR]])
-- 유틸리티: Duke Energy(US, [[2.개별종목/DUK\|DUK]]), Enel(IT, [[ENEL\|ENEL]])
+- 태양광 발전소 개발: NextEra Energy(US, [[NEE]]), Brookfield Renewable(CA, [[BEP]])
+- 태양광 설치: Sunrun(US, [[RUN]]), SunPower(US, [[SPWR]])
+- 유틸리티: Duke Energy(US, [[DUK]]), Enel(IT, [[ENEL]])
 
 후방산업:
 
-- 폴리실리콘 생산: Wacker Chemie(DE, [[WCH\|WCH]]), GCL Technology(HK, [[3800\|3800]])
-- 태양광 장비: Meyer Burger(CH, [[MBTN\|MBTN]]), Centrotherm(DE, [[CTNK\|CTNK]])
-- 특수 가스 및 화학물질: Air Products(US, [[APD\|APD]]), Linde(IE, [[LIN\|LIN]])
+- 폴리실리콘 생산: Wacker Chemie(DE, [[WCH]]), GCL Technology(HK, [[3800]])
+- 태양광 장비: Meyer Burger(CH, [[MBTN]]), Centrotherm(DE, [[CTNK]])
+- 특수 가스 및 화학물질: Air Products(US, [[APD]]), Linde(IE, [[LIN]])
 
 ## 주요제품
 
-- [[태양광 모듈\|태양광 모듈]]: 주거용, 상업용, 발전소용 모듈, 매출의 약 80% (2024년 기준)
+- [[태양광 모듈]]: 주거용, 상업용, 발전소용 모듈, 매출의 약 80% (2024년 기준)
 - 태양전지: 단결정 및 다결정 태양전지, 매출의 약 15% (2024년 기준)
 - 실리콘 웨이퍼: 모노 웨이퍼, 매출의 약 5% (2024년 기준)
 
@@ -53,11 +52,11 @@ JinkoSolar Holding Co., Ltd.(NYSE: JKS)는 [[1.Study/★ 산업/에너지 산업
 
 ## 경쟁업체
 
-- LONGi Green Energy Technology(CN, [[601012\|601012]])
-- Canadian Solar(CA, [[2.개별종목/CSIQ\|CSIQ]])
-- First Solar(US, [[2.개별종목/FSLR\|FSLR]])
-- Trina Solar(CN, [[688599\|688599]])
-- JA Solar Technology(CN, [[002459\|002459]])
+- LONGi Green Energy Technology(CN, [[601012]])
+- Canadian Solar(CA, [[CSIQ]])
+- First Solar(US, [[FSLR]])
+- Trina Solar(CN, [[688599]])
+- JA Solar Technology(CN, [[002459]])
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -79,8 +78,8 @@ JinkoSolar는 2024년 기준 글로벌 태양광 모듈 시장에서 약 15%의 
 
 ## 관련 ETF
 
-- Invesco Solar ETF - [[TAN\|TAN]]
-- Global X Solar ETF - [[RAYS\|RAYS]]
-- KraneShares MSCI China Clean Technology Index ETF - [[KGRN\|KGRN]]
-- iShares Global Clean Energy ETF - [[ICLN\|ICLN]]
-- First Trust NASDAQ Clean Edge Green Energy Index Fund - [[QCLN\|QCLN]]
+- Invesco Solar ETF - [[TAN]]
+- Global X Solar ETF - [[RAYS]]
+- KraneShares MSCI China Clean Technology Index ETF - [[KGRN]]
+- iShares Global Clean Energy ETF - [[ICLN]]
+- First Trust NASDAQ Clean Edge Green Energy Index Fund - [[QCLN]]

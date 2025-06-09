@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/TDG/","created":"2024-11-09T22:43:26.962+09:00","updated":"2025-06-03T20:06:01.530+09:00"}
+dg-publish: true
 ---
-
 #항공우주및방위산업 #산업재 #엔지니어링부품 #항공 #우주 #액추에이터 #통신안테나 #태양광패널 
 
 ## 산업 섹터
 
-- Sector: Industrials([[산업재\|산업재]])
-- Industry: Aerospace & Defense([[1.Study/★ 산업/항공,우주,방위 산업/4.방위산업/항공우주 및 방위산업\|항공우주 및 방위산업]])
+- Sector: Industrials([[산업재]])
+- Industry: Aerospace & Defense([[항공우주 및 방위산업]])
 
 ## 영위 사업
 
-TransDigm Group은 [[항공\|항공]] [[우주\|우주]] 산업을 위한 [[엔지니어링 부품\|엔지니어링 부품]]을 설계, 생산 및 공급하는 선도적인 기업입니다. 주로 상용, 지역, 비즈니스 및 군용 항공기에 사용되는 부품을 생산합니다.
+TransDigm Group은 [[항공]] [[우주]] 산업을 위한 [[엔지니어링 부품]]을 설계, 생산 및 공급하는 선도적인 기업입니다. 주로 상용, 지역, 비즈니스 및 군용 항공기에 사용되는 부품을 생산합니다.
 
-- 위성 탑재 [[태양광 패널\|태양광 패널]]/[[통신 안테나\|통신 안테나]] 구동계([[액추에이터\|액추에이터]], 커넥터, 클러치 등) 제조
+- 위성 탑재 [[태양광 패널]]/[[통신 안테나]] 구동계([[액추에이터]], 커넥터, 클러치 등) 제조
 
 ## 전방/후방 산업
 
@@ -21,13 +20,13 @@ TransDigm Group은 [[항공\|항공]] [[우주\|우주]] 산업을 위한 [[엔�
     
     - 핵심 산업: 항공, 방위
     - 역할: 항공기 부품 공급
-    - 주요 기업: Boeing (미국, [[2.개별종목/BA\|BA]]), Lockheed Martin (미국, [[2.개별종목/LMT\|LMT]])
+    - 주요 기업: Boeing (미국, [[BA]]), Lockheed Martin (미국, [[LMT]])
     
 - 후방 산업:
     
     - 핵심 산업: 원자재 공급, 전자 부품 제조
     - 역할: TransDigm 제품 제조에 필요한 원자재 및 부품 공급
-    - 주요 기업: Honeywell (미국, [[2.개별종목/HON\|HON]]), Texas Instruments (미국, [[2.개별종목/TXN\|TXN]])
+    - 주요 기업: Honeywell (미국, [[HON]]), Texas Instruments (미국, [[TXN]])
     
 
 ## 밸류체인
@@ -35,12 +34,12 @@ TransDigm Group은 [[항공\|항공]] [[우주\|우주]] 산업을 위한 [[엔�
 - 항공기 부품 제조:
     
     - TransDigm은 다양한 항공기 부품을 설계 및 제조합니다.
-    - 대표 기업: Heico Corporation (미국, [[2.개별종목/HEI\|HEI]]), Woodward (미국, [[2.개별종목/WWD\|WWD]])
+    - 대표 기업: Heico Corporation (미국, [[HEI]]), Woodward (미국, [[WWD]])
     
 - 항공기 애프터마켓:
     
     - TransDigm은 항공기 부품의 애프터마켓에서 강세를 보입니다.
-    - 대표 기업: AAR Corp (미국, [[2.개별종목/AIR\|AIR]]), Triumph Group (미국, [[TGI\|TGI]])
+    - 대표 기업: AAR Corp (미국, [[AIR]]), Triumph Group (미국, [[TGI]])
     
 
 ## 주요 제품
@@ -55,9 +54,9 @@ TransDigm은 전 세계적으로 사업을 영위하며, 특히 북미, 유럽, 
 
 ## 경쟁업체
 
-- Heico Corporation (미국, [[2.개별종목/HEI\|HEI]]) - 항공우주 부품 제조
-- Woodward (미국, [[2.개별종목/WWD\|WWD]]) - 항공우주 및 산업용 제어 시스템
-- Moog Inc. (미국, [[2.개별종목/MOG-A\|MOG-A]]) - 정밀 모션 제어 제품
+- Heico Corporation (미국, [[HEI]]) - 항공우주 부품 제조
+- Woodward (미국, [[WWD]]) - 항공우주 및 산업용 제어 시스템
+- Moog Inc. (미국, [[MOG-A]]) - 정밀 모션 제어 제품
 
 ## 산업 내 글로벌 시장 점유율
 

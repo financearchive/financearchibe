@@ -1,15 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/AFRM/","created":"2023-07-12T11:47:34.223+09:00","updated":"2025-06-03T20:05:57.484+09:00"}
+dg-publish: true
 ---
-
 #금융 #소비자금융 #BNPL #신용서비스 #금융서비스 #전자상거래 #신용평가
 #대출
 
 
 ## 산업섹터
 
-Sector: Financial Services ([[금융 서비스\|금융 서비스]])  
-Industry: Credit Services ([[신용 서비스\|신용 서비스]])
+Sector: Financial Services ([[금융 서비스]])  
+Industry: Credit Services ([[신용 서비스]])
 
 ## 영위사업
 
@@ -19,13 +18,13 @@ Affirm은 소비자에게 즉각적인 신용을 제공하는 금융 기술 회�
 
 전방산업:
 
-- [[전자상거래\|전자상거래]]: Amazon (국가:US, [[2.개별종목/AMZN\|2.개별종목/AMZN]])
-- 소매업체: Walmart (국가:US, [[2.개별종목/WMT\|WMT]])
+- [[전자상거래]]: Amazon (국가:US, [[2.개별종목/AMZN]])
+- 소매업체: Walmart (국가:US, [[WMT]])
 
 후방산업:
 
-- 금융 기술: Square (국가:US, [[2.개별종목/SQ\|SQ]])
-- [[신용평가\|신용평가]]: Experian (국가:US, [[2.개별종목/EXPN\|EXPN]])
+- 금융 기술: Square (국가:US, [[SQ]])
+- [[신용평가]]: Experian (국가:US, [[EXPN]])
 
 ## 주요제품
 
@@ -38,13 +37,13 @@ Affirm은 주로 미국에서 운영되며, 구체적인 국가별 매출 비중
 
 ## 경쟁업체
 
-- Afterpay (국가:AU, [[2.개별종목/APT\|APT]]) - 소비자 신용 서비스
-- Klarna (국가:SE, [[2.개별종목/KLAR\|KLAR]] 비상장) - 분할 결제 서비스
-- PayPal Credit (국가:US, [[2.개별종목/PYPL\|PYPL]]) - 온라인 결제 및 신용 서비스
+- Afterpay (국가:AU, [[APT]]) - 소비자 신용 서비스
+- Klarna (국가:SE, [[KLAR]] 비상장) - 분할 결제 서비스
+- PayPal Credit (국가:US, [[PYPL]]) - 온라인 결제 및 신용 서비스
 
 ## 산업 내 글로벌 시장 점유율
 
-2023년 기준 Affirm은 미국 [[1.Study/★ 산업/금융,결제 산업/BNPL\|BNPL]](구매 후 지불) 시장에서 약 10%의 점유율을 보유하고 있는 것으로 추정됩니다. 최근 3년간의 정확한 추이는 제공된 정보에 없습니다.
+2023년 기준 Affirm은 미국 [[BNPL]](구매 후 지불) 시장에서 약 10%의 점유율을 보유하고 있는 것으로 추정됩니다. 최근 3년간의 정확한 추이는 제공된 정보에 없습니다.
 
 ## 자세한 종목 정보 링크
 

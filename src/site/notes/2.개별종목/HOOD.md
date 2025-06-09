@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/HOOD/","created":"2024-10-31T21:55:46.376+09:00","updated":"2025-06-03T20:05:59.434+09:00"}
+dg-publish: true
 ---
-
 #금융 #자본시장 #주식거래플랫폼 #주식거래 #암호화폐 
 
 
 - 최근이슈
-	- [[00.투자기록/☆ 2025/2월/2025-02-13\|2025-02-13]], 🤩$HOOD | Robinhood Q4 & FY24 실적 요약
+	- [[2025-02-13]], 🤩$HOOD | Robinhood Q4 & FY24 실적 요약
 	  
 		주요 실적
 		 • 주당순이익 (EPS): $1.01 (예상: $0.43) 🟢
@@ -56,14 +55,14 @@
 
 ## 산업섹터
 
-섹터: [[금융\|금융]]
-산업: [[금융서비스\|금융서비스]]
+섹터: [[금융]]
+산업: [[금융서비스]]
 
 ## 영위사업
 
-Robinhood Markets, Inc.(NASDAQ: HOOD)는 2013년 설립된 미국의 금융 서비스 기업으로, 모바일 앱을 통해 수수료 없는 주식, ETF, [[암호화폐\|암호화폐]] 거래 플랫폼을 제공합니다. 주요 사업 영역은 다음과 같습니다:
+Robinhood Markets, Inc.(NASDAQ: HOOD)는 2013년 설립된 미국의 금융 서비스 기업으로, 모바일 앱을 통해 수수료 없는 주식, ETF, [[암호화폐]] 거래 플랫폼을 제공합니다. 주요 사업 영역은 다음과 같습니다:
 
-1. [[증권 거래\|증권 거래]]: 주식, ETF, 옵션, ADR 등의 무수수료 거래
+1. [[증권 거래]]: 주식, ETF, 옵션, ADR 등의 무수수료 거래
 2. 암호화폐 거래 및 월렛 서비스
 3. 현금 관리 및 은행 서비스
 4. 마진 거래 및 프리미엄 서비스 (Robinhood Gold)
@@ -90,8 +89,8 @@ Robinhood Markets, Inc.(NASDAQ: HOOD)는 2013년 설립된 미국의 금융 서�
 후방산업:
 
 - 시장 조성자: Citadel Securities, Virtu Financial
-- 클라우드 서비스: Amazon Web Services(US, [[2.개별종목/AMZN\|AMZN]]), Google Cloud(US, [[2.개별종목/GOOGL\|GOOGL]])
-- 데이터 분석: Palantir Technologies(US, [[2.개별종목/PLTR\|PLTR]]), Snowflake(US, [[2.개별종목/SNOW\|SNOW]])
+- 클라우드 서비스: Amazon Web Services(US, [[AMZN]]), Google Cloud(US, [[GOOGL]])
+- 데이터 분석: Palantir Technologies(US, [[PLTR]]), Snowflake(US, [[SNOW]])
 
 ## 주요제품
 
@@ -107,11 +106,11 @@ Robinhood Markets, Inc.(NASDAQ: HOOD)는 2013년 설립된 미국의 금융 서�
 
 ## 경쟁업체
 
-- Charles Schwab Corporation(US, [[2.개별종목/SCHW\|SCHW]]): 종합 금융 서비스
+- Charles Schwab Corporation(US, [[SCHW]]): 종합 금융 서비스
 - E*TRADE Financial(현 Morgan Stanley의 일부): 온라인 중개 서비스
 - Fidelity Investments(비상장): 자산 관리 및 중개 서비스
 - TD Ameritrade(현 Charles Schwab의 일부): 온라인 중개 서비스
-- Interactive Brokers(US, [[2.개별종목/IBKR\|IBKR]]): 글로벌 전자 중개 서비스
+- Interactive Brokers(US, [[IBKR]]): 글로벌 전자 중개 서비스
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -133,8 +132,8 @@ Robinhood의 정확한 글로벌 시장 점유율 데이터는 제공되지 않�
 
 ## 관련 ETF
 
-- ARK Fintech Innovation ETF - [[ARKF\|ARKF]]
-- Global X FinTech ETF - [[FINX\|FINX]]
-- iShares U.S. Broker-Dealers & Securities Exchanges ETF - [[IAI\|IAI]]
-- Invesco QQQ Trust - [[QQQ\|QQQ]]
-- SPDR S&P 500 ETF Trust - [[SPY\|SPY]]
+- ARK Fintech Innovation ETF - [[ARKF]]
+- Global X FinTech ETF - [[FINX]]
+- iShares U.S. Broker-Dealers & Securities Exchanges ETF - [[IAI]]
+- Invesco QQQ Trust - [[QQQ]]
+- SPDR S&P 500 ETF Trust - [[SPY]]

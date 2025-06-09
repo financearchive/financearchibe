@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/HLF/","created":"2025-02-21T11:01:29.018+09:00","updated":"2025-06-03T20:05:59.416+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #영양보충제 #체중관리 #직접판매 #멀티레벨마케팅 #프로틴쉐이크 #건강식품 #글로벌브랜드 #웰니스 #개인맞춤영양 #독립판매원 #Formula1 #과학기반제품 #라이프스타일 #에너지음료 #스킨케어 #스포츠영양 #글로벌확장 #ESG
 
 ## 산업섹터
 
-섹터: [[필수 소비재\|필수 소비재]]  
+섹터: [[필수 소비재]]  
 산업: 패키지식품
 
 ## 영위사업
 
-Herbalife Ltd는 체중 관리, 표적 영양, 에너지, [[스포츠\|스포츠]] 및 [[피트니스\|피트니스]], 그리고 개인 관리 제품을 개발, 마케팅 및 판매하는 글로벌 영양 회사입니다. 주요 제품으로는 Formula 1[[ 단백질 쉐이크\| 단백질 쉐이크]], [[비타민 보충제\|비타민 보충제]], [[에너지 음료\|에너지 음료]], 피부 관리 제품 등이 있습니다. 회사는 독립 판매원 네트워크를 통해 전 세계 95개 이상의 국가에서 제품을 판매하고 있습니다. 2023년 기준 총 매출은 54억 달러를 기록했으며, 약 900만 명의 활성 고객과 280만 명의 판매원을 보유하고 있습니다.
+Herbalife Ltd는 체중 관리, 표적 영양, 에너지, [[스포츠]] 및 [[피트니스]], 그리고 개인 관리 제품을 개발, 마케팅 및 판매하는 글로벌 영양 회사입니다. 주요 제품으로는 Formula 1[[ 단백질 쉐이크]], [[비타민 보충제]], [[에너지 음료]], 피부 관리 제품 등이 있습니다. 회사는 독립 판매원 네트워크를 통해 전 세계 95개 이상의 국가에서 제품을 판매하고 있습니다. 2023년 기준 총 매출은 54억 달러를 기록했으며, 약 900만 명의 활성 고객과 280만 명의 판매원을 보유하고 있습니다.
 
 ## 핵심 경쟁력
 
@@ -32,23 +31,23 @@ Herbalife Ltd는 체중 관리, 표적 영양, 에너지, [[스포츠\|스포츠
 
 전방산업:
 
-- 건강 및 웰니스: 소비자 건강 관리 제품 (Johnson & Johnson(US, [[2.개별종목/JNJ\|JNJ]]), Procter & Gamble(US, [[2.개별종목/PG\|PG]]))
+- 건강 및 웰니스: 소비자 건강 관리 제품 (Johnson & Johnson(US, [[JNJ]]), Procter & Gamble(US, [[PG]]))
     
-- 스포츠 영양: 운동 선수 및 피트니스 애호가 대상 제품 (Glanbia(IE, [[GLB\|GLB]]), Optimum Nutrition(US, [[2.개별종목/ON\|ON]]))
+- 스포츠 영양: 운동 선수 및 피트니스 애호가 대상 제품 (Glanbia(IE, [[GLB]]), Optimum Nutrition(US, [[ON]]))
     
 
 후방산업:
 
-- 원료 공급업체: 영양 성분 및 원료 공급 (DSM(NL, [[DSM\|DSM]]), Lonza(CH, [[2.개별종목/LONN\|LONN]]))
+- 원료 공급업체: 영양 성분 및 원료 공급 (DSM(NL, [[DSM]]), Lonza(CH, [[LONN]]))
     
-- 포장 및 물류: 제품 포장 및 유통 (Amcor(AU, [[AMCR\|AMCR]]), UPS(US, [[2.개별종목/UPS\|UPS]]))
+- 포장 및 물류: 제품 포장 및 유통 (Amcor(AU, [[AMCR]]), UPS(US, [[UPS]]))
     
 
 ## 밸류체인
 
 1. 연구 개발: Herbalife 내부 R&D 팀, 대학 연구 협력
     
-2. 원료 조달: DSM(NL, [[DSM\|DSM]]), Lonza(CH, [[2.개별종목/LONN\|LONN]])
+2. 원료 조달: DSM(NL, [[DSM]]), Lonza(CH, [[LONN]])
     
 3. 생산: Herbalife 자체 생산 시설, 계약 제조업체
     
@@ -56,7 +55,7 @@ Herbalife Ltd는 체중 관리, 표적 영양, 에너지, [[스포츠\|스포츠
     
 5. 마케팅 및 판매: 독립 판매원 네트워크, 디지털 마케팅 팀
     
-6. 유통: UPS(US, [[2.개별종목/UPS\|UPS]]), FedEx(US, [[2.개별종목/FDX\|FDX]])
+6. 유통: UPS(US, [[UPS]]), FedEx(US, [[FDX]])
     
 7. 고객 서비스: Herbalife 고객 지원 센터, 독립 판매원 지원
     
@@ -80,15 +79,15 @@ Herbalife Ltd는 체중 관리, 표적 영양, 에너지, [[스포츠\|스포츠
 
 ## 경쟁업체
 
-1. Amway(US, [[Amway\|Amway]]): 직접 판매 건강 및 웰니스 제품
+1. Amway(US, [[Amway]]): 직접 판매 건강 및 웰니스 제품
     
-2. Usana Health Sciences(US, [[USNA\|USNA]]): 영양 보충제 및 스킨케어
+2. Usana Health Sciences(US, [[USNA]]): 영양 보충제 및 스킨케어
     
-3. Nu Skin Enterprises(US, [[NUS\|NUS]]): 개인 관리 제품 및 영양 보충제
+3. Nu Skin Enterprises(US, [[NUS]]): 개인 관리 제품 및 영양 보충제
     
-4. Medifast(US, [[MED\|MED]]): 체중 관리 및 건강 관련 제품
+4. Medifast(US, [[MED]]): 체중 관리 및 건강 관련 제품
     
-5. Nature's Sunshine Products(US, [[NATR\|NATR]]): 허브 및 영양 보충제
+5. Nature's Sunshine Products(US, [[NATR]]): 허브 및 영양 보충제
     
 
 ## 산업 내 글로벌 시장 점유율
@@ -119,12 +118,12 @@ Herbalife는 글로벌 영양 보충제 시장에서 약 4.2%의 점유율을 �
 
 ## 관련 ETF
 
-1. iShares U.S. Consumer Goods ETF - [[IYK\|IYK]]
+1. iShares U.S. Consumer Goods ETF - [[IYK]]
     
-2. Invesco Dynamic Food & Beverage ETF - [[PBJ\|PBJ]]
+2. Invesco Dynamic Food & Beverage ETF - [[PBJ]]
     
-3. First Trust Consumer Staples AlphaDEX Fund - [[FXG\|FXG]]
+3. First Trust Consumer Staples AlphaDEX Fund - [[FXG]]
     
-4. VanEck Vectors Retail ETF - [[RTH\|RTH]]
+4. VanEck Vectors Retail ETF - [[RTH]]
     
-5. Invesco S&P 500 Equal Weight Consumer Staples ETF - [[RHS\|RHS]]
+5. Invesco S&P 500 Equal Weight Consumer Staples ETF - [[RHS]]

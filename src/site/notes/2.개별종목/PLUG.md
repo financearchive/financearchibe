@@ -1,48 +1,47 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/PLUG/","created":"2023-07-14T10:40:46.978+09:00","updated":"2025-06-03T20:06:00.721+09:00"}
+dg-publish: true
 ---
-
 #수소  #재생에너지 #에너지 #충전소 #ESS #전자장비 #산업재 #전기장비및부품
 
 
 
 - 최근 이슈
 	- 2023년
-		- [[00.투자기록/과거/2023/7월/2023-07-14\|2023-07-14]]
-			- [[2.개별종목/PLUG\|2.개별종목/PLUG]] +7.5%, 익명의 회사가 10MW 양성자 교환막 전해조를 주문했다는 소식에 주가 급등. 유럽 석유/가스 부문에서 수주한 프로젝트 중 가장 큰 규모라고 함
+		- [[2023-07-14]]
+			- [[2.개별종목/PLUG]] +7.5%, 익명의 회사가 10MW 양성자 교환막 전해조를 주문했다는 소식에 주가 급등. 유럽 석유/가스 부문에서 수주한 프로젝트 중 가장 큰 규모라고 함
 
 
 ## 산업섹터
 
-Sector: Industrials ([[산업재\|산업재]])  
-Industry: Electrical Equipment & Parts ([[전기 장비 및 부품\|전기 장비 및 부품]])
+Sector: Industrials ([[산업재]])  
+Industry: Electrical Equipment & Parts ([[전기 장비 및 부품]])
 
 ## 영위사업
 
-Plug Power는 [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/4.수소/수소\|수소]] 연료전지 시스템을 개발, 제조 및 판매하는 기업입니다. 주로 물류, 자동차, 고정형 발전 등의 분야에 [[수소 연료전지\|수소 연료전지]] 솔루션을 제공합니다.
+Plug Power는 [[수소]] 연료전지 시스템을 개발, 제조 및 판매하는 기업입니다. 주로 물류, 자동차, 고정형 발전 등의 분야에 [[수소 연료전지]] 솔루션을 제공합니다.
 
 ## 전방/후방산업
 
 전방산업:
 
-- 물류: Amazon (US, [[2.개별종목/AMZN\|2.개별종목/AMZN]]), Walmart (US, [[2.개별종목/WMT\|WMT]])
-- 자동차: Renault (FR, [[RNO.PA\|RNO.PA]])
+- 물류: Amazon (US, [[2.개별종목/AMZN]]), Walmart (US, [[WMT]])
+- 자동차: Renault (FR, [[RNO.PA]])
 
 후방산업:
 
-- 수소 생산: Air Liquide (FR, [[AI.PA\|AI.PA]])
-- 연료전지 부품: Ballard Power Systems (CA, [[2.개별종목/BLDP\|BLDP]])
+- 수소 생산: Air Liquide (FR, [[AI.PA]])
+- 연료전지 부품: Ballard Power Systems (CA, [[BLDP]])
 
 ## 밸류체인
 
 - **원재료 공급**: 수소, 금속
-    - **대표 회사**: Air Products and Chemicals Inc. (미국, [[APD\|APD]]), Linde PLC (영국, [[LIN\|LIN]])
+    - **대표 회사**: Air Products and Chemicals Inc. (미국, [[APD]]), Linde PLC (영국, [[LIN]])
 - **제조**: 연료 전지 시스템 생산
     - **대표 회사**: Plug Power 자체 제조 시설
 - **유통**: 제품 운송 및 보관
-    - **대표 회사**: DHL, FedEx Corp. (미국, [[2.개별종목/FDX\|FDX]])
+    - **대표 회사**: DHL, FedEx Corp. (미국, [[FDX]])
 - **소매**: 최종 소비자에게 판매
-    - **대표 회사**: Amazon.com Inc. (미국, [[2.개별종목/AMZN\|2.개별종목/AMZN]]), Walmart Inc. (미국, [[2.개별종목/WMT\|WMT]])
+    - **대표 회사**: Amazon.com Inc. (미국, [[2.개별종목/AMZN]]), Walmart Inc. (미국, [[WMT]])
 
 ## 주요제품
 
@@ -57,9 +56,9 @@ Plug Power는 [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/4.수�
 
 ## 경쟁업체
 
-- Ballard Power Systems (CA, [[2.개별종목/BLDP\|BLDP]]) - 연료전지 시스템
-- FuelCell Energy (US, [[2.개별종목/FCEL\|FCEL]]) - 고정형 연료전지 발전
-- Bloom Energy (US, [[2.개별종목/BE\|BE]]) - 고정형 연료전지 발전
+- Ballard Power Systems (CA, [[BLDP]]) - 연료전지 시스템
+- FuelCell Energy (US, [[FCEL]]) - 고정형 연료전지 발전
+- Bloom Energy (US, [[BE]]) - 고정형 연료전지 발전
 
 ## 산업 내 글로벌 시장 점유율
 

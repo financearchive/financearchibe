@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/SN/","created":"2024-10-31T21:50:30.496+09:00","updated":"2025-06-03T20:06:01.250+09:00"}
+dg-publish: true
 ---
-
 #가전제품 #임의소비재
 
 ## 산업섹터
 
-- **섹터**: [[임의소비재\|임의소비재]](Consumer Discretionary)
-- **산업**: [[가전제품\|가전제품]](Appliances)
+- **섹터**: [[임의소비재]](Consumer Discretionary)
+- **산업**: [[가전제품]](Appliances)
 
 ## 영위사업
 
@@ -19,14 +18,14 @@ SharkNinja는 청소기, 주방 가전, 뷰티 제품 등 다양한 가전제품
 
 - **부품 공급업체**: 전자 부품 및 기계 부품을 공급하는 업체들
     
-    - 예: Texas Instruments(US, [[2.개별종목/TXN\|TXN]]), Infineon Technologies(독일, [[2.개별종목/IFX\|IFX]])
+    - 예: Texas Instruments(US, [[TXN]]), Infineon Technologies(독일, [[IFX]])
    
 
 ## 전방산업
 
 - **소매업체**: SharkNinja 제품을 유통하는 소매업체
     
-    - 예: Walmart(US, [[2.개별종목/WMT\|WMT]]), Target(US, [[2.개별종목/TGT\|TGT]])
+    - 예: Walmart(US, [[WMT]]), Target(US, [[TGT]])
    
 
 ## 밸류체인
@@ -48,7 +47,7 @@ SharkNinja는 청소기, 주방 가전, 뷰티 제품 등 다양한 가전제품
 
 ## 경쟁업체
 
-- **Dyson(영국, [[DY\|DY]]):** 고급 청소기 및 공기청정기 제조업체.
+- **Dyson(영국, [[DY]]):** 고급 청소기 및 공기청정기 제조업체.
 - **Bissell(US):** 다양한 청소기 및 바닥 관리 제품을 제공하는 업체.
 - **KitchenAid(US):** 주방 가전 및 조리 기구를 전문으로 하는 브랜드.
 

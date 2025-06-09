@@ -1,40 +1,39 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/PDD/","created":"2024-08-27T12:13:57.526+09:00","updated":"2025-06-03T20:06:00.619+09:00"}
+dg-publish: true
 ---
-
  #전자상거래 #중국 #소비재 #소매 #임의소비재
 
 ## 산업섹터
 
-- **Sector**: Consumer Cyclical ([[임의소비재\|임의소비재]])
-- **Industry**: Internet Retail ([[인터넷 소매\|인터넷 소매]])
+- **Sector**: Consumer Cyclical ([[임의소비재]])
+- **Industry**: Internet Retail ([[인터넷 소매]])
 
 ## 영위사업
 
-PDD Holdings Inc.는 주로 [[1.Study/♠ 국가별 이슈/중국/중국\|중국]]에서 모바일 [[전자상거래\|전자상거래]] 플랫폼을 운영하며, 의류, 신발, 액세서리, 농산물, 식품, 전자제품 등 다양한 상품을 제공합니다. 이 플랫폼은 특히 소셜 커머스 모델을 통해 사용자들이 공동 구매를 통해 할인된 가격에 상품을 구매할 수 있도록 합니다.
+PDD Holdings Inc.는 주로 [[중국]]에서 모바일 [[전자상거래]] 플랫폼을 운영하며, 의류, 신발, 액세서리, 농산물, 식품, 전자제품 등 다양한 상품을 제공합니다. 이 플랫폼은 특히 소셜 커머스 모델을 통해 사용자들이 공동 구매를 통해 할인된 가격에 상품을 구매할 수 있도록 합니다.
 
 ## 전방/후방산업
 
 - **전방산업**:
     
     - **핵심 산업 및 역할**: 전자상거래 플랫폼을 통한 상품 판매
-    - **관련 기업**: Alibaba Group (중국, [[2.개별종목/BABA\|BABA]]), JD.com (중국, [[2.개별종목/JD\|JD]])
+    - **관련 기업**: Alibaba Group (중국, [[BABA]]), JD.com (중국, [[JD]])
 - **후방산업**:
     
     - **핵심 산업 및 역할**: 상품 제조 및 공급
-    - **관련 기업**: [[Foxconn Technology Group\|Foxconn Technology Group]] (TWSE: 2354), [[Lenovo Group\|Lenovo Group]] (HKSE: 992)
+    - **관련 기업**: [[Foxconn Technology Group]] (TWSE: 2354), [[Lenovo Group]] (HKSE: 992)
 
 ## 밸류체인
 
 - **전자상거래 플랫폼 운영**:
     
-    - **대표 회사**: Alibaba Group (중국, [[2.개별종목/BABA\|BABA]]) - Taobao, Tmall
-    - **대표 회사**: JD.com (중국, [[2.개별종목/JD\|JD]]) - JD.com 플랫폼
+    - **대표 회사**: Alibaba Group (중국, [[BABA]]) - Taobao, Tmall
+    - **대표 회사**: JD.com (중국, [[JD]]) - JD.com 플랫폼
     
 - **물류 및 배송 서비스**:
     
-    - **대표 회사**: [[SF Express\|SF Express]] (SZSE: 002352) - 물류 및 배송
-    - **대표 회사**: [[Cainiao Network\|Cainiao Network]] (Alibaba의 자회사) - 스마트 물류
+    - **대표 회사**: [[SF Express]] (SZSE: 002352) - 물류 및 배송
+    - **대표 회사**: [[Cainiao Network]] (Alibaba의 자회사) - 스마트 물류
     
 
 ## 주요제품
@@ -48,9 +47,9 @@ Pinduoduo는 주로 중국 내에서 운영되며, 최근에는 동남아시아 
 
 ## 경쟁업체
 
-- **Alibaba Group (중국, [[2.개별종목/BABA\|BABA]])** - Taobao, Tmall
-- **JD.com (중국, [[2.개별종목/JD\|JD]])** - JD.com 플랫폼
-- [[Meituan\|Meituan]] (중국, 3690.HK) - O2O 서비스
+- **Alibaba Group (중국, [[BABA]])** - Taobao, Tmall
+- **JD.com (중국, [[JD]])** - JD.com 플랫폼
+- [[Meituan]] (중국, 3690.HK) - O2O 서비스
 
 ## 산업 내 글로벌 시장 점유율
 

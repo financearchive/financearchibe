@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/MLCO/","created":"2024-11-07T21:47:28.903+09:00","updated":"2025-06-03T20:06:00.109+09:00"}
+dg-publish: true
 ---
-
 #임의소비재 #호텔 #레저 #호텔 #카지노 #엔터테인먼트 
 
 ## 산업섹터
 
-섹터: [[임의소비재\|임의소비재]](Consumer Discretionary)  
-산업: [[호텔\|호텔]], 레스토랑 & [[레저\|레저]](Hotels, Restaurants & Leisure)
+섹터: [[임의소비재]](Consumer Discretionary)  
+산업: [[호텔]], 레스토랑 & [[레저]](Hotels, Restaurants & Leisure)
 
 ## 영위사업
 
-Melco Resorts & Entertainment은 아시아와 유럽에서 [[엔터테인먼트\|엔터테인먼트]] 및 [[1.Study/★ 산업/카지노, 도박/카지노\|카지노]] 게임 시설을 갖춘 통합 리조트를 개발, 소유 및 운영하는 기업입니다.
+Melco Resorts & Entertainment은 아시아와 유럽에서 [[엔터테인먼트]] 및 [[카지노]] 게임 시설을 갖춘 통합 리조트를 개발, 소유 및 운영하는 기업입니다.
 
 ## 전방/후방산업
 
@@ -47,10 +46,10 @@ Melco Resorts & Entertainment은 아시아와 유럽에서 [[엔터테인먼트\
 
 ## 경쟁업체
 
-- Las Vegas Sands(US, [[2.개별종목/LVS\|LVS]])
-- Wynn Resorts(US, [[2.개별종목/WYNN\|WYNN]])
-- MGM Resorts International(US, [[2.개별종목/MGM\|MGM]])
-- Galaxy Entertainment Group(홍콩, [[0027\|0027]])
+- Las Vegas Sands(US, [[LVS]])
+- Wynn Resorts(US, [[WYNN]])
+- MGM Resorts International(US, [[MGM]])
+- Galaxy Entertainment Group(홍콩, [[0027]])
 
 ## 산업 내 글로벌 시장 점유율
 

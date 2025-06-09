@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/Juul/","created":"2024-09-02T12:24:13.616+09:00","updated":"2025-06-03T20:05:59.691+09:00"}
+dg-publish: true
 ---
-
 #전자담배 #담배 #소비자서비스 
 
 #### 산업섹터 (Sector, Industry)
 
-- **Sector**: [[경기소비재\|경기소비재]] (Consumer Services)
-- **Industry**: [[전자담배\|전자담배]] (Electronic Cigarettes)
+- **Sector**: [[경기소비재]] (Consumer Services)
+- **Industry**: [[전자담배]] (Electronic Cigarettes)
 
 #### 영위사업
 
-Juul Labs는 Altria Group([[2.개별종목/MO\|MO]])이 지분을 보유한 자회사로, 전자담배 및 관련 제품을 설계, 개발, 제조 및 판매하는 회사입니다. 주요 사업 부문은 다음과 같습니다: 
+Juul Labs는 Altria Group([[MO]])이 지분을 보유한 자회사로, 전자담배 및 관련 제품을 설계, 개발, 제조 및 판매하는 회사입니다. 주요 사업 부문은 다음과 같습니다: 
 
 - **전자담배**: 니코틴 솔트 기반의 전자담배 제품 개발 및 판매
 - **액세서리**: 전자담배와 함께 사용하는 다양한 액세서리 제공
@@ -32,9 +31,9 @@ Juul은 주로 미국에서 활동하고 있으며, 캐나다, 영국, 프랑스
 
 #### 경쟁업체
 
-- **Vuse (US, [[BAT\|BAT]])**: 전자담배 및 관련 제품
-- **Blu (US, [[2.개별종목/IMB\|IMB]])**: 전자담배 및 관련 제품
-- **NJOY (US, [[NJOY\|NJOY]])**: 전자담배 및 관련 제품
+- **Vuse (US, [[BAT]])**: 전자담배 및 관련 제품
+- **Blu (US, [[IMB]])**: 전자담배 및 관련 제품
+- **NJOY (US, [[NJOY]])**: 전자담배 및 관련 제품
 
 #### 산업 내 글로벌 시장 점유율
 

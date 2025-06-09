@@ -1,16 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/AAP/","created":"2024-12-10T21:24:42.746+09:00","updated":"2025-06-03T20:05:57.312+09:00"}
+dg-publish: true
 ---
-
 #임의소비재 #전문소매 #자동차부품 
 
 
-Advance Auto Parts, Inc.(AAP)는 미국의 [[자동차 부품\|자동차 부품]] 및 액세서리 소매업체입니다.
+Advance Auto Parts, Inc.(AAP)는 미국의 [[자동차 부품]] 및 액세서리 소매업체입니다.
 
 ## 산업섹터
 
-섹터: [[임의소비재\|임의소비재]](Consumer Discretionary)  
-산업: [[전문 소매\|전문 소매]](Specialty Retail)
+섹터: [[임의소비재]](Consumer Discretionary)  
+산업: [[전문 소매]](Specialty Retail)
 
 ## 영위사업
 
@@ -55,8 +54,8 @@ Advance Auto Parts는 자동차 교체 부품, 유지보수 품목, 액세서리
 
 ## 경쟁업체
 
-- AutoZone(US, [[2.개별종목/AZO\|AZO]])
-- O'Reilly Auto Parts(US, [[2.개별종목/ORLY\|ORLY]])
+- AutoZone(US, [[AZO]])
+- O'Reilly Auto Parts(US, [[ORLY]])
 - NAPA Auto Parts
 - Pep Boys
 

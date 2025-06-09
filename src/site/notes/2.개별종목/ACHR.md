@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/ACHR/","created":"2024-12-03T21:55:10.188+09:00","updated":"2025-06-03T20:05:57.372+09:00"}
+dg-publish: true
 ---
-
 #산업재 #항공우주및방위 #eVTOL #UAM
 
 ## 산업섹터
 
-섹터: [[산업재\|산업재]](Industrials)  
-산업: [[1.Study/★ 산업/항공,우주,방위 산업/4.방위산업/항공우주 및 방위산업\|항공우주 및 방위산업]](Aerospace & Defense)
+섹터: [[산업재]](Industrials)  
+산업: [[항공우주 및 방위산업]](Aerospace & Defense)
 
 ## 영위사업
 
-Archer Aviation은 전기 수직 이착륙([[eVTOL\|eVTOL]]) 항공기를 개발하는 기업입니다. 도시 항공 모빌리티([[1.Study/★ 산업/항공,우주,방위 산업/3.모빌리티/UAM/UAM\|UAM]]) 시장을 목표로 하고 있습니다.
+Archer Aviation은 전기 수직 이착륙([[eVTOL]]) 항공기를 개발하는 기업입니다. 도시 항공 모빌리티([[UAM]]) 시장을 목표로 하고 있습니다.
 
 ## 주요제품
 
@@ -23,9 +22,9 @@ Archer Aviation은 전기 수직 이착륙([[eVTOL\|eVTOL]]) 항공기를 개발
 
 ## 경쟁업체
 
-- Joby Aviation(US, [[2.개별종목/JOBY\|JOBY]])
-- Lilium(US, [[2.개별종목/LILM\|LILM]])
-- Vertical Aerospace(US, [[2.개별종목/EVTL\|EVTL]])
+- Joby Aviation(US, [[JOBY]])
+- Lilium(US, [[LILM]])
+- Vertical Aerospace(US, [[EVTL]])
 
 ## 최근 주요 이슈
 

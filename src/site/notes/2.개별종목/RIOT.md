@@ -1,31 +1,30 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/RIOT/","created":"2024-11-07T10:16:36.025+09:00","updated":"2025-06-03T20:06:00.963+09:00"}
+dg-publish: true
 ---
-
 #비트코인 #암호화폐 #정보기술 #데이터처리및아웃소싱서비스 #비트코인채굴 #데이터센터 
 
 
 **산업섹터 (Sector, Industry)**:
 
-- **Sector**: [[정보기술\|정보기술]] (Information Technology)
-- **Industry**: [[데이터 처리 및 아웃소싱 서비스\|데이터 처리 및 아웃소싱 서비스]] (Data Processing & Outsourced Services)
+- **Sector**: [[정보기술]] (Information Technology)
+- **Industry**: [[데이터 처리 및 아웃소싱 서비스]] (Data Processing & Outsourced Services)
 
-**영위사업**: Riot Platforms는 [[2.개별종목/비트코인\|비트코인]] 채굴 및 디지털 인프라를 전문으로 하는 회사입니다. 이 회사는 북미에서 가장 큰 비트코인 채굴 시설을 운영하며, 텍사스와 켄터키에 데이터 센터를 두고 있습니다. 또한, 덴버에서 전기 스위치기어 엔지니어링 및 제작 작업을 수행합니다
+**영위사업**: Riot Platforms는 [[비트코인]] 채굴 및 디지털 인프라를 전문으로 하는 회사입니다. 이 회사는 북미에서 가장 큰 비트코인 채굴 시설을 운영하며, 텍사스와 켄터키에 데이터 센터를 두고 있습니다. 또한, 덴버에서 전기 스위치기어 엔지니어링 및 제작 작업을 수행합니다
 
 
 **전방/후방산업**:
 
 - **전방산업**: 금융 서비스, 암호화폐 거래소
-    - **핵심 기업**: Coinbase (미국, [[2.개별종목/COIN\|COIN]]), Binance (몰타)
+    - **핵심 기업**: Coinbase (미국, [[COIN]]), Binance (몰타)
 - **후방산업**: 전력 공급업체, 데이터 센터 인프라 제공업체
-    - **핵심 기업**: Schneider Electric (프랑스, [[2.개별종목/SU\|SU]]), Vertiv (미국, [[2.개별종목/VRT\|VRT]])
+    - **핵심 기업**: Schneider Electric (프랑스, [[SU]]), Vertiv (미국, [[VRT]])
 
 **밸류체인**:
 
-- **[[비트코인 채굴\|비트코인 채굴]]**: 비트코인 채굴을 통해 디지털 자산을 생성
-    - **대표 회사**: Marathon Digital Holdings (미국, [[2.개별종목/MARA\|MARA]]), Hut 8 Mining (캐나다, [[2.개별종목/HUT\|HUT]])
-- **[[1.Study/★ 산업/통신_데이터센터 산업/2.데이터센터/데이터센터\|데이터센터]] 운영**: 데이터 센터를 소유하고 운영하며, 비트코인 채굴을 위한 인프라 제공
-    - **대표 회사**: Core Scientific (미국, [[2.개별종목/CORZ\|CORZ]]), Bitfarms (캐나다, [[BITF\|BITF]])
+- **[[비트코인 채굴]]**: 비트코인 채굴을 통해 디지털 자산을 생성
+    - **대표 회사**: Marathon Digital Holdings (미국, [[MARA]]), Hut 8 Mining (캐나다, [[HUT]])
+- **[[데이터센터]] 운영**: 데이터 센터를 소유하고 운영하며, 비트코인 채굴을 위한 인프라 제공
+    - **대표 회사**: Core Scientific (미국, [[CORZ]]), Bitfarms (캐나다, [[BITF]])
 
 **주요제품**:
 
@@ -38,8 +37,8 @@
 
 **경쟁업체**:
 
-- **Marathon Digital Holdings (미국, [[2.개별종목/MARA\|MARA]])**: 비트코인 채굴 서비스 제공
-- **Hut 8 Mining (캐나다, [[2.개별종목/HUT\|HUT]])**: 비트코인 채굴 및 데이터 센터 운영
+- **Marathon Digital Holdings (미국, [[MARA]])**: 비트코인 채굴 서비스 제공
+- **Hut 8 Mining (캐나다, [[HUT]])**: 비트코인 채굴 및 데이터 센터 운영
 
 **산업 내 글로벌 시장 점유율**:
 

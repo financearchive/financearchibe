@@ -1,14 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/AVGO/","created":"2024-09-02T12:04:27.887+09:00","updated":"2025-06-03T20:05:57.810+09:00"}
+dg-publish: true
 ---
-
 #반도체 #테크 #데이터센터 #소프트웨어 #정보기술
 
 
 ## **산업 섹터 및 산업**
 
-- **Sector:** [[정보기술\|정보기술]] (Information Technology)
-- **Industry:** [[1.Study/★ 산업/반도체 산업/반도체\|반도체]] (Semiconductors)
+- **Sector:** [[정보기술]] (Information Technology)
+- **Industry:** [[반도체]] (Semiconductors)
 
 ## **영위 사업** 
 
@@ -16,15 +15,15 @@ Broadcom Inc.는 반도체 및 인프라 소프트웨어 솔루션을 설계, �
 
 
 
-주요 제품으로는 네트워킹, 브로드밴드, 무선 통신, [[1.Study/★ 산업/통신_데이터센터 산업/2.데이터센터/데이터센터\|데이터센터]], 소프트웨어 솔루션 등이 있습니다
+주요 제품으로는 네트워킹, 브로드밴드, 무선 통신, [[데이터센터]], 소프트웨어 솔루션 등이 있습니다
 
 
 ## **전방/후방 산업**
 
 - **전방 산업:** 데이터 센터, 통신 장비, 소비자 전자 제품
-    - **핵심 기업**: Cisco Systems (미국, [[2.개별종목/CSCO\|CSCO]]), Hewlett Packard Enterprise (미국, [[2.개별종목/HPE\|HPE]])
+    - **핵심 기업**: Cisco Systems (미국, [[CSCO]]), Hewlett Packard Enterprise (미국, [[HPE]])
 - **후방 산업:** 반도체 제조, 전자 부품 공급
-    - **핵심 기업**: Taiwan Semiconductor Manufacturing Company (미국, [[2.개별종목/TSM\|TSM]]), Intel Corporation (미국, [[2.개별종목/INTC\|INTC]])
+    - **핵심 기업**: Taiwan Semiconductor Manufacturing Company (미국, [[TSM]]), Intel Corporation (미국, [[INTC]])
 
 ## **주요 제품**
 
@@ -32,7 +31,7 @@ Broadcom Inc.는 반도체 및 인프라 소프트웨어 솔루션을 설계, �
 - **브로드밴드 솔루션:** 셋톱박스 및 광 네트워크 장비
 - **무선 통신 솔루션:** Wi-Fi, Bluetooth, GPS/GNSS SoC
 - **데이터 센터 솔루션:** 서버 및 스토리지 시스템용 반도체
-- **[[소프트웨어\|소프트웨어]] 솔루션:** 인프라 소프트웨어 및 보안 솔루션
+- **[[소프트웨어]] 솔루션:** 인프라 소프트웨어 및 보안 솔루션
 
 ## **주요 판매 국가**
 
@@ -42,9 +41,9 @@ Broadcom Inc.는 반도체 및 인프라 소프트웨어 솔루션을 설계, �
 
 ## **경쟁 업체**
 
-- **Intel Corporation (미국, [[2.개별종목/INTC\|INTC]]):** 반도체 및 데이터 센터 솔루션
-- **Qualcomm (미국, [[2.개별종목/QCOM\|QCOM]]):** 무선 통신 솔루션
-- **NVIDIA Corporation (미국, [[2.개별종목/NVDA\|NVDA]]):** 그래픽 및 데이터 센터 솔루션
+- **Intel Corporation (미국, [[INTC]]):** 반도체 및 데이터 센터 솔루션
+- **Qualcomm (미국, [[QCOM]]):** 무선 통신 솔루션
+- **NVIDIA Corporation (미국, [[NVDA]]):** 그래픽 및 데이터 센터 솔루션
 
 ## **산업 내 글로벌 시장 점유율** 
 

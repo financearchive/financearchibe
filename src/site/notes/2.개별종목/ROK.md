@@ -1,24 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/ROK/","created":"2025-03-31T17:21:30.195+09:00","updated":"2025-06-03T20:06:01.012+09:00"}
+dg-publish: true
 ---
-
 #관세 #자동화 #리쇼어링 #산업자동화 #스마트제조 #IoT #디지털전환 #PLC #SCADA #산업로봇 #모션제어 #AI기술 #클라우드컴퓨팅 #제조효율성 #지속가능성 #ESG #산업용소프트웨어 #사이버보안 #디지털트윈 #인더스트리4.0 #공장자동화 #스마트팩토리
 
 ## 산업섹터
 
-섹터: [[정보기술\|정보기술]]
+섹터: [[정보기술]]
 
-산업: [[산업자동화및제어시스템\|산업자동화및제어시스템]]
+산업: [[산업자동화및제어시스템]]
 
 ## 영위사업
 
-Rockwell Automation Inc.(NYSE: ROK)는 미국 위스콘신주 밀워키에 본사를 둔 글로벌 [[산업 자동화 및 디지털 전환 솔루션 제공 기업\|산업 자동화 및 디지털 전환 솔루션 제공 기업]]입니다. 1903년 설립된 이 회사는 제조업, 에너지, 식품 및 음료, 생명과학 등 다양한 산업에 자동화 및 제어 시스템을 제공합니다. 주요 사업 부문은 다음과 같습니다:
+Rockwell Automation Inc.(NYSE: ROK)는 미국 위스콘신주 밀워키에 본사를 둔 글로벌 [[산업 자동화 및 디지털 전환 솔루션 제공 기업]]입니다. 1903년 설립된 이 회사는 제조업, 에너지, 식품 및 음료, 생명과학 등 다양한 산업에 자동화 및 제어 시스템을 제공합니다. 주요 사업 부문은 다음과 같습니다:
 
 록웰 오토메이션은 다양한 산업 자동화 솔루션과 정보 서비스를 제공 하는 기업이다. PLC에 강점이 있다. 
 
-사업부는 크게 Intelligent Devices(지능형 장치), Software & Control(소프트웨어 및 컨트롤), Lifecycle Services(서비스)로 구성돼 있다.![](/img/user/attachments/Pasted image 20250331172254.png)
+사업부는 크게 Intelligent Devices(지능형 장치), Software & Control(소프트웨어 및 컨트롤), Lifecycle Services(서비스)로 구성돼 있다.![](Pasted%20image%2020250331172254.png)
 
-[[지능형 장치 사업부\|지능형 장치 사업부]]는 록웰의 하드웨어 사업부다. 드라이브, 모션, 안전 센싱, 산업용 부품 및 주문형 제품 판매 등을 영위한다. 
+[[지능형 장치 사업부]]는 록웰의 하드웨어 사업부다. 드라이브, 모션, 안전 센싱, 산업용 부품 및 주문형 제품 판매 등을 영위한다. 
 
 소프트웨어 및 컨트롤 사업부는 자동화를 위한 컨트롤, 시각화 소프트웨어, 디지털 트윈, 시뮬레이션 및 정보 소프트웨어, 네트워크 및 안전 인프라 솔루션 등을 제공한다. 
 
@@ -59,18 +58,18 @@ FY 2024 기준 사업부별 매출 비중은 지능형 장치 46%, 소프트웨�
 
 ## 전방산업
 
-- **제조업**: Caterpillar(US, [[2.개별종목/CAT\|CAT]]), General Electric(US, [[2.개별종목/GE\|GE]])
+- **제조업**: Caterpillar(US, [[CAT]]), General Electric(US, [[GE]])
     
-- **생명과학**: Pfizer(US, [[2.개별종목/PFE\|PFE]]), Johnson & Johnson(US, [[2.개별종목/JNJ\|JNJ]])
+- **생명과학**: Pfizer(US, [[PFE]]), Johnson & Johnson(US, [[JNJ]])
     
-- **에너지 및 유틸리티**: ExxonMobil(US, [[2.개별종목/XOM\|XOM]]), NextEra Energy(US, [[2.개별종목/NEE\|NEE]])
+- **에너지 및 유틸리티**: ExxonMobil(US, [[XOM]]), NextEra Energy(US, [[NEE]])
     
 
 ## 후방산업
 
-- **반도체 제조**: Intel(US, [[2.개별종목/INTC\|INTC]]), NVIDIA(US, [[2.개별종목/NVDA\|NVDA]])
+- **반도체 제조**: Intel(US, [[INTC]]), NVIDIA(US, [[NVDA]])
     
-- **클라우드 서비스 제공업체**: Amazon Web Services(US, [[2.개별종목/AMZN\|AMZN]]), Microsoft Azure(US, [[2.개별종목/MSFT\|MSFT]])
+- **클라우드 서비스 제공업체**: Amazon Web Services(US, [[AMZN]]), Microsoft Azure(US, [[MSFT]])
     
 - **기계 장비 공급업체**: ABB(CH), Siemens(DE)
     
@@ -88,24 +87,24 @@ FY 2024 기준 사업부별 매출 비중은 지능형 장치 46%, 소프트웨�
 
 ## 주요제품
 
-- **ControlLogix PLCs**: [[프로그래머블 로직 컨트롤러\|프로그래머블 로직 컨트롤러]] (매출의 약 40%)
+- **ControlLogix PLCs**: [[프로그래머블 로직 컨트롤러]] (매출의 약 40%)
     
 - **FactoryTalk 소프트웨어**: SCADA 및 MES 플랫폼 (매출의 약 30%)
     
-- **PowerFlex 드라이브**: [[모션 제어 시스템\|모션 제어 시스템]] (매출의 약 20%)
+- **PowerFlex 드라이브**: [[모션 제어 시스템]] (매출의 약 20%)
     
 - **서비스 및 컨설팅** (매출의 약 10%)
     
 
 ## 주요 고객
 
-1. 제조업체 (Caterpillar(US, [[2.개별종목/CAT\|CAT]]), General Motors(US, [[2.개별종목/GM\|GM]]))
+1. 제조업체 (Caterpillar(US, [[CAT]]), General Motors(US, [[GM]]))
     
-2. 생명과학 기업 (Pfizer(US, [[2.개별종목/PFE\|PFE]]), Johnson & Johnson(US, [[2.개별종목/JNJ\|JNJ]]))
+2. 생명과학 기업 (Pfizer(US, [[PFE]]), Johnson & Johnson(US, [[JNJ]]))
     
-3. 에너지 기업 (ExxonMobil(US, [[2.개별종목/XOM\|XOM]]), NextEra Energy(US, [[2.개별종목/NEE\|NEE]]))
+3. 에너지 기업 (ExxonMobil(US, [[XOM]]), NextEra Energy(US, [[NEE]]))
     
-4. 식품 및 음료 기업 (Coca-Cola(US, [[2.개별종목/KO\|KO]]), PepsiCo(US, [[2.개별종목/PEP\|PEP]]))
+4. 식품 및 음료 기업 (Coca-Cola(US, [[KO]]), PepsiCo(US, [[PEP]]))
     
 
 ## 주요 판매국가
@@ -120,9 +119,9 @@ FY 2024 기준 사업부별 매출 비중은 지능형 장치 46%, 소프트웨�
     
 3. Schneider Electric(FR): 에너지 관리 및 자동화 솔루션 제공 업체
     
-4. Honeywell International Inc.(US, [[2.개별종목/HON\|HON]]): 산업용 자동화 시스템 전문 기업
+4. Honeywell International Inc.(US, [[HON]]): 산업용 자동화 시스템 전문 기업
     
-5. Emerson Electric Co.(US, [[2.개별종목/EMR\|EMR]]): 프로세스 제어 및 자동화 시스템 제공 업체
+5. Emerson Electric Co.(US, [[EMR]]): 프로세스 제어 및 자동화 시스템 제공 업체
     
 
 ## 산업 내 글로벌 시장 점유율
@@ -151,8 +150,8 @@ Rockwell Automation은 2024년 기준 글로벌 산업 자동화 시장에서 �
 
 ## 관련 ETF
 
-- Industrial Select Sector SPDR Fund - [[XLI\|XLI]]
+- Industrial Select Sector SPDR Fund - [[XLI]]
     
-- iShares U.S. Industrials ETF - [[IYJ\|IYJ]]
+- iShares U.S. Industrials ETF - [[IYJ]]
     
-- Vanguard Industrials ETF - [[VIS\|VIS]]
+- Vanguard Industrials ETF - [[VIS]]

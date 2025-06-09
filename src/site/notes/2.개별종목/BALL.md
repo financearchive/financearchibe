@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/BALL/","created":"2025-04-23T22:13:43.924+09:00","updated":"2025-06-03T20:05:57.868+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #알루미늄제조 #포장솔루션 #음료캔 #재활용가능포장재 #지속가능성 #글로벌기업 #음료산업공급업체 #탄소배출감소 #환경친화적포장 #맥주캔 #소프트드링크캔 #금속용기 #소비재포장 #산업용포장 #알루미늄재활용 #유럽확장 #수익성개선 #포장기술 #컨테이너 #소재
@@ -10,19 +9,19 @@
 
 ## 섹터
 
-[[소재\|소재]] (Materials)
+[[소재]] (Materials)
 
 ## 산업
 
-[[컨테이너및포장\|컨테이너및포장]] (Containers & Packaging)
+[[컨테이너및포장]] (Containers & Packaging)
 
 ## 영위사업
 
-Ball Corporation은 전 세계적으로 [[알루미늄 포장 솔루션\|알루미늄 포장 솔루션]]을 제공하는 선도적인 기업으로, 특히 [[음료 캔 제조\|음료 캔 제조]] 분야에서 세계 최대 규모를 자랑합니다. 최근 지속가능한 포장재에 대한 수요 증가와 함께 성장세를 보이고 있으며, 고품질 [[알루미늄 제품\|알루미늄 제품]]과 혁신적인 포장 솔루션으로 시장 리더십을 유지하고 있습니다.
+Ball Corporation은 전 세계적으로 [[알루미늄 포장 솔루션]]을 제공하는 선도적인 기업으로, 특히 [[음료 캔 제조]] 분야에서 세계 최대 규모를 자랑합니다. 최근 지속가능한 포장재에 대한 수요 증가와 함께 성장세를 보이고 있으며, 고품질 [[알루미늄 제품]]과 혁신적인 포장 솔루션으로 시장 리더십을 유지하고 있습니다.
 
 Ball Corporation은 음료, 개인 관리 및 가정용 제품 고객을 위한 혁신적이고 지속 가능한 알루미늄 포장 솔루션을 공급하는 미국 기업입니다. 1880년 뉴욕 버팔로에서 설립되어 현재는 콜로라도 웨스트민스터에 본사를 두고 있습니다. 원래 가정 캐닝에 사용되는 유리병과 뚜껑 생산으로 유명했으나, 현재는 글로벌 알루미늄 포장재 제조업체로 사업 영역을 확장했습니다.
 
-Ball은 2016년 Rexam 인수를 통해 세계 최대 알루미늄 음료 캔 제조업체가 되었으며, 이후 특정 산업(강철 식품 및 에어로졸 용기 등)과 지역(중국)에서 철수하여 수익성 높은 [[1.Study/★ 산업/원자재 산업/1.비철금속/★ 비철금속 & 귀금속/알루미늄/알루미늄\|알루미늄]] 캔 생산에 집중하고 있습니다. 2024년 기준 약 16,000명의 직원을 고용하고 있으며, 항공우주 부문을 제외한 순매출은 118억 달러를 기록했습니다.
+Ball은 2016년 Rexam 인수를 통해 세계 최대 알루미늄 음료 캔 제조업체가 되었으며, 이후 특정 산업(강철 식품 및 에어로졸 용기 등)과 지역(중국)에서 철수하여 수익성 높은 [[알루미늄]] 캔 생산에 집중하고 있습니다. 2024년 기준 약 16,000명의 직원을 고용하고 있으며, 항공우주 부문을 제외한 순매출은 118억 달러를 기록했습니다.
 
 최근에는 2025년 5월, 8억 5천만 유로의 선순위 채권 발행을 발표하며 자금 조달을 통한 사업 확장과 부채 정리를 추진하고 있습니다. 또한 2025년 1분기에 글로벌 알루미늄 포장 출하량이 전년 대비 2.6% 증가하는 등 지속적인 성장세를 보이고 있습니다.
 
@@ -40,9 +39,9 @@ Ball Corporation의 핵심 경쟁력은 알루미늄 음료 캔 제조 분야의
 
 Ball Corporation의 핵심 기술은 고속, 대량의 알루미늄 캔 제조 공정에 집중되어 있습니다. 최신 알루미늄 가공 기술과 함께 다음과 같은 기술적 강점을 보유하고 있습니다:
 
-1. [[경량화 기술\|경량화 기술]]: 알루미늄 사용량을 줄이면서도 강도와 내구성을 유지하는 캔 디자인 기술
+1. [[경량화 기술]]: 알루미늄 사용량을 줄이면서도 강도와 내구성을 유지하는 캔 디자인 기술
     
-2. [[내부 코팅 기술\|내부 코팅 기술]]: 캔 내부에 음료의 품질과 맛을 보존할 수 있는 특수 코팅 기술
+2. [[내부 코팅 기술]]: 캔 내부에 음료의 품질과 맛을 보존할 수 있는 특수 코팅 기술
     
 3. 고해상도 인쇄 기술: 알루미늄 표면에 복잡한 디자인과 브랜드 로고를 고품질로 인쇄하는 기술
     
@@ -78,87 +77,87 @@ Ball의 알루미늄 캔 제조공정은 고도로 자동화된 시스템을 통
 
 - 알루미늄 원자재 산업: 알루미늄 코일 및 시트 공급
     
-    - Alcoa(US, [[2.개별종목/AA\|AA]])
+    - Alcoa(US, [[AA]])
         
     - Novelis(자회사 형태)
         
-    - Constellium(US, [[CSTM\|CSTM]])
+    - Constellium(US, [[CSTM]])
         
-    - Kaiser Aluminum(US, [[KALU\|KALU]])
+    - Kaiser Aluminum(US, [[KALU]])
         
-- 광물 채굴 산업: 알루미늄의 원료인 [[보크사이트\|보크사이트]] 채굴
+- 광물 채굴 산업: 알루미늄의 원료인 [[보크사이트]] 채굴
     
-    - Freeport-McMoRan(US, [[2.개별종목/FCX\|FCX]])
+    - Freeport-McMoRan(US, [[FCX]])
         
-    - Rio Tinto(UK, [[Rio Tinto\|Rio Tinto]])
+    - Rio Tinto(UK, [[Rio Tinto]])
         
 - 화학 코팅 산업: 캔 내부 코팅제 제조
     
-    - PPG Industries(US, [[PPG\|PPG]])
+    - PPG Industries(US, [[PPG]])
         
-    - Sherwin-Williams(US, [[SHW\|SHW]])
+    - Sherwin-Williams(US, [[SHW]])
         
 
 ## 전방산업
 
 - 음료 제조 산업: 알루미늄 캔에 음료를 채우는 주요 고객
     
-    - Coca-Cola(US, [[2.개별종목/KO\|KO]])
+    - Coca-Cola(US, [[KO]])
         
-    - PepsiCo(US, [[2.개별종목/PEP\|PEP]])
+    - PepsiCo(US, [[PEP]])
         
-    - Anheuser-Busch InBev(BE, [[Anheuser-Busch InBev\|Anheuser-Busch InBev]])
+    - Anheuser-Busch InBev(BE, [[Anheuser-Busch InBev]])
         
-    - Constellation Brands(US, [[2.개별종목/STZ\|STZ]])
+    - Constellation Brands(US, [[STZ]])
         
 - 개인 관리 제품 산업: 에어로졸 캔 사용
     
-    - Unilever(UK, [[Unilever\|Unilever]])
+    - Unilever(UK, [[Unilever]])
         
-    - Procter & Gamble(US, [[2.개별종목/PG\|PG]])
+    - Procter & Gamble(US, [[PG]])
         
 - 유통 및 소매 산업: 최종 소비자에게 제품 전달
     
-    - Walmart(US, [[2.개별종목/WMT\|WMT]])
+    - Walmart(US, [[WMT]])
         
-    - Costco(US, [[2.개별종목/COST\|COST]])
+    - Costco(US, [[COST]])
         
 
 ## 밸류체인
 
 1. 원자재 공급: 알루미늄 원자재 및 코일 생산
     
-    - Alcoa(US, [[2.개별종목/AA\|AA]]) (글로벌 알루미늄 생산)
+    - Alcoa(US, [[AA]]) (글로벌 알루미늄 생산)
         
     - Novelis Inc.(글로벌 알루미늄 롤링 및 재활용)
         
-    - Norsk Hydro(NO, [[Norsk Hydro\|Norsk Hydro]]) (유럽 주요 알루미늄 공급업체)
+    - Norsk Hydro(NO, [[Norsk Hydro]]) (유럽 주요 알루미늄 공급업체)
         
 2. 알루미늄 가공 및 캔 제조: 원자재를 가공하여 캔 제조
     
-    - Ball Corporation(US, [[2.개별종목/BALL\|BALL]]) (세계 최대 음료 캔 제조업체)
+    - Ball Corporation(US, [[BALL]]) (세계 최대 음료 캔 제조업체)
         
-    - Crown Holdings(US, [[CCK\|CCK]]) (금속 포장 기술 특화)
+    - Crown Holdings(US, [[CCK]]) (금속 포장 기술 특화)
         
-    - Ardagh Group(LU, [[ARD\|ARD]]) (유리 및 금속 포장 솔루션)
+    - Ardagh Group(LU, [[ARD]]) (유리 및 금속 포장 솔루션)
         
 3. 음료 제조 및 충진: 캔에 음료를 채우는 과정
     
-    - Coca-Cola(US, [[2.개별종목/KO\|KO]]) (소프트드링크)
+    - Coca-Cola(US, [[KO]]) (소프트드링크)
         
-    - Anheuser-Busch InBev(BE, [[Anheuser-Busch InBev\|Anheuser-Busch InBev]]) (맥주)
+    - Anheuser-Busch InBev(BE, [[Anheuser-Busch InBev]]) (맥주)
         
-    - Monster Beverage(US, [[2.개별종목/MNST\|MNST]]) (에너지 드링크)
+    - Monster Beverage(US, [[MNST]]) (에너지 드링크)
         
     - Liquid Death(비상장, 프리미엄 생수)
         
 4. 유통 및 판매: 최종 소비자에게 제품 전달
     
-    - Walmart(US, [[2.개별종목/WMT\|WMT]]) (대형 유통망)
+    - Walmart(US, [[WMT]]) (대형 유통망)
         
-    - Costco(US, [[2.개별종목/COST\|COST]]) (회원제 창고형 매장)
+    - Costco(US, [[COST]]) (회원제 창고형 매장)
         
-    - Amazon(US, [[2.개별종목/AMZN\|AMZN]]) (온라인 유통)
+    - Amazon(US, [[AMZN]]) (온라인 유통)
         
 
 ## 주요제품
@@ -169,7 +168,7 @@ Ball의 알루미늄 캔 제조공정은 고도로 자동화된 시스템을 통
         
     - 16온스 캔: 에너지 드링크와 프리미엄 음료용, 성장 중인 세그먼트
         
-    - 관련 경쟁사: Crown Holdings(US, [[CCK\|CCK]]), Ardagh Group(LU, [[ARD\|ARD]])
+    - 관련 경쟁사: Crown Holdings(US, [[CCK]]), Ardagh Group(LU, [[ARD]])
         
 2. 특수 알루미늄 캔 및 병
     
@@ -177,7 +176,7 @@ Ball의 알루미늄 캔 제조공정은 고도로 자동화된 시스템을 통
         
     - 슬림캔: 저칼로리 음료와 특수 음료용 세련된 디자인
         
-    - 관련 경쟁사: Can-Pack S.A.(PL, [[Can-Pack\|Can-Pack]])
+    - 관련 경쟁사: Can-Pack S.A.(PL, [[Can-Pack]])
         
 3. 에어로졸 캔 (개인 관리, 가정용 제품용)
     
@@ -185,7 +184,7 @@ Ball의 알루미늄 캔 제조공정은 고도로 자동화된 시스템을 통
         
     - 가정용 제품용 에어로졸 캔
         
-    - 관련 경쟁사: Crown Holdings(US, [[CCK\|CCK]]), Silgan Holdings(US, [[SLGN\|SLGN]])
+    - 관련 경쟁사: Crown Holdings(US, [[CCK]]), Silgan Holdings(US, [[SLGN]])
         
 4. 지속가능한 포장 솔루션
     
@@ -193,7 +192,7 @@ Ball의 알루미늄 캔 제조공정은 고도로 자동화된 시스템을 통
         
     - 경량화된 캔 디자인
         
-    - 관련 경쟁사: Amcor(US, [[AMCR\|AMCR]]), CCL Industries(CA, [[CCL Industries\|CCL Industries]])
+    - 관련 경쟁사: Amcor(US, [[AMCR]]), CCL Industries(CA, [[CCL Industries]])
         
 
 ## 주된 영향을 미치는 원자재
@@ -204,7 +203,7 @@ Ball의 알루미늄 캔 제조공정은 고도로 자동화된 시스템을 통
         
     - 주요 공급 지역: 중국, 러시아, 캐나다, 호주
         
-    - 주요 공급 업체: Alcoa(US, [[2.개별종목/AA\|AA]]), Rio Tinto(UK, [[Rio Tinto\|Rio Tinto]]), Norsk Hydro(NO, [[Norsk Hydro\|Norsk Hydro]])
+    - 주요 공급 업체: Alcoa(US, [[AA]]), Rio Tinto(UK, [[Rio Tinto]]), Norsk Hydro(NO, [[Norsk Hydro]])
         
 2. 코팅 및 도료 원료
     
@@ -212,7 +211,7 @@ Ball의 알루미늄 캔 제조공정은 고도로 자동화된 시스템을 통
         
     - 주요 공급 지역: 미국, 유럽, 일본
         
-    - 주요 공급 업체: PPG Industries(US, [[PPG\|PPG]]), Sherwin-Williams(US, [[SHW\|SHW]])
+    - 주요 공급 업체: PPG Industries(US, [[PPG]]), Sherwin-Williams(US, [[SHW]])
         
 3. 에너지 자원
     
@@ -225,33 +224,33 @@ Ball의 알루미늄 캔 제조공정은 고도로 자동화된 시스템을 통
 
 ## 주요고객
 
-1. Coca-Cola(US, [[2.개별종목/KO\|KO]]) - 소프트드링크 제품
+1. Coca-Cola(US, [[KO]]) - 소프트드링크 제품
     
-2. PepsiCo(US, [[2.개별종목/PEP\|PEP]]) - 소프트드링크 및 에너지 음료
+2. PepsiCo(US, [[PEP]]) - 소프트드링크 및 에너지 음료
     
-3. Anheuser-Busch InBev(BE, [[Anheuser-Busch InBev\|Anheuser-Busch InBev]]) - 맥주 제품
+3. Anheuser-Busch InBev(BE, [[Anheuser-Busch InBev]]) - 맥주 제품
     
-4. Molson Coors(US, [[2.개별종목/TAP\|TAP]]) - 맥주 제품
+4. Molson Coors(US, [[TAP]]) - 맥주 제품
     
-5. Heineken(NL, [[Heineken\|Heineken]]) - 맥주 제품
+5. Heineken(NL, [[Heineken]]) - 맥주 제품
     
-6. Monster Beverage(US, [[2.개별종목/MNST\|MNST]]) - 에너지 드링크
+6. Monster Beverage(US, [[MNST]]) - 에너지 드링크
     
-7. Red Bull(AT, [[Red Bull\|Red Bull]]) - 에너지 드링크
+7. Red Bull(AT, [[Red Bull]]) - 에너지 드링크
     
-8. Constellation Brands(US, [[2.개별종목/STZ\|STZ]]) - 맥주 및 와인 제품
+8. Constellation Brands(US, [[STZ]]) - 맥주 및 와인 제품
     
-9. Diageo(UK, [[Diageo\|Diageo]]) - 증류주 및 맥주 제품
+9. Diageo(UK, [[Diageo]]) - 증류주 및 맥주 제품
     
-10. Keurig Dr Pepper(US, [[2.개별종목/KDP\|KDP]]) - 소프트드링크 제품
+10. Keurig Dr Pepper(US, [[KDP]]) - 소프트드링크 제품
     
-11. Unilever(UK, [[Unilever\|Unilever]]) - 개인 관리 제품
+11. Unilever(UK, [[Unilever]]) - 개인 관리 제품
     
-12. Procter & Gamble(US, [[2.개별종목/PG\|PG]]) - 가정용 및 개인 관리 제품
+12. Procter & Gamble(US, [[PG]]) - 가정용 및 개인 관리 제품
     
-13. Carlsberg(DK, [[Carlsberg\|Carlsberg]]) - 맥주 제품
+13. Carlsberg(DK, [[Carlsberg]]) - 맥주 제품
     
-14. Asahi Group(JP, [[Asahi Group\|Asahi Group]]) - 맥주 및 소프트드링크 제품
+14. Asahi Group(JP, [[Asahi Group]]) - 맥주 및 소프트드링크 제품
     
 15. Liquid Death(비상장) - 프리미엄 생수 브랜드
     
@@ -273,35 +272,35 @@ Ball Corporation은 글로벌 기업으로 북미, 유럽, 남미가 주요 시�
 
 ## 경쟁업체
 
-1. Ardagh Group(LU, [[ARD\|ARD]]) - 금속 및 유리 포장 솔루션
+1. Ardagh Group(LU, [[ARD]]) - 금속 및 유리 포장 솔루션
     
-2. Crown Holdings, Inc.(US, [[CCK\|CCK]]) - 금속 포장 및 음료 캔
+2. Crown Holdings, Inc.(US, [[CCK]]) - 금속 포장 및 음료 캔
     
-3. Amcor plc(US, [[AMCR\|AMCR]]) - 다양한 포장 솔루션
+3. Amcor plc(US, [[AMCR]]) - 다양한 포장 솔루션
     
-4. CCL Industries(CA, [[CCL Industries\|CCL Industries]]) - 라벨 및 포장재
+4. CCL Industries(CA, [[CCL Industries]]) - 라벨 및 포장재
     
-5. Can-Pack S.A.(PL, [[Can-Pack\|Can-Pack]]) - 알루미늄 캔 제조
+5. Can-Pack S.A.(PL, [[Can-Pack]]) - 알루미늄 캔 제조
     
 6. Novelis Inc.(자회사 형태) - 알루미늄 롤링 및 재활용
     
-7. Silgan Holdings Inc.(US, [[SLGN\|SLGN]]) - 금속 및 플라스틱 용기
+7. Silgan Holdings Inc.(US, [[SLGN]]) - 금속 및 플라스틱 용기
     
-8. Berry Global Group(US, [[BERY\|BERY]]) - 소비자 포장 솔루션
+8. Berry Global Group(US, [[BERY]]) - 소비자 포장 솔루션
     
-9. O-I Glass, Inc.(US, [[OI\|OI]]) - 유리 용기 제조
+9. O-I Glass, Inc.(US, [[OI]]) - 유리 용기 제조
     
-10. Toyo Seikan Group(JP, [[Toyo Seikan\|Toyo Seikan]]) - 포장 솔루션
+10. Toyo Seikan Group(JP, [[Toyo Seikan]]) - 포장 솔루션
     
-11. ORG Technology(CN, [[ORG Technology\|ORG Technology]]) - 금속 포장재
+11. ORG Technology(CN, [[ORG Technology]]) - 금속 포장재
     
-12. Envases Group(MX, [[Envases Group\|Envases Group]]) - 알루미늄 포장 솔루션
+12. Envases Group(MX, [[Envases Group]]) - 알루미늄 포장 솔루션
     
-13. CPMC Holdings(CN, [[CPMC Holdings\|CPMC Holdings]]) - 금속 포장재
+13. CPMC Holdings(CN, [[CPMC Holdings]]) - 금속 포장재
     
-14. Showa Denko(JP, [[Showa Denko\|Showa Denko]]) - 알루미늄 가공
+14. Showa Denko(JP, [[Showa Denko]]) - 알루미늄 가공
     
-15. Tecnocap(IT, [[Tecnocap\|Tecnocap]]) - 금속 마개 및 용기
+15. Tecnocap(IT, [[Tecnocap]]) - 금속 마개 및 용기
     
 
 ## 산업 내 글로벌 시장 점유율
@@ -369,22 +368,22 @@ Ball의 경영 전략은 다음과 같은 특징을 보입니다:
 
 ## 관련 ETF
 
-1. Materials Select Sector SPDR Fund - [[XLB\|XLB]]
+1. Materials Select Sector SPDR Fund - [[XLB]]
     
-2. iShares U.S. Basic Materials ETF - [[IYM\|IYM]]
+2. iShares U.S. Basic Materials ETF - [[IYM]]
     
-3. Vanguard Materials ETF - [[VAW\|VAW]]
+3. Vanguard Materials ETF - [[VAW]]
     
-4. Invesco Materials ETF - [[RTM\|RTM]]
+4. Invesco Materials ETF - [[RTM]]
     
-5. First Trust Materials AlphaDEX Fund - [[FXZ\|FXZ]]
+5. First Trust Materials AlphaDEX Fund - [[FXZ]]
     
-6. Fidelity MSCI Materials Index ETF - [[FMAT\|FMAT]]
+6. Fidelity MSCI Materials Index ETF - [[FMAT]]
     
-7. SPDR S&P Metals & Mining ETF - [[XME\|XME]]
+7. SPDR S&P Metals & Mining ETF - [[XME]]
     
-8. VanEck Vectors Environmental Services ETF - [[EVX\|EVX]]
+8. VanEck Vectors Environmental Services ETF - [[EVX]]
     
-9. Invesco S&P 500 Equal Weight Materials ETF - [[RTM\|RTM]]
+9. Invesco S&P 500 Equal Weight Materials ETF - [[RTM]]
     
-10. Global X U.S. Infrastructure Development ETF - [[2.개별종목/PAVE\|PAVE]]
+10. Global X U.S. Infrastructure Development ETF - [[PAVE]]

@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/MCHP/","created":"2024-12-24T11:59:32.066+09:00","updated":"2025-06-03T20:06:00.049+09:00"}
+dg-publish: true
 ---
-
 #정보기술 #반도체 #마이크로컨트롤러
 
 ## 산업섹터
 
-Sector: [[정보기술\|정보기술]](Information Technology)  
-Industry: [[1.Study/★ 산업/반도체 산업/반도체\|반도체]](Semiconductors)
+Sector: [[정보기술]](Information Technology)  
+Industry: [[반도체]](Semiconductors)
 
 ## 영위사업
 
 Microchip Technology Inc.는 스마트, 연결 및 보안 임베디드 제어 솔루션을 제공하는 반도체 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
-1. [[1.Study/★ 산업/반도체 산업/INFO_반도체/마이크로컨트롤러\|마이크로컨트롤러]] (8비트, 16비트, 32비트)
+1. [[마이크로컨트롤러]] (8비트, 16비트, 32비트)
 2. 아날로그 및 인터페이스 제품
 3. 혼합 신호 및 타이밍 제품
 4. 메모리 제품
@@ -33,14 +32,14 @@ Microchip Technology Inc.는 스마트, 연결 및 보안 임베디드 제어 �
 
 ## 후방산업
 
-- 반도체 장비 제조업: 웨이퍼 제조 장비 공급 (예: Applied Materials (US, [[2.개별종목/AMAT\|AMAT]]))
-- 원자재 공급업: 실리콘 웨이퍼 공급 (예: Shin-Etsu Chemical (일본, [[4063.T\|4063.T]]))
+- 반도체 장비 제조업: 웨이퍼 제조 장비 공급 (예: Applied Materials (US, [[AMAT]]))
+- 원자재 공급업: 실리콘 웨이퍼 공급 (예: Shin-Etsu Chemical (일본, [[4063.T]]))
 
 ## 밸류체인
 
-1. 설계: Microchip Technology (US, [[2.개별종목/MCHP\|MCHP]])
-2. 제조: Microchip Technology (US, [[2.개별종목/MCHP\|MCHP]]) 및 위탁 생산업체
-3. 패키징 및 테스트: Microchip Technology (US, [[2.개별종목/MCHP\|MCHP]])
+1. 설계: Microchip Technology (US, [[MCHP]])
+2. 제조: Microchip Technology (US, [[MCHP]]) 및 위탁 생산업체
+3. 패키징 및 테스트: Microchip Technology (US, [[MCHP]])
 4. 유통: 직접 판매 및 유통업체 네트워크
 
 ## 주요제품
@@ -59,11 +58,11 @@ Microchip Technology는 미주, 아시아, 유럽 전역에서 사업을 영위�
 
 ## 경쟁업체
 
-1. Texas Instruments (US, [[2.개별종목/TXN\|TXN]]) - 마이크로컨트롤러, 아날로그 IC
-2. NXP Semiconductors (네덜란드, [[2.개별종목/NXPI\|NXPI]]) - 마이크로컨트롤러, 보안 제품
-3. STMicroelectronics (스위스, [[2.개별종목/STM\|STM]]) - 마이크로컨트롤러, 센서
-4. Renesas Electronics (일본, [[6723.T\|6723.T]]) - 마이크로컨트롤러, 아날로그 IC
-5. Analog Devices (US, [[2.개별종목/ADI\|ADI]]) - 아날로그 및 혼합 신호 IC
+1. Texas Instruments (US, [[TXN]]) - 마이크로컨트롤러, 아날로그 IC
+2. NXP Semiconductors (네덜란드, [[NXPI]]) - 마이크로컨트롤러, 보안 제품
+3. STMicroelectronics (스위스, [[STM]]) - 마이크로컨트롤러, 센서
+4. Renesas Electronics (일본, [[6723.T]]) - 마이크로컨트롤러, 아날로그 IC
+5. Analog Devices (US, [[ADI]]) - 아날로그 및 혼합 신호 IC
 
 ## 산업 내 글로벌 시장 점유율
 

@@ -1,24 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/SGMO/","created":"2025-01-02T10:48:34.446+09:00","updated":"2025-06-03T20:06:01.173+09:00"}
+dg-publish: true
 ---
-
 #유전자치료 #유전체편집 #희귀질환 #혈우병 #파브리병 #세포치료 #임상시험 #바이오테크 #제약협력 #유전자전달 #ZFN기술 #CAR-T세포치료 #정밀의학 #유전자조절 #희귀질환치료제 #생명과학도구및서비스 #헬스케어
 
 ## 섹터
 
-섹터: [[헬스케어\|헬스케어]]
+섹터: [[헬스케어]]
 
 ## 산업
 
-산업: [[생명과학 도구 및 서비스\|생명과학 도구 및 서비스]](Life Sciences Tools & Services)
+산업: [[생명과학 도구 및 서비스]](Life Sciences Tools & Services)
 
 ## 영위사업
 
-Sangamo Therapeutics, Inc.는 [[유전체 편집 \|유전체 편집 ]]및 유전자 조절 기술을 이용하여 희귀질환, 혈액질환, 신경질환 등을 치료하는 혁신적인 [[유전자 치료제\|유전자 치료제]]를 개발하는 임상 단계 바이오테크놀로지 기업입니다. 주요 사업 영역은 다음과 같습니다:
+Sangamo Therapeutics, Inc.는 [[유전체 편집 ]]및 유전자 조절 기술을 이용하여 희귀질환, 혈액질환, 신경질환 등을 치료하는 혁신적인 [[유전자 치료제]]를 개발하는 임상 단계 바이오테크놀로지 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
 1. 유전자 치료제 개발: 파브리병, 혈우병 A 등을 대상으로 한 유전자 치료제 개발
 2. 유전체 편집 기술: 자체 개발한 Zinc Finger Nuclease (ZFN) 기술을 이용한 유전자 편집 치료제 개발
-3. [[CAR-Treg 세포 치료제\|CAR-Treg 세포 치료제]]: [[자가면역질환\|자가면역질환]] 및 장기이식 거부반응 예방을 위한 세포 치료제 개발
+3. [[CAR-Treg 세포 치료제]]: [[자가면역질환]] 및 장기이식 거부반응 예방을 위한 세포 치료제 개발
 4. 협력 연구 개발: 주요 제약사들과의 파트너십을 통한 공동 연구 및 기술 라이선싱
 
 Sangamo는 Pfizer, Biogen, Novartis 등 글로벌 제약사들과 협력 관계를 맺고 있으며, 다양한 임상 단계의 파이프라인을 보유하고 있습니다.
@@ -41,11 +40,11 @@ Sangamo는 Pfizer, Biogen, Novartis 등 글로벌 제약사들과 협력 관계�
     
 2. 제약 유통업체: 치료제 유통 및 공급
     
-    - McKesson Corporation(US, [[2.개별종목/MCK\|MCK]]), AmerisourceBergen(US, [[2.개별종목/ABC\|ABC]])
+    - McKesson Corporation(US, [[MCK]]), AmerisourceBergen(US, [[ABC]])
     
 3. 보험회사: 치료제 보험 적용
     
-    - UnitedHealth Group(US, [[2.개별종목/UNH\|UNH]]), Anthem(US, [[2.개별종목/ANTM\|ANTM]])
+    - UnitedHealth Group(US, [[UNH]]), Anthem(US, [[ANTM]])
     
 
 ## 후방산업:
@@ -56,26 +55,26 @@ Sangamo는 Pfizer, Biogen, Novartis 등 글로벌 제약사들과 협력 관계�
     
 2. 의약품 원료 공급업체: 치료제 생산을 위한 원료 공급
     
-    - Thermo Fisher Scientific(US, [[2.개별종목/TMO\|TMO]]), Lonza Group(CH, [[2.개별종목/LONN\|LONN]])
+    - Thermo Fisher Scientific(US, [[TMO]]), Lonza Group(CH, [[LONN]])
     
 3. 임상시험 대행기관(CRO): 임상시험 설계 및 수행
     
-    - IQVIA Holdings(US, [[2.개별종목/IQV\|IQV]]), Charles River Laboratories(US, [[2.개별종목/CRL\|CRL]])
+    - IQVIA Holdings(US, [[IQV]]), Charles River Laboratories(US, [[CRL]])
     
 
 ## 밸류체인
 
 1. 연구 개발: 유전자 치료제 및 세포 치료제 개발
     
-    - Sangamo Therapeutics(US, [[2.개별종목/SGMO\|SGMO]]), Editas Medicine(US, [[EDIT\|EDIT]])
+    - Sangamo Therapeutics(US, [[SGMO]]), Editas Medicine(US, [[EDIT]])
     
 2. 전임상 및 임상시험: 안전성 및 유효성 평가
     
-    - IQVIA Holdings(US, [[2.개별종목/IQV\|IQV]]), Parexel International(비상장)
+    - IQVIA Holdings(US, [[IQV]]), Parexel International(비상장)
     
 3. 제조 및 생산: GMP 기준 치료제 생산
     
-    - Lonza Group(CH, [[2.개별종목/LONN\|LONN]]), Catalent(US, [[2.개별종목/CTLT\|CTLT]])
+    - Lonza Group(CH, [[LONN]]), Catalent(US, [[CTLT]])
     
 4. 규제 승인: FDA, EMA 등 규제기관 승인 획득
     
@@ -83,7 +82,7 @@ Sangamo는 Pfizer, Biogen, Novartis 등 글로벌 제약사들과 협력 관계�
     
 5. 마케팅 및 판매: 치료제 상업화 및 유통
     
-    - Pfizer(US, [[2.개별종목/PFE\|PFE]]), Novartis(CH, [[2.개별종목/NVS\|NVS]])
+    - Pfizer(US, [[PFE]]), Novartis(CH, [[NVS]])
     
 
 ## 주요제품
@@ -96,7 +95,7 @@ Sangamo는 Pfizer, Biogen, Novartis 등 글로벌 제약사들과 협력 관계�
 ## 주요 고객
 
 1. 병원 및 의료기관
-2. 제약회사: Pfizer(US, [[2.개별종목/PFE\|PFE]]), Novartis(CH, [[2.개별종목/NVS\|NVS]]), Biogen(US, [[2.개별종목/BIIB\|BIIB]]), Sanofi(FR, [[SNY\|SNY]])
+2. 제약회사: Pfizer(US, [[PFE]]), Novartis(CH, [[NVS]]), Biogen(US, [[BIIB]]), Sanofi(FR, [[SNY]])
 3. 연구기관 및 대학
 4. 정부 기관 및 보건 당국
 
@@ -106,11 +105,11 @@ Sangamo는 Pfizer, Biogen, Novartis 등 글로벌 제약사들과 협력 관계�
 
 ## 경쟁업체
 
-1. Editas Medicine(US, [[EDIT\|EDIT]]): CRISPR 유전자 편집 기술 기반 치료제 개발
-2. Intellia Therapeutics(US, [[NTLA\|NTLA]]): CRISPR/Cas9 기반 유전자 치료제 개발
-3. CRISPR Therapeutics(US, [[CRSP\|CRSP]]): CRISPR 기술 기반 세포 및 유전자 치료제 개발
-4. bluebird bio(US, [[BLUE\|BLUE]]): 유전자 및 세포 치료제 개발
-5. Beam Therapeutics(US, [[BEAM\|BEAM]]): 염기 편집 기술 기반 유전자 치료제 개발
+1. Editas Medicine(US, [[EDIT]]): CRISPR 유전자 편집 기술 기반 치료제 개발
+2. Intellia Therapeutics(US, [[NTLA]]): CRISPR/Cas9 기반 유전자 치료제 개발
+3. CRISPR Therapeutics(US, [[CRSP]]): CRISPR 기술 기반 세포 및 유전자 치료제 개발
+4. bluebird bio(US, [[BLUE]]): 유전자 및 세포 치료제 개발
+5. Beam Therapeutics(US, [[BEAM]]): 염기 편집 기술 기반 유전자 치료제 개발
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -134,11 +133,11 @@ Sangamo는 Pfizer, Biogen, Novartis 등 글로벌 제약사들과 협력 관계�
 
 ## 관련 ETF
 
-1. ARK Genomic Revolution ETF - [[ARKG\|ARKG]]
-2. SPDR S&P Biotech ETF - [[XBI\|XBI]]
-3. iShares Biotechnology ETF - [[IBB\|IBB]]
-4. Invesco Dynamic Biotechnology & Genome ETF - [[PBE\|PBE]]
-5. VanEck Biotech ETF - [[BBH\|BBH]]
+1. ARK Genomic Revolution ETF - [[ARKG]]
+2. SPDR S&P Biotech ETF - [[XBI]]
+3. iShares Biotechnology ETF - [[IBB]]
+4. Invesco Dynamic Biotechnology & Genome ETF - [[PBE]]
+5. VanEck Biotech ETF - [[BBH]]
 
 공유
 

@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/TAL/","created":"2025-03-05T10:45:55.489+09:00","updated":"2025-06-03T20:06:01.508+09:00"}
+dg-publish: true
 ---
-
-TAL Education Group ADR (NYSE: TAL)는 [[1.Study/♠ 국가별 이슈/중국/중국\|중국]] 베이징에 본사를 둔 K-12 학생들을 대상으로 한 방과 후 교육 및 튜터링 서비스를 제공하는 기업입니다. 2003년에 설립된 이 회사는 다양한 [[학습 서비스를 제공\|학습 서비스를 제공]]하며, 특히 수학, 영어, 중국어, 물리, 화학, 생물 등 주요 학문 분야를 다루고 있습니다.
+TAL Education Group ADR (NYSE: TAL)는 [[중국]] 베이징에 본사를 둔 K-12 학생들을 대상으로 한 방과 후 교육 및 튜터링 서비스를 제공하는 기업입니다. 2003년에 설립된 이 회사는 다양한 [[학습 서비스를 제공]]하며, 특히 수학, 영어, 중국어, 물리, 화학, 생물 등 주요 학문 분야를 다루고 있습니다.
 
 ## 핵심 키워드
 
@@ -10,8 +9,8 @@ TAL Education Group ADR (NYSE: TAL)는 [[1.Study/♠ 국가별 이슈/중국/중
 
 ## 산업섹터
 
-섹터: [[소비재\|소비재]]  
-산업: [[교육및훈련서비스\|교육및훈련서비스]]
+섹터: [[소비재]]  
+산업: [[교육및훈련서비스]]
 
 ## 영위사업
 
@@ -58,26 +57,26 @@ TAL Education Group은 다음과 같은 주요 사업을 운영하고 있습니�
 
 후방산업:
 
-- **교육 콘텐츠 제공업체**: 학습 자료 및 콘텐츠 제공 (Pearson(UK, [[PSO\|PSO]]), McGraw-Hill(US, [[MHFI\|MHFI]]))
+- **교육 콘텐츠 제공업체**: 학습 자료 및 콘텐츠 제공 (Pearson(UK, [[PSO]]), McGraw-Hill(US, [[MHFI]]))
     
-- **기술 제공업체**: AI 및 학습 기술 제공 (Google(US, [[2.개별종목/GOOGL\|GOOGL]]), Microsoft(US, [[2.개별종목/MSFT\|MSFT]]))
+- **기술 제공업체**: AI 및 학습 기술 제공 (Google(US, [[GOOGL]]), Microsoft(US, [[MSFT]]))
     
-- **인프라 제공업체**: 클라우드 및 네트워크 인프라 (Alibaba Cloud(US, [[2.개별종목/BABA\|BABA]]), Tencent Cloud(HK, [[0700\|0700]]))
+- **인프라 제공업체**: 클라우드 및 네트워크 인프라 (Alibaba Cloud(US, [[BABA]]), Tencent Cloud(HK, [[0700]]))
     
 
 ## 밸류체인
 
-1. **콘텐츠 개발**: TAL Education Group(US, [[2.개별종목/TAL\|TAL]]) (교육 콘텐츠 개발)
+1. **콘텐츠 개발**: TAL Education Group(US, [[TAL]]) (교육 콘텐츠 개발)
     
-2. **기술 개발**: TAL Education Group(US, [[2.개별종목/TAL\|TAL]]) (AI 및 학습 기술 개발)
+2. **기술 개발**: TAL Education Group(US, [[TAL]]) (AI 및 학습 기술 개발)
     
-3. **서비스 제공**: TAL Education Group(US, [[2.개별종목/TAL\|TAL]]) (온라인 및 오프라인 학습 서비스)
+3. **서비스 제공**: TAL Education Group(US, [[TAL]]) (온라인 및 오프라인 학습 서비스)
     
-4. **유통 및 판매**: TAL Education Group(US, [[2.개별종목/TAL\|TAL]]) (교육 자료 및 제품 판매)
+4. **유통 및 판매**: TAL Education Group(US, [[TAL]]) (교육 자료 및 제품 판매)
     
-5. **고객 지원**: TAL Education Group(US, [[2.개별종목/TAL\|TAL]]) (학생 및 학부모 지원)
+5. **고객 지원**: TAL Education Group(US, [[TAL]]) (학생 및 학부모 지원)
     
-6. **투자 및 컨설팅**: TAL Education Group(US, [[2.개별종목/TAL\|TAL]]) (투자 관리 및 컨설팅 서비스)
+6. **투자 및 컨설팅**: TAL Education Group(US, [[TAL]]) (투자 관리 및 컨설팅 서비스)
     
 
 ## 주요제품
@@ -108,15 +107,15 @@ TAL의 주요 고객은 다음과 같습니다:
 
 ## 경쟁업체
 
-1. **New Oriental Education & Technology Group Inc ADR(US, [[EDU\|EDU]])**: 중국의 주요 교육 서비스 제공업체
+1. **New Oriental Education & Technology Group Inc ADR(US, [[EDU]])**: 중국의 주요 교육 서비스 제공업체
     
-2. **Grand Canyon Education Inc(US, [[LOPE\|LOPE]])**: 미국의 온라인 교육 제공업체
+2. **Grand Canyon Education Inc(US, [[LOPE]])**: 미국의 온라인 교육 제공업체
     
-3. **Stride Inc(US, [[LRN\|LRN]])**: 온라인 학습 솔루션 제공업체
+3. **Stride Inc(US, [[LRN]])**: 온라인 학습 솔루션 제공업체
     
-4. **Graham Holdings Co(US, [[GHC\|GHC]])**: 다양한 교육 및 미디어 서비스 제공
+4. **Graham Holdings Co(US, [[GHC]])**: 다양한 교육 및 미디어 서비스 제공
     
-5. **Adtalem Global Education Inc(US, [[ATGE\|ATGE]])**: 전문 교육 및 학습 서비스 제공
+5. **Adtalem Global Education Inc(US, [[ATGE]])**: 전문 교육 및 학습 서비스 제공
     
 
 ## 산업 내 글로벌 시장 점유율
@@ -147,12 +146,12 @@ TAL의 주요 고객은 다음과 같습니다:
 
 ## 관련 ETF
 
-1. **Global X Education ETF - [[EDUT\|EDUT]]**
+1. **Global X Education ETF - [[EDUT]]**
     
-2. **iShares MSCI China ETF - [[MCHI\|MCHI]]**
+2. **iShares MSCI China ETF - [[MCHI]]**
     
-3. **SPDR S&P China ETF - [[GXC\|GXC]]**
+3. **SPDR S&P China ETF - [[GXC]]**
     
-4. **Invesco Golden Dragon China ETF - [[PGJ\|PGJ]]**
+4. **Invesco Golden Dragon China ETF - [[PGJ]]**
     
-5. **KraneShares CSI China Internet ETF - [[KWEB\|KWEB]]**
+5. **KraneShares CSI China Internet ETF - [[KWEB]]**

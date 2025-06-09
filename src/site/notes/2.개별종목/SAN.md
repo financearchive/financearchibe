@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/SAN/","created":"2024-09-06T15:11:43.068+09:00","updated":"2025-06-03T20:06:01.067+09:00"}
+dg-publish: true
 ---
-
 #헬스케어 #일반의약품제조
 
 #### 산업섹터 및 산업
 
-- **Sector:** [[헬스케어\|헬스케어]] (Healthcare)
-- **Industry:** [[일반 의약품 제조\|일반 의약품 제조]] (Drug Manufacturers - General)
+- **Sector:** [[헬스케어]] (Healthcare)
+- **Industry:** [[일반 의약품 제조]] (Drug Manufacturers - General)
 
 #### 영위사업
 
@@ -17,26 +16,26 @@ Sanofi는 다양한 질병 치료를 위한 의약품, 백신, 소비자 건강 
 
 - **전방산업:** 의료 서비스 및 제약 유통
     - **핵심 산업:** 병원, 약국, 의료 보험사
-    - **핵심 기업:** CVS Health (미국, [[2.개별종목/CVS\|CVS]]), UnitedHealth Group (미국, [[2.개별종목/UNH\|UNH]])
+    - **핵심 기업:** CVS Health (미국, [[CVS]]), UnitedHealth Group (미국, [[UNH]])
 - **후방산업:** 생명공학 연구 및 원료 공급
     - **핵심 산업:** 연구소, 원료 공급업체
-    - **핵심 기업:** Thermo Fisher Scientific (미국, [[2.개별종목/TMO\|TMO]]), Merck KGaA (독일, [[2.개별종목/MRK\|MRK]])
+    - **핵심 기업:** Thermo Fisher Scientific (미국, [[TMO]]), Merck KGaA (독일, [[MRK]])
 
 #### 밸류체인
 
 - **연구 및 개발:** Sanofi는 자체 연구소와 협력사와 함께 신약 개발을 진행합니다.
-    - **대표 회사:** Regeneron Pharmaceuticals (미국, [[2.개별종목/REGN\|REGN]]), Alnylam Pharmaceuticals (미국, [[ALNY\|ALNY]])
+    - **대표 회사:** Regeneron Pharmaceuticals (미국, [[REGN]]), Alnylam Pharmaceuticals (미국, [[ALNY]])
 - **제조:** 고품질의 의약품을 제조합니다.
-    - **대표 회사:** Lonza Group (스위스, [[2.개별종목/LONN\|LONN]]), Catalent (미국, [[2.개별종목/CTLT\|CTLT]])
+    - **대표 회사:** Lonza Group (스위스, [[LONN]]), Catalent (미국, [[CTLT]])
 - **유통:** 글로벌 시장에 의약품을 유통합니다.
-    - **대표 회사:** McKesson (미국, [[2.개별종목/MCK\|MCK]]), Cardinal Health (미국, [[CAH\|CAH]])
+    - **대표 회사:** McKesson (미국, [[MCK]]), Cardinal Health (미국, [[CAH]])
 
 #### 주요제품
 
-- **Dupixent:** [[아토피\|아토피]] 피부염 및 [[천식\|천식]] 치료제 (2023년 매출 비중: 20%)
-- **Lantus:** [[당뇨병\|당뇨병]] 치료제 (2023년 매출 비중: 15%)
-- **Aubagio:** [[다발성 경화증\|다발성 경화증]] 치료제 (2023년 매출 비중: 10%)
-- **Praluent:** [[고콜레스테롤혈증 \|고콜레스테롤혈증 ]]치료제 (2023년 매출 비중: 5%)
+- **Dupixent:** [[아토피]] 피부염 및 [[천식]] 치료제 (2023년 매출 비중: 20%)
+- **Lantus:** [[당뇨병]] 치료제 (2023년 매출 비중: 15%)
+- **Aubagio:** [[다발성 경화증]] 치료제 (2023년 매출 비중: 10%)
+- **Praluent:** [[고콜레스테롤혈증 ]]치료제 (2023년 매출 비중: 5%)
 
 #### 주요 판매국가
 
@@ -47,9 +46,9 @@ Sanofi는 다양한 질병 치료를 위한 의약품, 백신, 소비자 건강 
 
 #### 경쟁업체
 
-- **Pfizer (미국, [[2.개별종목/PFE\|PFE]]):** 백신 및 항바이러스제
-- **Novartis (스위스, [[2.개별종목/NOVN\|NOVN]]):** 항암제 및 면역억제제
-- **Johnson & Johnson (미국, [[2.개별종목/JNJ\|JNJ]]):** 다양한 치료제 및 의료기기
+- **Pfizer (미국, [[PFE]]):** 백신 및 항바이러스제
+- **Novartis (스위스, [[NOVN]]):** 항암제 및 면역억제제
+- **Johnson & Johnson (미국, [[JNJ]]):** 다양한 치료제 및 의료기기
 
 #### 최근 3년 내 주요 이슈
 

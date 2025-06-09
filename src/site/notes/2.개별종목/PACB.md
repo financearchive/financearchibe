@@ -1,18 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/PACB/","created":"2024-12-17T22:05:29.195+09:00","updated":"2025-06-03T20:06:00.575+09:00"}
+dg-publish: true
 ---
-
 #유전체학 #DNA시퀀싱 #생명과학 #바이오테크놀로지 #장기읽기시퀀싱 #HiFi기술 #Revio시스템 #Vega시퀀서 #유전자분석 #정밀의학 #농업유전학 #미생물학 #종양학 #희귀질환연구 #생물정보학 #헬스케어 #생명공학 #유전체연구 #분자진단 #헬스케어 #생명과학도구및서비스
 
 ## 섹터 및 산업
 
-섹터: [[헬스케어\|헬스케어]]
+섹터: [[헬스케어]]
 
-산업: [[생명과학 도구 및 서비스\|생명과학 도구 및 서비스]](Life Sciences Tools & Services)
+산업: [[생명과학 도구 및 서비스]](Life Sciences Tools & Services)
 
 ## 영위사업
 
-Pacific Biosciences of California, Inc.(PACB)는 혁신적인 [[DNA 시퀀싱\|DNA 시퀀싱]] 기술을 개발하고 제조하는 생명과학 기업입니다. 회사의 주력 제품은 Single Molecule, Real-Time(SMRT) 시퀀싱 기술을 기반으로 한 장기 읽기 DNA 시퀀싱 시스템입니다
+Pacific Biosciences of California, Inc.(PACB)는 혁신적인 [[DNA 시퀀싱]] 기술을 개발하고 제조하는 생명과학 기업입니다. 회사의 주력 제품은 Single Molecule, Real-Time(SMRT) 시퀀싱 기술을 기반으로 한 장기 읽기 DNA 시퀀싱 시스템입니다
 
 주요 제품:
 
@@ -61,53 +60,53 @@ PACB의 HiFi 시퀀싱 기술은 높은 정확도로 개별 DNA 분자의 염기
 
 1. 의료 및 제약: 정밀 의학, 희귀 질환 진단, 신약 개발
     
-    - Pfizer(US, [[2.개별종목/PFE\|PFE]]), Roche(CH, [[2.개별종목/ROG\|ROG]])
+    - Pfizer(US, [[PFE]]), Roche(CH, [[ROG]])
     
 2. 농업 및 식품: 작물 개량, 가축 육종
     
-    - Bayer(DE, [[BAYN\|BAYN]]), Corteva(US, [[2.개별종목/CTVA\|CTVA]])
+    - Bayer(DE, [[BAYN]]), Corteva(US, [[CTVA]])
     
 3. 환경 및 생태학: 생물다양성 연구, 환경 모니터링
     
-    - Illumina(US, [[2.개별종목/ILMN\|ILMN]]), Thermo Fisher Scientific(US, [[2.개별종목/TMO\|TMO]])
+    - Illumina(US, [[ILMN]]), Thermo Fisher Scientific(US, [[TMO]])
     
 
 ## 후방산업
 
 1. 반도체 및 전자부품: 시퀀싱 장비용 센서 및 칩 제조
     
-    - Intel(US, [[2.개별종목/INTC\|INTC]]), NVIDIA(US, [[2.개별종목/NVDA\|NVDA]])
+    - Intel(US, [[INTC]]), NVIDIA(US, [[NVDA]])
     
 2. 화학 및 생화학 재료: 시약 및 소모품 제조
     
-    - Agilent Technologies(US, [[2.개별종목/A\|A]]), Merck KGaA(DE, [[2.개별종목/MRK\|MRK]])
+    - Agilent Technologies(US, [[A]]), Merck KGaA(DE, [[MRK]])
     
 3. 소프트웨어 및 데이터 분석: 생물정보학 도구 개발
     
-    - Alphabet(US, [[2.개별종목/GOOGL\|GOOGL]]), Microsoft(US, [[2.개별종목/MSFT\|MSFT]])
+    - Alphabet(US, [[GOOGL]]), Microsoft(US, [[MSFT]])
     
 
 ## 밸류체인
 
 1. 연구 및 개발: DNA 시퀀싱 기술 혁신
     
-    - Pacific Biosciences(US, [[2.개별종목/PACB\|PACB]]), Illumina(US, [[2.개별종목/ILMN\|ILMN]])
+    - Pacific Biosciences(US, [[PACB]]), Illumina(US, [[ILMN]])
     
 2. 장비 제조: 시퀀싱 시스템 생산
     
-    - Thermo Fisher Scientific(US, [[2.개별종목/TMO\|TMO]]), Oxford Nanopore Technologies(GB, [[ONT\|ONT]])
+    - Thermo Fisher Scientific(US, [[TMO]]), Oxford Nanopore Technologies(GB, [[ONT]])
     
 3. 소모품 및 시약 공급: 시퀀싱 키트 및 시약 제조
     
-    - Agilent Technologies(US, [[2.개별종목/A\|A]]), Bio-Rad Laboratories(US, [[BIO\|BIO]])
+    - Agilent Technologies(US, [[A]]), Bio-Rad Laboratories(US, [[BIO]])
     
 4. 데이터 분석 및 저장: 생물정보학 소프트웨어 및 클라우드 서비스
     
-    - Alphabet(US, [[2.개별종목/GOOGL\|GOOGL]]), Amazon(US, [[2.개별종목/AMZN\|AMZN]])
+    - Alphabet(US, [[GOOGL]]), Amazon(US, [[AMZN]])
     
 5. 응용 및 서비스: 유전체 분석 서비스 제공
     
-    - Natera(US, [[NTRA\|NTRA]]), Invitae(US, [[NVTA\|NVTA]])
+    - Natera(US, [[NTRA]]), Invitae(US, [[NVTA]])
     
 
 ## 주요제품
@@ -120,12 +119,12 @@ PACB의 HiFi 시퀀싱 기술은 높은 정확도로 개별 DNA 분자의 염기
 
 ## 주요 고객
 
-1. 학술 연구 기관: Harvard University(US, [[Harvard\|Harvard]]), Stanford University(US, [[Stanford\|Stanford]])
-2. 정부 연구소: National Institutes of Health(US, [[2.개별종목/NIH\|NIH]]), Centers for Disease Control and Prevention(US, [[CDC\|CDC]])
-3. 제약 회사: Pfizer(US, [[2.개별종목/PFE\|PFE]]), Novartis(CH, [[2.개별종목/NOVN\|NOVN]])
-4. 농업 기업: Bayer(DE, [[BAYN\|BAYN]]), Corteva(US, [[2.개별종목/CTVA\|CTVA]])
-5. 생명공학 회사: Genentech(US, [[Genentech\|Genentech]]), Regeneron Pharmaceuticals(US, [[2.개별종목/REGN\|REGN]])
-6. 임상 진단 실험실: LabCorp(US, [[LH\|LH]]), Quest Diagnostics(US, [[DGX\|DGX]])
+1. 학술 연구 기관: Harvard University(US, [[Harvard]]), Stanford University(US, [[Stanford]])
+2. 정부 연구소: National Institutes of Health(US, [[NIH]]), Centers for Disease Control and Prevention(US, [[CDC]])
+3. 제약 회사: Pfizer(US, [[PFE]]), Novartis(CH, [[NOVN]])
+4. 농업 기업: Bayer(DE, [[BAYN]]), Corteva(US, [[CTVA]])
+5. 생명공학 회사: Genentech(US, [[Genentech]]), Regeneron Pharmaceuticals(US, [[REGN]])
+6. 임상 진단 실험실: LabCorp(US, [[LH]]), Quest Diagnostics(US, [[DGX]])
 
 ## 주요 판매국가
 
@@ -133,14 +132,14 @@ PACB의 HiFi 시퀀싱 기술은 높은 정확도로 개별 DNA 분자의 염기
 
 ## 경쟁업체
 
-1. Illumina(US, [[2.개별종목/ILMN\|ILMN]]): NovaSeq, NextSeq 시리즈 (단기 읽기 시퀀싱, 높은 처리량)
-2. Thermo Fisher Scientific(US, [[2.개별종목/TMO\|TMO]]): Ion Torrent 시리즈 (반도체 기반 시퀀싱)
-3. Oxford Nanopore Technologies(GB, [[ONT\|ONT]]): MinION, PromethION (나노포어 기반 장기 읽기 시퀀싱)
-4. BGI Group(CN, [[2.개별종목/BGI\|BGI]]): DNBSEQ 시리즈 (나노볼 기반 시퀀싱)
-5. Roche(CH, [[2.개별종목/ROG\|ROG]]): 454 시퀀싱 기술 (파이로시퀀싱)
-6. Agilent Technologies(US, [[2.개별종목/A\|A]]): SureSelect, HaloPlex (표적 시퀀싱 및 전처리 솔루션)
-7. QIAGEN(NL, [[QGEN\|QGEN]]): GeneReader (NGS 워크플로우 솔루션)
-8. 10x Genomics(US, [[TXG\|TXG]]): Chromium 시스템 (단일 세포 및 공간 전사체학)
+1. Illumina(US, [[ILMN]]): NovaSeq, NextSeq 시리즈 (단기 읽기 시퀀싱, 높은 처리량)
+2. Thermo Fisher Scientific(US, [[TMO]]): Ion Torrent 시리즈 (반도체 기반 시퀀싱)
+3. Oxford Nanopore Technologies(GB, [[ONT]]): MinION, PromethION (나노포어 기반 장기 읽기 시퀀싱)
+4. BGI Group(CN, [[BGI]]): DNBSEQ 시리즈 (나노볼 기반 시퀀싱)
+5. Roche(CH, [[ROG]]): 454 시퀀싱 기술 (파이로시퀀싱)
+6. Agilent Technologies(US, [[A]]): SureSelect, HaloPlex (표적 시퀀싱 및 전처리 솔루션)
+7. QIAGEN(NL, [[QGEN]]): GeneReader (NGS 워크플로우 솔루션)
+8. 10x Genomics(US, [[TXG]]): Chromium 시스템 (단일 세포 및 공간 전사체학)
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -164,8 +163,8 @@ PACB의 HiFi 시퀀싱 기술은 높은 정확도로 개별 DNA 분자의 염기
 
 ## 관련 ETF
 
-1. ARK Genomic Revolution ETF - [[ARKG\|ARKG]]
-2. Global X Genomics & Biotechnology ETF - [[GNOM\|GNOM]]
-3. AltShares Event-Driven ETF - [[EVNT\|EVNT]]
-4. Invesco NASDAQ Future Gen 200 ETF - [[QQQS\|QQQS]]
-5. Global X Telemedicine & Digital Health ETF - [[EDOC\|EDOC]]
+1. ARK Genomic Revolution ETF - [[ARKG]]
+2. Global X Genomics & Biotechnology ETF - [[GNOM]]
+3. AltShares Event-Driven ETF - [[EVNT]]
+4. Invesco NASDAQ Future Gen 200 ETF - [[QQQS]]
+5. Global X Telemedicine & Digital Health ETF - [[EDOC]]

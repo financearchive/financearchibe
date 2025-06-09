@@ -1,22 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/SOFI/","created":"2025-01-03T17:27:22.450+09:00","updated":"2025-06-03T20:06:01.281+09:00"}
+dg-publish: true
 ---
-
 #핀테크 #개인금융 #디지털뱅킹 #학자금대출 #주택담보대출 #투자 #신용카드 #온라인뱅킹 #금융서비스 #기술플랫폼 #갈릴레오 #대출 #모바일뱅킹 #자산관리 #로보어드바이저 #금융교육 #회원혜택 #원스톱숍 #금융테크놀로지 #금융
 
 ## 섹터
 
-섹터: [[금융\|금융]]
+섹터: [[금융]]
 
 ## 산업
 
-산업: [[금융 테크놀로지 및 서비스\|금융 테크놀로지 및 서비스]](Financial Technology & Services)
+산업: [[금융 테크놀로지 및 서비스]](Financial Technology & Services)
 
 ## 영위사업
 
-SoFi Technologies, Inc.는 종합 디지털 금융 서비스 기업입니다. 2011년 스탠포드 대학에서 설립되어 초기에는 [[학자금 대출\|학자금 대출]]에 집중했으나, 현재는 '원스톱 숍' 금융 서비스 제공업체로 성장했습니다. 주요 사업 부문은 다음과 같습니다:
+SoFi Technologies, Inc.는 종합 디지털 금융 서비스 기업입니다. 2011년 스탠포드 대학에서 설립되어 초기에는 [[학자금 대출]]에 집중했으나, 현재는 '원스톱 숍' 금융 서비스 제공업체로 성장했습니다. 주요 사업 부문은 다음과 같습니다:
 
-1. [[대출\|대출]] 서비스: 학자금 대출 리파이낸싱, 개인 대출, 주택 담보 대출 등
+1. [[대출]] 서비스: 학자금 대출 리파이낸싱, 개인 대출, 주택 담보 대출 등
 2. 금융 서비스: 온라인 뱅킹, 투자, 보험, 신용카드 등
 3. 기술 플랫폼: Galileo를 통한 금융 기관 지원 서비스
 
@@ -36,58 +35,58 @@ SoFi Technologies, Inc.는 종합 디지털 금융 서비스 기업입니다. 20
 
 1. 소비자 금융: 개인 대출, 주택 담보 대출 등 금융 상품 이용
     
-    - JPMorgan Chase(US, [[2.개별종목/JPM\|JPM]]), Bank of America(US, [[2.개별종목/BAC\|BAC]])
+    - JPMorgan Chase(US, [[JPM]]), Bank of America(US, [[BAC]])
     
 2. 교육: 학자금 대출 및 리파이낸싱 서비스 이용
     
-    - Sallie Mae(US, [[SLM\|SLM]]), Navient(US, [[NAVI\|NAVI]])
+    - Sallie Mae(US, [[SLM]]), Navient(US, [[NAVI]])
     
 3. 투자 서비스: 개인 투자자들의 주식, ETF 거래 등
     
-    - Charles Schwab(US, [[2.개별종목/SCHW\|SCHW]]), E*TRADE(US, [[ETFC\|ETFC]])
+    - Charles Schwab(US, [[SCHW]]), E*TRADE(US, [[ETFC]])
     
 
 ## 후방산업:
 
 1. 클라우드 컴퓨팅: 금융 서비스 플랫폼 운영을 위한 인프라 제공
     
-    - Amazon Web Services(US, [[2.개별종목/AMZN\|AMZN]]), Microsoft Azure(US, [[2.개별종목/MSFT\|MSFT]])
+    - Amazon Web Services(US, [[AMZN]]), Microsoft Azure(US, [[MSFT]])
     
 2. 데이터 분석: 고객 데이터 처리 및 분석 도구 제공
     
-    - Palantir Technologies(US, [[2.개별종목/PLTR\|PLTR]]), Snowflake(US, [[2.개별종목/SNOW\|SNOW]])
+    - Palantir Technologies(US, [[PLTR]]), Snowflake(US, [[SNOW]])
     
 3. 사이버보안: 금융 데이터 보호 및 보안 솔루션 제공
     
-    - Palo Alto Networks(US, [[2.개별종목/PANW\|PANW]]), CrowdStrike(US, [[2.개별종목/CRWD\|CRWD]])
+    - Palo Alto Networks(US, [[PANW]]), CrowdStrike(US, [[CRWD]])
     
 
 ## 밸류체인
 
 1. 기술 개발: 금융 서비스 플랫폼 및 API 개발
     
-    - SoFi Technologies(US, [[2.개별종목/SOFI\|SOFI]]), Plaid(비상장)
+    - SoFi Technologies(US, [[SOFI]]), Plaid(비상장)
     
 2. 자금 조달: 대출 상품을 위한 자금 확보
     
-    - SoFi Technologies(US, [[2.개별종목/SOFI\|SOFI]]), LendingClub(US, [[LC\|LC]])
+    - SoFi Technologies(US, [[SOFI]]), LendingClub(US, [[LC]])
     
 3. 리스크 관리: 신용평가 및 리스크 분석
     
-    - Equifax(US, [[EFX\|EFX]]), TransUnion(US, [[TRU\|TRU]])
+    - Equifax(US, [[EFX]]), TransUnion(US, [[TRU]])
     
 4. 고객 서비스: 디지털 고객 지원 및 금융 교육
     
-    - SoFi Technologies(US, [[2.개별종목/SOFI\|SOFI]]), Affirm(US, [[2.개별종목/AFRM\|AFRM]])
+    - SoFi Technologies(US, [[SOFI]]), Affirm(US, [[AFRM]])
     
 5. 마케팅 및 고객 확보: 디지털 마케팅 및 파트너십
     
-    - SoFi Technologies(US, [[2.개별종목/SOFI\|SOFI]]), Square(US, [[2.개별종목/SQ\|SQ]])
+    - SoFi Technologies(US, [[SOFI]]), Square(US, [[SQ]])
     
 
 ## 주요제품
 
-1. [[학자금 대출 리파이낸싱\|학자금 대출 리파이낸싱]]: 기존 학자금 대출의 금리 낮춤 (매출 비중: 약 40%, 2023년 기준)
+1. [[학자금 대출 리파이낸싱]]: 기존 학자금 대출의 금리 낮춤 (매출 비중: 약 40%, 2023년 기준)
 2. 개인 대출: 다양한 목적의 무담보 대출 (매출 비중: 약 30%, 2023년 기준)
 3. 주택 담보 대출: 주택 구입 및 리파이낸싱 (매출 비중: 약 15%, 2023년 기준)
 4. SoFi Invest: 주식, ETF 거래 및 로보어드바이저 서비스 (매출 비중: 약 10%, 2023년 기준)
@@ -107,13 +106,13 @@ SoFi Technologies, Inc.는 종합 디지털 금융 서비스 기업입니다. 20
 
 ## 경쟁업체
 
-1. Robinhood Markets(US, [[2.개별종목/HOOD\|HOOD]]): 주식 거래 및 투자 플랫폼
+1. Robinhood Markets(US, [[HOOD]]): 주식 거래 및 투자 플랫폼
 2. Chime(비상장): 모바일 뱅킹 서비스
 3. Betterment(비상장): 로보어드바이저 및 자산관리
-4. Square(US, [[2.개별종목/SQ\|SQ]]): Cash App을 통한 금융 서비스
-5. LendingClub(US, [[LC\|LC]]): P2P 대출 및 온라인 뱅킹
-6. Affirm Holdings(US, [[2.개별종목/AFRM\|AFRM]]): 할부 결제 서비스
-7. Rocket Companies(US, [[RKT\|RKT]]): 모기지 및 개인 대출
+4. Square(US, [[SQ]]): Cash App을 통한 금융 서비스
+5. LendingClub(US, [[LC]]): P2P 대출 및 온라인 뱅킹
+6. Affirm Holdings(US, [[AFRM]]): 할부 결제 서비스
+7. Rocket Companies(US, [[RKT]]): 모기지 및 개인 대출
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -135,8 +134,8 @@ SoFi Technologies, Inc.는 종합 디지털 금융 서비스 기업입니다. 20
 
 ## 관련 ETF
 
-1. ARK Fintech Innovation ETF - [[ARKF\|ARKF]]
-2. Global X FinTech ETF - [[FINX\|FINX]]
-3. ETFMG Prime Mobile Payments ETF - [[IPAY\|IPAY]]
-4. Amplify CrowdBureau Online Lending and Digital Banking ETF - [[LEND\|LEND]]
-5. iShares U.S. Regional Banks ETF - [[IAT\|IAT]]
+1. ARK Fintech Innovation ETF - [[ARKF]]
+2. Global X FinTech ETF - [[FINX]]
+3. ETFMG Prime Mobile Payments ETF - [[IPAY]]
+4. Amplify CrowdBureau Online Lending and Digital Banking ETF - [[LEND]]
+5. iShares U.S. Regional Banks ETF - [[IAT]]

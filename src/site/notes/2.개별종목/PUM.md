@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/PUM/","created":"2024-10-28T21:42:14.507+09:00","updated":"2025-06-03T20:06:00.812+09:00"}
+dg-publish: true
 ---
-
 #임의소비재 #특수소매 #운동화 #스포츠웨어 #의류 
 
 ## 산업섹터
 
-섹터: [[임의소비재\|임의소비재]](Consumer Discretionary)  
-산업: [[의류\|의류]], 액세서리 및 사치품(Apparel, Accessories & Luxury Goods)
+섹터: [[임의소비재]](Consumer Discretionary)  
+산업: [[의류]], 액세서리 및 사치품(Apparel, Accessories & Luxury Goods)
 
 ## 영위사업
 
-Puma는 스포츠화, [[스포츠웨어\|스포츠웨어]], [[운동화\|운동화]], 액세서리, [[의류\|의류]] 등 스포츠 관련 제품을 설계, 제조, 판매하는 글로벌 스포츠용품 기업입니다.
+Puma는 스포츠화, [[스포츠웨어]], [[운동화]], 액세서리, [[의류]] 등 스포츠 관련 제품을 설계, 제조, 판매하는 글로벌 스포츠용품 기업입니다.
 
 ## 주요제품 및 서비스
 
@@ -26,9 +25,9 @@ Puma는 스포츠화, [[스포츠웨어\|스포츠웨어]], [[운동화\|운동�
 
 ## 경쟁업체
 
-- Adidas(독일, [[2.개별종목/ADS\|ADS]])
-- Nike(US, [[2.개별종목/NKE\|NKE]])
-- Under Armour(US, [[2.개별종목/UAA\|UAA]])
+- Adidas(독일, [[ADS]])
+- Nike(US, [[NKE]])
+- Under Armour(US, [[UAA]])
 
 ## 산업 내 글로벌 시장 점유율
 

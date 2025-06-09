@@ -1,51 +1,50 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/ROKU/","created":"2023-07-12T11:47:28.285+09:00","updated":"2025-06-03T20:06:01.017+09:00"}
+dg-publish: true
 ---
-
  #스트리밍 #미디어 #커뮤니케이션서비스 #엔터테인먼트
 
 
 - 최근 이슈
 	- 2023년
-		-  [[00.투자기록/과거/2023/7월/2023-07-12\|2023-07-12]]
-			-  [[2.개별종목/ROKU\|2.개별종목/ROKU]] +11.1%, Shopify와 Shoppable 광고 관련 파트너십 체결, 소비자들은 Shopify의 쇼핑 솔루션을 이용해 ROKU로 비디오를 시청하다가 Roku Pay를 이용해 바로 구매 가능
+		-  [[2023-07-12]]
+			-  [[2.개별종목/ROKU]] +11.1%, Shopify와 Shoppable 광고 관련 파트너십 체결, 소비자들은 Shopify의 쇼핑 솔루션을 이용해 ROKU로 비디오를 시청하다가 Roku Pay를 이용해 바로 구매 가능
 
 ## 산업섹터
 
-- **Sector**: Communication Services ([[커뮤니케이션 서비스\|커뮤니케이션 서비스]])
-- **Industry**: Entertainment ([[엔터테인먼트\|엔터테인먼트]])
+- **Sector**: Communication Services ([[커뮤니케이션 서비스]])
+- **Industry**: Entertainment ([[엔터테인먼트]])
 
 ## 영위사업
 
-Roku는 [[스트리밍\|스트리밍]] 플랫폼을 제공하는 회사로, 사용자에게 다양한 콘텐츠를 쉽게 접근할 수 있도록 하는 스트리밍 장치 및 스마트 TV를 개발하고 판매합니다. Roku의 플랫폼은 사용자에게 다양한 스트리밍 서비스, 채널 및 콘텐츠를 통합하여 제공합니다.
+Roku는 [[스트리밍]] 플랫폼을 제공하는 회사로, 사용자에게 다양한 콘텐츠를 쉽게 접근할 수 있도록 하는 스트리밍 장치 및 스마트 TV를 개발하고 판매합니다. Roku의 플랫폼은 사용자에게 다양한 스트리밍 서비스, 채널 및 콘텐츠를 통합하여 제공합니다.
 
 ## 전방/후방산업
 
 - **전방산업**:
     
     - **핵심 산업 및 역할**: 스트리밍 서비스 및 콘텐츠 제공
-    - **관련 기업**: Netflix (US, [[1.Study/☆ 개별종목/NFLX\|1.Study/☆ 개별종목/NFLX]]), Amazon Prime Video (US, [[1.Study/☆ 개별종목/AMZN\|1.Study/☆ 개별종목/AMZN]])
+    - **관련 기업**: Netflix (US, [[1.Study/☆ 개별종목/NFLX]]), Amazon Prime Video (US, [[1.Study/☆ 개별종목/AMZN]])
     
 - **후방산업**:
     
     - **핵심 산업 및 역할**: 하드웨어 및 소프트웨어 솔루션 제공
-    - **관련 기업**: Apple (US, [[2.개별종목/AAPL\|AAPL]]), Google (US, [[1.Study/☆ 개별종목/GOOGL\|1.Study/☆ 개별종목/GOOGL]])
+    - **관련 기업**: Apple (US, [[AAPL]]), Google (US, [[1.Study/☆ 개별종목/GOOGL]])
     
 
 ## 밸류체인
 
 - **디바이스 제조**: Roku의 스트리밍 장치 및 스마트 TV 제조
     
-    - **대표 회사**: Amazon (US, [[1.Study/☆ 개별종목/AMZN\|1.Study/☆ 개별종목/AMZN]]) - Fire TV 장치
-    - **대표 회사**: Apple (US, [[2.개별종목/AAPL\|AAPL]]) - Apple TV
+    - **대표 회사**: Amazon (US, [[1.Study/☆ 개별종목/AMZN]]) - Fire TV 장치
+    - **대표 회사**: Apple (US, [[AAPL]]) - Apple TV
 - **소프트웨어 개발**: Roku 운영 체제 및 사용자 인터페이스 개발
     
-    - **대표 회사**: Google (US, [[1.Study/☆ 개별종목/GOOGL\|1.Study/☆ 개별종목/GOOGL]]) - Android TV 운영 체제
-    - **대표 회사**: [[1.Study/★ 테마/VR,AR,MR/종목/삼성전자\|삼성전자]] (KR, KRX: 005930) - Tizen OS
+    - **대표 회사**: Google (US, [[1.Study/☆ 개별종목/GOOGL]]) - Android TV 운영 체제
+    - **대표 회사**: [[삼성전자]] (KR, KRX: 005930) - Tizen OS
 - **콘텐츠 제공**: 다양한 스트리밍 서비스와의 파트너십
     
-    - **대표 회사**: [[Hulu\|Hulu]] (US, 비상장) - 스트리밍 서비스
-    - **대표 회사**: Disney+ (US, [[2.개별종목/DIS\|DIS]]) - 스트리밍 서비스
+    - **대표 회사**: [[Hulu]] (US, 비상장) - 스트리밍 서비스
+    - **대표 회사**: Disney+ (US, [[DIS]]) - 스트리밍 서비스
 
 ## 주요제품
 
@@ -59,9 +58,9 @@ Roku는 미국을 중심으로 운영되며, 캐나다, 영국, 멕시코 등 �
 
 ## 경쟁업체
 
-- **Amazon (US, [[1.Study/☆ 개별종목/AMZN\|1.Study/☆ 개별종목/AMZN]])** - Fire TV 장치 및 스트리밍 서비스
-- **Apple (US, [[2.개별종목/AAPL\|AAPL]])** - Apple TV 및 관련 콘텐츠
-- **Google (US, [[1.Study/☆ 개별종목/GOOGL\|1.Study/☆ 개별종목/GOOGL]])** - Chromecast 및 Android TV
+- **Amazon (US, [[1.Study/☆ 개별종목/AMZN]])** - Fire TV 장치 및 스트리밍 서비스
+- **Apple (US, [[AAPL]])** - Apple TV 및 관련 콘텐츠
+- **Google (US, [[1.Study/☆ 개별종목/GOOGL]])** - Chromecast 및 Android TV
 
 ## 산업 내 글로벌 시장 점유율
 

@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/BILI/","created":"2025-03-05T10:45:51.381+09:00","updated":"2025-06-03T20:05:57.955+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #온라인엔터테인먼트 #영상공유플랫폼 #ACG콘텐츠 #Z세대타겟 #사용자제작콘텐츠 #라이브방송 #모바일게임 #광고수익 #부가가치서비스 #커뮤니티중심 #중국디지털엔터테인먼트 #콘텐츠다각화 #이커머스 #전략적파트너십 #수익화전략 #AI기술 #5G기술 #영상제작도구 #비디오화트렌드 #높은사용자참여도 #중국 
 
 ## 산업섹터
 
-섹터: [[커뮤니케이션 서비스\|커뮤니케이션 서비스]]  
-산업: [[전자게임및멀티미디어\|전자게임및멀티미디어]]
+섹터: [[커뮤니케이션 서비스]]  
+산업: [[전자게임및멀티미디어]]
 
 ## 영위사업
 
-Bilibili Inc.는 중국의 주요 [[온라인 엔터테인먼트 플랫폼\|온라인 엔터테인먼트 플랫폼]]으로, 특히 중국 Z세대를 대상으로 다양한 콘텐츠를 제공합니다. 2009년 6월에 처음 출시되어 애니메이션, 만화, 게임(ACG) 중심의 플랫폼으로 시작했으며, 현재는 그 범위를 확장하여 다양한 관심사를 아우르는 콘텐츠를 제공하고 있습니다. 회사는 네 가지 주요 부문으로 운영됩니다: 모바일 게임(제3자 개발자를 위한 게임 퍼블리싱), 광고(디스플레이 광고), 라이브 방송 및 부가가치 서비스(프리미엄 멤버십, 가상 아이템 판매), 이커머스(ACG 관련 상품 판매 및 오프라인 이벤트). 2024년 4분기에 Bilibili는 첫 GAAP 순이익을 기록하며 중요한 재무적 이정표를 달성했으며, 총 수익은 전년 대비 22% 증가한 77억 위안에 달했습니다. 현재 일일 활성 사용자(DAU) 1억 3백만 명, 월간 활성 사용자(MAU) 3억 4천만 명을 보유하고 있으며, 사용자들은 플랫폼에서 하루 평균 99분을 소비하고 있습니다.
+Bilibili Inc.는 중국의 주요 [[온라인 엔터테인먼트 플랫폼]]으로, 특히 중국 Z세대를 대상으로 다양한 콘텐츠를 제공합니다. 2009년 6월에 처음 출시되어 애니메이션, 만화, 게임(ACG) 중심의 플랫폼으로 시작했으며, 현재는 그 범위를 확장하여 다양한 관심사를 아우르는 콘텐츠를 제공하고 있습니다. 회사는 네 가지 주요 부문으로 운영됩니다: 모바일 게임(제3자 개발자를 위한 게임 퍼블리싱), 광고(디스플레이 광고), 라이브 방송 및 부가가치 서비스(프리미엄 멤버십, 가상 아이템 판매), 이커머스(ACG 관련 상품 판매 및 오프라인 이벤트). 2024년 4분기에 Bilibili는 첫 GAAP 순이익을 기록하며 중요한 재무적 이정표를 달성했으며, 총 수익은 전년 대비 22% 증가한 77억 위안에 달했습니다. 현재 일일 활성 사용자(DAU) 1억 3백만 명, 월간 활성 사용자(MAU) 3억 4천만 명을 보유하고 있으며, 사용자들은 플랫폼에서 하루 평균 99분을 소비하고 있습니다.
 
 ## 핵심 경쟁력
 
@@ -34,48 +33,48 @@ Bilibili Inc.는 중국의 주요 [[온라인 엔터테인먼트 플랫폼\|온�
 
 - 디지털 콘텐츠 소비: Bilibili 플랫폼의 콘텐츠를 소비하는 Z세대 사용자
     
-- 모바일 게임 퍼블리싱: Bilibili를 통해 게임을 출시하는 개발사 (NetEase(US, [[2.개별종목/NTES\|NTES]]), miHoYo([[miHoYo\|miHoYo]]))
+- 모바일 게임 퍼블리싱: Bilibili를 통해 게임을 출시하는 개발사 (NetEase(US, [[NTES]]), miHoYo([[miHoYo]]))
     
-- 디지털 광고: Bilibili에 광고를 게재하는 브랜드 (Alibaba(US, [[2.개별종목/BABA\|BABA]]), JD.com(US, [[2.개별종목/JD\|JD]]))
+- 디지털 광고: Bilibili에 광고를 게재하는 브랜드 (Alibaba(US, [[BABA]]), JD.com(US, [[JD]]))
     
-- 이커머스: 플랫폼 내 머천다이징 판매 (Taobao([[Taobao\|Taobao]]), Tmall([[Tmall\|Tmall]]))
+- 이커머스: 플랫폼 내 머천다이징 판매 (Taobao([[Taobao]]), Tmall([[Tmall]]))
     
 
 후방산업:
 
-- 클라우드 컴퓨팅: 플랫폼 인프라 제공 (Alibaba Cloud(US, [[2.개별종목/BABA\|BABA]]), Tencent Cloud(HK, [[0700\|0700]]))
+- 클라우드 컴퓨팅: 플랫폼 인프라 제공 (Alibaba Cloud(US, [[BABA]]), Tencent Cloud(HK, [[0700]]))
     
-- 콘텐츠 제작 도구: 영상 제작 소프트웨어 및 장비 (Adobe(US, [[2.개별종목/ADBE\|ADBE]]), Sony(JP, [[2.개별종목/SONY\|SONY]]))
+- 콘텐츠 제작 도구: 영상 제작 소프트웨어 및 장비 (Adobe(US, [[ADBE]]), Sony(JP, [[SONY]]))
     
-- 통신 기술: 5G 네트워크 인프라 (China Mobile(HK, [[0941\|0941]]), China Telecom(HK, [[0728\|0728]]))
+- 통신 기술: 5G 네트워크 인프라 (China Mobile(HK, [[0941]]), China Telecom(HK, [[0728]]))
     
-- AI 기술: 콘텐츠 추천 및 분석 시스템 (Baidu(US, [[2.개별종목/BIDU\|BIDU]]), SenseTime([[SenseTime\|SenseTime]]))
+- AI 기술: 콘텐츠 추천 및 분석 시스템 (Baidu(US, [[BIDU]]), SenseTime([[SenseTime]]))
     
 
 ## 밸류체인
 
 1. 콘텐츠 제작: 일반 사용자 제작 콘텐츠(UGC), 전문 콘텐츠 제작자(UP주)
     
-2. 플랫폼 개발: Bilibili(US, [[2.개별종목/BILI\|BILI]]) (자체 앱 및 웹사이트 개발), 외부 개발자
+2. 플랫폼 개발: Bilibili(US, [[BILI]]) (자체 앱 및 웹사이트 개발), 외부 개발자
     
-3. 콘텐츠 배포: Bilibili(US, [[2.개별종목/BILI\|BILI]]) (비디오 호스팅, 스트리밍 기술)
+3. 콘텐츠 배포: Bilibili(US, [[BILI]]) (비디오 호스팅, 스트리밍 기술)
     
-4. 클라우드 인프라: Alibaba Cloud(US, [[2.개별종목/BABA\|BABA]]) (서버 호스팅), Tencent Cloud(HK, [[0700\|0700]]) (CDN 서비스)
+4. 클라우드 인프라: Alibaba Cloud(US, [[BABA]]) (서버 호스팅), Tencent Cloud(HK, [[0700]]) (CDN 서비스)
     
-5. 게임 개발: miHoYo([[miHoYo\|miHoYo]]) (원신), NetEase(US, [[2.개별종목/NTES\|NTES]]) (모바일 게임)
+5. 게임 개발: miHoYo([[miHoYo]]) (원신), NetEase(US, [[NTES]]) (모바일 게임)
     
-6. 광고 서비스: Bilibili(US, [[2.개별종목/BILI\|BILI]]) (광고 인프라), 광고 에이전시
+6. 광고 서비스: Bilibili(US, [[BILI]]) (광고 인프라), 광고 에이전시
     
-7. 이커머스: Bilibili(US, [[2.개별종목/BILI\|BILI]]) (머천다이징), Taobao([[Taobao\|Taobao]]) (상품 연계)
+7. 이커머스: Bilibili(US, [[BILI]]) (머천다이징), Taobao([[Taobao]]) (상품 연계)
     
-8. 결제 처리: Alipay([[Alipay\|Alipay]]) (디지털 결제), WeChat Pay([[WeChat Pay\|WeChat Pay]]) (디지털 결제)
+8. 결제 처리: Alipay([[Alipay]]) (디지털 결제), WeChat Pay([[WeChat Pay]]) (디지털 결제)
     
 
 ## 주요제품
 
-1. [[비디오 공유 플랫폼\|비디오 공유 플랫폼]]: [[장편 UGC 비디오\|장편 UGC 비디오]] 및 전문 콘텐츠 (2024년 매출의 약 50%)
+1. [[비디오 공유 플랫폼]]: [[장편 UGC 비디오]] 및 전문 콘텐츠 (2024년 매출의 약 50%)
     
-2. [[모바일 게임\|모바일 게임]]: 산궈: 모우딩 톈샤(三国：谋定天下) 등 독점 및 제3자 게임 출시 (2024년 매출의 약 15%)
+2. [[모바일 게임]]: 산궈: 모우딩 톈샤(三国：谋定天下) 등 독점 및 제3자 게임 출시 (2024년 매출의 약 15%)
     
 3. 라이브 방송: 실시간 스트리밍 콘텐츠 및 가상 아이템 (2024년 매출의 약 20%)
     
@@ -113,19 +112,19 @@ Bilibili는 주로 중국 시장에 집중하고 있으며, 해외 시장에 대
 
 ## 경쟁업체
 
-1. iQIYI(US, [[IQ\|IQ]]): 중국의 주요 비디오 스트리밍 플랫폼, 드라마 및 영화 중심
+1. iQIYI(US, [[IQ]]): 중국의 주요 비디오 스트리밍 플랫폼, 드라마 및 영화 중심
     
-2. Tencent Video(HK, [[0700\|0700]]): 텐센트의 비디오 스트리밍 서비스, 다양한 엔터테인먼트 콘텐츠
+2. Tencent Video(HK, [[0700]]): 텐센트의 비디오 스트리밍 서비스, 다양한 엔터테인먼트 콘텐츠
     
-3. Youku(US, [[2.개별종목/BABA\|BABA]]): 알리바바 그룹의 비디오 플랫폼
+3. Youku(US, [[BABA]]): 알리바바 그룹의 비디오 플랫폼
     
-4. Douyin(ByteDance([[2.개별종목/ByteDance\|ByteDance]])): 중국 내 TikTok, 짧은 비디오 중심
+4. Douyin(ByteDance([[ByteDance]])): 중국 내 TikTok, 짧은 비디오 중심
     
-5. Kuaishou(HK, [[1024\|1024]]): 짧은 비디오 및 라이브 스트리밍 플랫폼
+5. Kuaishou(HK, [[1024]]): 짧은 비디오 및 라이브 스트리밍 플랫폼
     
-6. NetEase(US, [[2.개별종목/NTES\|NTES]]): 게임 및 엔터테인먼트 콘텐츠
+6. NetEase(US, [[NTES]]): 게임 및 엔터테인먼트 콘텐츠
     
-7. YouTube(US, [[2.개별종목/GOOGL\|GOOGL]]): 글로벌 비디오 플랫폼, 중국 내 접근 제한
+7. YouTube(US, [[GOOGL]]): 글로벌 비디오 플랫폼, 중국 내 접근 제한
     
 
 ## 산업 내 글로벌 시장 점유율
@@ -170,12 +169,12 @@ Bilibili는 주로 중국 시장에 집중하고 있으며, 해외 시장에 대
 
 ## 관련 ETF
 
-1. KraneShares CSI China Internet ETF - [[KWEB\|KWEB]]
+1. KraneShares CSI China Internet ETF - [[KWEB]]
     
-2. Invesco China Technology ETF - [[CQQQ\|CQQQ]]
+2. Invesco China Technology ETF - [[CQQQ]]
     
-3. Global X MSCI China Communication Services ETF - [[CHIC\|CHIC]]
+3. Global X MSCI China Communication Services ETF - [[CHIC]]
     
-4. EMQQ The Emerging Markets Internet & Ecommerce ETF - [[EMQQ\|EMQQ]]
+4. EMQQ The Emerging Markets Internet & Ecommerce ETF - [[EMQQ]]
     
-5. Invesco Golden Dragon China ETF - [[PGJ\|PGJ]]
+5. Invesco Golden Dragon China ETF - [[PGJ]]

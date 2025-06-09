@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/SHAK/","created":"2025-02-21T11:01:31.607+09:00","updated":"2025-06-03T20:06:01.166+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #패스트캐주얼 #프리미엄버거 #쉐이크쉑버거 #크링클컷프라이 #프로즌커스터드 #고품질재료 #지속가능성 #글로벌확장 #디지털주문 #드라이브스루 #메뉴혁신 #라이선스모델 #브랜드인지도 #고객경험 #ESG #공급망관리 #프랜차이즈 #현지화전략 #AI기술 #식품안전
 
 ## 산업섹터
 
-섹터: [[임의소비재\|임의소비재]]  
-산업: [[레스토랑\|레스토랑]]
+섹터: [[임의소비재]]  
+산업: [[레스토랑]]
 
 ## 영위사업
 
-Shake Shack Inc는 [[프리미엄 패스트 캐주얼 레스토랑\|프리미엄 패스트 캐주얼 레스토랑]] 체인으로, 고품질 [[햄버거\|햄버거]], 핫도그, 프라이, 밀크쉐이크, 커스터드 등을 제공합니다. 2004년 뉴욕에서 시작하여 현재 전 세계 150개 이상의 국가에서 500개 이상의 매장을 운영하고 있습니다. 주요 제품으로는 ShackBurger, 크링클 컷 프라이, 수제 레모네이드 등이 있습니다. 최근에는 드라이브스루 확장, 디지털 주문 시스템 강화, 메뉴 혁신 등을 통해 사업을 확장하고 있습니다.
+Shake Shack Inc는 [[프리미엄 패스트 캐주얼 레스토랑]] 체인으로, 고품질 [[햄버거]], 핫도그, 프라이, 밀크쉐이크, 커스터드 등을 제공합니다. 2004년 뉴욕에서 시작하여 현재 전 세계 150개 이상의 국가에서 500개 이상의 매장을 운영하고 있습니다. 주요 제품으로는 ShackBurger, 크링클 컷 프라이, 수제 레모네이드 등이 있습니다. 최근에는 드라이브스루 확장, 디지털 주문 시스템 강화, 메뉴 혁신 등을 통해 사업을 확장하고 있습니다.
 
 ## 핵심 경쟁력
 
@@ -32,16 +31,16 @@ Shake Shack Inc는 [[프리미엄 패스트 캐주얼 레스토랑\|프리미엄
 
 전방산업:
 
-- 외식산업: 최종 소비자에게 식사 제공 (McDonald's(US, [[2.개별종목/MCD\|MCD]]), Chipotle(US, [[CMG\|CMG]]))
+- 외식산업: 최종 소비자에게 식사 제공 (McDonald's(US, [[MCD]]), Chipotle(US, [[CMG]]))
     
-- 배달 서비스: 음식 배달 플랫폼 (Uber Eats(US, [[2.개별종목/UBER\|UBER]]), DoorDash(US, [[2.개별종목/DASH\|DASH]]))
+- 배달 서비스: 음식 배달 플랫폼 (Uber Eats(US, [[UBER]]), DoorDash(US, [[DASH]]))
     
 
 후방산업:
 
-- 식품 공급업: 고품질 식재료 공급 (Sysco(US, [[2.개별종목/SYY\|SYY]]), US Foods(US, [[2.개별종목/USFD\|USFD]]))
+- 식품 공급업: 고품질 식재료 공급 (Sysco(US, [[SYY]]), US Foods(US, [[USFD]]))
     
-- 포장재 제조: 친환경 포장재 생산 (Ball Corporation(US, [[2.개별종목/BALL\|BALL]]), Sealed Air(US, [[SEE\|SEE]]))
+- 포장재 제조: 친환경 포장재 생산 (Ball Corporation(US, [[BALL]]), Sealed Air(US, [[SEE]]))
     
 
 ## 밸류체인
@@ -80,7 +79,7 @@ Shake Shack Inc는 [[프리미엄 패스트 캐주얼 레스토랑\|프리미엄
 
 1. In-N-Out Burger: 서부 중심의 프리미엄 버거 체인
     
-2. Five Guys(US, [[2.개별종목/FIVE\|FIVE]]): 커스터마이즈 가능한 버거로 유명
+2. Five Guys(US, [[FIVE]]): 커스터마이즈 가능한 버거로 유명
     
 3. Smashburger: 고급 버거와 사이드 메뉴 제공
     
@@ -117,12 +116,12 @@ Shake Shack Inc는 [[프리미엄 패스트 캐주얼 레스토랑\|프리미엄
 
 ## 관련 ETF
 
-1. Invesco Dynamic Food & Beverage ETF - [[PBJ\|PBJ]]
+1. Invesco Dynamic Food & Beverage ETF - [[PBJ]]
     
-2. AdvisorShares Restaurant ETF - [[EATZ\|EATZ]]
+2. AdvisorShares Restaurant ETF - [[EATZ]]
     
-3. First Trust Nasdaq Food & Beverage ETF - [[FTXG\|FTXG]]
+3. First Trust Nasdaq Food & Beverage ETF - [[FTXG]]
     
-4. VanEck Vectors Retail ETF - [[RTH\|RTH]]
+4. VanEck Vectors Retail ETF - [[RTH]]
     
-5. Invesco S&P SmallCap Consumer Discretionary ETF - [[PSCD\|PSCD]]
+5. Invesco S&P SmallCap Consumer Discretionary ETF - [[PSCD]]

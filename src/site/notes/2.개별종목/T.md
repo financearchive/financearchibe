@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/T/","created":"2024-10-23T21:04:51.140+09:00","updated":"2025-06-03T20:06:01.484+09:00"}
+dg-publish: true
 ---
-
 #통신서비스 #통신 
 
 #### 산업섹터 및 산업
 
-- **Sector:** [[커뮤니케이션 서비스\|커뮤니케이션 서비스]] (Communication Services)
-- **Industry:** [[통신\|통신]] (Telecommunication)
+- **Sector:** [[커뮤니케이션 서비스]] (Communication Services)
+- **Industry:** [[통신]] (Telecommunication)
 
 #### 영위사업
 
@@ -18,30 +17,30 @@ AT&T Inc.는 미국을 기반으로 한 글로벌 통신 회사로, 무선 통�
 
 - **전방산업:**
     
-    - **소비자 및 기업:** 통신 서비스 이용. 예: Apple Inc. (미국, [[2.개별종목/AAPL\|AAPL]]), Microsoft Corporation (미국, [[2.개별종목/MSFT\|MSFT]]).
-    - **미디어 및 엔터테인먼트:** 콘텐츠 배포 및 스트리밍. 예: Netflix Inc. (미국, [[2.개별종목/NFLX\|NFLX]]), Walt Disney Company (미국, [[2.개별종목/DIS\|DIS]]).
+    - **소비자 및 기업:** 통신 서비스 이용. 예: Apple Inc. (미국, [[AAPL]]), Microsoft Corporation (미국, [[MSFT]]).
+    - **미디어 및 엔터테인먼트:** 콘텐츠 배포 및 스트리밍. 예: Netflix Inc. (미국, [[NFLX]]), Walt Disney Company (미국, [[DIS]]).
       
 - **후방산업:**
     
-    - **네트워크 장비 제조업체:** 통신 인프라 장비 제공. 예: Cisco Systems Inc. (미국, [[2.개별종목/CSCO\|CSCO]]), Nokia Corporation (핀란드, [[NOK\|NOK]]).
-    - **위성 통신:** 위성 기반 통신 서비스 제공. 예: Intelsat (미국, [[2.개별종목/I\|I]]), SES S.A. (룩셈부르크, [[2.개별종목/SESG\|SESG]]).
+    - **네트워크 장비 제조업체:** 통신 인프라 장비 제공. 예: Cisco Systems Inc. (미국, [[CSCO]]), Nokia Corporation (핀란드, [[NOK]]).
+    - **위성 통신:** 위성 기반 통신 서비스 제공. 예: Intelsat (미국, [[I]]), SES S.A. (룩셈부르크, [[SESG]]).
 
 #### 밸류체인
 
 - **네트워크 인프라:**
     
-    - Cisco Systems Inc. (미국, [[2.개별종목/CSCO\|CSCO]]): 네트워크 장비.
-    - Nokia Corporation (핀란드, [[NOK\|NOK]]): 통신 장비.
+    - Cisco Systems Inc. (미국, [[CSCO]]): 네트워크 장비.
+    - Nokia Corporation (핀란드, [[NOK]]): 통신 장비.
       
 - **서비스 제공:**
     
-    - AT&T Inc. (미국, [[2.개별종목/T\|2.개별종목/T]]): 무선 및 유선 통신 서비스.
-    - Verizon Communications Inc. (미국, [[2.개별종목/VZ\|VZ]]): 무선 및 유선 통신 서비스.
+    - AT&T Inc. (미국, [[2.개별종목/T]]): 무선 및 유선 통신 서비스.
+    - Verizon Communications Inc. (미국, [[VZ]]): 무선 및 유선 통신 서비스.
       
 - **콘텐츠 배포:**
     
-    - WarnerMedia (미국, [[2.개별종목/T\|2.개별종목/T]]): 엔터테인먼트 콘텐츠.
-    - Netflix Inc. (미국, [[2.개별종목/NFLX\|NFLX]]): 스트리밍 서비스.
+    - WarnerMedia (미국, [[2.개별종목/T]]): 엔터테인먼트 콘텐츠.
+    - Netflix Inc. (미국, [[NFLX]]): 스트리밍 서비스.
 
 #### 주요제품
 
@@ -57,9 +56,9 @@ AT&T Inc.는 미국을 기반으로 한 글로벌 통신 회사로, 무선 통�
 
 #### 경쟁업체
 
-- **Verizon Communications Inc. (미국, [[2.개별종목/VZ\|VZ]]):** 무선 및 유선 통신 서비스.
-- **T-Mobile US Inc. (미국, [[2.개별종목/TMUS\|TMUS]]):** 무선 통신 서비스.
-- **Comcast Corporation (미국, [[2.개별종목/CMCSA\|CMCSA]]):** 케이블 및 인터넷 서비스.
+- **Verizon Communications Inc. (미국, [[VZ]]):** 무선 및 유선 통신 서비스.
+- **T-Mobile US Inc. (미국, [[TMUS]]):** 무선 통신 서비스.
+- **Comcast Corporation (미국, [[CMCSA]]):** 케이블 및 인터넷 서비스.
 
 #### 산업 내 글로벌 시장 점유율
 

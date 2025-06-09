@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/OUST/","created":"2024-12-15T12:56:43.432+09:00","updated":"2025-06-03T20:06:00.564+09:00"}
+dg-publish: true
 ---
-
 #자율주행 #라이다 #LiDAR #전자장비및부품
 
 ## 산업섹터
 
-Sector: [[정보기술\|정보기술]](Information Technology)  
-Industry: [[전자장비 및 부품\|전자장비 및 부품]](Electronic Equipment & Parts)
+Sector: [[정보기술]](Information Technology)  
+Industry: [[전자장비 및 부품]](Electronic Equipment & Parts)
 
 ## 영위사업
 
-Ouster, Inc.는 자동차, 산업, 로봇공학, 스마트 인프라 산업을 위한 고해상도 스캐닝 및 솔리드 스테이트 디지털 [[라이다\|라이다]] 센서([[LiDAR\|LiDAR]]), Velodyne Lidar 센서, 소프트웨어 솔루션을 제공하는 기업입니다. 주요 제품은 다음과 같습니다:
+Ouster, Inc.는 자동차, 산업, 로봇공학, 스마트 인프라 산업을 위한 고해상도 스캐닝 및 솔리드 스테이트 디지털 [[라이다]] 센서([[LiDAR]]), Velodyne Lidar 센서, 소프트웨어 솔루션을 제공하는 기업입니다. 주요 제품은 다음과 같습니다:
 
 1. OS 제품 라인의 4가지 센서 모델:
     
@@ -29,20 +28,20 @@ Ouster의 디지털 라이다 센서는 두 개의 반도체 칩을 기반으로
 
 ## 전방산업
 
-- 자동차 제조업체: General Motors (US, [[2.개별종목/GM\|GM]]), Volvo (스웨덴, [[VOLV-B.ST\|VOLV-B.ST]])
-- 로봇 제조업체: iRobot (US, [[2.개별종목/IRBT\|IRBT]])
+- 자동차 제조업체: General Motors (US, [[GM]]), Volvo (스웨덴, [[VOLV-B.ST]])
+- 로봇 제조업체: iRobot (US, [[IRBT]])
 
 ## 후방산업
 
-- 반도체 제조업체: NVIDIA (US, [[2.개별종목/NVDA\|NVDA]]), Qualcomm (US, [[2.개별종목/QCOM\|QCOM]])
-- 광학 부품 제조업체: II-VI Incorporated (US, [[IIVI\|IIVI]])
+- 반도체 제조업체: NVIDIA (US, [[NVDA]]), Qualcomm (US, [[QCOM]])
+- 광학 부품 제조업체: II-VI Incorporated (US, [[IIVI]])
 
 ## 밸류체인
 
-1. 연구개발: Ouster, Inc. (US, [[2.개별종목/OUST\|OUST]])
-2. 부품 제조: Ouster, Inc. (US, [[2.개별종목/OUST\|OUST]]), II-VI Incorporated (US, [[IIVI\|IIVI]])
-3. 센서 생산: Ouster, Inc. (US, [[2.개별종목/OUST\|OUST]])
-4. 소프트웨어 개발: Ouster, Inc. (US, [[2.개별종목/OUST\|OUST]])
+1. 연구개발: Ouster, Inc. (US, [[OUST]])
+2. 부품 제조: Ouster, Inc. (US, [[OUST]]), II-VI Incorporated (US, [[IIVI]])
+3. 센서 생산: Ouster, Inc. (US, [[OUST]])
+4. 소프트웨어 개발: Ouster, Inc. (US, [[OUST]])
 5. 시스템 통합: 자동차 OEM 및 로봇 제조업체
 
 ## 주요제품
@@ -63,11 +62,11 @@ Ouster의 디지털 라이다 센서는 두 개의 반도체 칩을 기반으로
 
 ## 경쟁업체
 
-1. [[Velodyne Lidar\|Velodyne Lidar]] (US, VLDR) (라이다 센서) - 2023년에 합병함
-2. Luminar Technologies (US, [[2.개별종목/LAZR\|LAZR]]) (라이다 센서 및 소프트웨어)
-3. Innoviz Technologies (이스라엘, [[2.개별종목/INVZ\|INVZ]]) (라이다 센서 및 인식 소프트웨어)
-4. Cepton (US, [[2.개별종목/CPTN\|CPTN]]) (MMT 라이다)
-5. Aeva Technologies (US, [[AEVA\|AEVA]]) (4D 라이다)
+1. [[Velodyne Lidar]] (US, VLDR) (라이다 센서) - 2023년에 합병함
+2. Luminar Technologies (US, [[LAZR]]) (라이다 센서 및 소프트웨어)
+3. Innoviz Technologies (이스라엘, [[INVZ]]) (라이다 센서 및 인식 소프트웨어)
+4. Cepton (US, [[CPTN]]) (MMT 라이다)
+5. Aeva Technologies (US, [[AEVA]]) (4D 라이다)
 
 ## 산업 내 글로벌 시장 점유율
 

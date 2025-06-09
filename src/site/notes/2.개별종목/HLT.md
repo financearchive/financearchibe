@@ -1,32 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/HLT/","created":"2024-10-23T22:02:00.528+09:00","updated":"2025-06-03T20:05:59.410+09:00"}
+dg-publish: true
 ---
-
 #레저 #호텔 
 
 #### 산업섹터 및 영위사업
 
-- **산업섹터(Sector)**: [[경기소비재\|경기소비재]](Consumer Services)
-- **산업(Industry)**: [[호텔\|호텔]], 리조트 및 [[크루즈\|크루즈]] 라인(Hotels, Resorts and Cruise Lines)
+- **산업섹터(Sector)**: [[경기소비재]](Consumer Services)
+- **산업(Industry)**: [[호텔]], 리조트 및 [[크루즈]] 라인(Hotels, Resorts and Cruise Lines)
 
 #### 전방/후방산업
 
 - **전방산업**: 여행 및 관광 산업
     - **핵심 산업 및 역할**: 여행사, 항공사, 온라인 여행사(OTA) 등. 이들은 고객을 호텔로 유치하는 역할을 합니다.
-    - **관련 기업**: Expedia Group (미국, [[2.개별종목/EXPE\|EXPE]]), Booking Holdings (미국, [[2.개별종목/BKNG\|BKNG]])
+    - **관련 기업**: Expedia Group (미국, [[EXPE]]), Booking Holdings (미국, [[BKNG]])
       
 - **후방산업**: 건설 및 유지보수, 식음료 공급업체
     - **핵심 산업 및 역할**: 호텔 건설 및 유지보수, 식음료 공급 등. 이들은 호텔 운영에 필요한 인프라와 자원을 제공합니다.
-    - **관련 기업**: Caterpillar Inc. (미국, [[2.개별종목/CAT\|CAT]]), Sysco Corporation (미국, [[2.개별종목/SYY\|SYY]])
+    - **관련 기업**: Caterpillar Inc. (미국, [[CAT]]), Sysco Corporation (미국, [[SYY]])
 
 #### 밸류체인
 
 - **개발 및 건설**: 호텔 개발 및 건설
-    - **대표 회사**: Marriott International (미국, [[2.개별종목/MAR\|MAR]]), InterContinental Hotels Group (영국, [[IHG\|IHG]])
+    - **대표 회사**: Marriott International (미국, [[MAR]]), InterContinental Hotels Group (영국, [[IHG]])
 - **운영 및 관리**: 호텔 운영 및 관리
-    - **대표 회사**: Hyatt Hotels Corporation (미국, [[H\|H]]), Accor S.A. (프랑스, [[AC\|AC]])
+    - **대표 회사**: Hyatt Hotels Corporation (미국, [[H]]), Accor S.A. (프랑스, [[AC]])
 - **마케팅 및 판매**: 호텔 마케팅 및 판매
-    - **대표 회사**: Expedia Group (미국, [[2.개별종목/EXPE\|EXPE]]), Booking Holdings (미국, [[2.개별종목/BKNG\|BKNG]])
+    - **대표 회사**: Expedia Group (미국, [[EXPE]]), Booking Holdings (미국, [[BKNG]])
 
 #### 주요제품
 
@@ -41,9 +40,9 @@
 
 #### 경쟁업체
 
-- **Marriott International (미국, [[2.개별종목/MAR\|MAR]])**: 호텔 및 리조트 운영
-- **Hyatt Hotels Corporation (미국, [[H\|H]])**: 호텔 및 리조트 운영
-- **InterContinental Hotels Group (영국, [[IHG\|IHG]])**: 호텔 및 리조트 운영
+- **Marriott International (미국, [[MAR]])**: 호텔 및 리조트 운영
+- **Hyatt Hotels Corporation (미국, [[H]])**: 호텔 및 리조트 운영
+- **InterContinental Hotels Group (영국, [[IHG]])**: 호텔 및 리조트 운영
 
 #### 산업 내 글로벌 시장 점유율
 

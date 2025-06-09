@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/BSX/","created":"2024-12-06T22:06:37.135+09:00","updated":"2025-06-03T20:05:58.094+09:00"}
+dg-publish: true
 ---
-
 #헬스케어 #의료장비및용품 
 
 
@@ -9,8 +8,8 @@ Boston Scientific Corporation(BSX)은 의료 기술 기업으로, 다양한 중�
 
 ## 산업섹터
 
-섹터: [[헬스케어\|헬스케어]](Health Care)  
-산업: [[의료 장비 및 용품\|의료 장비 및 용품]](Health Care Equipment & Supplies)
+섹터: [[헬스케어]](Health Care)  
+산업: [[의료 장비 및 용품]](Health Care Equipment & Supplies)
 
 ## 영위사업
 
@@ -21,7 +20,7 @@ Boston Scientific은 전기생리학, 위장병학, 위장 수술, 여성 골반
 ## 후방산업
 
 - 의료 장비 제조업체
-- 반도체 제조업체: TSMC(TW, [[2.개별종목/TSM\|TSM]])
+- 반도체 제조업체: TSMC(TW, [[TSM]])
 
 ## 전방산업
 
@@ -49,11 +48,11 @@ Boston Scientific은 전기생리학, 위장병학, 위장 수술, 여성 골반
 
 ## 경쟁업체
 
-- Medtronic(US, [[2.개별종목/MDT\|MDT]])
-- Abbott Laboratories(US, [[2.개별종목/ABT\|ABT]])
-- Johnson & Johnson(US, [[2.개별종목/JNJ\|JNJ]])
-- Stryker(US, [[2.개별종목/SYK\|SYK]])
-- Becton, Dickinson and Company(US, [[2.개별종목/BDX\|BDX]])
+- Medtronic(US, [[MDT]])
+- Abbott Laboratories(US, [[ABT]])
+- Johnson & Johnson(US, [[JNJ]])
+- Stryker(US, [[SYK]])
+- Becton, Dickinson and Company(US, [[BDX]])
 
 ## 최근 3년 내 주요 이슈
 

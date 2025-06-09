@@ -1,24 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/AEO/","created":"2024-12-06T10:59:10.505+09:00","updated":"2025-06-03T20:05:57.467+09:00"}
+dg-publish: true
 ---
-
 #소매 #의류 #퍼스널케어 #청바지 #AmericanEagle #임의소비재 #의류소매
 
 
 ## 산업섹터
 
-섹터: [[임의소비재\|임의소비재]](Consumer Cyclical)  
-산업: [[의류 소매\|의류 소매]](Apparel Retail)
+섹터: [[임의소비재]](Consumer Cyclical)  
+산업: [[의류 소매]](Apparel Retail)
 
 ## 영위사업
 
 American Eagle Outfitters는 청소년과 젊은 성인을 대상으로 의류, 액세서리, 개인용품을 제공하는 글로벌 전문 소매업체입니다.
 
-글로벌 전문 소매업체다. 이 회사는 American Eagle 및 Aerie 브랜드로 [[의류\|의류]], 액세서리 및 [[퍼스널 케어\|퍼스널 케어]] 제품을 제공한다.  
+글로벌 전문 소매업체다. 이 회사는 American Eagle 및 Aerie 브랜드로 [[의류]], 액세서리 및 [[퍼스널 케어]] 제품을 제공한다.  
 
 이 회사는 American Eagle과 Aerie 두 부문으로 운영된다.  
   
-[[American Eagle\|American Eagle]]은 미국 [[청바지\|청바지]] 및 의류 브랜드다. Aerie는 속옷, 의류, 액티브웨어, 수영 컬렉션을 제공하는 라이프스타일 브랜드다.  
+[[American Eagle]]은 미국 [[청바지]] 및 의류 브랜드다. Aerie는 속옷, 의류, 액티브웨어, 수영 컬렉션을 제공하는 라이프스타일 브랜드다.  
 OFFLINE by Aerie는 다양한 액티브웨어 및 액세서리 컬렉션을 제공한다.  
   
 이 회사는 자사 매장 및 컨세션 기반 숍인숍을 포함한 소매 채널을 통해 소비자에게 직접 제품을 판매한다.  
@@ -38,7 +37,7 @@ OFFLINE by Aerie는 다양한 액티브웨어 및 액세서리 컬렉션을 제�
 ## 전방산업
 
 - 소비자: 최종 제품 구매자
-- 온라인 플랫폼: 제품 판매를 위한 디지털 채널 (예: Amazon(US, [[2.개별종목/AMZN\|AMZN]]))
+- 온라인 플랫폼: 제품 판매를 위한 디지털 채널 (예: Amazon(US, [[AMZN]]))
 
 ## 밸류체인
 
@@ -61,10 +60,10 @@ OFFLINE by Aerie는 다양한 액티브웨어 및 액세서리 컬렉션을 제�
 
 ## 경쟁업체
 
-- Urban Outfitters(US, [[2.개별종목/URBN\|URBN]]): 청년층 대상 의류
-- Gap Inc.(US, [[2.개별종목/GPS\|GPS]]): 캐주얼 의류
-- Ralph Lauren(US, [[2.개별종목/RL\|RL]]): 프리미엄 의류
-- Abercrombie & Fitch(US, [[2.개별종목/ANF\|ANF]]): 청년층 대상 의류
+- Urban Outfitters(US, [[URBN]]): 청년층 대상 의류
+- Gap Inc.(US, [[GPS]]): 캐주얼 의류
+- Ralph Lauren(US, [[RL]]): 프리미엄 의류
+- Abercrombie & Fitch(US, [[ANF]]): 청년층 대상 의류
 
 ## 산업 내 글로벌 시장 점유율
 

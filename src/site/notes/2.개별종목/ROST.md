@@ -1,18 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/ROST/","created":"2024-11-26T14:02:56.399+09:00","updated":"2025-06-03T20:06:01.039+09:00"}
+dg-publish: true
 ---
-
 #경기소비재 #의류소매 #의류 #신발
 
 
 ## 산업 섹터
 
-- Sector: Consumer Discretionary([[경기소비재\|경기소비재]])
-- Industry: Apparel Retail([[의류 소매\|의류 소매]])
+- Sector: Consumer Discretionary([[경기소비재]])
+- Industry: Apparel Retail([[의류 소매]])
 
 ## 영위 사업
 
-Ross Stores는 주로 [[의류\|의류]], 액세서리, [[신발\|신발]], 가정용품 등을 할인된 가격에 판매하는 오프프라이스 소매업을 영위하고 있습니다. 주요 브랜드로는 Ross Dress for Less와 dd's DISCOUNTS가 있습니다.
+Ross Stores는 주로 [[의류]], 액세서리, [[신발]], 가정용품 등을 할인된 가격에 판매하는 오프프라이스 소매업을 영위하고 있습니다. 주요 브랜드로는 Ross Dress for Less와 dd's DISCOUNTS가 있습니다.
 
 ## 전방/후방 산업
 
@@ -39,10 +38,10 @@ Ross Stores는 주로 [[의류\|의류]], 액세서리, [[신발\|신발]], 가�
 
 ## 경쟁업체
 
-- TJX Companies (미국, [[2.개별종목/TJX\|TJX]])
-- Burlington Stores (미국, [[BURL\|BURL]])
-- Kohl's (미국, [[2.개별종목/KSS\|KSS]])
-- Target (미국, [[2.개별종목/TGT\|TGT]])
+- TJX Companies (미국, [[TJX]])
+- Burlington Stores (미국, [[BURL]])
+- Kohl's (미국, [[KSS]])
+- Target (미국, [[TGT]])
 
 ## 산업 내 글로벌 시장 점유율
 

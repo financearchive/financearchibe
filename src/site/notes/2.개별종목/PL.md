@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/PL/","created":"2024-11-17T23:07:51.567+09:00","updated":"2025-06-03T20:06:00.678+09:00"}
+dg-publish: true
 ---
-
 #항공우주및방위산업 #산업재 #위성 #위성이미지 #인공위성 #위성발사 #위성운영 #위성설계 #관측위성 #소형위성 
 
 ## 산업 섹터
 
-- Sector: Industrials ([[산업재\|산업재]])
-- Industry: Aerospace & Defense ([[1.Study/★ 산업/항공,우주,방위 산업/4.방위산업/항공우주 및 방위산업\|항공우주 및 방위산업]])
+- Sector: Industrials ([[산업재]])
+- Industry: Aerospace & Defense ([[항공우주 및 방위산업]])
 
 ## 영위 사업
 
-Planet Labs는 지구 [[1.Study/★ 산업/항공,우주,방위 산업/2.우주/INFO_우주/관측 위성\|관측 위성]]을 운영하여 [[고해상도 위성 데이터\|고해상도 위성 데이터]], [[저해상도 위성 데이터\|저해상도 위성 데이터]]를 제공하는 기업입니다. 주로 Dove, SuperDove, SkySat 등의 [[소형 위성\|소형 위성]] [[군집 위성\|군집 위성]]을 통해 전 세계의 일일 이미지를 촬영하고 분석합니다.
+Planet Labs는 지구 [[관측 위성]]을 운영하여 [[고해상도 위성 데이터]], [[저해상도 위성 데이터]]를 제공하는 기업입니다. 주로 Dove, SuperDove, SkySat 등의 [[소형 위성]] [[군집 위성]]을 통해 전 세계의 일일 이미지를 촬영하고 분석합니다.
 
-- [[지구 관측\|지구 관측]], [[실시간 지리 정보\|실시간 지리 정보]], 환경 분석 등 관측용 소형 위성 운용 및 이미지 제공
+- [[지구 관측]], [[실시간 지리 정보]], 환경 분석 등 관측용 소형 위성 운용 및 이미지 제공
 
 ## 전방/후방 산업
 
@@ -21,13 +20,13 @@ Planet Labs는 지구 [[1.Study/★ 산업/항공,우주,방위 산업/2.우주/
     
     - 핵심 산업: 지리정보시스템(GIS), 농업, 도시계획, 환경 모니터링
     - 역할: 위성 이미지 및 데이터 제공
-    - 주요 기업: Esri (미국, 비상장), Trimble (미국, [[2.개별종목/TRMB\|TRMB]])
+    - 주요 기업: Esri (미국, 비상장), Trimble (미국, [[TRMB]])
     
 - 후방 산업:
     
     - 핵심 산업: 위성 제조 및 발사
     - 역할: Planet Labs의 위성 제조 및 발사 지원
-    - 주요 기업: SpaceX (미국, 비상장), Rocket Lab (미국, [[2.개별종목/RKLB\|RKLB]])
+    - 주요 기업: SpaceX (미국, 비상장), Rocket Lab (미국, [[RKLB]])
     
 
 ## 밸류체인
@@ -35,12 +34,12 @@ Planet Labs는 지구 [[1.Study/★ 산업/항공,우주,방위 산업/2.우주/
 - 위성 설계 및 제조:
     
     - Planet Labs는 자체적으로 소형 위성을 설계하고 제조합니다.
-    - 대표 기업: Maxar Technologies (미국, [[2.개별종목/MAXR\|MAXR]]), Airbus Defence and Space (프랑스, [[2.개별종목/AIR\|AIR]])
+    - 대표 기업: Maxar Technologies (미국, [[MAXR]]), Airbus Defence and Space (프랑스, [[AIR]])
     
 - 위성 이미지 분석 및 서비스:
     
     - 수집된 이미지를 분석하고 고객에게 제공합니다.
-    - 대표 기업: BlackSky (미국, [[2.개별종목/BKSY\|BKSY]]), Spire Global (미국, [[2.개별종목/SPIR\|SPIR]])
+    - 대표 기업: BlackSky (미국, [[BKSY]]), Spire Global (미국, [[SPIR]])
     
 
 ## 주요 제품
@@ -55,9 +54,9 @@ Planet Labs는 전 세계적으로 서비스를 제공하며, 특히 북미, 유
 
 ## 경쟁업체
 
-- Maxar Technologies (미국, [[2.개별종목/MAXR\|MAXR]]) - 고해상도 위성 이미지 제공
-- Airbus Defence and Space (프랑스, [[2.개별종목/AIR\|AIR]]) - 위성 제조 및 이미지 서비스
-- BlackSky (미국, [[2.개별종목/BKSY\|BKSY]]) - 실시간 지리공간 정보 제공
+- Maxar Technologies (미국, [[MAXR]]) - 고해상도 위성 이미지 제공
+- Airbus Defence and Space (프랑스, [[AIR]]) - 위성 제조 및 이미지 서비스
+- BlackSky (미국, [[BKSY]]) - 실시간 지리공간 정보 제공
 
 ## 산업 내 글로벌 시장 점유율
 

@@ -1,38 +1,37 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/ALLY/","created":"2024-09-11T09:23:40.778+09:00","updated":"2025-06-03T20:05:57.549+09:00"}
+dg-publish: true
 ---
-
 #금융 #신용서비스 #금융서비스 #모기지 #보험 #자동차금융
 
 
 #### 산업섹터 (Sector, Industry)
 
-- **Sector**: Financial Services ([[금융 서비스\|금융 서비스]])
-- **Industry**: Credit Services ([[신용 서비스\|신용 서비스]])
+- **Sector**: Financial Services ([[금융 서비스]])
+- **Industry**: Credit Services ([[신용 서비스]])
 
 #### 영위사업
 
 Ally Financial Inc.는 디지털 금융 서비스 회사로, 다음과 같은 주요 사업 부문을 운영합니다:
 
-- **[[자동차 금융\|자동차 금융]]**: 자동차 대출, 리스, 딜러 금융 서비스 제공
-- **[[보험\|보험]]**: 소비자 금융 보호 및 상업 보험 상품 제공
-- **[[모기지\|모기지]] 금융**: 소비자 모기지 대출 포트폴리오 관리
+- **[[자동차 금융]]**: 자동차 대출, 리스, 딜러 금융 서비스 제공
+- **[[보험]]**: 소비자 금융 보호 및 상업 보험 상품 제공
+- **[[모기지]] 금융**: 소비자 모기지 대출 포트폴리오 관리
 - **기업 금융**: 중소기업을 위한 자산 기반 대출 및 상업 부동산 금융 제공
 
 #### 전방산업
 
-- **자동차 산업**: Ally의 자동차 금융 서비스는 자동차 제조업체 및 딜러에게 제공됩니다. 주요 기업: General Motors (US, [[2.개별종목/GM\|GM]]), Ford (US, [[2.개별종목/F\|F]]).
-- **부동산 산업**: 모기지 금융 서비스는 부동산 개발 및 관리에 사용됩니다. 주요 기업: Lennar (US, [[2.개별종목/LEN\|LEN]]), D.R. Horton (US, [[2.개별종목/DHI\|DHI]]).
+- **자동차 산업**: Ally의 자동차 금융 서비스는 자동차 제조업체 및 딜러에게 제공됩니다. 주요 기업: General Motors (US, [[GM]]), Ford (US, [[F]]).
+- **부동산 산업**: 모기지 금융 서비스는 부동산 개발 및 관리에 사용됩니다. 주요 기업: Lennar (US, [[LEN]]), D.R. Horton (US, [[DHI]]).
 
 #### 후방산업
 
-- **IT 및 소프트웨어 산업**: 금융 서비스 제공에 필요한 소프트웨어 및 IT 인프라를 공급합니다. 주요 기업: Microsoft (US, [[2.개별종목/MSFT\|MSFT]]), Oracle (US, [[2.개별종목/ORCL\|ORCL]]).
-- **보험 산업**: Ally의 보험 상품을 위한 재보험 및 기타 보험 서비스를 제공합니다. 주요 기업: Swiss Re (CH, [[SREN\|SREN]]), Munich Re (DE, [[MUV2\|MUV2]]).
+- **IT 및 소프트웨어 산업**: 금융 서비스 제공에 필요한 소프트웨어 및 IT 인프라를 공급합니다. 주요 기업: Microsoft (US, [[MSFT]]), Oracle (US, [[ORCL]]).
+- **보험 산업**: Ally의 보험 상품을 위한 재보험 및 기타 보험 서비스를 제공합니다. 주요 기업: Swiss Re (CH, [[SREN]]), Munich Re (DE, [[MUV2]]).
 
 #### 밸류체인
 
 1. **부품 공급**
-    - IT 및 소프트웨어: Microsoft (US, [[2.개별종목/MSFT\|MSFT]]), Oracle (US, [[2.개별종목/ORCL\|ORCL]])
+    - IT 및 소프트웨어: Microsoft (US, [[MSFT]]), Oracle (US, [[ORCL]])
 2. **제조**
     - 금융 상품 개발 및 제공
 3. **유통**
@@ -55,10 +54,10 @@ Ally Financial Inc.는 디지털 금융 서비스 회사로, 다음과 같은 �
 
 #### 경쟁업체
 
-- **Capital One (US, [[2.개별종목/COF\|COF]])**: 신용 카드 및 금융 서비스 제공
-- **Discover Financial Services (US, [[2.개별종목/DFS\|DFS]])**: 신용 카드 및 금융 서비스 제공
-- **Synchrony Financial (US, [[2.개별종목/SYF\|SYF]])**: 소비자 금융 및 신용 카드 서비스 제공
-- **Bank of America (US, [[2.개별종목/BAC\|BAC]])**: 종합 금융 서비스 제공
+- **Capital One (US, [[COF]])**: 신용 카드 및 금융 서비스 제공
+- **Discover Financial Services (US, [[DFS]])**: 신용 카드 및 금융 서비스 제공
+- **Synchrony Financial (US, [[SYF]])**: 소비자 금융 및 신용 카드 서비스 제공
+- **Bank of America (US, [[BAC]])**: 종합 금융 서비스 제공
 
 #### 최근 3년 내 주요 이슈
 

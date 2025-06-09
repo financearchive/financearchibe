@@ -1,16 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/RGEN/","created":"2024-12-13T21:47:21.512+09:00","updated":"2025-06-03T20:06:00.948+09:00"}
+dg-publish: true
 ---
-
 #생명과학도구및서비스 #정보기술 #바이오프로세싱
 
 
-Repligen Corporation은 생물학적 의약품 생산을 위한 [[바이오프로세싱\|바이오프로세싱]] 기술과 소모품을 개발 및 상용화하는 생명과학 기업입니다.
+Repligen Corporation은 생물학적 의약품 생산을 위한 [[바이오프로세싱]] 기술과 소모품을 개발 및 상용화하는 생명과학 기업입니다.
 
 ## 산업섹터
 
-섹터(Sector): [[정보기술\|정보기술]](Information Technology)  
-산업(Industry): [[생명과학 도구 및 서비스\|생명과학 도구 및 서비스]](Life Sciences Tools & Services)
+섹터(Sector): [[정보기술]](Information Technology)  
+산업(Industry): [[생명과학 도구 및 서비스]](Life Sciences Tools & Services)
 
 ## 영위사업
 
@@ -27,18 +26,18 @@ Repligen은 다음과 같은 주요 사업 부문을 운영하고 있습니다:
 
 ## 전방산업
 
-- 바이오제약: Pfizer (US, [[2.개별종목/PFE\|PFE]]), Moderna (US, [[2.개별종목/MRNA\|MRNA]])
-- 계약 제조기업: Lonza (스위스, [[LONN.SW\|LONN.SW]])
+- 바이오제약: Pfizer (US, [[PFE]]), Moderna (US, [[MRNA]])
+- 계약 제조기업: Lonza (스위스, [[LONN.SW]])
 
 ## 후방산업
 
-- 원자재 공급: Thermo Fisher Scientific (US, [[2.개별종목/TMO\|TMO]])
-- 장비 제조: Sartorius (독일, [[SRT.DE\|SRT.DE]])
+- 원자재 공급: Thermo Fisher Scientific (US, [[TMO]])
+- 장비 제조: Sartorius (독일, [[SRT.DE]])
 
 ## 밸류체인
 
-1. 연구개발: Repligen (US, [[2.개별종목/RGEN\|RGEN]]) (바이오프로세싱 기술 개발)
-2. 제조: Repligen (US, [[2.개별종목/RGEN\|RGEN]]) (바이오프로세싱 제품 생산)
+1. 연구개발: Repligen (US, [[RGEN]]) (바이오프로세싱 기술 개발)
+2. 제조: Repligen (US, [[RGEN]]) (바이오프로세싱 제품 생산)
 3. 유통: 직접 판매 및 유통 파트너
 4. 최종 사용자: 바이오제약 기업, 계약 제조기업
 
@@ -56,10 +55,10 @@ Repligen은 다음과 같은 주요 사업 부문을 운영하고 있습니다:
 
 ## 경쟁업체
 
-1. Thermo Fisher Scientific (US, [[2.개별종목/TMO\|TMO]])
-2. Danaher Corporation (US, [[2.개별종목/DHR\|DHR]])
-3. Sartorius AG (독일, [[SRT.DE\|SRT.DE]])
-4. Merck KGaA (독일, [[MRK.DE\|MRK.DE]])
+1. Thermo Fisher Scientific (US, [[TMO]])
+2. Danaher Corporation (US, [[DHR]])
+3. Sartorius AG (독일, [[SRT.DE]])
+4. Merck KGaA (독일, [[MRK.DE]])
 5. Pall Corporation (Danaher 소유)
 
 ## 산업 내 글로벌 시장 점유율

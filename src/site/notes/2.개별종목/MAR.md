@@ -1,40 +1,39 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/MAR/","created":"2024-11-05T14:51:03.465+09:00","updated":"2025-06-03T20:06:00.012+09:00"}
+dg-publish: true
 ---
-
 #호텔 #임의소비재 #숙박 
 
 #### 산업섹터 및 산업분류
 
-- **Sector:** [[임의소비재\|임의소비재]] (Consumer Cyclical)
-- **Industry:** [[숙박\|숙박]] (Lodging)
+- **Sector:** [[임의소비재]] (Consumer Cyclical)
+- **Industry:** [[숙박]] (Lodging)
 
 #### 영위사업
 
-메리어트 인터내셔널은 전 세계적으로 [[호텔\|호텔]], 레지던스, 타임쉐어 및 기타 숙박 시설을 운영, 프랜차이즈 및 라이선스하는 글로벌 호텔 체인입니다. 주요 브랜드로는 JW 메리어트, 리츠칼튼, 메리어트 호텔, 쉐라톤, 웨스틴 등이 있습니다.
+메리어트 인터내셔널은 전 세계적으로 [[호텔]], 레지던스, 타임쉐어 및 기타 숙박 시설을 운영, 프랜차이즈 및 라이선스하는 글로벌 호텔 체인입니다. 주요 브랜드로는 JW 메리어트, 리츠칼튼, 메리어트 호텔, 쉐라톤, 웨스틴 등이 있습니다.
 
 #### 전방/후방산업
 
 - **전방산업:** 여행 및 관광, 부동산 개발
     
-    - **여행 및 관광:** 여행 서비스 제공. 주요 기업: Expedia Group (미국, [[2.개별종목/EXPE\|EXPE]]), Booking Holdings (미국, [[2.개별종목/BKNG\|BKNG]]).
-    - **부동산 개발:** 호텔 및 리조트 개발. 주요 기업: Hilton Worldwide (미국, [[2.개별종목/HLT\|HLT]]), Hyatt Hotels (미국, [[H\|H]]).
+    - **여행 및 관광:** 여행 서비스 제공. 주요 기업: Expedia Group (미국, [[EXPE]]), Booking Holdings (미국, [[BKNG]]).
+    - **부동산 개발:** 호텔 및 리조트 개발. 주요 기업: Hilton Worldwide (미국, [[HLT]]), Hyatt Hotels (미국, [[H]]).
 - **후방산업:** 건설, 인테리어 디자인, 식음료 공급
     
     - **건설:** 호텔 및 리조트 건설. 주요 기업: Bechtel Corporation, Turner Construction.
     - **인테리어 디자인:** 호텔 인테리어 디자인 및 가구 공급. 주요 기업: Gensler, HOK.
-    - **식음료 공급:** 호텔 내 식음료 공급. 주요 기업: Sysco Corporation (미국, [[2.개별종목/SYY\|SYY]]), US Foods (미국, [[2.개별종목/USFD\|USFD]]).
+    - **식음료 공급:** 호텔 내 식음료 공급. 주요 기업: Sysco Corporation (미국, [[SYY]]), US Foods (미국, [[USFD]]).
 
 #### 밸류체인
 
 - **부동산 개발:** 호텔 및 리조트 개발
-    - 주요 기업: Hilton Worldwide (미국, [[2.개별종목/HLT\|HLT]]), Hyatt Hotels (미국, [[H\|H]]).
+    - 주요 기업: Hilton Worldwide (미국, [[HLT]]), Hyatt Hotels (미국, [[H]]).
 - **건설 및 인테리어:** 호텔 건설 및 인테리어 디자인
     - 주요 기업: Bechtel Corporation, Turner Construction.
 - **운영 및 관리:** 호텔 운영 및 관리
-    - 주요 기업: Marriott International (미국, [[2.개별종목/MAR\|MAR]]), Hilton Worldwide (미국, [[2.개별종목/HLT\|HLT]]).
+    - 주요 기업: Marriott International (미국, [[MAR]]), Hilton Worldwide (미국, [[HLT]]).
 - **마케팅 및 판매:** 호텔 예약 및 마케팅
-    - 주요 기업: Expedia Group (미국, [[2.개별종목/EXPE\|EXPE]]), Booking Holdings (미국, [[2.개별종목/BKNG\|BKNG]]).
+    - 주요 기업: Expedia Group (미국, [[EXPE]]), Booking Holdings (미국, [[BKNG]]).
 
 #### 주요제품
 
@@ -51,8 +50,8 @@
 
 #### 경쟁업체
 
-- **호텔 체인:** Hilton Worldwide (미국, [[2.개별종목/HLT\|HLT]]), Hyatt Hotels (미국, [[H\|H]]).
-- **온라인 여행사:** Expedia Group (미국, [[2.개별종목/EXPE\|EXPE]]), Booking Holdings (미국, [[2.개별종목/BKNG\|BKNG]]).
+- **호텔 체인:** Hilton Worldwide (미국, [[HLT]]), Hyatt Hotels (미국, [[H]]).
+- **온라인 여행사:** Expedia Group (미국, [[EXPE]]), Booking Holdings (미국, [[BKNG]]).
 
 #### 산업 내 글로벌 시장 점유율
 

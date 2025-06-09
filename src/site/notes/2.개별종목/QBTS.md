@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/QBTS/","created":"2024-11-09T08:49:36.966+09:00","updated":"2025-06-03T20:06:00.808+09:00"}
+dg-publish: true
 ---
-
 #정보기술 #반도체및반도체장비 #양자 #양자컴퓨팅 
 
 ## 산업섹터
 
-섹터: [[정보기술\|정보기술]](Information Technology)  
-산업: [[반도체 및 반도체 장비\|반도체 및 반도체 장비]](Semiconductors & Semiconductor Equipment)
+섹터: [[정보기술]](Information Technology)  
+산업: [[반도체 및 반도체 장비]](Semiconductors & Semiconductor Equipment)
 
 ## 영위사업
 
-D-Wave는 [[1.Study/★ 산업/양자산업(양자보안,컴퓨팅)/양자컴퓨팅\|양자컴퓨팅]] 하드웨어, 소프트웨어 및 서비스를 개발하고 제공하는 기업입니다. [[양자\|양자]] 어닐링(quantum annealing) 기술을 기반으로 한 양자 컴퓨터와 게이트 모델 양자 컴퓨터를 모두 개발하고 있습니다.
+D-Wave는 [[양자컴퓨팅]] 하드웨어, 소프트웨어 및 서비스를 개발하고 제공하는 기업입니다. [[양자]] 어닐링(quantum annealing) 기술을 기반으로 한 양자 컴퓨터와 게이트 모델 양자 컴퓨터를 모두 개발하고 있습니다.
 
 ## 주요제품
 
@@ -27,10 +26,10 @@ D-Wave는 [[1.Study/★ 산업/양자산업(양자보안,컴퓨팅)/양자컴퓨
 
 ## 경쟁업체
 
-- IBM(US, [[2.개별종목/IBM\|IBM]])
-- Google(Alphabet Inc.의 자회사)(US, [[2.개별종목/GOOGL\|GOOGL]])
-- Rigetti Computing(US, [[2.개별종목/RGTI\|RGTI]])
-- IonQ(US, [[2.개별종목/IONQ\|IONQ]])
+- IBM(US, [[IBM]])
+- Google(Alphabet Inc.의 자회사)(US, [[GOOGL]])
+- Rigetti Computing(US, [[RGTI]])
+- IonQ(US, [[IONQ]])
 
 ## 산업 내 글로벌 시장 점유율
 

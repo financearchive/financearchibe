@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/BYND/","created":"2023-07-15T12:25:29.760+09:00","updated":"2025-06-03T20:05:58.098+09:00"}
+dg-publish: true
 ---
-
 #필수소비재 #포장식품 #대체육
 
 ## 산업섹터
 
-Sector: Consumer Staples ([[필수 소비재\|필수 소비재]])  
-Industry: Packaged Foods ([[포장식품\|포장식품]])
+Sector: Consumer Staples ([[필수 소비재]])  
+Industry: Packaged Foods ([[포장식품]])
 
 ## 회사 개요
 
-Beyond Meat, Inc.는 식물성 고기 대체품([[1.Study/★ 산업/식음료픔 산업/대체 단백질\|대체 단백질]]([[1.Study/★ 산업/식음료픔 산업/대체육\|대체육]])) 을 개발, 제조, 판매하는 미국 기업입니다. 2009년 설립되어 2019년 5월 2일 나스닥에 상장되었습니다.
+Beyond Meat, Inc.는 식물성 고기 대체품([[대체 단백질]]([[대체육]])) 을 개발, 제조, 판매하는 미국 기업입니다. 2009년 설립되어 2019년 5월 2일 나스닥에 상장되었습니다.
 
 ## 영위사업
 
@@ -22,14 +21,14 @@ Beyond Meat, Inc.는 식물성 고기 대체품([[1.Study/★ 산업/식음료�
 전방산업:
 
 - 역할: 제품 판매
-- 식품 소매업: Walmart (US, [[2.개별종목/WMT\|WMT]])
-- 식당 체인: McDonald's (US, [[2.개별종목/MCD\|MCD]])
+- 식품 소매업: Walmart (US, [[WMT]])
+- 식당 체인: McDonald's (US, [[MCD]])
 
 후방산업:
 
 - 역할: 원재료 공급
-- 식물성 단백질 공급: Archer-Daniels-Midland (US, [[ADM\|ADM]])
-- 포장재 공급: International Paper (US, [[2.개별종목/IP\|IP]])
+- 식물성 단백질 공급: Archer-Daniels-Midland (US, [[ADM]])
+- 포장재 공급: International Paper (US, [[IP]])
 
 ## 주요제품
 
@@ -49,9 +48,9 @@ Beyond Meat는 주로 미국에서 판매되지만, 국제 시장으로 확장 �
 
 ## 경쟁업체
 
-- [[2.개별종목/Impossible Foods\|Impossible Foods]] (비상장) - 식물성 고기 대체품
-- Tyson Foods (US, [[2.개별종목/TSN\|TSN]]) - 전통적인 육류 제품 및 식물성 대체품
-- [[MorningStar Farms \|MorningStar Farms ]](비상장) - 식물성 고기 대체품
+- [[Impossible Foods]] (비상장) - 식물성 고기 대체품
+- Tyson Foods (US, [[TSN]]) - 전통적인 육류 제품 및 식물성 대체품
+- [[MorningStar Farms ]](비상장) - 식물성 고기 대체품
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -59,8 +58,8 @@ Beyond Meat의 정확한 글로벌 시장 점유율 데이터는 제공된 정�
 
 ## 기업전망(트렌드/향후전망)
  
-- 글로벌 1위 식물성 대체육 업체로, 원재료로 Non-GMO [[완두콩\|완두콩]]과 [[코코넛 오일\|코코넛 오일]], [[카놀라유\|카놀라유]], [[비트 추출물\|비트 추출물]]을 사용. 
-- 압출성형 공정으로 [[식물성 고기\|식물성 고기]] 제품을 생산
+- 글로벌 1위 식물성 대체육 업체로, 원재료로 Non-GMO [[완두콩]]과 [[코코넛 오일]], [[카놀라유]], [[비트 추출물]]을 사용. 
+- 압출성형 공정으로 [[식물성 고기]] 제품을 생산
 - 주요 제품은 비욘드 버거, 비욘드 비프, 비욘드 치킨 텐더 등![](https://i.imgur.com/YSRbpnw.png)
 - 2021년 기준 동사의 글로벌 대체육 시장 점유율은 8.3%로 추정
 

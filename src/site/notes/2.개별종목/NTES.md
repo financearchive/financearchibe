@@ -1,14 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/NTES/","created":"2025-03-05T10:45:48.106+09:00","updated":"2025-06-03T20:06:00.415+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #온라인게임 #모바일게임 #PC게임 #클라우드음악 #온라인교육 #이커머스 #광고서비스 #인터넷포털 #게임서비스 #디지털콘텐츠 #AI #5G #스마트시티 #재생에너지 #전기차충전소 #물관리 #환경보호 #사회적책임 #지속가능성 #글로벌확장
 
 ## 산업섹터
 
-섹터: [[정보기술\|정보기술]]  
+섹터: [[정보기술]]  
 산업: #인터넷소프트웨어및서비스
 
 ## 영위사업
@@ -26,7 +25,7 @@
 4. **혁신 및 기타 사업**: 이커머스(Yanxuan), 광고 서비스 및 기타 부가가치 서비스를 포함합니다.
     
 
-NetEase는 1997년 인터넷 포털 서비스로 시작하여, 현재는 [[중국에서 가장 큰 온라인 서비스 제공업체\|중국에서 가장 큰 온라인 서비스 제공업체]] 중 하나로 성장했습니다. 회사는 게임, 클라우드 음악, 미디어, 광고, 이메일, 라이브 스트리밍, 온라인 교육 및 이커머스 등 다양한 서비스를 제공합니다.
+NetEase는 1997년 인터넷 포털 서비스로 시작하여, 현재는 [[중국에서 가장 큰 온라인 서비스 제공업체]] 중 하나로 성장했습니다. 회사는 게임, 클라우드 음악, 미디어, 광고, 이메일, 라이브 스트리밍, 온라인 교육 및 이커머스 등 다양한 서비스를 제공합니다.
 
 ## 핵심 경쟁력
 
@@ -58,37 +57,37 @@ NetEase는 1997년 인터넷 포털 서비스로 시작하여, 현재는 [[중�
 
 후방산업:
 
-- **게임 개발 도구 및 엔진**: 게임 제작 소프트웨어 (Unity Software(US, [[2.개별종목/U\|U]]), Epic Games([[Epic Games\|Epic Games]]))
+- **게임 개발 도구 및 엔진**: 게임 제작 소프트웨어 (Unity Software(US, [[U]]), Epic Games([[Epic Games]]))
     
-- **서버 및 클라우드 인프라**: 온라인 서비스 호스팅 (Alibaba Cloud(US, [[2.개별종목/BABA\|BABA]]), Tencent Cloud(HK, [[0700\|0700]]))
+- **서버 및 클라우드 인프라**: 온라인 서비스 호스팅 (Alibaba Cloud(US, [[BABA]]), Tencent Cloud(HK, [[0700]]))
     
-- **반도체 및 하드웨어**: 컴퓨팅 성능 제공 (NVIDIA(US, [[2.개별종목/NVDA\|NVDA]]), Intel(US, [[2.개별종목/INTC\|INTC]]))
+- **반도체 및 하드웨어**: 컴퓨팅 성능 제공 (NVIDIA(US, [[NVDA]]), Intel(US, [[INTC]]))
     
-- **콘텐츠 창작자 및 IP 라이센서**: 게임 및 콘텐츠 개발 협력 (Blizzard Entertainment([[Blizzard Entertainment\|Blizzard Entertainment]]), Mojang Studios([[Mojang Studios\|Mojang Studios]]))
+- **콘텐츠 창작자 및 IP 라이센서**: 게임 및 콘텐츠 개발 협력 (Blizzard Entertainment([[Blizzard Entertainment]]), Mojang Studios([[Mojang Studios]]))
     
 
 ## 밸류체인
 
-1. **게임/콘텐츠 개발**: NetEase(US, [[2.개별종목/NTES\|NTES]]) (자체 게임 개발), Blizzard Entertainment([[Blizzard Entertainment\|Blizzard Entertainment]]) (IP 제공 및 협력 개발)
+1. **게임/콘텐츠 개발**: NetEase(US, [[NTES]]) (자체 게임 개발), Blizzard Entertainment([[Blizzard Entertainment]]) (IP 제공 및 협력 개발)
     
-2. **기술 인프라**: Alibaba Cloud(US, [[2.개별종목/BABA\|BABA]]) (클라우드 서비스), Tencent Cloud(HK, [[0700\|0700]]) (네트워크 인프라)
+2. **기술 인프라**: Alibaba Cloud(US, [[BABA]]) (클라우드 서비스), Tencent Cloud(HK, [[0700]]) (네트워크 인프라)
     
-3. **출판 및 배포**: Apple App Store([[Apple App Store\|Apple App Store]]) (iOS 앱 배포), Google Play(US, [[2.개별종목/GOOGL\|GOOGL]]) (안드로이드 앱 배포)
+3. **출판 및 배포**: Apple App Store([[Apple App Store]]) (iOS 앱 배포), Google Play(US, [[GOOGL]]) (안드로이드 앱 배포)
     
-4. **마케팅 및 사용자 확보**: ByteDance([[2.개별종목/ByteDance\|ByteDance]]) (디지털 광고 플랫폼), Tencent(HK, [[0700\|0700]]) (소셜 미디어 마케팅)
+4. **마케팅 및 사용자 확보**: ByteDance([[ByteDance]]) (디지털 광고 플랫폼), Tencent(HK, [[0700]]) (소셜 미디어 마케팅)
     
-5. **결제 처리**: Alipay([[Alipay\|Alipay]]) (디지털 결제), WeChat Pay([[WeChat Pay\|WeChat Pay]]) (모바일 결제 솔루션)
+5. **결제 처리**: Alipay([[Alipay]]) (디지털 결제), WeChat Pay([[WeChat Pay]]) (모바일 결제 솔루션)
     
-6. **사용자 지원 및 커뮤니티**: NetEase(US, [[2.개별종목/NTES\|NTES]]) (자체 커뮤니티 관리 및 고객 지원)
+6. **사용자 지원 및 커뮤니티**: NetEase(US, [[NTES]]) (자체 커뮤니티 관리 및 고객 지원)
     
-7. **하드웨어 파트너**: Xiaomi(HK, [[1810\|1810]]) (모바일 기기), Huawei([[Huawei\|Huawei]]) (네트워크 및 기기)
+7. **하드웨어 파트너**: Xiaomi(HK, [[1810]]) (모바일 기기), Huawei([[Huawei]]) (네트워크 및 기기)
     
 
 ## 주요제품
 
-1. **[[모바일 게임\|모바일 게임]]**: '삼국: 모정천하', '오늘도 연애중', '제5인격' 등 다양한 모바일 게임 타이틀 (2024년 2분기 매출의 약 79%)
+1. **[[모바일 게임]]**: '삼국: 모정천하', '오늘도 연애중', '제5인격' 등 다양한 모바일 게임 타이틀 (2024년 2분기 매출의 약 79%)
     
-2. **[[PC 게임\|PC 게임]]**: '환생경호', '재기영웅전' 등의 PC온라인 게임과 [[블리자드 타이틀 협력\|블리자드 타이틀 협력]] (게임 매출의 일부 포함)
+2. **[[PC 게임]]**: '환생경호', '재기영웅전' 등의 PC온라인 게임과 [[블리자드 타이틀 협력]] (게임 매출의 일부 포함)
     
 3. **유다오 교육 플랫폼**: 온라인 학습 서비스 및 디지털 콘텐츠, 스마트 학습 기기 (2024년 2분기 매출의 약 5%)
     
@@ -131,23 +130,23 @@ NetEase는 주로 중국 시장에 집중하고 있으며, 해외 시장으로�
 
 ## 경쟁업체
 
-1. **Tencent(HK, [[0700\|0700]]):** 중국 최대 게임 회사로 '왕자영요', '평화엘리트' 등 인기 게임 보유
+1. **Tencent(HK, [[0700]]):** 중국 최대 게임 회사로 '왕자영요', '평화엘리트' 등 인기 게임 보유
     
-2. **Nexon(JP, [[3659\|3659]]):** 온라인 게임 개발사, '메이플스토리', '던전앤파이터' 등 보유
+2. **Nexon(JP, [[3659]]):** 온라인 게임 개발사, '메이플스토리', '던전앤파이터' 등 보유
     
-3. **Krafton(KR, [[259960\|259960]]):** '배틀그라운드' 개발사
+3. **Krafton(KR, [[259960]]):** '배틀그라운드' 개발사
     
-4. **Square Enix(JP, [[9684\|9684]]):** '파이널 판타지' 시리즈 등 RPG 게임 개발
+4. **Square Enix(JP, [[9684]]):** '파이널 판타지' 시리즈 등 RPG 게임 개발
     
-5. **Perfect World(CN, [[002624\|002624]]):** 중국 게임 개발사
+5. **Perfect World(CN, [[002624]]):** 중국 게임 개발사
     
-6. **XD Inc.(HK, [[2400\|2400]]):** 모바일 게임 개발 및 게임 플랫폼 운영
+6. **XD Inc.(HK, [[2400]]):** 모바일 게임 개발 및 게임 플랫폼 운영
     
-7. **miHoYo([[miHoYo\|miHoYo]]):** '원신', '붕괴3rd' 등 인기 모바일 게임 개발
+7. **miHoYo([[miHoYo]]):** '원신', '붕괴3rd' 등 인기 모바일 게임 개발
     
-8. **37 Interactive Entertainment(CN, [[603444\|603444]]):** 중국 모바일 게임 개발 및 퍼블리싱
+8. **37 Interactive Entertainment(CN, [[603444]]):** 중국 모바일 게임 개발 및 퍼블리싱
     
-9. **G-Bits Network Technology(CN, [[603444\|603444]]):** 중국 온라인 게임 개발사
+9. **G-Bits Network Technology(CN, [[603444]]):** 중국 온라인 게임 개발사
     
 
 ## 산업 내 글로벌 시장 점유율
@@ -180,18 +179,18 @@ NetEase의 주요 주주와 지분율은 다음과 같습니다:
 
 ## 관련 ETF
 
-1. **Global X Social Media ETF - [[SOCL\|SOCL]]** (NetEase 5.31% 비중)
+1. **Global X Social Media ETF - [[SOCL]]** (NetEase 5.31% 비중)
     
-2. **KraneShares CSI China Internet ETF - [[KWEB\|KWEB]]**
+2. **KraneShares CSI China Internet ETF - [[KWEB]]**
     
-3. **Invesco China Technology ETF - [[CQQQ\|CQQQ]]**
+3. **Invesco China Technology ETF - [[CQQQ]]**
     
-4. **Invesco Golden Dragon China ETF - [[PGJ\|PGJ]]**
+4. **Invesco Golden Dragon China ETF - [[PGJ]]**
     
-5. **VanEck Video Gaming and eSports ETF - [[ESPO\|ESPO]]**
+5. **VanEck Video Gaming and eSports ETF - [[ESPO]]**
     
-6. **EMQQ The Emerging Markets Internet & Ecommerce ETF - [[EMQQ\|EMQQ]]**
+6. **EMQQ The Emerging Markets Internet & Ecommerce ETF - [[EMQQ]]**
     
-7. **iShares MSCI China ETF - [[MCHI\|MCHI]]**
+7. **iShares MSCI China ETF - [[MCHI]]**
     
-8. **SPDR S&P China ETF - [[GXC\|GXC]]**
+8. **SPDR S&P China ETF - [[GXC]]**

@@ -1,22 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/SWX/","created":"2024-12-30T21:02:02.987+09:00","updated":"2025-06-03T20:06:01.453+09:00"}
+dg-publish: true
 ---
-
 #천연가스유틸리티 #에너지유통 #주거용가스 #상업용가스 #산업용가스 #에너지인프라 #규제산업 #배당주 #지역독점 #에너지효율 #천연가스구매 #소매유통 #에너지서비스 #유틸리티인프라서비스 #가스유틸리티 #유틸리티
 
 ## 섹터
 
-섹터: [[유틸리티\|유틸리티]]
+섹터: [[유틸리티]]
 
 ## 산업
 
-산업: [[가스 유틸리티\|가스 유틸리티]](Gas Utilities)
+산업: [[가스 유틸리티]](Gas Utilities)
 
 ## 영위사업
 
-Southwest Gas Holdings, Inc.는 미국의 [[천연가스 유틸리티\|천연가스 유틸리티]] 기업으로, 주로 [[아리조나, 네바다, 캘리포니아 지역에서 천연가스 구매, 유통 및 운송 서비스\|아리조나, 네바다, 캘리포니아 지역에서 천연가스 구매, 유통 및 운송 서비스]]를 제공합니다. 회사는 두 개의 주요 사업 부문을 운영하고 있습니다:
+Southwest Gas Holdings, Inc.는 미국의 [[천연가스 유틸리티]] 기업으로, 주로 [[아리조나, 네바다, 캘리포니아 지역에서 천연가스 구매, 유통 및 운송 서비스]]를 제공합니다. 회사는 두 개의 주요 사업 부문을 운영하고 있습니다:
 
-1. [[1.Study/★ 산업/에너지 산업/1.화석 에너지/1.정유화학/천연가스\|천연가스]] 운영: 주거용, 상업용, 산업용 고객에게 천연가스 유통 서비스를 제공합니다. 이 부문은 회사 수익의 약 절반을 차지합니다.
+1. [[천연가스]] 운영: 주거용, 상업용, 산업용 고객에게 천연가스 유통 서비스를 제공합니다. 이 부문은 회사 수익의 약 절반을 차지합니다.
 2. 유틸리티 인프라 서비스: 자회사인 Centuri Group Inc.를 통해 북미 전역에서 지하 배관 계약 서비스 및 산업 건설 솔루션을 제공합니다. 이 부문 역시 회사 수익의 약 절반을 차지합니다.
 
 2023년 기준으로 Southwest Gas Holdings는 220만 명 이상의 천연가스 고객을 보유하고 있습니다. 회사는 지속가능성과 혁신에 주력하며, 서비스 지역의 증가하는 에너지 수요를 충족시키기 위해 지속적으로 인프라를 개선하고 있습니다.
@@ -35,39 +34,39 @@ Southwest Gas Holdings, Inc.는 미국의 [[천연가스 유틸리티\|천연가
 
 1. 주거용 에너지: 가정용 난방 및 조리
     
-    - Lennar Corporation(US, [[2.개별종목/LEN\|LEN]])
+    - Lennar Corporation(US, [[LEN]])
     
 2. 상업용 에너지: 사무실, 상점 등의 난방 및 에너지 사용
     
-    - Simon Property Group(US, [[2.개별종목/SPG\|SPG]])
+    - Simon Property Group(US, [[SPG]])
     
 3. 산업용 에너지: 제조 공정 및 발전소 연료
     
-    - General Electric(US, [[2.개별종목/GE\|GE]])
+    - General Electric(US, [[GE]])
     
 
 ## 후방산업:
 
 1. 천연가스 생산: 원료 공급
     
-    - ExxonMobil(US, [[2.개별종목/XOM\|XOM]])
+    - ExxonMobil(US, [[XOM]])
     
 2. 파이프라인 인프라: 가스 운송
     
-    - Kinder Morgan(US, [[2.개별종목/KMI\|KMI]])
+    - Kinder Morgan(US, [[KMI]])
     
 3. 가스 저장 시설: 수요 변동 대응
     
-    - Cheniere Energy(US, [[1.Study/★ 산업/에너지 산업/1.화석 에너지/1.정유화학/INFO_정유, 기타에너지/LNG\|LNG]])
+    - Cheniere Energy(US, [[LNG]])
     
 
 ## 밸류체인
 
-1. 천연가스 생산: ExxonMobil(US, [[2.개별종목/XOM\|XOM]]) (천연가스 생산)
-2. 가스 운송: Kinder Morgan(US, [[2.개별종목/KMI\|KMI]]) (파이프라인 운영)
-3. 가스 저장: Southwest Gas Holdings(US, [[2.개별종목/SWX\|SWX]]) (저장 시설 운영)
-4. 가스 유통: Southwest Gas Holdings(US, [[2.개별종목/SWX\|SWX]]) (가스 유틸리티 서비스)
-5. 소비자 서비스: Southwest Gas Holdings(US, [[2.개별종목/SWX\|SWX]]) (고객 서비스)
+1. 천연가스 생산: ExxonMobil(US, [[XOM]]) (천연가스 생산)
+2. 가스 운송: Kinder Morgan(US, [[KMI]]) (파이프라인 운영)
+3. 가스 저장: Southwest Gas Holdings(US, [[SWX]]) (저장 시설 운영)
+4. 가스 유통: Southwest Gas Holdings(US, [[SWX]]) (가스 유틸리티 서비스)
+5. 소비자 서비스: Southwest Gas Holdings(US, [[SWX]]) (고객 서비스)
 
 ## 주요제품
 
@@ -90,11 +89,11 @@ Southwest Gas Holdings, Inc.는 미국의 [[천연가스 유틸리티\|천연가
 
 ## 경쟁업체
 
-1. Atmos Energy Corporation(US, [[2.개별종목/ATO\|ATO]])
-2. NiSource Inc.(US, [[NI\|NI]])
-3. ONE Gas, Inc.(US, [[2.개별종목/OGS\|OGS]])
-4. Spire Inc.(US, [[2.개별종목/SR\|SR]])
-5. New Jersey Resources Corporation(US, [[NJR\|NJR]])
+1. Atmos Energy Corporation(US, [[ATO]])
+2. NiSource Inc.(US, [[NI]])
+3. ONE Gas, Inc.(US, [[OGS]])
+4. Spire Inc.(US, [[SR]])
+5. New Jersey Resources Corporation(US, [[NJR]])
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -118,11 +117,11 @@ Southwest Gas Holdings, Inc.는 미국의 [[천연가스 유틸리티\|천연가
 
 ## 관련 ETF
 
-1. Utilities Select Sector SPDR Fund - [[XLU\|XLU]]
-2. Vanguard Utilities ETF - [[VPU\|VPU]]
-3. iShares U.S. Utilities ETF - [[IDU\|IDU]]
-4. Fidelity MSCI Utilities Index ETF - [[FUTY\|FUTY]]
-5. Invesco S&P 500 Equal Weight Utilities ETF - [[RYU\|RYU]]
+1. Utilities Select Sector SPDR Fund - [[XLU]]
+2. Vanguard Utilities ETF - [[VPU]]
+3. iShares U.S. Utilities ETF - [[IDU]]
+4. Fidelity MSCI Utilities Index ETF - [[FUTY]]
+5. Invesco S&P 500 Equal Weight Utilities ETF - [[RYU]]
 
 공유
 

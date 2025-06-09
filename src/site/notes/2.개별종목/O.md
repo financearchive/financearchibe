@@ -1,22 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/O/","created":"2025-01-28T10:04:53.476+09:00","updated":"2025-06-03T20:06:00.485+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #REIT #월배당 #상업용부동산 #트리플넷리스 #배당귀족 #안정적현금흐름 #장기임대계약 #다각화포트폴리오 #소매부동산 #산업용부동산 #필수소매업 #자산인수 #글로벌확장 #배당성장 #고정임대료 #NNN리스 #자본재활용 #ESG #디지털인프라 #게임부동산 #리츠 
 
 ## 산업섹터
 
-섹터: [[1.Study/★ 산업/부동산/부동산\|부동산]]
-산업: [[1.Study/★ 산업/부동산/리츠\|리츠]]
+섹터: [[부동산]]
+산업: [[리츠]]
 
 ## 영위사업
 
-Realty Income Corporation(NYSE: O)은 미국의 대표적인 [[상업용 부동산 리츠\|상업용 부동산 리츠]](REIT)입니다. 1969년 설립되어 1994년 뉴욕 증권거래소에 상장되었습니다. 주로 소매, 산업, 사무실, 농업 등 다양한 유형의 단일 세입자 상업용 부동산을 소유하고 운영합니다.회사의 주요 특징은 다음과 같습니다:
+Realty Income Corporation(NYSE: O)은 미국의 대표적인 [[상업용 부동산 리츠]](REIT)입니다. 1969년 설립되어 1994년 뉴욕 증권거래소에 상장되었습니다. 주로 소매, 산업, 사무실, 농업 등 다양한 유형의 단일 세입자 상업용 부동산을 소유하고 운영합니다.회사의 주요 특징은 다음과 같습니다:
 
 1. 월배당: "The Monthly Dividend Company®"라는 별칭으로 유명하며, 매월 배당금을 지급합니다.
-2. [[트리플넷리스\|트리플넷리스]](NNN): 세입자가 세금, 보험, 유지보수 비용을 부담하는 계약 구조를 주로 활용합니다.
+2. [[트리플넷리스]](NNN): 세입자가 세금, 보험, 유지보수 비용을 부담하는 계약 구조를 주로 활용합니다.
 3. 다각화된 포트폴리오: 2025년 1월 기준으로 미국, 영국, 스페인 등 11개국에 걸쳐 15,450개 이상의 부동산을 보유하고 있습니다.
 4. 우량 세입자: Walgreens, Dollar General, FedEx 등 신용도 높은 기업들이 주요 임차인입니다.
 
@@ -34,27 +33,27 @@ Realty Income Corporation(NYSE: O)은 미국의 대표적인 [[상업용 부동�
 
 전방산업:
 
-- 소매업: Walmart(US, [[2.개별종목/WMT\|WMT]]), CVS Health(US, [[2.개별종목/CVS\|CVS]])
-- 물류/유통: FedEx(US, [[2.개별종목/FDX\|FDX]]), UPS(US, [[2.개별종목/UPS\|UPS]])
-- 식음료: McDonald's(US, [[2.개별종목/MCD\|MCD]]), Starbucks(US, [[2.개별종목/SBUX\|SBUX]])
+- 소매업: Walmart(US, [[WMT]]), CVS Health(US, [[CVS]])
+- 물류/유통: FedEx(US, [[FDX]]), UPS(US, [[UPS]])
+- 식음료: McDonald's(US, [[MCD]]), Starbucks(US, [[SBUX]])
 
 후방산업:
 
-- 건설/개발: Lennar Corporation(US, [[2.개별종목/LEN\|LEN]]), D.R. Horton(US, [[2.개별종목/DHI\|DHI]])
-- 부동산 서비스: CBRE Group(US, [[CBRE\|CBRE]]), Jones Lang LaSalle(US, [[JLL\|JLL]])
-- 금융: JPMorgan Chase(US, [[2.개별종목/JPM\|JPM]]), Bank of America(US, [[2.개별종목/BAC\|BAC]])
+- 건설/개발: Lennar Corporation(US, [[LEN]]), D.R. Horton(US, [[DHI]])
+- 부동산 서비스: CBRE Group(US, [[CBRE]]), Jones Lang LaSalle(US, [[JLL]])
+- 금융: JPMorgan Chase(US, [[JPM]]), Bank of America(US, [[BAC]])
 
 ## 주요제품
 
 - 소매 부동산: 편의점, 약국, 할인점 등, 매출의 약 80% (2024년 기준)
-- [[산업용 부동산\|산업용 부동산]]: [[1.Study/★ 산업/부동산/물류센터\|물류센터]], 창고 등, 매출의 약 15% (2024년 기준)
+- [[산업용 부동산]]: [[물류센터]], 창고 등, 매출의 약 15% (2024년 기준)
 - 사무실 및 기타: 매출의 약 5% (2024년 기준)
 
 ## 주요 고객
 
-- Walgreens(US, [[2.개별종목/WBA\|WBA]]): 약국 체인
-- Dollar General(US, [[2.개별종목/DG\|DG]]): 할인점 체인
-- FedEx(US, [[2.개별종목/FDX\|FDX]]): 물류 서비스
+- Walgreens(US, [[WBA]]): 약국 체인
+- Dollar General(US, [[DG]]): 할인점 체인
+- FedEx(US, [[FDX]]): 물류 서비스
 - 7-Eleven: 편의점 체인
 - LA Fitness: 피트니스 센터 체인
 
@@ -64,11 +63,11 @@ Realty Income Corporation(NYSE: O)은 미국의 대표적인 [[상업용 부동�
 
 ## 경쟁업체
 
-- National Retail Properties(US, [[NNN\|NNN]]): 소매 부동산 REIT
-- W.P. Carey(US, [[WPC\|WPC]]): 다각화된 상업용 부동산 REIT
-- STORE Capital(US, [[STOR\|STOR]]): 단일 세입자 운영 부동산 REIT
-- VEREIT(US, [[VER\|VER]]): 다각화된 상업용 부동산 REIT
-- Essential Properties Realty Trust(US, [[EPRT\|EPRT]]): 서비스 중심 소매 REIT
+- National Retail Properties(US, [[NNN]]): 소매 부동산 REIT
+- W.P. Carey(US, [[WPC]]): 다각화된 상업용 부동산 REIT
+- STORE Capital(US, [[STOR]]): 단일 세입자 운영 부동산 REIT
+- VEREIT(US, [[VER]]): 다각화된 상업용 부동산 REIT
+- Essential Properties Realty Trust(US, [[EPRT]]): 서비스 중심 소매 REIT
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -91,8 +90,8 @@ Realty Income은 2024년 기준 미국 상업용 부동산 REIT 시장에서 약
 
 ## 관련 ETF
 
-- Vanguard Real Estate ETF - [[VNQ\|VNQ]]
-- iShares U.S. Real Estate ETF - [[IYR\|IYR]]
-- Real Estate Select Sector SPDR Fund - [[XLRE\|XLRE]]
-- Schwab US REIT ETF - [[SCHH\|SCHH]]
-- Pacer Benchmark Data & Infrastructure Real Estate SCTR ETF - [[SRVR\|SRVR]]
+- Vanguard Real Estate ETF - [[VNQ]]
+- iShares U.S. Real Estate ETF - [[IYR]]
+- Real Estate Select Sector SPDR Fund - [[XLRE]]
+- Schwab US REIT ETF - [[SCHH]]
+- Pacer Benchmark Data & Infrastructure Real Estate SCTR ETF - [[SRVR]]

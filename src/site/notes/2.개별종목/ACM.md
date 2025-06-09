@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/ACM/","created":"2025-03-20T21:43:10.364+09:00","updated":"2025-06-03T20:05:57.396+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #인프라컨설팅 #건설관리 #엔지니어링 #디자인 #프로젝트관리 #정부서비스 #지속가능성 #글로벌확장 #기술혁신 #안전성 #협업 #사회적책임 #디지털솔루션 #환경관리 #도시개발 #교통인프라 #에너지인프라 #수자원관리 #건축설계 #사업다각화 #관종 
 
 ## 산업섹터
 
-섹터: [[산업재\|산업재]]  
-산업: [[건설및엔지니어링\|건설및엔지니어링]]
+섹터: [[산업재]]  
+산업: [[건설및엔지니어링]]
 
 ## 영위사업
 
-AECOM은 미국 텍사스주 달라스에 본사를 둔 다국적 [[인프라 컨설팅 기업\|인프라 컨설팅 기업]]으로, 1990년에 설립되었습니다. 회사는 다음과 같은 주요 사업 부문을 운영하고 있습니다:
+AECOM은 미국 텍사스주 달라스에 본사를 둔 다국적 [[인프라 컨설팅 기업]]으로, 1990년에 설립되었습니다. 회사는 다음과 같은 주요 사업 부문을 운영하고 있습니다:
 
 1. **인프라 설계 및 엔지니어링**: 도로, 다리, 터널, 공항, 항만, 철도, 수자원 관리 시스템 등 다양한 인프라 프로젝트의 설계 및 엔지니어링 서비스 제공.
     
@@ -45,35 +44,35 @@ AECOM은 미국 텍사스주 달라스에 본사를 둔 다국적 [[인프라 �
 
 전방산업:
 
-- 정부 및 공공 기관: 인프라 프로젝트 발주 (U.S. Department of Transportation([[U.S. DOT\|U.S. DOT]]), World Bank([[World Bank\|World Bank]]))
+- 정부 및 공공 기관: 인프라 프로젝트 발주 (U.S. Department of Transportation([[U.S. DOT]]), World Bank([[World Bank]]))
     
-- 민간 기업: 상업용 부동산 개발, 에너지 프로젝트 (Brookfield Asset Management(US, [[BAM\|BAM]]), ExxonMobil(US, [[2.개별종목/XOM\|XOM]]))
+- 민간 기업: 상업용 부동산 개발, 에너지 프로젝트 (Brookfield Asset Management(US, [[BAM]]), ExxonMobil(US, [[XOM]]))
     
 
 후방산업:
 
-- 건설 장비 및 자재 공급업체: Caterpillar(US, [[2.개별종목/CAT\|CAT]]), Vulcan Materials(US, [[2.개별종목/VMC\|VMC]])
+- 건설 장비 및 자재 공급업체: Caterpillar(US, [[CAT]]), Vulcan Materials(US, [[VMC]])
     
-- 소프트웨어 및 기술 솔루션: Autodesk(US, [[2.개별종목/ADSK\|ADSK]]), Trimble(US, [[2.개별종목/TRMB\|TRMB]])
+- 소프트웨어 및 기술 솔루션: Autodesk(US, [[ADSK]]), Trimble(US, [[TRMB]])
     
-- 금융 및 보험: 프로젝트 자금 조달 및 보험 (Goldman Sachs(US, [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/2.태양광/종목/GS\|GS]]), AIG(US, [[2.개별종목/AIG\|AIG]]))
+- 금융 및 보험: 프로젝트 자금 조달 및 보험 (Goldman Sachs(US, [[GS]]), AIG(US, [[AIG]]))
     
 
 ## 밸류체인
 
-1. **프로젝트 기획 및 컨설팅**: AECOM(US, [[2.개별종목/ACM\|ACM]]) (프로젝트 계획 및 컨설팅)
+1. **프로젝트 기획 및 컨설팅**: AECOM(US, [[ACM]]) (프로젝트 계획 및 컨설팅)
     
-2. **설계 및 엔지니어링**: AECOM(US, [[2.개별종목/ACM\|ACM]]) (인프라 설계 및 엔지니어링)
+2. **설계 및 엔지니어링**: AECOM(US, [[ACM]]) (인프라 설계 및 엔지니어링)
     
-3. **프로젝트 관리**: AECOM(US, [[2.개별종목/ACM\|ACM]]) (프로젝트 관리 및 건설 감독)
+3. **프로젝트 관리**: AECOM(US, [[ACM]]) (프로젝트 관리 및 건설 감독)
     
-4. **건설 및 시공**: Bechtel(US, [[BCT\|BCT]]), Fluor(US, [[2.개별종목/FLR\|FLR]]) (건설 및 시공)
+4. **건설 및 시공**: Bechtel(US, [[BCT]]), Fluor(US, [[FLR]]) (건설 및 시공)
     
-5. **자재 및 장비 공급**: Caterpillar(US, [[2.개별종목/CAT\|CAT]]) (건설 장비), Vulcan Materials(US, [[2.개별종목/VMC\|VMC]]) (건설 자재)
+5. **자재 및 장비 공급**: Caterpillar(US, [[CAT]]) (건설 장비), Vulcan Materials(US, [[VMC]]) (건설 자재)
     
-6. **기술 및 디지털 솔루션**: Autodesk(US, [[2.개별종목/ADSK\|ADSK]]) (BIM 소프트웨어), Trimble(US, [[2.개별종목/TRMB\|TRMB]]) (건설 기술)
+6. **기술 및 디지털 솔루션**: Autodesk(US, [[ADSK]]) (BIM 소프트웨어), Trimble(US, [[TRMB]]) (건설 기술)
     
-7. **유지보수 및 운영**: AECOM(US, [[2.개별종목/ACM\|ACM]]) (인프라 유지보수 및 운영)
+7. **유지보수 및 운영**: AECOM(US, [[ACM]]) (인프라 유지보수 및 운영)
     
 
 ## 주요제품
@@ -93,15 +92,15 @@ AECOM은 미국 텍사스주 달라스에 본사를 둔 다국적 [[인프라 �
 
 AECOM의 주요 고객은 다음과 같습니다:
 
-1. **미국 정부 기관**: U.S. Department of Transportation([[U.S. DOT\|U.S. DOT]]), U.S. Army Corps of Engineers([[USACE\|USACE]])
+1. **미국 정부 기관**: U.S. Department of Transportation([[U.S. DOT]]), U.S. Army Corps of Engineers([[USACE]])
     
-2. **국제 기구**: World Bank([[World Bank\|World Bank]]), United Nations([[UN\|UN]])
+2. **국제 기구**: World Bank([[World Bank]]), United Nations([[UN]])
     
-3. **민간 기업**: Brookfield Asset Management(US, [[BAM\|BAM]]), ExxonMobil(US, [[2.개별종목/XOM\|XOM]])
+3. **민간 기업**: Brookfield Asset Management(US, [[BAM]]), ExxonMobil(US, [[XOM]])
     
 4. **지방 자치 단체**: 다양한 도시 및 주 정부
     
-5. **건설 및 개발 회사**: Bechtel(US, [[BCT\|BCT]]), Fluor(US, [[2.개별종목/FLR\|FLR]])
+5. **건설 및 개발 회사**: Bechtel(US, [[BCT]]), Fluor(US, [[FLR]])
     
 
 ## 주요 판매국가
@@ -115,15 +114,15 @@ AECOM은 전 세계 52개국에서 사업을 운영하고 있으며, 주요 매�
 
 ## 경쟁업체
 
-1. **Jacobs Engineering Group(US, [[J\|J]]):** 종합 엔지니어링 및 컨설팅 서비스
+1. **Jacobs Engineering Group(US, [[J]]):** 종합 엔지니어링 및 컨설팅 서비스
     
-2. **WSP Global(CA, [[WSP\|WSP]]):** 글로벌 엔지니어링 및 컨설팅 서비스
+2. **WSP Global(CA, [[WSP]]):** 글로벌 엔지니어링 및 컨설팅 서비스
     
-3. **Parsons Corporation(US, [[PSN\|PSN]]):** 인프라 및 국방 관련 서비스
+3. **Parsons Corporation(US, [[PSN]]):** 인프라 및 국방 관련 서비스
     
-4. **KBR, Inc.(US, [[KBR\|KBR]]):** 엔지니어링 및 건설 서비스
+4. **KBR, Inc.(US, [[KBR]]):** 엔지니어링 및 건설 서비스
     
-5. **SNC-Lavalin Group(CA, [[SNC\|SNC]]):** 엔지니어링, 프로젝트 관리, 건설 서비스
+5. **SNC-Lavalin Group(CA, [[SNC]]):** 엔지니어링, 프로젝트 관리, 건설 서비스
     
 
 ## 산업 내 글로벌 시장 점유율
@@ -165,12 +164,12 @@ AECOM의 주요 주주와 지분율은 다음과 같습니다:
 
 ## 관련 ETF
 
-1. **SPDR S&P Global Infrastructure ETF - [[GII\|GII]]**
+1. **SPDR S&P Global Infrastructure ETF - [[GII]]**
     
-2. **iShares Global Infrastructure ETF - [[IGF\|IGF]]**
+2. **iShares Global Infrastructure ETF - [[IGF]]**
     
-3. **Global X U.S. Infrastructure Development ETF - [[2.개별종목/PAVE\|PAVE]]**
+3. **Global X U.S. Infrastructure Development ETF - [[PAVE]]**
     
-4. **First Trust Nasdaq Clean Edge Smart Grid Infrastructure Index Fund - [[GRID\|GRID]]**
+4. **First Trust Nasdaq Clean Edge Smart Grid Infrastructure Index Fund - [[GRID]]**
     
-5. **Invesco Water Resources ETF - [[PHO\|PHO]]**
+5. **Invesco Water Resources ETF - [[PHO]]**

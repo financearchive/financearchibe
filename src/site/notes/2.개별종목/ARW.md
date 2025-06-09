@@ -1,18 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/ARW/","created":"2024-12-26T21:05:01.611+09:00","updated":"2025-06-03T20:05:57.765+09:00"}
+dg-publish: true
 ---
-
 #전자부품 #임의소비재 #전자부품유통 #반도체유통 #유통
 
 ## 산업 섹터
 
-Arrow Electronics Inc(ARW)는 [[임의소비재\|임의소비재]](Consumer Discretionary) 섹터, [[전자부품 유통\|전자부품 유통]](Electronics Distributors) 산업에 속합니다.
+Arrow Electronics Inc(ARW)는 [[임의소비재]](Consumer Discretionary) 섹터, [[전자부품 유통]](Electronics Distributors) 산업에 속합니다.
 
 ## 영위사업
 
 Arrow Electronics는 전 세계 기업 및 산업 고객에게 전자 부품과 엔터프라이즈 컴퓨팅 솔루션을 제공하는 글로벌 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
-1. 글로벌 부품: [[반도체 유통\|반도체 유통]], 수동 부품, 전자기계 부품 등의 유통
+1. 글로벌 부품: [[반도체 유통]], 수동 부품, 전자기계 부품 등의 유통
 2. 글로벌 엔터프라이즈 컴퓨팅 솔루션: 데이터 센터, 클라우드, 보안 솔루션 제공
 3. 디자인 엔지니어링: 고객 맞춤형 기술 솔루션 개발
 4. 공급망 서비스: 글로벌 물류 및 재고 관리
@@ -23,19 +22,19 @@ Arrow Electronics는 185,000개 이상의 제조업체로부터 부품을 조달
 
 1. 후방산업:
     
-    - 반도체 제조: Intel (US, [[2.개별종목/INTC\|INTC]]), Texas Instruments (US, [[2.개별종목/TXN\|TXN]])
-    - 전자부품 제조: TE Connectivity (CH, [[TEL\|TEL]]), Amphenol (US, [[APH\|APH]])
+    - 반도체 제조: Intel (US, [[INTC]]), Texas Instruments (US, [[TXN]])
+    - 전자부품 제조: TE Connectivity (CH, [[TEL]]), Amphenol (US, [[APH]])
     
 2. 전방산업:
     
-    - 전자제품 제조: Apple (US, [[2.개별종목/AAPL\|AAPL]]), Samsung Electronics (KR, [[005930\|005930]])
-    - 자동차 제조: General Motors (US, [[2.개별종목/GM\|GM]]), Volkswagen (DE, [[VOW3\|VOW3]])
-    - 산업용 장비: Siemens (DE, [[2.개별종목/SIE\|SIE]]), ABB (CH, [[ABBN\|ABBN]])
+    - 전자제품 제조: Apple (US, [[AAPL]]), Samsung Electronics (KR, [[005930]])
+    - 자동차 제조: General Motors (US, [[GM]]), Volkswagen (DE, [[VOW3]])
+    - 산업용 장비: Siemens (DE, [[SIE]]), ABB (CH, [[ABBN]])
     
 
 ## 밸류체인
 
-1. 제조: Intel (US, [[2.개별종목/INTC\|INTC]]), Texas Instruments (US, [[2.개별종목/TXN\|TXN]]) - 반도체 및 전자부품
+1. 제조: Intel (US, [[INTC]]), Texas Instruments (US, [[TXN]]) - 반도체 및 전자부품
 2. 유통: Arrow Electronics (주요 사업 영역)
 3. 솔루션 제공: Arrow Electronics (엔터프라이즈 컴퓨팅 솔루션)
 4. 고객: 다양한 전자제품 제조업체 및 기업 고객
@@ -53,8 +52,8 @@ Arrow Electronics는 글로벌 기업으로, 북미, 유럽, 중동, 아프리�
 
 ## 경쟁업체
 
-1. Avnet (US, [[2.개별종목/AVT\|AVT]]) - 전자부품 유통
-2. WPG Holdings (TW, [[3702\|3702]]) - 반도체 유통
+1. Avnet (US, [[AVT]]) - 전자부품 유통
+2. WPG Holdings (TW, [[3702]]) - 반도체 유통
 3. Future Electronics (비상장) - 전자부품 유통
 4. Digi-Key Electronics (비상장) - 전자부품 유통
 5. Mouser Electronics (비상장) - 전자부품 유통

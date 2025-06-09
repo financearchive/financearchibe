@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/Qorvo/","created":"2024-10-30T21:22:27.738+09:00","updated":"2025-06-03T20:06:00.833+09:00"}
+dg-publish: true
 ---
-
 #정보기술 #반도체 #반도체및반도체장비 #무선주파수
 
 ## 산업섹터
 
-섹터: [[정보기술\|정보기술]](Information Technology)  
-산업: [[반도체 및 반도체 장비\|반도체 및 반도체 장비]](Semiconductors & Semiconductor Equipment)
+섹터: [[정보기술]](Information Technology)  
+산업: [[반도체 및 반도체 장비]](Semiconductors & Semiconductor Equipment)
 
 ## 영위사업
 
-Qorvo는 [[무선 주파수\|무선 주파수]](RF) 솔루션 및 핵심 기술을 설계, 개발, 제조 및 마케팅하는 기업입니다.
+Qorvo는 [[무선 주파수]](RF) 솔루션 및 핵심 기술을 설계, 개발, 제조 및 마케팅하는 기업입니다.
 
 ## 전방/후방산업
 
@@ -47,10 +46,10 @@ Qorvo는 [[무선 주파수\|무선 주파수]](RF) 솔루션 및 핵심 기술�
 
 ## 경쟁업체
 
-- Analog Devices(US, [[2.개별종목/ADI\|ADI]])
-- Broadcom(US, [[2.개별종목/AVGO\|AVGO]])
-- Skyworks Solutions(US, [[2.개별종목/SWKS\|SWKS]])
-- [[Murata Manufacturing\|Murata Manufacturing]](일본, 6981)
+- Analog Devices(US, [[ADI]])
+- Broadcom(US, [[AVGO]])
+- Skyworks Solutions(US, [[SWKS]])
+- [[Murata Manufacturing]](일본, 6981)
 
 ## 산업 내 글로벌 시장 점유율
 

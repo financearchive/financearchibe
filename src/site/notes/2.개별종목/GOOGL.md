@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/GOOGL/","created":"2023-07-14T10:40:11.308+09:00","updated":"2025-06-03T20:05:59.289+09:00"}
+dg-publish: true
 ---
-
 #테크 #광고 #AI #인터넷 #클라우드 #인터넷콘텐츠및정보 #통신서비스 #양자 #양자컴퓨팅 #윌로우 
 
 
 - 최근이슈
-	- [[00.투자기록/과거/2024/12월/2024-12-10\|2024-12-10]], +5.6%, 양자 칩 ‘[[윌로우\|윌로우]]’ 공개
+	- [[2024-12-10]], +5.6%, 양자 칩 ‘[[윌로우]]’ 공개
 		- 양자컴퓨터 칩 ‘윌로우(Willow)’가 공개되자 주가 상승. 사측 설명에 따르면, 윌로우는 현존 가장 빠른 슈퍼컴퓨터 기준 10의 25승년 소요되는 문제를 5분만에 해결 가능. 더해 윌로우는 큐피트 수를 늘리며 오류를 줄여, 30년 간의 난제를 해결. 
 
 
 ## 산업섹터
 
-Sector:  [[커뮤니케이션 서비스\|커뮤니케이션 서비스]] (Communication Services)  
-Industry: [[인터넷 콘텐츠 및 정보\|인터넷 콘텐츠 및 정보]] (Internet Content & Information)
+Sector:  [[커뮤니케이션 서비스]] (Communication Services)  
+Industry: [[인터넷 콘텐츠 및 정보]] (Internet Content & Information)
 
 ## 회사 개요
 
@@ -35,14 +34,14 @@ Alphabet Inc.는 2015년 10월 2일에 구글의 공동 창립자 래리 페이�
 후방산업:
 
 - 역할: 기술 및 데이터 인프라 제공
-- 클라우드 서비스 제공업체: Amazon Web Services (US, [[2.개별종목/AMZN\|2.개별종목/AMZN]])
-- 반도체 제조업체: Intel (US, [[2.개별종목/INTC\|INTC]])
+- 클라우드 서비스 제공업체: Amazon Web Services (US, [[2.개별종목/AMZN]])
+- 반도체 제조업체: Intel (US, [[INTC]])
 
 ## 주요제품
 
-- Google Ads (온라인 [[광고\|광고]] 플랫폼)
+- Google Ads (온라인 [[광고]] 플랫폼)
 - YouTube (비디오 공유 플랫폼)
-- Google Cloud Platform ([[1.Study/★ 산업/클라우드/클라우드\|클라우드]] 서비스)
+- Google Cloud Platform ([[클라우드]] 서비스)
 - Android (모바일 운영 체제)
 
 ## 주요 판매국가
@@ -57,9 +56,9 @@ Alphabet은 전 세계적으로 운영되며, 주요 시장은 미국, 유럽, �
 
 ## 경쟁업체
 
-- Meta Platforms, Inc. (US, [[2.개별종목/META\|META]]) - 소셜 미디어 및 광고
-- Amazon.com, Inc. (US, [[2.개별종목/AMZN\|2.개별종목/AMZN]]) - 전자상거래 및 클라우드 서비스
-- Microsoft Corporation (US, [[2.개별종목/MSFT\|MSFT]]) - 소프트웨어 및 클라우드 서비스
+- Meta Platforms, Inc. (US, [[META]]) - 소셜 미디어 및 광고
+- Amazon.com, Inc. (US, [[2.개별종목/AMZN]]) - 전자상거래 및 클라우드 서비스
+- Microsoft Corporation (US, [[MSFT]]) - 소프트웨어 및 클라우드 서비스
 
 ## 산업 내 글로벌 시장 점유율
 

@@ -1,24 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/NCLH/","created":"2024-10-12T00:12:35.844+09:00","updated":"2025-06-03T20:06:00.304+09:00"}
+dg-publish: true
 ---
-
 #크루즈 #레저 #환경규제 #해운 #경기소비재 
 
 **산업섹터 (Sector, Industry)**:
 
-- **Sector**: [[경기소비재\|경기소비재]] (Consumer Services)
-- **Industry**: [[레저\|레저]] 및 관광 (Leisure & Tourism)
+- **Sector**: [[경기소비재]] (Consumer Services)
+- **Industry**: [[레저]] 및 관광 (Leisure & Tourism)
 
-**영위사업**: Norwegian Cruise Line Holdings Ltd는 주로 [[크루즈\|크루즈]] 여행 서비스를 제공하며, Norwegian Cruise Line, Oceania Cruises, Regent Seven Seas Cruises 브랜드를 운영합니다.
+**영위사업**: Norwegian Cruise Line Holdings Ltd는 주로 [[크루즈]] 여행 서비스를 제공하며, Norwegian Cruise Line, Oceania Cruises, Regent Seven Seas Cruises 브랜드를 운영합니다.
 
 **전방/후방산업**:
 
 - **전방산업**:
-    - **여행사 및 온라인 여행사**: 크루즈 여행 상품을 판매. 예: 익스피디아 그룹 (미국, [[2.개별종목/EXPE\|EXPE]]).
-    - **항공사**: 크루즈 여행객의 항공편 제공. 예: 델타 항공 (미국, [[2.개별종목/DAL\|DAL]]).
+    - **여행사 및 온라인 여행사**: 크루즈 여행 상품을 판매. 예: 익스피디아 그룹 (미국, [[EXPE]]).
+    - **항공사**: 크루즈 여행객의 항공편 제공. 예: 델타 항공 (미국, [[DAL]]).
       
 - **후방산업**:
-    - **식음료 공급업체**: 크루즈 내 식음료 제공. 예: Sysco Corporation (미국, [[2.개별종목/SYY\|SYY]]).
+    - **식음료 공급업체**: 크루즈 내 식음료 제공. 예: Sysco Corporation (미국, [[SYY]]).
     - **선박 제조업체**: 크루즈 선박 제조 및 유지보수. 예: Fincantieri (이탈리아, BIT: FCT).
 
 **밸류체인**:
@@ -42,8 +41,8 @@
 
 **경쟁업체**:
 
-- **로얄 캐리비안 그룹 (미국, [[2.개별종목/RCL\|RCL]])**: 크루즈 여행 서비스.
-- **카니발 코퍼레이션 (미국, [[2.개별종목/CCL\|CCL]])**: 크루즈 여행 서비스.
+- **로얄 캐리비안 그룹 (미국, [[RCL]])**: 크루즈 여행 서비스.
+- **카니발 코퍼레이션 (미국, [[CCL]])**: 크루즈 여행 서비스.
 - **MSC 크루즈 (스위스, 비상장)**: 크루즈 여행 서비스.
 
 **산업 내 글로벌 시장 점유율**: Norwegian Cruise Line Holdings는 글로벌 크루즈 시장에서 약 9%의 점유율을 차지하고 있습니다 (2023년 기준).

@@ -1,23 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/AMT/","created":"2025-01-28T10:04:58.669+09:00","updated":"2025-06-03T20:05:57.635+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #통신타워 #5G #데이터센터 #REIT #글로벌인프라 #무선통신 #엣지컴퓨팅 #디지털인프라 #콜로케이션 #텐넌트빌링 #부동산투자신탁 #통신인프라 #타워리스 #소형셀 #광섬유 #IoT #클라우드컴퓨팅 #네트워크확장 #지속가능성 #재생에너지 #데이터센터 #엣지컴퓨팅
 
 ## 산업섹터
 
-섹터: [[1.Study/★ 산업/부동산/부동산\|부동산]]
-산업: [[1.Study/★ 산업/부동산/리츠\|리츠]]
+섹터: [[부동산]]
+산업: [[리츠]]
 
 ## 영위사업
 
-American Tower Corporation(NYSE: AMT)은 [[글로벌 통신 인프라 제공업체\|글로벌 통신 인프라 제공업체]]로, 주로[[ 무선통신 타워\| 무선통신 타워]]와 [[1.Study/★ 산업/통신_데이터센터 산업/2.데이터센터/데이터센터\|데이터센터]]를 소유 및 운영합니다. 
+American Tower Corporation(NYSE: AMT)은 [[글로벌 통신 인프라 제공업체]]로, 주로[[ 무선통신 타워]]와 [[데이터센터]]를 소유 및 운영합니다. 
 
 회사는 5개의 지역 부동산 세그먼트(미국 & 캐나다, 아시아-태평양, 아프리카, 유럽, 라틴아메리카)와 데이터 센터 세그먼트로 구성되어 있습니다.주요 사업은 통신사업자들에게 타워 공간을 임대하는 것입니다. 
 
-2024년 기준으로 25개국 이상에서 운영 중이며, 약 225,000개의 통신 사이트를 보유하고 있습니다.최근에는 5G 네트워크 확장, [[엣지 컴퓨팅\|엣지 컴퓨팅]], 그리고 데이터 센터 사업 강화에 주력하고 있습니다. 2024년 1분기 기준으로 총 수익은 28억 3400만 달러를 기록했으며, 이 중 부동산 수익이 28억 400만 달러로 대부분을 차지했습니다.
+2024년 기준으로 25개국 이상에서 운영 중이며, 약 225,000개의 통신 사이트를 보유하고 있습니다.최근에는 5G 네트워크 확장, [[엣지 컴퓨팅]], 그리고 데이터 센터 사업 강화에 주력하고 있습니다. 2024년 1분기 기준으로 총 수익은 28억 3400만 달러를 기록했으며, 이 중 부동산 수익이 28억 400만 달러로 대부분을 차지했습니다.
 
 ## 핵심 경쟁력
 
@@ -39,10 +38,10 @@ American Tower Corporation(NYSE: AMT)은 [[글로벌 통신 인프라 제공업�
 
 ## 경쟁업체
 
-- Crown Castle Inc(US, [[2.개별종목/CCI\|CCI]])
-- SBA Communications Corporation(US, [[SBAC\|SBAC]])
-- Cellnex Telecom(ES, [[CLNX\|CLNX]])
-- Digital Realty Trust(US, [[2.개별종목/DLR\|DLR]])
+- Crown Castle Inc(US, [[CCI]])
+- SBA Communications Corporation(US, [[SBAC]])
+- Cellnex Telecom(ES, [[CLNX]])
+- Digital Realty Trust(US, [[DLR]])
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -64,8 +63,8 @@ American Tower는 2024년 3분기 기준으로 글로벌 통신 타워 시장에
 
 ## 관련 ETF
 
-- iShares U.S. Real Estate ETF - [[IYR\|IYR]]
-- Vanguard Real Estate ETF - [[VNQ\|VNQ]]
-- Real Estate Select Sector SPDR Fund - [[XLRE\|XLRE]]
-- Pacer Benchmark Data & Infrastructure Real Estate SCTR ETF - [[SRVR\|SRVR]]
-- SPDR S&P Telecom ETF - [[XTL\|XTL]]
+- iShares U.S. Real Estate ETF - [[IYR]]
+- Vanguard Real Estate ETF - [[VNQ]]
+- Real Estate Select Sector SPDR Fund - [[XLRE]]
+- Pacer Benchmark Data & Infrastructure Real Estate SCTR ETF - [[SRVR]]
+- SPDR S&P Telecom ETF - [[XTL]]

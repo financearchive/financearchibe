@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/BMBL/","created":"2025-02-20T10:39:23.477+09:00","updated":"2025-06-03T20:05:58.024+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #온라인데이팅 #여성중심플랫폼 #소셜네트워킹 #모바일앱 #프리미엄구독 #AI매칭 #글로벌확장 #다중모드앱 #사용자참여 #수익화전략 #브랜드인지도 #사용자경험 #데이터분석 #마케팅전략 #ESG #기술혁신 #사용자안전 #커뮤니티가이드라인 #인앱구매 #사용자획득
 
 ## 산업섹터
 
-섹터: [[커뮤니케이션 서비스\|커뮤니케이션 서비스]]  
-산업: [[인터넷콘텐츠및정보\|인터넷콘텐츠및정보]]
+섹터: [[커뮤니케이션 서비스]]  
+산업: [[인터넷콘텐츠및정보]]
 
 ## 영위사업
 
-Bumble Inc는 [[온라인 데이팅\|온라인 데이팅]] 및 소셜 네트워킹 플랫폼을 제공하는 기업입니다. 주요 앱으로는 Bumble, Badoo, Fruitz 등이 있습니다. Bumble 앱은 여성이 먼저 대화를 시작하는 특징을 가진 데이팅 앱으로, 데이팅(Date), 친구 찾기(BFF), 비즈니스 네트워킹(Bizz) 모드를 제공합니다. 2023년 기준으로 전 세계 150개 이상의 국가에서 서비스를 제공하고 있으며, 월간 활성 사용자 수는 약 5,000만 명에 달합니다. 주요 수익원은 프리미엄 구독 모델과 인앱 구매입니다. 최근에는 AI 기술을 활용한 매칭 알고리즘 개선과 글로벌 시장 확대에 주력하고 있습니다.
+Bumble Inc는 [[온라인 데이팅]] 및 소셜 네트워킹 플랫폼을 제공하는 기업입니다. 주요 앱으로는 Bumble, Badoo, Fruitz 등이 있습니다. Bumble 앱은 여성이 먼저 대화를 시작하는 특징을 가진 데이팅 앱으로, 데이팅(Date), 친구 찾기(BFF), 비즈니스 네트워킹(Bizz) 모드를 제공합니다. 2023년 기준으로 전 세계 150개 이상의 국가에서 서비스를 제공하고 있으며, 월간 활성 사용자 수는 약 5,000만 명에 달합니다. 주요 수익원은 프리미엄 구독 모델과 인앱 구매입니다. 최근에는 AI 기술을 활용한 매칭 알고리즘 개선과 글로벌 시장 확대에 주력하고 있습니다.
 
 ## 핵심 경쟁력
 
@@ -32,31 +31,31 @@ Bumble Inc는 [[온라인 데이팅\|온라인 데이팅]] 및 소셜 네트워�
 
 전방산업:
 
-- 모바일 앱 스토어: 앱 유통 (Apple(US, [[2.개별종목/AAPL\|AAPL]]), Google(US, [[2.개별종목/GOOGL\|GOOGL]]))
+- 모바일 앱 스토어: 앱 유통 (Apple(US, [[AAPL]]), Google(US, [[GOOGL]]))
     
-- 온라인 광고: 사용자 획득 (Facebook(US, [[2.개별종목/META\|META]]), Twitter(US, [[TWTR\|TWTR]]))
+- 온라인 광고: 사용자 획득 (Facebook(US, [[META]]), Twitter(US, [[TWTR]]))
     
 
 후방산업:
 
-- 클라우드 서비스: 인프라 제공 (Amazon Web Services(US, [[2.개별종목/AMZN\|AMZN]]), Microsoft Azure(US, [[2.개별종목/MSFT\|MSFT]]))
+- 클라우드 서비스: 인프라 제공 (Amazon Web Services(US, [[AMZN]]), Microsoft Azure(US, [[MSFT]]))
     
-- 데이터 분석: 사용자 행동 분석 (Palantir(US, [[2.개별종목/PLTR\|PLTR]]), Snowflake(US, [[2.개별종목/SNOW\|SNOW]]))
+- 데이터 분석: 사용자 행동 분석 (Palantir(US, [[PLTR]]), Snowflake(US, [[SNOW]]))
     
 
 ## 밸류체인
 
 1. 앱 개발: Bumble Inc 내부 개발팀
     
-2. 클라우드 인프라: Amazon Web Services(US, [[2.개별종목/AMZN\|AMZN]]), Microsoft Azure(US, [[2.개별종목/MSFT\|MSFT]])
+2. 클라우드 인프라: Amazon Web Services(US, [[AMZN]]), Microsoft Azure(US, [[MSFT]])
     
-3. 결제 처리: Stripe([[Stripe\|Stripe]]), PayPal(US, [[2.개별종목/PYPL\|PYPL]])
+3. 결제 처리: Stripe([[Stripe]]), PayPal(US, [[PYPL]])
     
-4. 사용자 인증: Twilio(US, [[2.개별종목/TWLO\|TWLO]]), Okta(US, [[2.개별종목/OKTA\|OKTA]])
+4. 사용자 인증: Twilio(US, [[TWLO]]), Okta(US, [[OKTA]])
     
-5. 마케팅 및 광고: Facebook(US, [[2.개별종목/META\|META]]), Google(US, [[2.개별종목/GOOGL\|GOOGL]])
+5. 마케팅 및 광고: Facebook(US, [[META]]), Google(US, [[GOOGL]])
     
-6. 데이터 분석: Mixpanel([[Mixpanel\|Mixpanel]]), Amplitude(US, [[AMPL\|AMPL]])
+6. 데이터 분석: Mixpanel([[Mixpanel]]), Amplitude(US, [[AMPL]])
     
 
 ## 주요제품
@@ -78,15 +77,15 @@ Bumble Inc는 [[온라인 데이팅\|온라인 데이팅]] 및 소셜 네트워�
 
 ## 경쟁업체
 
-1. Match Group(US, [[2.개별종목/MTCH\|MTCH]]): Tinder, Hinge, OkCupid 등 운영
+1. Match Group(US, [[MTCH]]): Tinder, Hinge, OkCupid 등 운영
     
-2. Spark Networks(US, [[LOV\|LOV]]): Elite Singles, Christian Mingle 등 운영
+2. Spark Networks(US, [[LOV]]): Elite Singles, Christian Mingle 등 운영
     
-3. The Meet Group(US, [[MEET\|MEET]]): MeetMe, LOVOO 등 운영
+3. The Meet Group(US, [[MEET]]): MeetMe, LOVOO 등 운영
     
-4. Grindr(US, [[GRND\|GRND]]): LGBTQ+ 중심 데이팅 앱
+4. Grindr(US, [[GRND]]): LGBTQ+ 중심 데이팅 앱
     
-5. Happn([[Happn\|Happn]]): 위치 기반 데이팅 앱
+5. Happn([[Happn]]): 위치 기반 데이팅 앱
     
 
 ## 산업 내 글로벌 시장 점유율
@@ -119,12 +118,12 @@ Bumble Inc는 [[온라인 데이팅\|온라인 데이팅]] 및 소셜 네트워�
 
 ## 관련 ETF
 
-1. Global X Social Media ETF - [[SOCL\|SOCL]]
+1. Global X Social Media ETF - [[SOCL]]
     
-2. Roundhill IO Digital Economy ETF - [[ECOM\|ECOM]]
+2. Roundhill IO Digital Economy ETF - [[ECOM]]
     
-3. First Trust Dow Jones Internet Index Fund - [[FDN\|FDN]]
+3. First Trust Dow Jones Internet Index Fund - [[FDN]]
     
-4. ProShares Ultra Nasdaq Internet - [[INQQ\|INQQ]]
+4. ProShares Ultra Nasdaq Internet - [[INQQ]]
     
-5. Invesco NASDAQ Internet ETF - [[PNQI\|PNQI]]
+5. Invesco NASDAQ Internet ETF - [[PNQI]]

@@ -1,42 +1,41 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/DOCU/","created":"2024-10-09T08:19:38.400+09:00","updated":"2025-06-03T20:05:58.753+09:00"}
+dg-publish: true
 ---
-
 #소프트웨어 #테크 #전자서명 #계약관리 
 
 
 
 **산업섹터 (Sector, Industry)**
 
-- **Sector:** [[테크\|테크]] (Technology)
-- **Industry:** [[소프트웨어\|소프트웨어]] - 인프라 (Software - Infrastructure)
+- **Sector:** [[테크]] (Technology)
+- **Industry:** [[소프트웨어]] - 인프라 (Software - Infrastructure)
 
-**영위사업** DocuSign은 [[전자 서명\|전자 서명]] 및 [[계약 관리\|계약 관리]] 솔루션을 제공하는 기업입니다. 주요 제품으로는 전자 서명 플랫폼, 계약 수명 주기 관리(CLMS), 계약 생성 도구 등이 있습니다.
+**영위사업** DocuSign은 [[전자 서명]] 및 [[계약 관리]] 솔루션을 제공하는 기업입니다. 주요 제품으로는 전자 서명 플랫폼, 계약 수명 주기 관리(CLMS), 계약 생성 도구 등이 있습니다.
 
 **전방/후방산업**
 
 - **전방산업:** 법률 서비스, 금융 서비스, 부동산
     - **핵심 산업:** 법률 서비스 (계약 관리), 금융 서비스 (전자 서명), 부동산 (계약 체결)
     - **관련 기업:**
-        - 법률 서비스: Thomson Reuters (미국, [[TRI\|TRI]])
-        - 금융 서비스: JPMorgan Chase (미국, [[2.개별종목/JPM\|JPM]])
-        - 부동산: Zillow Group (미국, [[ZG\|ZG]])
+        - 법률 서비스: Thomson Reuters (미국, [[TRI]])
+        - 금융 서비스: JPMorgan Chase (미국, [[JPM]])
+        - 부동산: Zillow Group (미국, [[ZG]])
           
 - **후방산업:** 클라우드 서비스, 데이터 보안, 소프트웨어 개발
     - **핵심 산업:** 클라우드 서비스 (데이터 저장), 데이터 보안 (보안 솔루션), 소프트웨어 개발 (플랫폼 개발)
     - **관련 기업:**
-        - 클라우드 서비스: Amazon Web Services (미국, [[2.개별종목/AMZN\|AMZN]])
-        - 데이터 보안: Palo Alto Networks (미국, [[2.개별종목/PANW\|PANW]])
-        - 소프트웨어 개발: Microsoft (미국, [[2.개별종목/MSFT\|MSFT]])
+        - 클라우드 서비스: Amazon Web Services (미국, [[AMZN]])
+        - 데이터 보안: Palo Alto Networks (미국, [[PANW]])
+        - 소프트웨어 개발: Microsoft (미국, [[MSFT]])
 
 **밸류체인**
 
 - **개발:** 소프트웨어 개발, 클라우드 인프라
-    - **대표 회사:** Microsoft (미국, [[2.개별종목/MSFT\|MSFT]]), Amazon Web Services (미국, [[2.개별종목/AMZN\|AMZN]])
+    - **대표 회사:** Microsoft (미국, [[MSFT]]), Amazon Web Services (미국, [[AMZN]])
 - **배포:** 클라우드 서비스 제공, 데이터 센터 운영
-    - **대표 회사:** Google Cloud (미국, [[2.개별종목/GOOGL\|GOOGL]]), IBM (미국, [[2.개별종목/IBM\|IBM]])
+    - **대표 회사:** Google Cloud (미국, [[GOOGL]]), IBM (미국, [[IBM]])
 - **지원:** 고객 지원, 기술 지원
-    - **대표 회사:** Salesforce (미국, [[2.개별종목/CRM\|CRM]]), Zendesk (미국, [[ZEN\|ZEN]])
+    - **대표 회사:** Salesforce (미국, [[CRM]]), Zendesk (미국, [[ZEN]])
 
 **주요제품**
 
@@ -52,8 +51,8 @@
 
 **경쟁업체**
 
-- **Adobe Sign (미국, [[2.개별종목/ADBE\|ADBE]]):** 전자 서명 솔루션
-- **HelloSign (미국, [[DBX\|DBX]]):** 전자 서명 솔루션
+- **Adobe Sign (미국, [[ADBE]]):** 전자 서명 솔루션
+- **HelloSign (미국, [[DBX]]):** 전자 서명 솔루션
 - **PandaDoc:** 계약 관리 솔루션
 
 **산업 내 글로벌 시장 점유율**

@@ -1,20 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/NBIS/","created":"2025-02-14T22:42:14.918+09:00","updated":"2025-06-03T20:06:00.285+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #AI인프라 #클라우드플랫폼 #GPU클러스터 #자율주행 #데이터파트너 #에듀테크 #머신러닝 #딥러닝 #엣지컴퓨팅 #NVIDIA파트너 #풀스택인프라 #AIaaS #빅데이터 #클라우드컴퓨팅 #하이퍼스케일러 #데이터센터 #AIWorkload #LLM #컴퓨터비전 #ESG
 
 ## 산업섹터
 
-섹터: [[정보기술\|정보기술]]
+섹터: [[정보기술]]
 
-산업: [[클라우드컴퓨팅서비스\|클라우드컴퓨팅서비스]]
+산업: [[클라우드컴퓨팅서비스]]
 
 ## 영위사업
 
-Nebius Group N.V.(NASDAQ: NBIS)는 [[네덜란드\|네덜란드]]에 본사를 둔 AI 인프라 기업입니다. 주요 사업 부문은 다음과 같습니다:
+Nebius Group N.V.(NASDAQ: NBIS)는 [[네덜란드]]에 본사를 둔 AI 인프라 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
 1. Nebius: AI 워크로드를 위한 클라우드 플랫폼
     
@@ -48,27 +47,27 @@ Nebius Group N.V.(NASDAQ: NBIS)는 [[네덜란드\|네덜란드]]에 본사를 
     
 - 클라우드 서비스 사용자: 스타트업, 연구 기관
     
-- 자율주행 기업: Uber(US, [[2.개별종목/UBER\|UBER]])
+- 자율주행 기업: Uber(US, [[UBER]])
     
 
 후방산업:
 
-- 반도체 제조: NVIDIA(US, [[2.개별종목/NVDA\|NVDA]])
+- 반도체 제조: NVIDIA(US, [[NVDA]])
     
 - 서버 제조업체: Original Design Manufacturers (ODMs)
     
-- 데이터 센터 인프라: Equinix(US, [[2.개별종목/EQIX\|EQIX]])
+- 데이터 센터 인프라: Equinix(US, [[EQIX]])
     
 
 ## 주요제품
 
-- AI 중심 클라우드 플랫폼: [[대규모 GPU 클러스터\|대규모 GPU 클러스터]], 매출의 주요 부분
+- AI 중심 클라우드 플랫폼: [[대규모 GPU 클러스터]], 매출의 주요 부분
     
 - 데이터 레이블링 및 AI 평가 서비스: Toloka AI를 통해 제공
     
 - 기술 교육 프로그램: TripleTen을 통한 온라인 코딩 부트캠프
     
-- [[자율주행\|자율주행]] 기술: Avride를 통한 개발 및 테스트
+- [[자율주행]] 기술: Avride를 통한 개발 및 테스트
     
 
 ## 주요 고객
@@ -88,15 +87,15 @@ Nebius Group N.V.(NASDAQ: NBIS)는 [[네덜란드\|네덜란드]]에 본사를 
 
 ## 경쟁업체
 
-- Zscaler(US, [[2.개별종목/ZS\|ZS]])
+- Zscaler(US, [[ZS]])
     
-- Baidu(US, [[2.개별종목/BIDU\|BIDU]])
+- Baidu(US, [[BIDU]])
     
-- GoDaddy(US, [[GDDY\|GDDY]])
+- GoDaddy(US, [[GDDY]])
     
-- Samsara(US, [[IOT\|IOT]])
+- Samsara(US, [[IOT]])
     
-- Zoom Video Communications(US, [[2.개별종목/ZM\|ZM]])
+- Zoom Video Communications(US, [[ZM]])
     
 
 ## 산업 내 글로벌 시장 점유율
@@ -129,12 +128,12 @@ Nebius Group는 AI 인프라 시장의 신흥 기업으로, 정확한 시장 �
 
 ## 관련 ETF
 
-- Global X Cloud Computing ETF - [[CLOU\|CLOU]]
+- Global X Cloud Computing ETF - [[CLOU]]
     
-- First Trust Cloud Computing ETF - [[SKYY\|SKYY]]
+- First Trust Cloud Computing ETF - [[SKYY]]
     
-- iShares Cloud 5G and Tech ETF - [[IDAT\|IDAT]]
+- iShares Cloud 5G and Tech ETF - [[IDAT]]
     
-- ARK Next Generation Internet ETF - [[ARKW\|ARKW]]
+- ARK Next Generation Internet ETF - [[ARKW]]
     
-- WisdomTree Cloud Computing Fund - [[WCLD\|WCLD]]
+- WisdomTree Cloud Computing Fund - [[WCLD]]

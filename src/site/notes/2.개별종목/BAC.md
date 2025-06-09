@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/BAC/","created":"2024-09-23T09:29:35.117+09:00","updated":"2025-06-03T20:05:57.874+09:00"}
+dg-publish: true
 ---
-
 #금융서비스 #은행 
 
 **산업섹터 (Sector, Industry)**
 
-- **Sector:** [[금융 서비스\|금융 서비스]] (Financial Services)
-- **Industry:** [[은행\|은행]] - 다각화 (Banks - Diversified)
+- **Sector:** [[금융 서비스]] (Financial Services)
+- **Industry:** [[은행]] - 다각화 (Banks - Diversified)
 
 **영위사업 (Business Operations)** Bank of America Corporation은 개인 소비자, 중소기업, 기관 투자자, 대기업 및 정부를 대상으로 다양한 금융 상품 및 서비스를 제공합니다. 주요 사업 부문은 다음과 같습니다:
 
@@ -20,32 +19,32 @@
 
 - **전방산업 (Upstream Industries):**
     - **핵심 산업:** 금융 기술 (Fintech), 데이터 분석
-    - **핵심 기업:** Visa (미국, [[2.개별종목/V\|V]]), Mastercard (미국, [[2.개별종목/MA\|MA]])
+    - **핵심 기업:** Visa (미국, [[V]]), Mastercard (미국, [[MA]])
       
 - **후방산업 (Downstream Industries):**
     - **핵심 산업:** 부동산, 소비자 금융
-    - **핵심 기업:** Zillow (미국, [[2.개별종목/Z\|Z]]), Rocket Companies (미국, [[RKT\|RKT]])
+    - **핵심 기업:** Zillow (미국, [[Z]]), Rocket Companies (미국, [[RKT]])
 
 **밸류체인 (Value Chain)**
 
 - **내부 물류 (Inbound Logistics):** 금융 데이터 수집 및 분석
-    - **대표 회사:** Palantir Technologies (미국, [[2.개별종목/PLTR\|PLTR]]), Snowflake (미국, [[2.개별종목/SNOW\|SNOW]])
+    - **대표 회사:** Palantir Technologies (미국, [[PLTR]]), Snowflake (미국, [[SNOW]])
       
 - **운영 (Operations):** 금융 상품 개발 및 관리
-    - **대표 회사:** Goldman Sachs (미국, [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/2.태양광/종목/GS\|GS]]), Morgan Stanley (미국, [[2.개별종목/MS\|MS]])
+    - **대표 회사:** Goldman Sachs (미국, [[GS]]), Morgan Stanley (미국, [[MS]])
       
 - **외부 물류 (Outbound Logistics):** 금융 상품 유통 및 판매
-    - **대표 회사:** Charles Schwab (미국, [[2.개별종목/SCHW\|SCHW]]), TD Ameritrade (미국, [[2.개별종목/AMTD\|AMTD]])
+    - **대표 회사:** Charles Schwab (미국, [[SCHW]]), TD Ameritrade (미국, [[AMTD]])
       
 - **마케팅 및 판매 (Marketing & Sales):** 금융 상품 마케팅 및 판매
-    - **대표 회사:** JPMorgan Chase (미국, [[2.개별종목/JPM\|JPM]]), Wells Fargo (미국, [[2.개별종목/WFC\|WFC]])
+    - **대표 회사:** JPMorgan Chase (미국, [[JPM]]), Wells Fargo (미국, [[WFC]])
       
 - **서비스 (Service):** 고객 서비스 및 지원
-    - **대표 회사:** American Express (미국, [[2.개별종목/AXP\|AXP]]), Discover Financial Services (미국, [[2.개별종목/DFS\|DFS]])
+    - **대표 회사:** American Express (미국, [[AXP]]), Discover Financial Services (미국, [[DFS]])
 
 **주요제품 (Main Products)**
 
-- **신용 및 직불 카드:** 소비자 및 기업용 [[신용카드\|신용카드]]
+- **신용 및 직불 카드:** 소비자 및 기업용 [[신용카드]]
 - **주택 담보 대출:** 주택 구매 및 재융자
 - **투자 관리 서비스:** 자산 관리 및 투자 자문
 - **상업 대출:** 기업 대출 및 리스
@@ -59,10 +58,10 @@
 
 **경쟁업체 (Competitors)**
 
-- **JPMorgan Chase (미국, [[2.개별종목/JPM\|JPM]]):** 상업 및 투자 은행 서비스
-- **Wells Fargo (미국, [[2.개별종목/WFC\|WFC]]):** 소비자 및 상업 은행 서비스
-- **Citigroup (미국, [[2.개별종목/C\|C]]):** 글로벌 금융 서비스
-- **Goldman Sachs (미국, [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/2.태양광/종목/GS\|GS]]):** 투자 은행 및 자산 관리
+- **JPMorgan Chase (미국, [[JPM]]):** 상업 및 투자 은행 서비스
+- **Wells Fargo (미국, [[WFC]]):** 소비자 및 상업 은행 서비스
+- **Citigroup (미국, [[C]]):** 글로벌 금융 서비스
+- **Goldman Sachs (미국, [[GS]]):** 투자 은행 및 자산 관리
 
 **산업 내 글로벌 시장 점유율 (Global Market Share in Industry)**
 

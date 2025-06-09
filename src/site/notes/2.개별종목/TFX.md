@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/TFX/","created":"2025-02-28T13:59:21.376+09:00","updated":"2025-06-03T20:06:01.592+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #의료기기 #혈관접근 #수술용품 #마취 #심장관리 #응급의료 #호흡기관리 #글로벌확장 #연구개발 #제품혁신 #의료기술 #환자케어 #임상솔루션 #지속가능성 #ESG #Arrow #LMA #UroLift #QuikClot #Weck
 
 ## 산업섹터
 
-섹터: [[헬스케어\|헬스케어]]  
-산업: [[의료기기및용품\|의료기기및용품]]
+섹터: [[헬스케어]]  
+산업: [[의료기기및용품]]
 
 ## 영위사업
 
-Teleflex Incorporated는 혈관 및 중재적 접근, 수술, 마취, 심장 관리, 비뇨기과, 응급 의학 및 호흡기 관리 분야의 [[의료기기\|의료기기]]를 설계, 개발, 제조 및 유통하는 글로벌 의료 기술 기업입니다. 주요 제품 브랜드로는 Arrow, Deknatel, LMA, UroLift, QuikClot 등이 있습니다. 회사는 전 세계 135개국 이상에서 80,000개 이상의 고객에게 서비스를 제공하고 있으며, 23,000개 이상의 제품을 보유하고 있습니다. 최근에는 디지털 헬스케어 솔루션 개발과 지속가능성 이니셔티브 강화에 주력하고 있습니다.
+Teleflex Incorporated는 혈관 및 중재적 접근, 수술, 마취, 심장 관리, 비뇨기과, 응급 의학 및 호흡기 관리 분야의 [[의료기기]]를 설계, 개발, 제조 및 유통하는 글로벌 의료 기술 기업입니다. 주요 제품 브랜드로는 Arrow, Deknatel, LMA, UroLift, QuikClot 등이 있습니다. 회사는 전 세계 135개국 이상에서 80,000개 이상의 고객에게 서비스를 제공하고 있으며, 23,000개 이상의 제품을 보유하고 있습니다. 최근에는 디지털 헬스케어 솔루션 개발과 지속가능성 이니셔티브 강화에 주력하고 있습니다.
 
 ## 핵심 경쟁력
 
@@ -32,23 +31,23 @@ Teleflex Incorporated는 혈관 및 중재적 접근, 수술, 마취, 심장 관
 
 전방산업:
 
-- 병원 및 의료 시설: 의료기기 사용 (HCA Healthcare(US, [[2.개별종목/HCA\|HCA]]), Universal Health Services(US, [[2.개별종목/UHS\|UHS]]))
+- 병원 및 의료 시설: 의료기기 사용 (HCA Healthcare(US, [[HCA]]), Universal Health Services(US, [[UHS]]))
     
-- 응급 의료 서비스: 응급 처치 장비 사용 (American Medical Response([[1.Study/★ 산업/로봇 산업/INFO_로봇/AMR\|AMR]]), Falck([[Falck\|Falck]]))
+- 응급 의료 서비스: 응급 처치 장비 사용 (American Medical Response([[AMR]]), Falck([[Falck]]))
     
 
 후방산업:
 
-- 의료용 원자재: 플라스틱, 금속 등 공급 (DuPont(US, [[2.개별종목/DD\|DD]]), BASF(DE, [[BAS\|BAS]]))
+- 의료용 원자재: 플라스틱, 금속 등 공급 (DuPont(US, [[DD]]), BASF(DE, [[BAS]]))
     
-- 전자부품: 의료기기용 센서 및 제어장치 (Texas Instruments(US, [[2.개별종목/TXN\|TXN]]), STMicroelectronics(CH, [[2.개별종목/STM\|STM]]))
+- 전자부품: 의료기기용 센서 및 제어장치 (Texas Instruments(US, [[TXN]]), STMicroelectronics(CH, [[STM]]))
     
 
 ## 밸류체인
 
 1. 연구개발: Teleflex 내부 R&D팀, 의료기관 협력
     
-2. 원자재 조달: DuPont(US, [[2.개별종목/DD\|DD]]), BASF(DE, [[BAS\|BAS]])
+2. 원자재 조달: DuPont(US, [[DD]]), BASF(DE, [[BAS]])
     
 3. 제조: Teleflex 생산 시설, 계약 제조업체
     
@@ -76,15 +75,15 @@ Teleflex Incorporated는 혈관 및 중재적 접근, 수술, 마취, 심장 관
 
 ## 주요 고객
 
-1. Mayo Clinic(US, [[Mayo Clinic\|Mayo Clinic]]): 종합 의료 서비스
+1. Mayo Clinic(US, [[Mayo Clinic]]): 종합 의료 서비스
     
-2. Cleveland Clinic(US, [[Cleveland Clinic\|Cleveland Clinic]]): 심장 및 혈관 질환 전문
+2. Cleveland Clinic(US, [[Cleveland Clinic]]): 심장 및 혈관 질환 전문
     
-3. Johns Hopkins Hospital(US, [[Johns Hopkins Hospital\|Johns Hopkins Hospital]]): 연구 중심 의료기관
+3. Johns Hopkins Hospital(US, [[Johns Hopkins Hospital]]): 연구 중심 의료기관
     
-4. Massachusetts General Hospital(US, [[Massachusetts General Hospital\|Massachusetts General Hospital]]): 하버드 의대 교육병원
+4. Massachusetts General Hospital(US, [[Massachusetts General Hospital]]): 하버드 의대 교육병원
     
-5. Charité - Universitätsmedizin Berlin(DE, [[Charité\|Charité]]): 유럽 최대 대학병원
+5. Charité - Universitätsmedizin Berlin(DE, [[Charité]]): 유럽 최대 대학병원
     
 
 ## 주요 판매국가
@@ -93,15 +92,15 @@ Teleflex Incorporated는 혈관 및 중재적 접근, 수술, 마취, 심장 관
 
 ## 경쟁업체
 
-1. Medtronic(US, [[2.개별종목/MDT\|MDT]]): 다양한 의료기기 제조
+1. Medtronic(US, [[MDT]]): 다양한 의료기기 제조
     
-2. Becton Dickinson(US, [[2.개별종목/BDX\|BDX]]): 의료기기 및 실험실 장비
+2. Becton Dickinson(US, [[BDX]]): 의료기기 및 실험실 장비
     
-3. Smiths Medical(US, [[SMIN\|SMIN]]): 의료기기 및 장비
+3. Smiths Medical(US, [[SMIN]]): 의료기기 및 장비
     
-4. B. Braun(DE, [[B. Braun\|B. Braun]]): 의료 및 제약 제품
+4. B. Braun(DE, [[B. Braun]]): 의료 및 제약 제품
     
-5. Cook Medical(US, [[Cook Medical\|Cook Medical]]): 의료기기 제조
+5. Cook Medical(US, [[Cook Medical]]): 의료기기 제조
     
 
 ## 산업 내 글로벌 시장 점유율
@@ -132,12 +131,12 @@ Teleflex는 여러 의료기기 분야에서 주요 플레이어 중 하나로, 
 
 ## 관련 ETF
 
-1. iShares U.S. Medical Devices ETF - [[IHI\|IHI]]
+1. iShares U.S. Medical Devices ETF - [[IHI]]
     
-2. SPDR S&P Health Care Equipment ETF - [[XHE\|XHE]]
+2. SPDR S&P Health Care Equipment ETF - [[XHE]]
     
-3. First Trust NYSE Arca Biotechnology Index Fund - [[FBT\|FBT]]
+3. First Trust NYSE Arca Biotechnology Index Fund - [[FBT]]
     
-4. Invesco S&P 500 Equal Weight Health Care ETF - [[RYH\|RYH]]
+4. Invesco S&P 500 Equal Weight Health Care ETF - [[RYH]]
     
-5. VanEck Vectors Biotech ETF - [[BBH\|BBH]]
+5. VanEck Vectors Biotech ETF - [[BBH]]

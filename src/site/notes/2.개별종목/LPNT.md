@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/LPNT/","created":"2025-01-05T18:44:44.382+09:00","updated":"2025-06-03T20:05:59.947+09:00"}
+dg-publish: true
 ---
-
 #의료서비스 #병원운영 #지역사회의료 #농촌의료 #외래수술센터 #재활의료 #행동건강 #다각화의료네트워크 #인수합병 #사모펀드 #혁신전략 #디지털헬스케어 #원격의료 #환자중심케어 #의료품질향상 #의료접근성 #비용효율화 #헬스케어 #병원 
 
-[[헬스케어\|헬스케어]] 섹터  
-[[의료시설\|의료시설]](Healthcare Facilities) 산업
+[[헬스케어]] 섹터  
+[[의료시설]](Healthcare Facilities) 산업
 
 ## 영위사업
 
 LifePoint Health는 미국의 성장 지역, 농촌 지역 및 소도시에서 의료 서비스를 제공하는 다각화된 의료 서비스 기업입니다. 1999년에 설립되어 테네시주 브렌트우드에 본사를 두고 있습니다.주요 사업 부문:
 
-1. [[병원\|병원]] 운영 및 서비스: 약 65개의 지역사회 병원 캠퍼스 운영
+1. [[병원]] 운영 및 서비스: 약 65개의 지역사회 병원 캠퍼스 운영
 2. 재활 및 행동 건강: 30개 이상의 재활 및 행동 건강 병원 운영
 3. 외래 진료: 170개 이상의 추가 진료 시설 (외래 재활 유닛, 외래 센터, 급성기 이후 치료 시설 등) 운영
 
@@ -30,33 +29,33 @@ LifePoint Health는 29개 주에서 약 50,000명의 직원과 3,000명의 고�
 
 전방산업:
 
-1. 의료보험 산업: UnitedHealth Group(US, [[2.개별종목/UNH\|UNH]]), Anthem(US, [[2.개별종목/ANTM\|ANTM]])
-2. 제약 산업: Johnson & Johnson(US, [[2.개별종목/JNJ\|JNJ]]), Pfizer(US, [[2.개별종목/PFE\|PFE]])
-3. 의료기기 산업: Medtronic(US, [[2.개별종목/MDT\|MDT]]), Abbott Laboratories(US, [[2.개별종목/ABT\|ABT]])
+1. 의료보험 산업: UnitedHealth Group(US, [[UNH]]), Anthem(US, [[ANTM]])
+2. 제약 산업: Johnson & Johnson(US, [[JNJ]]), Pfizer(US, [[PFE]])
+3. 의료기기 산업: Medtronic(US, [[MDT]]), Abbott Laboratories(US, [[ABT]])
 
 후방산업:
 
-1. 의료 IT 솔루션: Cerner Corporation(US, [[CERN\|CERN]]), Epic Systems Corporation([[Epic Systems\|Epic Systems]])
-2. 의료 장비 제조: Siemens Healthineers(DE, [[SHL\|SHL]])
-3. 의료 소모품 공급: Cardinal Health(US, [[CAH\|CAH]]), McKesson(US, [[2.개별종목/MCK\|MCK]])
+1. 의료 IT 솔루션: Cerner Corporation(US, [[CERN]]), Epic Systems Corporation([[Epic Systems]])
+2. 의료 장비 제조: Siemens Healthineers(DE, [[SHL]])
+3. 의료 소모품 공급: Cardinal Health(US, [[CAH]]), McKesson(US, [[MCK]])
 
 ## 밸류체인
 
-1. 의료 시설 개발 및 운영: LifePoint Health, HCA Healthcare(US, [[2.개별종목/HCA\|HCA]])
-2. 의료 인력 공급: AMN Healthcare Services(US, [[AMN\|AMN]])
-3. 의료 장비 및 기술: GE Healthcare(US, [[2.개별종목/GE\|GE]])
-4. 의약품 공급: AmerisourceBergen(US, [[2.개별종목/ABC\|ABC]])
-5. 의료 IT 및 데이터 관리: Cerner Corporation(US, [[CERN\|CERN]])
-6. 원격 의료 서비스: Teladoc Health(US, [[TDOC\|TDOC]])
-7. 혁신 및 기술 파트너십: Google Cloud(US, [[2.개별종목/GOOGL\|GOOGL]]), Health Catalyst(US, [[HCAT\|HCAT]])
+1. 의료 시설 개발 및 운영: LifePoint Health, HCA Healthcare(US, [[HCA]])
+2. 의료 인력 공급: AMN Healthcare Services(US, [[AMN]])
+3. 의료 장비 및 기술: GE Healthcare(US, [[GE]])
+4. 의약품 공급: AmerisourceBergen(US, [[ABC]])
+5. 의료 IT 및 데이터 관리: Cerner Corporation(US, [[CERN]])
+6. 원격 의료 서비스: Teladoc Health(US, [[TDOC]])
+7. 혁신 및 기술 파트너십: Google Cloud(US, [[GOOGL]]), Health Catalyst(US, [[HCAT]])
 
 ## 주요제품
 
 1. 급성 치료 병원 서비스: 종합 의료 서비스 제공
 2. 재활 및 행동 건강 서비스: 전문화된 치료 및 재활 프로그램
 3. 외래 수술 센터(ASC) 서비스: 당일 수술 및 시술 제공
-4. [[원격 의료\|원격 의료]] 서비스: 디지털 플랫폼을 통한 의료 서비스 제공
-5. [[응급 의료\|응급 의료]] 서비스: 24시간 응급 치료 제공
+4. [[원격 의료]] 서비스: 디지털 플랫폼을 통한 의료 서비스 제공
+5. [[응급 의료]] 서비스: 24시간 응급 치료 제공
 
 ## 주요 고객
 
@@ -68,13 +67,13 @@ LifePoint Health의 주요 고객은 의료 서비스를 필요로 하는 지역
 
 ## 경쟁업체
 
-1. HCA Healthcare(US, [[2.개별종목/HCA\|HCA]]) - 종합 병원 및 외래 시설 운영
-2. Universal Health Services(US, [[2.개별종목/UHS\|UHS]]) - 행동 건강 및 급성 치료 시설 운영
-3. Community Health Systems(US, [[2.개별종목/CYH\|CYH]]) - 지역 병원 네트워크 운영
-4. Encompass Health(US, [[2.개별종목/EHC\|EHC]]) - 재활 병원 및 가정 건강 서비스
-5. Acadia Healthcare(US, [[2.개별종목/ACHC\|ACHC]]) - 행동 건강 시설 운영
-6. Select Medical Holdings(US, [[SEM\|SEM]]) - 장기 급성 치료 병원 및 재활 시설 운영
-7. Surgery Partners(US, [[SGRY\|SGRY]]) - 외래 수술 센터 운영
+1. HCA Healthcare(US, [[HCA]]) - 종합 병원 및 외래 시설 운영
+2. Universal Health Services(US, [[UHS]]) - 행동 건강 및 급성 치료 시설 운영
+3. Community Health Systems(US, [[CYH]]) - 지역 병원 네트워크 운영
+4. Encompass Health(US, [[EHC]]) - 재활 병원 및 가정 건강 서비스
+5. Acadia Healthcare(US, [[ACHC]]) - 행동 건강 시설 운영
+6. Select Medical Holdings(US, [[SEM]]) - 장기 급성 치료 병원 및 재활 시설 운영
+7. Surgery Partners(US, [[SGRY]]) - 외래 수술 센터 운영
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -95,8 +94,8 @@ LifePoint Health는 2018년 Apollo Global Management에 의해 인수되어 비�
 
 ## 관련 ETF
 
-1. iShares U.S. Healthcare Providers ETF - [[IHF\|IHF]]
-2. Vanguard Health Care ETF - [[VHT\|VHT]]
-3. Health Care Select Sector SPDR Fund - [[XLV\|XLV]]
-4. Fidelity MSCI Health Care Index ETF - [[FHLC\|FHLC]]
-5. Invesco S&P 500 Equal Weight Health Care ETF - [[RYH\|RYH]]
+1. iShares U.S. Healthcare Providers ETF - [[IHF]]
+2. Vanguard Health Care ETF - [[VHT]]
+3. Health Care Select Sector SPDR Fund - [[XLV]]
+4. Fidelity MSCI Health Care Index ETF - [[FHLC]]
+5. Invesco S&P 500 Equal Weight Health Care ETF - [[RYH]]

@@ -1,15 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/PSTG/","created":"2024-12-07T12:49:13.573+09:00","updated":"2025-06-03T20:06:00.783+09:00"}
+dg-publish: true
 ---
-
 #정보기술 #컴퓨터하드웨어
 
 Pure Storage, Inc.(PSTG)는 올플래시 데이터 스토리지 하드웨어 및 소프트웨어 제품을 개발하는 미국의 기술 기업입니다.
 
 ## 산업섹터
 
-섹터: [[정보기술\|정보기술]](Information Technology)  
-산업: [[컴퓨터 하드웨어\|컴퓨터 하드웨어]](Computer Hardware)
+섹터: [[정보기술]](Information Technology)  
+산업: [[컴퓨터 하드웨어]](Computer Hardware)
 
 ## 영위사업
 
@@ -48,6 +47,6 @@ Pure Storage는 엔터프라이즈급 올플래시 블록, 파일, 오브젝트 
 
 ## 경쟁업체
 
-- Dell Technologies(US, [[2.개별종목/DELL\|DELL]])
-- NetApp(US, [[2.개별종목/NTAP\|NTAP]])
-- Quantum Corp(US, [[2.개별종목/QMCO\|QMCO]])
+- Dell Technologies(US, [[DELL]])
+- NetApp(US, [[NTAP]])
+- Quantum Corp(US, [[QMCO]])

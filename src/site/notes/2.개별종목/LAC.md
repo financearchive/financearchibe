@@ -1,22 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/LAC/","created":"2024-12-27T09:52:43.928+09:00","updated":"2025-06-03T20:05:59.835+09:00"}
+dg-publish: true
 ---
-
 #리튬 #배터리소재 #전기차 #청정에너지 #지속가능성 #북미공급망 #광산개발 #소재 #산업재 #금속및광업 #리튬광산 
 
 ## 산업 섹터
 
-[[산업재\|산업재]]
+[[산업재]]
 
 ## 산업
 
-[[금속 및 광업\|금속 및 광업]](Metals & Mining)
+[[금속 및 광업]](Metals & Mining)
 
 ## 영위사업
 
-Lithium Americas Corp.는 [[리튬 광산\|리튬 광산]] 개발 및 생산에 주력하는 기업입니다. 주요 사업은 다음과 같습니다:
+Lithium Americas Corp.는 [[리튬 광산]] 개발 및 생산에 주력하는 기업입니다. 주요 사업은 다음과 같습니다:
 
-1. Thacker Pass 프로젝트: 미국 네바다주에 위치한 세계 최대 규모의 [[1.Study/★ 산업/원자재 산업/1.비철금속/★ 비철금속 & 귀금속/리튬/리튬\|리튬]] 광산 개발
+1. Thacker Pass 프로젝트: 미국 네바다주에 위치한 세계 최대 규모의 [[리튬]] 광산 개발
 2. 리튬 기술 개발: 배터리급 리튬 카보네이트 생산을 위한 기술 개발 및 검증
 3. 지속가능한 리튬 생산: 환경 친화적이고 책임감 있는 리튬 생산 방식 추구
 
@@ -34,22 +33,22 @@ Lithium Americas Corp.는 [[리튬 광산\|리튬 광산]] 개발 및 생산에 
 
 1. 후방산업:
     
-    - 광산 장비: Caterpillar(US, [[2.개별종목/CAT\|CAT]])
-    - 화학 처리: Albemarle Corporation(US, [[2.개별종목/ALB\|ALB]])
+    - 광산 장비: Caterpillar(US, [[CAT]])
+    - 화학 처리: Albemarle Corporation(US, [[ALB]])
     
 2. 전방산업:
     
-    - 전기차 제조: Tesla(US, [[2.개별종목/TSLA\|TSLA]]), General Motors(US, [[2.개별종목/GM\|GM]])
-    - 배터리 제조: Panasonic(JP, [[Panasonic\|Panasonic]]), LG Energy Solution(KR, [[1.Study/★ 산업/이차전지, 배터리 산업/1.이차전지/종목/LG에너지솔루션\|LG에너지솔루션]])
+    - 전기차 제조: Tesla(US, [[TSLA]]), General Motors(US, [[GM]])
+    - 배터리 제조: Panasonic(JP, [[Panasonic]]), LG Energy Solution(KR, [[LG에너지솔루션]])
     
 
 ## 밸류체인
 
 1. 탐사 및 개발: Lithium Americas (주요 사업 영역)
 2. 채굴 및 추출: Lithium Americas (주요 사업 영역)
-3. 정제 및 가공: Albemarle Corporation(US, [[2.개별종목/ALB\|ALB]]) - 리튬 화합물 생산
-4. 배터리 셀 제조: Panasonic(JP, [[Panasonic\|Panasonic]]) - 전기차 배터리
-5. 전기차 생산: Tesla(US, [[2.개별종목/TSLA\|TSLA]]) - 전기차
+3. 정제 및 가공: Albemarle Corporation(US, [[ALB]]) - 리튬 화합물 생산
+4. 배터리 셀 제조: Panasonic(JP, [[Panasonic]]) - 전기차 배터리
+5. 전기차 생산: Tesla(US, [[TSLA]]) - 전기차
 
 ## 주요제품
 
@@ -58,7 +57,7 @@ Lithium Americas Corp.는 [[리튬 광산\|리튬 광산]] 개발 및 생산에 
 
 ## 주요고객
 
-1. General Motors(US, [[2.개별종목/GM\|GM]])
+1. General Motors(US, [[GM]])
 2. 주요 배터리 제조업체
 3. 전기차 제조업체
 
@@ -68,10 +67,10 @@ Lithium Americas는 주로 북미 시장을 대상으로 하고 있으며, 특�
 
 ## 경쟁업체
 
-1. Albemarle Corporation(US, [[2.개별종목/ALB\|ALB]]) - 리튬 생산
-2. SQM(CL, [[SQM\|SQM]]) - 리튬 생산
-3. Ganfeng Lithium(CN, [[2.개별종목/Ganfeng Lithium\|Ganfeng Lithium]]) - 리튬 생산
-4. Livent Corporation(US, [[LTHM\|LTHM]]) - 리튬 화학제품
+1. Albemarle Corporation(US, [[ALB]]) - 리튬 생산
+2. SQM(CL, [[SQM]]) - 리튬 생산
+3. Ganfeng Lithium(CN, [[Ganfeng Lithium]]) - 리튬 생산
+4. Livent Corporation(US, [[LTHM]]) - 리튬 화학제품
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -95,6 +94,6 @@ Lithium Americas는 주로 북미 시장을 대상으로 하고 있으며, 특�
 
 ## 관련 ETF
 
-1. Global X Lithium & Battery Tech ETF - [[LIT\|LIT]]
-2. Amplify Lithium & Battery Technology ETF - [[BATT\|BATT]]
-3. VanEck Vectors Rare Earth/Strategic Metals ETF - [[2.개별종목/REMX\|REMX]]
+1. Global X Lithium & Battery Tech ETF - [[LIT]]
+2. Amplify Lithium & Battery Technology ETF - [[BATT]]
+3. VanEck Vectors Rare Earth/Strategic Metals ETF - [[REMX]]

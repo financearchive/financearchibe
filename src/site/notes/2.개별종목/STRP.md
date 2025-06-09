@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/STRP/","created":"2024-12-05T22:09:11.046+09:00","updated":"2025-06-03T20:06:01.379+09:00"}
+dg-publish: true
 ---
-
 #정보기술 #금융기술 #결제처리플랫폼
 
 ## 산업섹터
 
-섹터: [[정보기술\|정보기술]](Information Technology)  
-산업: [[금융 기술\|금융 기술]](Financial Technology)
+섹터: [[정보기술]](Information Technology)  
+산업: [[금융 기술]](Financial Technology)
 
 ## 영위사업
 
@@ -15,7 +14,7 @@ Stripe는 웹사이트와 모바일 애플리케이션에 결제 처리를 통�
 
 ## 주요제품
 
-- [[결제 처리 플랫폼\|결제 처리 플랫폼]]
+- [[결제 처리 플랫폼]]
 - Stripe Billing: 구독 및 청구 관리
 - Stripe Connect: 다자간 결제 플랫폼
 - Stripe Terminal: 대면 결제 솔루션
@@ -27,9 +26,9 @@ Stripe는 웹사이트와 모바일 애플리케이션에 결제 처리를 통�
 
 ## 경쟁업체
 
-- PayPal(US, [[2.개별종목/PYPL\|PYPL]])
-- Square(US, [[2.개별종목/SQ\|SQ]])
-- Adyen(네덜란드, [[ADYEN.AS\|ADYEN.AS]])
+- PayPal(US, [[PYPL]])
+- Square(US, [[SQ]])
+- Adyen(네덜란드, [[ADYEN.AS]])
 
 ## 최근 주요 이슈
 

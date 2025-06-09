@@ -1,16 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/HCA/","created":"2024-12-26T21:53:36.225+09:00","updated":"2025-06-03T20:05:59.369+09:00"}
+dg-publish: true
 ---
-
 #병원 #의료서비스 #의료시설 #헬스케어
 
 ## 산업 섹터
 
-HCA Healthcare Inc(HCA)는 [[헬스케어\|헬스케어]]섹터, [[의료시설\|의료시설]](Medical Care Facilities) 산업에 속합니다.
+HCA Healthcare Inc(HCA)는 [[헬스케어]]섹터, [[의료시설]](Medical Care Facilities) 산업에 속합니다.
 
 ## 영위사업
 
-HCA Healthcare는 [[미국 최대의 민간 의료시설\|미국 최대의 민간 의료시설]] 운영 기업으로, 주요 사업 부문은 다음과 같습니다:
+HCA Healthcare는 [[미국 최대의 민간 의료시설]] 운영 기업으로, 주요 사업 부문은 다음과 같습니다:
 
 1. 종합 및 급성 치료 병원 운영
 2. 외래 수술 센터 운영
@@ -34,22 +33,22 @@ HCA는 미국 21개 주와 영국에서 약 186개의 병원과 2,000여 개의 
 
 1. 후방산업:
     
-    - 의료기기 제조: Medtronic (IE, [[2.개별종목/MDT\|MDT]]), Abbott Laboratories (US, [[2.개별종목/ABT\|ABT]])
-    - 제약: Pfizer (US, [[2.개별종목/PFE\|PFE]]), Johnson & Johnson (US, [[2.개별종목/JNJ\|JNJ]])
+    - 의료기기 제조: Medtronic (IE, [[MDT]]), Abbott Laboratories (US, [[ABT]])
+    - 제약: Pfizer (US, [[PFE]]), Johnson & Johnson (US, [[JNJ]])
     
 2. 전방산업:
     
-    - 보험: UnitedHealth Group (US, [[2.개별종목/UNH\|UNH]]), Anthem (US, [[2.개별종목/ANTM\|ANTM]])
-    - 의약품 유통: McKesson (US, [[2.개별종목/MCK\|MCK]]), AmerisourceBergen (US, [[2.개별종목/ABC\|ABC]])
+    - 보험: UnitedHealth Group (US, [[UNH]]), Anthem (US, [[ANTM]])
+    - 의약품 유통: McKesson (US, [[MCK]]), AmerisourceBergen (US, [[ABC]])
     
 
 ## 밸류체인
 
 1. 의료시설 건설: Turner Construction (비상장)
-2. 의료기기 공급: Medtronic (IE, [[2.개별종목/MDT\|MDT]]), Stryker (US, [[2.개별종목/SYK\|SYK]])
+2. 의료기기 공급: Medtronic (IE, [[MDT]]), Stryker (US, [[SYK]])
 3. 의료 서비스 제공: HCA Healthcare (주요 사업 영역)
-4. 의약품 공급: McKesson (US, [[2.개별종목/MCK\|MCK]]), AmerisourceBergen (US, [[2.개별종목/ABC\|ABC]])
-5. 보험 청구: UnitedHealth Group (US, [[2.개별종목/UNH\|UNH]]), Anthem (US, [[2.개별종목/ANTM\|ANTM]])
+4. 의약품 공급: McKesson (US, [[MCK]]), AmerisourceBergen (US, [[ABC]])
+5. 보험 청구: UnitedHealth Group (US, [[UNH]]), Anthem (US, [[ANTM]])
 
 ## 주요제품
 
@@ -74,11 +73,11 @@ HCA는 미국 21개 주와 영국에서 약 186개의 병원과 2,000여 개의 
 
 ## 경쟁업체
 
-1. Tenet Healthcare (US, [[2.개별종목/THC\|THC]])
-2. Universal Health Services (US, [[2.개별종목/UHS\|UHS]])
-3. Community Health Systems (US, [[2.개별종목/CYH\|CYH]])
-4. Encompass Health (US, [[2.개별종목/EHC\|EHC]])
-5. Acadia Healthcare (US, [[2.개별종목/ACHC\|ACHC]])
+1. Tenet Healthcare (US, [[THC]])
+2. Universal Health Services (US, [[UHS]])
+3. Community Health Systems (US, [[CYH]])
+4. Encompass Health (US, [[EHC]])
+5. Acadia Healthcare (US, [[ACHC]])
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -102,6 +101,6 @@ HCA Healthcare는 2023년 4분기 기준 미국 의료시설 산업에서 약 42
 
 ## 관련 ETF
 
-1. iShares U.S. Healthcare Providers ETF [[IHF\|IHF]]
-2. Vanguard Health Care ETF [[VHT\|VHT]]
-3. Health Care Select Sector SPDR Fund [[XLV\|XLV]]
+1. iShares U.S. Healthcare Providers ETF [[IHF]]
+2. Vanguard Health Care ETF [[VHT]]
+3. Health Care Select Sector SPDR Fund [[XLV]]

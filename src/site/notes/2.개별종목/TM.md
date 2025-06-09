@@ -1,18 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/TM/","created":"2024-12-27T09:49:40.938+09:00","updated":"2025-06-03T20:06:01.639+09:00"}
+dg-publish: true
 ---
-
 #자동차제조 #글로벌브랜드 #하이브리드기술 #품질관리 #생산시스템 #연구개발 #글로벌네트워크 #다각화사업 #지속가능성 #전기차전환 #자율주행 #커넥티드카 #공급망관리 #인재육성 #브랜드가치 #재무건전성 #임의소비재 #자동차 #일본 #전기차 #자동차 
 
 
-[[임의소비재\|임의소비재]] 섹터  
-[[1.Study/★ 산업/자동차 산업/자동차\|자동차]](Automobiles) 산업
+[[임의소비재]] 섹터  
+[[자동차]](Automobiles) 산업
 
 ## 영위사업
 
-Toyota Motor Corporation은 세계 최대 [[자동차 제조업체\|자동차 제조업체]] 중 하나로, 승용차, 버스, 미니밴, 트럭, 특수차량, 레저용 차량 등을 설계, 제조 및 판매하고 있습니다. 주요 사업 부문은 다음과 같습니다:
+Toyota Motor Corporation은 세계 최대 [[자동차 제조업체]] 중 하나로, 승용차, 버스, 미니밴, 트럭, 특수차량, 레저용 차량 등을 설계, 제조 및 판매하고 있습니다. 주요 사업 부문은 다음과 같습니다:
 
-1. [[1.Study/★ 산업/자동차 산업/자동차\|자동차]] 사업: 승용차, 상용차 등 다양한 차종 생산 및 판매
+1. [[자동차]] 사업: 승용차, 상용차 등 다양한 차종 생산 및 판매
 2. 금융 서비스: 딜러 및 고객을 위한 자동차 구매/리스 금융 제공
 3. 기타 사업: 주택, 정보통신, 해양, 바이오테크놀로지 등 다각화된 사업 영위
 
@@ -30,25 +29,25 @@ Toyota는 전 세계적으로 운영되며 특히 미주, 유럽, 아시아 태�
 
 전방산업:
 
-1. 자동차 부품: Denso Corporation(JP, [[Denso\|Denso]])
-2. 타이어: Bridgestone Corporation(JP, [[Bridgestone\|Bridgestone]])
-3. 자동차 판매 및 정비: AutoNation, Inc.(US, [[2.개별종목/AN\|AN]])
+1. 자동차 부품: Denso Corporation(JP, [[Denso]])
+2. 타이어: Bridgestone Corporation(JP, [[Bridgestone]])
+3. 자동차 판매 및 정비: AutoNation, Inc.(US, [[AN]])
 
 후방산업:
 
-1. 철강: Nippon Steel Corporation(JP, [[2.개별종목/Nippon Steel\|Nippon Steel]])
-2. 알루미늄: Alcoa Corporation(US, [[2.개별종목/AA\|AA]])
-3. 반도체: NVIDIA Corporation(US, [[2.개별종목/NVDA\|NVDA]])
+1. 철강: Nippon Steel Corporation(JP, [[Nippon Steel]])
+2. 알루미늄: Alcoa Corporation(US, [[AA]])
+3. 반도체: NVIDIA Corporation(US, [[NVDA]])
 
 ## 밸류체인
 
-1. 연구개발: Toyota Research Institute(US, [[Toyota\|Toyota]])
-2. 원자재 조달: Sumitomo Metal Mining Co., Ltd.(JP, [[2.개별종목/Sumitomo Metal Mining\|Sumitomo Metal Mining]])
-3. 부품 제조: Aisin Seiki Co., Ltd.(JP, [[Aisin Seiki\|Aisin Seiki]])
-4. 자동차 조립: Toyota Motor Corporation(JP, [[Toyota\|Toyota]])
-5. 물류 및 유통: Toyota Tsusho Corporation(JP, [[Toyota Tsusho\|Toyota Tsusho]])
+1. 연구개발: Toyota Research Institute(US, [[Toyota]])
+2. 원자재 조달: Sumitomo Metal Mining Co., Ltd.(JP, [[Sumitomo Metal Mining]])
+3. 부품 제조: Aisin Seiki Co., Ltd.(JP, [[Aisin Seiki]])
+4. 자동차 조립: Toyota Motor Corporation(JP, [[Toyota]])
+5. 물류 및 유통: Toyota Tsusho Corporation(JP, [[Toyota Tsusho]])
 6. 판매 및 마케팅: 글로벌 딜러 네트워크
-7. 금융 서비스: Toyota Financial Services Corporation(JP, [[Toyota Financial Services\|Toyota Financial Services]])
+7. 금융 서비스: Toyota Financial Services Corporation(JP, [[Toyota Financial Services]])
 8. 애프터마켓: Toyota Genuine Parts
 
 ## 주요제품
@@ -57,7 +56,7 @@ Toyota는 전 세계적으로 운영되며 특히 미주, 유럽, 아시아 태�
 2. SUV: RAV4, Highlander
 3. 럭셔리 차량: Lexus 브랜드
 4. 상용차: Hilux, Hiace
-5. [[1.Study/★ 산업/자동차 산업/전기차/전기차\|전기차]]: bZ4X (신규 출시)
+5. [[전기차]]: bZ4X (신규 출시)
 
 ## 주요 고객
 
@@ -69,11 +68,11 @@ Toyota의 주요 고객은 개인 소비자, 기업, 정부 기관 등 다양한
 
 ## 경쟁업체
 
-1. Volkswagen AG(DE, [[VOW3\|VOW3]])
-2. General Motors Company(US, [[2.개별종목/GM\|GM]])
-3. Ford Motor Company(US, [[2.개별종목/F\|F]])
-4. Honda Motor Co., Ltd.(JP, [[2.개별종목/HMC\|HMC]])
-5. Stellantis N.V.(NL, [[2.개별종목/STLA\|STLA]])
+1. Volkswagen AG(DE, [[VOW3]])
+2. General Motors Company(US, [[GM]])
+3. Ford Motor Company(US, [[F]])
+4. Honda Motor Co., Ltd.(JP, [[HMC]])
+5. Stellantis N.V.(NL, [[STLA]])
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -97,11 +96,11 @@ Toyota의 주요 고객은 개인 소비자, 기업, 정부 기관 등 다양한
 
 ## 관련 ETF
 
-1. iShares MSCI Japan ETF - [[EWJ\|EWJ]]
-2. JPMorgan BetaBuilders Japan ETF - [[BBJP\|BBJP]]
-3. Franklin FTSE Japan ETF - [[FLJP\|FLJP]]
-4. WisdomTree Japan Hedged Equity Fund - [[DXJ\|DXJ]]
-5. iShares Global Consumer Discretionary ETF - [[RXI\|RXI]]
+1. iShares MSCI Japan ETF - [[EWJ]]
+2. JPMorgan BetaBuilders Japan ETF - [[BBJP]]
+3. Franklin FTSE Japan ETF - [[FLJP]]
+4. WisdomTree Japan Hedged Equity Fund - [[DXJ]]
+5. iShares Global Consumer Discretionary ETF - [[RXI]]
 
 공유
 

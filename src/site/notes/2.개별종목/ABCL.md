@@ -1,21 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/ABCL/","created":"2025-01-29T17:41:31.630+09:00","updated":"2025-06-03T20:05:57.341+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #항체발견 #AI기반신약개발 #단일세포기술 #면역요법 #바이오테크 #정밀의학 #협업모델 #로열티수익 #마일스톤수익 #연구수수료 #항체의약품 #고속스크리닝 #인공지능 #머신러닝 #바이오인포매틱스 #면역학 #맞춤형치료제 #항체라이브러리 #임상시험 #지적재산권 #바이오테크 
 
 ## 산업섹터
 
-섹터: [[헬스케어\|헬스케어]]
-산업: [[생명공학\|생명공학]]
+섹터: [[헬스케어]]
+산업: [[생명공학]]
 
 ## 영위사업
 
-AbCellera Biologics Inc(NASDAQ: ABCL)는 인공지능(AI)과 단일세포 기술을 활용하여 항체 의약품을 발견하고 개발하는 [[1.Study/★ 산업/헬스케어/3.바이오테크/바이오테크\|바이오테크]] 기업입니다.
+AbCellera Biologics Inc(NASDAQ: ABCL)는 인공지능(AI)과 단일세포 기술을 활용하여 항체 의약품을 발견하고 개발하는 [[바이오테크]] 기업입니다.
 
-회사의 [[단일세포 플랫폼\|단일세포 플랫폼]]은 독점 면역화, 미세유체, 고처리량 이미징, 유전체학, 딥 컴퓨팅, 인공지능 및 실험실 자동화 기술을 결합하여 희귀 항체를 발견합니다.주요 사업 부문은 다음과 같습니다:
+회사의 [[단일세포 플랫폼]]은 독점 면역화, 미세유체, 고처리량 이미징, 유전체학, 딥 컴퓨팅, 인공지능 및 실험실 자동화 기술을 결합하여 희귀 항체를 발견합니다.주요 사업 부문은 다음과 같습니다:
 
 1. 항체 발견 서비스
 2. 라이센싱 및 로열티
@@ -35,29 +34,29 @@ AbCellera Biologics Inc(NASDAQ: ABCL)는 인공지능(AI)과 단일세포 기술
 
 전방산업:
 
-- 제약산업: Pfizer(US, [[2.개별종목/PFE\|PFE]]), Merck(US, [[2.개별종목/MRK\|MRK]])
-- 바이오테크: Moderna(US, [[2.개별종목/MRNA\|MRNA]]), BioNTech(US, [[2.개별종목/BNTX\|BNTX]])
-- 임상시험: IQVIA(US, [[2.개별종목/IQV\|IQV]]), Parexel International
+- 제약산업: Pfizer(US, [[PFE]]), Merck(US, [[MRK]])
+- 바이오테크: Moderna(US, [[MRNA]]), BioNTech(US, [[BNTX]])
+- 임상시험: IQVIA(US, [[IQV]]), Parexel International
 
 후방산업:
 
-- 실험실 장비: Thermo Fisher Scientific(US, [[2.개별종목/TMO\|TMO]]), Danaher(US, [[2.개별종목/DHR\|DHR]])
-- AI/ML 기술: NVIDIA(US, [[2.개별종목/NVDA\|NVDA]]), IBM(US, [[2.개별종목/IBM\|IBM]])
-- 바이오인포매틱스: Illumina(US, [[2.개별종목/ILMN\|ILMN]]), 10x Genomics(US, [[TXG\|TXG]])
+- 실험실 장비: Thermo Fisher Scientific(US, [[TMO]]), Danaher(US, [[DHR]])
+- AI/ML 기술: NVIDIA(US, [[NVDA]]), IBM(US, [[IBM]])
+- 바이오인포매틱스: Illumina(US, [[ILMN]]), 10x Genomics(US, [[TXG]])
 
 ## 주요제품
 
-- [[항체 발견 서비스\|항체 발견 서비스]]: 파트너 기업을 위한 맞춤형 항체 발견, 매출의 약 70% (2024년 기준)
+- [[항체 발견 서비스]]: 파트너 기업을 위한 맞춤형 항체 발견, 매출의 약 70% (2024년 기준)
 - 라이센싱 및 로열티: 개발된 항체의 상용화에 따른 수익, 매출의 약 20% (2024년 기준)
 - 기술 플랫폼 접근권: AbCellera의 AI 및 단일세포 기술 사용 권한, 매출의 약 10% (2024년 기준)
 
 ## 주요 고객
 
-- Eli Lilly(US, [[2.개별종목/LLY\|LLY]]): 면역학, 심혈관 질환, 신경과학 분야 항체 치료제
-- Pfizer(US, [[2.개별종목/PFE\|PFE]]): 다양한 치료 영역의 항체 의약품
-- Merck(US, [[2.개별종목/MRK\|MRK]]): 항체 기반 치료제
-- GSK(UK, [[2.개별종목/GSK\|GSK]]): 면역학 및 감염병 관련 항체
-- Teva Pharmaceutical(IL, [[2.개별종목/TEVA\|TEVA]]): 다양한 치료 영역의 항체 의약품
+- Eli Lilly(US, [[LLY]]): 면역학, 심혈관 질환, 신경과학 분야 항체 치료제
+- Pfizer(US, [[PFE]]): 다양한 치료 영역의 항체 의약품
+- Merck(US, [[MRK]]): 항체 기반 치료제
+- GSK(UK, [[GSK]]): 면역학 및 감염병 관련 항체
+- Teva Pharmaceutical(IL, [[TEVA]]): 다양한 치료 영역의 항체 의약품
 
 ## 주요 판매국가
 
@@ -66,10 +65,10 @@ AbCellera Biologics Inc(NASDAQ: ABCL)는 인공지능(AI)과 단일세포 기술
 ## 경쟁업체
 
 - Adimab(비상장): 항체 발견 및 엔지니어링 플랫폼
-- Twist Bioscience(US, [[2.개별종목/TWST\|TWST]]): 합성 DNA 및 항체 라이브러리
-- Ginkgo Bioworks(US, [[2.개별종목/DNA\|DNA]]): 합성 생물학 및 바이오엔지니어링
-- Recursion Pharmaceuticals(US, [[2.개별종목/RXRX\|RXRX]]): AI 기반 신약 발견 플랫폼
-- Schrödinger(US, [[2.개별종목/SDGR\|SDGR]]): 컴퓨터 지원 신약 설계
+- Twist Bioscience(US, [[TWST]]): 합성 DNA 및 항체 라이브러리
+- Ginkgo Bioworks(US, [[DNA]]): 합성 생물학 및 바이오엔지니어링
+- Recursion Pharmaceuticals(US, [[RXRX]]): AI 기반 신약 발견 플랫폼
+- Schrödinger(US, [[SDGR]]): 컴퓨터 지원 신약 설계
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -92,8 +91,8 @@ AbCellera의 정확한 글로벌 시장 점유율 데이터는 제공되지 않�
 
 ## 관련 ETF
 
-- ARK Genomic Revolution ETF - [[ARKG\|ARKG]]
-- iShares Biotechnology ETF - [[IBB\|IBB]]
-- SPDR S&P Biotech ETF - [[XBI\|XBI]]
-- VanEck Biotech ETF - [[BBH\|BBH]]
-- Invesco Nasdaq Biotechnology ETF - [[IBBQ\|IBBQ]]
+- ARK Genomic Revolution ETF - [[ARKG]]
+- iShares Biotechnology ETF - [[IBB]]
+- SPDR S&P Biotech ETF - [[XBI]]
+- VanEck Biotech ETF - [[BBH]]
+- Invesco Nasdaq Biotechnology ETF - [[IBBQ]]

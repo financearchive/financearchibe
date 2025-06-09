@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/CMA/","created":"2025-03-05T10:45:27.388+09:00","updated":"2025-06-03T20:05:58.326+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #지역은행 #상업은행 #소매금융 #자산관리 #금융서비스 #텍사스본사 #미시간캘리포니아주력시장 #배당주 #현금관리서비스 #기업금융 #중소기업금융 #국제금융 #예금서비스 #대출상품 #신용카드 #주택담보대출 #외환서비스 #투자은행업무 #디지털뱅킹 #지속적배당성장
 
 ## 산업섹터
 
-섹터: [[금융\|금융]]  
-산업: [[지역은행\|지역은행]]
+섹터: [[금융]]  
+산업: [[지역은행]]
 
 ## 영위사업
 
-Comerica Inc는 [[텍사스\|텍사스]] 달라스에 본사를 둔 지역 금융 서비스 기업으로, 약 $793억 달러의 자산을 보유하고 있습니다. 회사는 크게 비즈니스 뱅크, 리테일 뱅크, 자산관리라는 세 가지 부문으로 운영됩니다. 미시간, 캘리포니아, 텍사스가 주요 시장이며, 애리조나와 플로리다에서도 사업을 확장하고 있습니다. 또한 캐나다와 멕시코에도 진출해 있습니다. 380개의 뱅킹 센터를 운영하며, 미국 15개 주요 대도시 중 14곳에서 서비스를 제공합니다.
+Comerica Inc는 [[텍사스]] 달라스에 본사를 둔 지역 금융 서비스 기업으로, 약 $793억 달러의 자산을 보유하고 있습니다. 회사는 크게 비즈니스 뱅크, 리테일 뱅크, 자산관리라는 세 가지 부문으로 운영됩니다. 미시간, 캘리포니아, 텍사스가 주요 시장이며, 애리조나와 플로리다에서도 사업을 확장하고 있습니다. 또한 캐나다와 멕시코에도 진출해 있습니다. 380개의 뱅킹 센터를 운영하며, 미국 15개 주요 대도시 중 14곳에서 서비스를 제공합니다.
 
 주요 제품으로는 당좌예금, 저축계좌, 예금증서 등의 예금 서비스와 주택담보대출, 개인대출, 기업대출, 교육대출, 자동차대출 등 다양한 대출 상품을 제공합니다. 추가적으로 재무관리, 자산 및 부채 관리, 중개, 장비 리스, 외환, 국제 및 무역 금융, 신탁 및 보관, 기관 투자, 기업 투자 뱅킹, 자금 조달, 자문, 온라인 뱅킹, 모바일 뱅킹 서비스 등을 제공합니다.
 
@@ -36,37 +35,37 @@ Comerica Inc는 [[텍사스\|텍사스]] 달라스에 본사를 둔 지역 금�
 
 전방산업:
 
-- 중소기업: 비즈니스 대출 및 현금 관리 서비스의 수요자 (US Chamber of Commerce([[US Chamber of Commerce\|US Chamber of Commerce]]), National Federation of Independent Business([[NFIB\|NFIB]]))
+- 중소기업: 비즈니스 대출 및 현금 관리 서비스의 수요자 (US Chamber of Commerce([[US Chamber of Commerce]]), National Federation of Independent Business([[NFIB]]))
     
-- 상업용 부동산: 부동산 개발 금융 수요자 (Simon Property Group(US, [[2.개별종목/SPG\|SPG]]), Equity Residential(US, [[EQR\|EQR]]))
+- 상업용 부동산: 부동산 개발 금융 수요자 (Simon Property Group(US, [[SPG]]), Equity Residential(US, [[EQR]]))
     
-- 개인 소비자: 소매 금융 상품 사용자 (American Consumer Council([[American Consumer Council\|American Consumer Council]]))
+- 개인 소비자: 소매 금융 상품 사용자 (American Consumer Council([[American Consumer Council]]))
     
 
 후방산업:
 
-- 금융 기술: 핵심 뱅킹 시스템 및 디지털 솔루션 제공 (Fiserv(US, [[FI\|FI]]), Jack Henry & Associates(US, [[JKHY\|JKHY]]), Plaid([[Plaid\|Plaid]]))
+- 금융 기술: 핵심 뱅킹 시스템 및 디지털 솔루션 제공 (Fiserv(US, [[FI]]), Jack Henry & Associates(US, [[JKHY]]), Plaid([[Plaid]]))
     
-- 규제 기관: 은행 규제 및 감독 (Federal Reserve([[Federal Reserve\|Federal Reserve]]), FDIC([[FDIC\|FDIC]]), OCC([[OCC\|OCC]]))
+- 규제 기관: 은행 규제 및 감독 (Federal Reserve([[Federal Reserve]]), FDIC([[FDIC]]), OCC([[OCC]]))
     
-- 데이터 보안: 사이버 보안 및 데이터 보호 솔루션 (Palo Alto Networks(US, [[2.개별종목/PANW\|PANW]]), CrowdStrike(US, [[2.개별종목/CRWD\|CRWD]]))
+- 데이터 보안: 사이버 보안 및 데이터 보호 솔루션 (Palo Alto Networks(US, [[PANW]]), CrowdStrike(US, [[CRWD]]))
     
 
 ## 밸류체인
 
-1. 자금 조달: 예금 수취 및 자본 시장 활동 (Comerica(US, [[2.개별종목/CMA\|CMA]]), 예금자 및 투자자로부터 자금 확보)
+1. 자금 조달: 예금 수취 및 자본 시장 활동 (Comerica(US, [[CMA]]), 예금자 및 투자자로부터 자금 확보)
     
-2. 언더라이팅: 대출 심사 및 위험 평가 (Comerica(US, [[2.개별종목/CMA\|CMA]]), 신용평가 및 대출 승인 과정)
+2. 언더라이팅: 대출 심사 및 위험 평가 (Comerica(US, [[CMA]]), 신용평가 및 대출 승인 과정)
     
-3. 대출 서비스: 개인 및 기업 대출 상품 제공 (Comerica(US, [[2.개별종목/CMA\|CMA]]), 다양한 대출 상품)
+3. 대출 서비스: 개인 및 기업 대출 상품 제공 (Comerica(US, [[CMA]]), 다양한 대출 상품)
     
-4. 지급 결제: 결제 시스템 및 서비스 (Comerica(US, [[2.개별종목/CMA\|CMA]]), Visa(US, [[2.개별종목/V\|V]]), Mastercard(US, [[2.개별종목/MA\|MA]]))
+4. 지급 결제: 결제 시스템 및 서비스 (Comerica(US, [[CMA]]), Visa(US, [[V]]), Mastercard(US, [[MA]]))
     
-5. 자산 관리: 투자 자문 및 포트폴리오 관리 (Comerica(US, [[2.개별종목/CMA\|CMA]]), BlackRock(US, [[2.개별종목/BLK\|BLK]]))
+5. 자산 관리: 투자 자문 및 포트폴리오 관리 (Comerica(US, [[CMA]]), BlackRock(US, [[BLK]]))
     
-6. 현금 관리: 기업 자금 관리 솔루션 (Comerica(US, [[2.개별종목/CMA\|CMA]]), JPMorgan Chase(US, [[2.개별종목/JPM\|JPM]]))
+6. 현금 관리: 기업 자금 관리 솔루션 (Comerica(US, [[CMA]]), JPMorgan Chase(US, [[JPM]]))
     
-7. 디지털 뱅킹: 온라인 및 모바일 금융 서비스 (Comerica(US, [[2.개별종목/CMA\|CMA]]), Bank of America(US, [[2.개별종목/BAC\|BAC]]))
+7. 디지털 뱅킹: 온라인 및 모바일 금융 서비스 (Comerica(US, [[CMA]]), Bank of America(US, [[BAC]]))
     
 
 ## 주요제품
@@ -103,25 +102,25 @@ Comerica의 주요 고객은 다음과 같습니다:
 
 ## 경쟁업체
 
-1. JPMorgan Chase(US, [[2.개별종목/JPM\|JPM]]): 종합 금융 서비스 및 상업 은행
+1. JPMorgan Chase(US, [[JPM]]): 종합 금융 서비스 및 상업 은행
     
-2. Bank of America(US, [[2.개별종목/BAC\|BAC]]): 소매 및 상업 은행 서비스
+2. Bank of America(US, [[BAC]]): 소매 및 상업 은행 서비스
     
-3. Wells Fargo(US, [[2.개별종목/WFC\|WFC]]): 다양한 금융 서비스 제공
+3. Wells Fargo(US, [[WFC]]): 다양한 금융 서비스 제공
     
-4. PNC Financial(US, [[2.개별종목/PNC\|PNC]]): 상업 은행 및 소매 금융
+4. PNC Financial(US, [[PNC]]): 상업 은행 및 소매 금융
     
-5. U.S. Bancorp(US, [[2.개별종목/USB\|USB]]): 지역 은행 서비스
+5. U.S. Bancorp(US, [[USB]]): 지역 은행 서비스
     
-6. Truist Financial(US, [[TFC\|TFC]]): 상업 및 소매 은행 서비스
+6. Truist Financial(US, [[TFC]]): 상업 및 소매 은행 서비스
     
-7. Fifth Third Bancorp(US, [[FITB\|FITB]]): 중서부 중심 지역 은행
+7. Fifth Third Bancorp(US, [[FITB]]): 중서부 중심 지역 은행
     
-8. KeyCorp(US, [[2.개별종목/KEY\|KEY]]): 상업 및 소매 은행 서비스
+8. KeyCorp(US, [[KEY]]): 상업 및 소매 은행 서비스
     
-9. Regions Financial(US, [[RF\|RF]]): 남부 중심 지역 은행
+9. Regions Financial(US, [[RF]]): 남부 중심 지역 은행
     
-10. M&T Bank(US, [[MTB\|MTB]]): 동부 중심 지역 은행
+10. M&T Bank(US, [[MTB]]): 동부 중심 지역 은행
     
 
 ## 산업 내 글로벌 시장 점유율
@@ -156,12 +155,12 @@ Comerica의 주요 고객은 다음과 같습니다:
 
 ## 관련 ETF
 
-1. Financial Select Sector SPDR Fund - [[XLF\|XLF]]
+1. Financial Select Sector SPDR Fund - [[XLF]]
     
-2. SPDR S&P Regional Banking ETF - [[KRE\|KRE]]
+2. SPDR S&P Regional Banking ETF - [[KRE]]
     
-3. iShares U.S. Regional Banks ETF - [[IAT\|IAT]]
+3. iShares U.S. Regional Banks ETF - [[IAT]]
     
-4. First Trust Nasdaq Bank ETF - [[FTXO\|FTXO]]
+4. First Trust Nasdaq Bank ETF - [[FTXO]]
     
-5. Invesco KBW Bank ETF - [[KBWB\|KBWB]]
+5. Invesco KBW Bank ETF - [[KBWB]]

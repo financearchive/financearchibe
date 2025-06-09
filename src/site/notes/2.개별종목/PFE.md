@@ -1,18 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/PFE/","created":"2024-09-13T17:41:30.105+09:00","updated":"2025-06-03T20:06:00.653+09:00"}
+dg-publish: true
 ---
-
 #제약 #바이오테크 #백신 #면역학 #종양학 #심장학 #내분비학 #신경학 #COVID19백신 #Comirnaty #Eliquis #Prevnar #Palbociclib #Vyndaqel #연구개발 #글로벌제약 #혁신의약품 #바이오의약품 #제네릭 #지적재산권 #바이오 
 
 ## 산업섹터
 
-섹터: [[헬스케어\|헬스케어]]
+섹터: [[헬스케어]]
 
-산업: [[제약\|제약]]
+산업: [[제약]]
 
 ## 영위사업
 
-Pfizer Inc.(NYSE: PFE)는 미국의 다국적 제약 및 [[1.Study/★ 산업/헬스케어/3.바이오테크/바이오테크\|바이오테크]]놀로지 기업입니다. 주요 사업 영역은 면역학, 종양학, 심장학, 내분비학, 신경학 분야의 의약품과 백신 개발 및 생산입니다.
+Pfizer Inc.(NYSE: PFE)는 미국의 다국적 제약 및 [[바이오테크]]놀로지 기업입니다. 주요 사업 영역은 면역학, 종양학, 심장학, 내분비학, 신경학 분야의 의약품과 백신 개발 및 생산입니다.
 
 주요 제품으로는 COVID-19 백신인 Comirnaty, 항응고제 Eliquis, 폐렴구균 백신, 유방암 치료제 Palbociclib, 희귀질환 치료제 Tafamidis 등이 있습니다. 2023년 기준 매출 기여도가 높은 제품은 Comirnaty(110억 달러), Eliquis(60억 달러), 폐렴구균 백신(60억 달러) 순입니다.
 
@@ -32,31 +31,31 @@ Pfizer의 핵심 경쟁력은 강력한 R&D 역량과 다양한 제품 포트폴
 
 전방산업:
 
-- 의료서비스: 병원, 클리닉 (HCA Healthcare(US, [[2.개별종목/HCA\|HCA]]), UnitedHealth Group(US, [[2.개별종목/UNH\|UNH]]))
-- 약국 체인: CVS Health(US, [[2.개별종목/CVS\|CVS]]), Walgreens Boots Alliance(US, [[2.개별종목/WBA\|WBA]])
-- 의약품 유통: McKesson(US, [[2.개별종목/MCK\|MCK]]), AmerisourceBergen(US, [[2.개별종목/ABC\|ABC]])
+- 의료서비스: 병원, 클리닉 (HCA Healthcare(US, [[HCA]]), UnitedHealth Group(US, [[UNH]]))
+- 약국 체인: CVS Health(US, [[CVS]]), Walgreens Boots Alliance(US, [[WBA]])
+- 의약품 유통: McKesson(US, [[MCK]]), AmerisourceBergen(US, [[ABC]])
 
 후방산업:
 
-- 생명공학 연구: Illumina(US, [[2.개별종목/ILMN\|ILMN]]), Thermo Fisher Scientific(US, [[2.개별종목/TMO\|TMO]])
-- 원료의약품 제조: Lonza Group(CH, [[2.개별종목/LONN\|LONN]])
-- 의약품 패키징: West Pharmaceutical Services(US, [[2.개별종목/WST\|WST]])
+- 생명공학 연구: Illumina(US, [[ILMN]]), Thermo Fisher Scientific(US, [[TMO]])
+- 원료의약품 제조: Lonza Group(CH, [[LONN]])
+- 의약품 패키징: West Pharmaceutical Services(US, [[WST]])
 
 ## 밸류체인
 
-1. 연구개발: Pfizer(US, [[2.개별종목/PFE\|PFE]]), Moderna(US, [[2.개별종목/MRNA\|MRNA]]) (mRNA 기술)
-2. 임상시험: IQVIA(US, [[2.개별종목/IQV\|IQV]]), Parexel International(US, [[Parexel International\|Parexel International]]) (임상시험 서비스)
-3. 제조: Pfizer(US, [[2.개별종목/PFE\|PFE]]), Catalent(US, [[2.개별종목/CTLT\|CTLT]]) (의약품 제조)
-4. 유통: McKesson(US, [[2.개별종목/MCK\|MCK]]), AmerisourceBergen(US, [[2.개별종목/ABC\|ABC]]) (의약품 유통)
-5. 판매 및 마케팅: Pfizer(US, [[2.개별종목/PFE\|PFE]]), Johnson & Johnson(US, [[2.개별종목/JNJ\|JNJ]]) (글로벌 마케팅)
-6. 환자 서비스: UnitedHealth Group(US, [[2.개별종목/UNH\|UNH]]), CVS Health(US, [[2.개별종목/CVS\|CVS]]) (의료서비스 및 약국)
+1. 연구개발: Pfizer(US, [[PFE]]), Moderna(US, [[MRNA]]) (mRNA 기술)
+2. 임상시험: IQVIA(US, [[IQV]]), Parexel International(US, [[Parexel International]]) (임상시험 서비스)
+3. 제조: Pfizer(US, [[PFE]]), Catalent(US, [[CTLT]]) (의약품 제조)
+4. 유통: McKesson(US, [[MCK]]), AmerisourceBergen(US, [[ABC]]) (의약품 유통)
+5. 판매 및 마케팅: Pfizer(US, [[PFE]]), Johnson & Johnson(US, [[JNJ]]) (글로벌 마케팅)
+6. 환자 서비스: UnitedHealth Group(US, [[UNH]]), CVS Health(US, [[CVS]]) (의료서비스 및 약국)
 
 ## 주요제품
 
 - Comirnaty: COVID-19 백신, 매출의 약 19% (2023년 기준)
-- Eliquis: [[항응고제\|항응고제]], 매출의 약 10% (2023년 기준)
-- Prevnar: [[폐렴구균 백신\|폐렴구균 백신]], 매출의 약 10% (2023년 기준)
-- Palbociclib: [[유방암 치료제\|유방암 치료제]], 매출의 약 7% (2023년 기준)
+- Eliquis: [[항응고제]], 매출의 약 10% (2023년 기준)
+- Prevnar: [[폐렴구균 백신]], 매출의 약 10% (2023년 기준)
+- Palbociclib: [[유방암 치료제]], 매출의 약 7% (2023년 기준)
 - Vyndaqel/Vyndamax: 희귀질환 치료제, 매출의 약 5% (2023년 기준)
 
 ## 주요 고객
@@ -73,12 +72,12 @@ Pfizer의 핵심 경쟁력은 강력한 R&D 역량과 다양한 제품 포트폴
 
 ## 경쟁업체
 
-- Johnson & Johnson(US, [[2.개별종목/JNJ\|JNJ]]) - 다양한 의약품 및 의료기기
-- Roche Holding AG(CH, [[2.개별종목/ROG\|ROG]]) - 암 치료제 및 진단기기
-- Eli Lilly and Co.(US, [[2.개별종목/LLY\|LLY]]) - 당뇨병 및 종양 치료제
-- AbbVie Inc.(US, [[2.개별종목/ABBV\|ABBV]]) - 면역학 및 종양학 치료제
-- Novo Nordisk A/S(DK, [[NOVO-B\|NOVO-B]]) - 당뇨병 및 비만 치료제
-- Merck & Co.(US, [[2.개별종목/MRK\|MRK]]) - 백신 및 종양 치료제
+- Johnson & Johnson(US, [[JNJ]]) - 다양한 의약품 및 의료기기
+- Roche Holding AG(CH, [[ROG]]) - 암 치료제 및 진단기기
+- Eli Lilly and Co.(US, [[LLY]]) - 당뇨병 및 종양 치료제
+- AbbVie Inc.(US, [[ABBV]]) - 면역학 및 종양학 치료제
+- Novo Nordisk A/S(DK, [[NOVO-B]]) - 당뇨병 및 비만 치료제
+- Merck & Co.(US, [[MRK]]) - 백신 및 종양 치료제
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -100,8 +99,8 @@ Pfizer는 2024년 3분기 기준 글로벌 제약 시장에서 약 7.88%의 점�
 
 ## 관련 ETF
 
-- Health Care Select Sector SPDR Fund - [[XLV\|XLV]]
-- iShares U.S. Pharmaceuticals ETF - [[IHE\|IHE]]
-- VanEck Pharmaceutical ETF - [[PPH\|PPH]]
-- Invesco Dynamic Pharmaceuticals ETF - [[PJP\|PJP]]
-- First Trust Nasdaq Pharmaceuticals ETF - [[FTXH\|FTXH]]
+- Health Care Select Sector SPDR Fund - [[XLV]]
+- iShares U.S. Pharmaceuticals ETF - [[IHE]]
+- VanEck Pharmaceutical ETF - [[PPH]]
+- Invesco Dynamic Pharmaceuticals ETF - [[PJP]]
+- First Trust Nasdaq Pharmaceuticals ETF - [[FTXH]]

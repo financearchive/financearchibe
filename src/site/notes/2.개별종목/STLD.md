@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/STLD/","created":"2025-02-11T12:50:14.857+09:00","updated":"2025-06-03T20:06:01.374+09:00"}
+dg-publish: true
 ---
-
 Steel Dynamics Inc (NASDAQ: STLD) is one of the largest domestic steel producers and metals recyclers in the United States. Here are key details about the company:
 
 ## 핵심 키워드
@@ -10,16 +9,16 @@ Steel Dynamics Inc (NASDAQ: STLD) is one of the largest domestic steel producers
 
 ## 산업섹터
 
-섹터: [[소재\|소재]]
-산업: [[1.Study/★ 산업/원자재 산업/2.철강/철강\|철강]]
+섹터: [[소재]]
+산업: [[철강]]
 
 ## 영위사업
 
-Steel Dynamics는 1993년 설립되어 현재 미국 내 최대 규모의 [[1.Study/★ 산업/원자재 산업/2.철강/철강\|철강]] 생산 및 금속 재활용 기업 중 하나입니다. 주요 사업 부문은 다음과 같습니다:
+Steel Dynamics는 1993년 설립되어 현재 미국 내 최대 규모의 [[철강]] 생산 및 금속 재활용 기업 중 하나입니다. 주요 사업 부문은 다음과 같습니다:
 
-1. 철강 생산: 평[[판 압연강\|판 압연강]], 구조용강, 특수강 등 다양한 철강 제품 생산
-2. [[금속 재활용\|금속 재활용]]: OmniSource 자회사를 통한 철 및 비철 금속 재활용
-3. 철강 가공: New Millennium Building Systems를 통한 [[건축용 철강 제품\|건축용 철강 제품]] 생산
+1. 철강 생산: 평[[판 압연강]], 구조용강, 특수강 등 다양한 철강 제품 생산
+2. [[금속 재활용]]: OmniSource 자회사를 통한 철 및 비철 금속 재활용
+3. 철강 가공: New Millennium Building Systems를 통한 [[건축용 철강 제품]] 생산
 
 2024년 기준 연간 철강 생산 능력은 약 1600만 톤이며, 전기 아크로 기술을 사용해 재활용 철 스크랩을 주 원료로 활용하는 친환경적인 생산 방식을 채택하고 있습니다. 최근에는 알루미늄 사업 진출, 코팅 라인 확장 등 사업 다각화를 추진하고 있습니다.
 
@@ -44,10 +43,10 @@ Steel Dynamics는 1993년 설립되어 현재 미국 내 최대 규모의 [[1.St
 
 ## 경쟁업체
 
-- Nucor Corporation(US, [[2.개별종목/NUE\|NUE]])
-- United States Steel Corporation(US, [[2.개별종목/X\|X]])
-- Cleveland-Cliffs Inc(US, [[2.개별종목/CLF\|CLF]])
-- Commercial Metals Company(US, [[CMC\|CMC]])
+- Nucor Corporation(US, [[NUE]])
+- United States Steel Corporation(US, [[X]])
+- Cleveland-Cliffs Inc(US, [[CLF]])
+- Commercial Metals Company(US, [[CMC]])
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -68,6 +67,6 @@ Steel Dynamics는 2024년 기준 미국 철강 시장에서 약 11%의 점유율
 
 ## 관련 ETF
 
-- VanEck Vectors Steel ETF - [[SLX\|SLX]]
-- Materials Select Sector SPDR Fund - [[XLB\|XLB]]
-- iShares U.S. Basic Materials ETF - [[IYM\|IYM]]
+- VanEck Vectors Steel ETF - [[SLX]]
+- Materials Select Sector SPDR Fund - [[XLB]]
+- iShares U.S. Basic Materials ETF - [[IYM]]

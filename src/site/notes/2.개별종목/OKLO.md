@@ -1,33 +1,32 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/OKLO/","created":"2024-10-03T21:17:15.833+09:00","updated":"2025-06-03T20:06:00.506+09:00"}
+dg-publish: true
 ---
-
 #에너지 #원전 #우라늄 #원자력 #소형모듈형원자로 #SMR #4세대SMR #고순도저농축우라늄 #소듐 #Aurora원자로
 
 ## 산업섹터
 
-- Sector: Energy([[에너지\|에너지]])
-- Industry: Nuclear Power([[1.Study/★ 산업/에너지 산업/2.친환경 에너지/1.원자력발전/원자력 발전\|원자력 발전]])
+- Sector: Energy([[에너지]])
+- Industry: Nuclear Power([[원자력 발전]])
 
 ## 영위사업
 
-Oklo Inc.는  [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/1.원자력발전/INFO_원자력발전/4세대 SMR\|4세대 SMR]] 기술인 [[소듐냉각 고속로\|소듐냉각 고속로]] (SFR)를 개발하는 회사로 저렴한 에너지를 제공하는 첨단 [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/1.원자력발전/원자력 발전\|원자력 발전]] 기술 회사입니다. 주요 제품은 Aurora라는 [[소형 모듈형 원자로\|소형 모듈형 원자로]](SMR)입니다.
+Oklo Inc.는  [[4세대 SMR]] 기술인 [[소듐냉각 고속로]] (SFR)를 개발하는 회사로 저렴한 에너지를 제공하는 첨단 [[원자력 발전]] 기술 회사입니다. 주요 제품은 Aurora라는 [[소형 모듈형 원자로]](SMR)입니다.
 
-에너지로는 [[고순도 저농축 우라늄\|고순도 저농축 우라늄]](HALEU) 사용
+에너지로는 [[고순도 저농축 우라늄]](HALEU) 사용
 
-- 감속재 : 없음 / 냉각재 : 액체금속 [[소듐\|소듐]] 
+- 감속재 : 없음 / 냉각재 : 액체금속 [[소듐]] 
 
 ## 전방/후방산업
 
 - 전방산업:
     
     - 핵심 산업 및 역할: 전력 공급, 데이터 센터, 산업 시설
-    - 관련 기업: Equinix (US, [[2.개별종목/EQIX\|EQIX]]), Diamondback Energy (US, [[2.개별종목/FANG\|FANG]])
+    - 관련 기업: Equinix (US, [[EQIX]]), Diamondback Energy (US, [[FANG]])
     
 - 후방산업:
     
     - 핵심 산업 및 역할: 핵연료 공급, 원자력 장비 제조
-    - 관련 기업: Centrus Energy (US, [[2.개별종목/LEU\|LEU]]), Siemens Energy (DE, [[ENR.DE\|ENR.DE]])
+    - 관련 기업: Centrus Energy (US, [[LEU]]), Siemens Energy (DE, [[ENR.DE]])
     
 
 ## 밸류체인
@@ -39,7 +38,7 @@ Oklo Inc.는  [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/1.원�
 
 ## 주요제품
 
-- [[Aurora 원자로\|Aurora 원자로]]: 15-50 MWe 전력 생산, 10년 이상 무급유 운전 가능
+- [[Aurora 원자로]]: 15-50 MWe 전력 생산, 10년 이상 무급유 운전 가능
 - 방사성 동위원소 생산
 - 핵연료 재활용 기술
 
@@ -49,9 +48,9 @@ Oklo Inc.는  [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/1.원�
 
 ## 경쟁업체
 
-- NuScale Power (US, [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/1.원자력발전/SMR\|SMR]])
-- [[2.개별종목/TerraPower\|TerraPower]] (비상장)
-- X-energy (US, [[2.개별종목/XE\|XE]])
+- NuScale Power (US, [[SMR]])
+- [[TerraPower]] (비상장)
+- X-energy (US, [[XE]])
 
 ## 산업 내 글로벌 시장 점유율
 

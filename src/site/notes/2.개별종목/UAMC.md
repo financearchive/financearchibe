@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/UAMC/","created":"2024-12-27T10:04:54.545+09:00","updated":"2025-06-03T20:06:01.819+09:00"}
+dg-publish: true
 ---
-
 #알루미늄 #자동차부품 #경량화 #정밀가공 #압출 #주조 #표면처리 #자동차산업 #전기차 #하이브리드차 #내연기관차 #소재기술 #글로벌공급망 #환경규제 #연비향상  #재활용 #소재
 
-[[소재\|소재]] 섹터  
-[[1.Study/★ 산업/원자재 산업/1.비철금속/★ 비철금속 & 귀금속/알루미늄/알루미늄\|알루미늄]](Aluminum) 산업
+[[소재]] 섹터  
+[[알루미늄]](Aluminum) 산업
 
 ## 영위사업
 
-UACJ Automotive Whitehall Industries, Inc.(UAMC)는 미국의 [[자동차용 알루미늄 부품 제조\|자동차용 알루미늄 부품 제조]] 전문 기업입니다. 2016년 [[일본의 UACJ Corporation에 인수\|일본의 UACJ Corporation에 인수]]되어 현재는 UACJ 그룹의 일원으로 운영되고 있습니다.주요 사업 부문:
+UACJ Automotive Whitehall Industries, Inc.(UAMC)는 미국의 [[자동차용 알루미늄 부품 제조]] 전문 기업입니다. 2016년 [[일본의 UACJ Corporation에 인수]]되어 현재는 UACJ 그룹의 일원으로 운영되고 있습니다.주요 사업 부문:
 
-1. [[1.Study/★ 산업/원자재 산업/1.비철금속/★ 비철금속 & 귀금속/알루미늄/알루미늄\|알루미늄]] 압출: 자동차용 구조재 및 부품 생산
+1. [[알루미늄]] 압출: 자동차용 구조재 및 부품 생산
 2. 정밀 가공: CNC 머시닝, 벤딩, 용접 등을 통한 고정밀 부품 제작
 3. 표면 처리: 아노다이징, 도장 등 다양한 표면 처리 기술 적용
 
@@ -29,31 +28,31 @@ UAMC는 특히 전기차, 하이브리드차, 내연기관차 등 다양한 차�
 
 전방산업:
 
-1. 자동차 제조: Ford Motor Company(US, [[2.개별종목/F\|F]]), General Motors Company(US, [[2.개별종목/GM\|GM]])
-2. 전기차 제조: Tesla, Inc.(US, [[2.개별종목/TSLA\|TSLA]]), Rivian Automotive, Inc.(US, [[2.개별종목/RIVN\|RIVN]])
-3. 자동차 부품: Magna International Inc.(CA, [[2.개별종목/MGA\|MGA]])
+1. 자동차 제조: Ford Motor Company(US, [[F]]), General Motors Company(US, [[GM]])
+2. 전기차 제조: Tesla, Inc.(US, [[TSLA]]), Rivian Automotive, Inc.(US, [[RIVN]])
+3. 자동차 부품: Magna International Inc.(CA, [[MGA]])
 
 후방산업:
 
-1. 알루미늄 제련: Alcoa Corporation(US, [[2.개별종목/AA\|AA]])
-2. 합금 개발: Novelis Inc.([[Novelis\|Novelis]])
-3. 기계 장비: Haas Automation, Inc.([[Haas Automation\|Haas Automation]])
+1. 알루미늄 제련: Alcoa Corporation(US, [[AA]])
+2. 합금 개발: Novelis Inc.([[Novelis]])
+3. 기계 장비: Haas Automation, Inc.([[Haas Automation]])
 
 ## 밸류체인
 
-1. 원재료 공급: Alcoa Corporation(US, [[2.개별종목/AA\|AA]]) - 알루미늄 원재료
-2. 합금 개발: Novelis Inc.([[Novelis\|Novelis]]) - 자동차용 특수 알루미늄 합금
+1. 원재료 공급: Alcoa Corporation(US, [[AA]]) - 알루미늄 원재료
+2. 합금 개발: Novelis Inc.([[Novelis]]) - 자동차용 특수 알루미늄 합금
 3. 압출: UACJ Automotive Whitehall Industries, Inc. - 알루미늄 프로파일 생산
 4. 정밀 가공: UACJ Automotive Whitehall Industries, Inc. - CNC 가공, 벤딩 등
 5. 표면 처리: UACJ Automotive Whitehall Industries, Inc. - 아노다이징, 도장
-6. 조립: Magna International Inc.(CA, [[2.개별종목/MGA\|MGA]]) - 자동차 부품 시스템 조립
-7. 완성차 제조: Ford Motor Company(US, [[2.개별종목/F\|F]]) - 최종 제품 생산
+6. 조립: Magna International Inc.(CA, [[MGA]]) - 자동차 부품 시스템 조립
+7. 완성차 제조: Ford Motor Company(US, [[F]]) - 최종 제품 생산
 
 ## 주요제품
 
 1. 알루미늄 구조재: 차체 프레임, 범퍼 빔 등 (자동차 경량화)
-2. 배터리 하우징: [[전기차 및 하이브리드차용 배터리 보호 케이스\|전기차 및 하이브리드차용 배터리 보호 케이스]]
-3. [[열관리 시스템 부품\|열관리 시스템 부품]]: 라디에이터, 인터쿨러 등 (엔진 효율 개선)
+2. 배터리 하우징: [[전기차 및 하이브리드차용 배터리 보호 케이스]]
+3. [[열관리 시스템 부품]]: 라디에이터, 인터쿨러 등 (엔진 효율 개선)
 4. 서스펜션 부품: 컨트롤 암, 서브프레임 등 (주행 성능 향상)
 5. 인테리어 트림: 도어 패널, 센터 콘솔 등 (실내 디자인)
 
@@ -61,11 +60,11 @@ UAMC는 특히 전기차, 하이브리드차, 내연기관차 등 다양한 차�
 
 UAMC의 주요 고객은 북미 지역의 주요 자동차 제조업체들입니다:
 
-1. Ford Motor Company(US, [[2.개별종목/F\|F]])
-2. General Motors Company(US, [[2.개별종목/GM\|GM]])
-3. Stellantis N.V.(NL, [[2.개별종목/STLA\|STLA]])
-4. Tesla, Inc.(US, [[2.개별종목/TSLA\|TSLA]])
-5. Rivian Automotive, Inc.(US, [[2.개별종목/RIVN\|RIVN]])
+1. Ford Motor Company(US, [[F]])
+2. General Motors Company(US, [[GM]])
+3. Stellantis N.V.(NL, [[STLA]])
+4. Tesla, Inc.(US, [[TSLA]])
+5. Rivian Automotive, Inc.(US, [[RIVN]])
 
 ## 주요 판매국가
 
@@ -73,11 +72,11 @@ UAMC의 주요 판매 국가는 미국을 중심으로 한 북미 지역입니�
 
 ## 경쟁업체
 
-1. Constellium SE(FR, [[CSTM\|CSTM]]) - 자동차용 알루미늄 압출 및 가공
-2. Novelis Inc.([[Novelis\|Novelis]]) - 자동차용 알루미늄 시트 및 압출품
-3. Magna International Inc.(CA, [[2.개별종목/MGA\|MGA]]) - 다양한 자동차 부품 및 시스템
-4. Martinrea International Inc.(CA, [[MRE\|MRE]]) - 경량 금속 부품 제조
-5. Nemak, S.A.B. de C.V.(MX, [[NEMAK\|NEMAK]]) - 알루미늄 엔진 부품 및 구조재
+1. Constellium SE(FR, [[CSTM]]) - 자동차용 알루미늄 압출 및 가공
+2. Novelis Inc.([[Novelis]]) - 자동차용 알루미늄 시트 및 압출품
+3. Magna International Inc.(CA, [[MGA]]) - 다양한 자동차 부품 및 시스템
+4. Martinrea International Inc.(CA, [[MRE]]) - 경량 금속 부품 제조
+5. Nemak, S.A.B. de C.V.(MX, [[NEMAK]]) - 알루미늄 엔진 부품 및 구조재
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -97,8 +96,8 @@ UAMC는 UACJ Corporation의 완전 자회사이므로, UACJ Corporation이 100% 
 
 ## 관련 ETF
 
-1. SPDR S&P Metals and Mining ETF - [[XME\|XME]]
-2. iShares Global Materials ETF - [[MXI\|MXI]]
-3. Invesco S&P 500 Equal Weight Materials ETF - [[RTM\|RTM]]
-4. First Trust Materials AlphaDEX Fund - [[FXZ\|FXZ]]
-5. VanEck Vectors Steel ETF - [[SLX\|SLX]]
+1. SPDR S&P Metals and Mining ETF - [[XME]]
+2. iShares Global Materials ETF - [[MXI]]
+3. Invesco S&P 500 Equal Weight Materials ETF - [[RTM]]
+4. First Trust Materials AlphaDEX Fund - [[FXZ]]
+5. VanEck Vectors Steel ETF - [[SLX]]

@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/MAT/","created":"2025-02-06T22:58:31.519+09:00","updated":"2025-06-03T20:06:00.035+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #장난감제조 #바비인형 #핫휠 #피셔프라이스 #브랜드라이선싱 #콘텐츠제작 #디지털게임 #교육완구 #지속가능성 #글로벌유통 #IP활용 #캐릭터머천다이징 #STEM완구 #라이프스타일브랜드 #e커머스 #AR #VR #AI완구 #ESG #디지털전환
 
 ## 산업섹터
 
-섹터: [[임의소비재\|임의소비재]]
-산업: [[완구및게임\|완구및게임]]
+섹터: [[임의소비재]]
+산업: [[완구및게임]]
 
 ## 영위사업
 
-Mattel, Inc.(NASDAQ: MAT)는 미국의 다국적 [[1.Study/★ 산업/유통,도소매, 개인생활용품 산업/완구\|완구]] 제조 기업입니다. 1945년 설립된 이 회사는 세계적으로 유명한 [[장난감\|장난감]] 브랜드를 다수 보유하고 있습니다. 주요 사업 부문은 다음과 같습니다:
+Mattel, Inc.(NASDAQ: MAT)는 미국의 다국적 [[완구]] 제조 기업입니다. 1945년 설립된 이 회사는 세계적으로 유명한 [[장난감]] 브랜드를 다수 보유하고 있습니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 인형 카테고리: Barbie, American Girl 등
 2. 인팬트, 토들러 & 프리스쿨: Fisher-Price, Thomas & Friends 등
@@ -34,20 +33,20 @@ Mattel, Inc.(NASDAQ: MAT)는 미국의 다국적 [[1.Study/★ 산업/유통,도
 
 전방산업:
 
-- 소매업: Walmart(US, [[2.개별종목/WMT\|WMT]]), Target(US, [[2.개별종목/TGT\|TGT]])
-- e커머스: Amazon(US, [[2.개별종목/AMZN\|AMZN]]), Alibaba(CN, [[2.개별종목/BABA\|BABA]])
-- 엔터테인먼트: Walt Disney Company(US, [[2.개별종목/DIS\|DIS]]), Netflix(US, [[2.개별종목/NFLX\|NFLX]])
+- 소매업: Walmart(US, [[WMT]]), Target(US, [[TGT]])
+- e커머스: Amazon(US, [[AMZN]]), Alibaba(CN, [[BABA]])
+- 엔터테인먼트: Walt Disney Company(US, [[DIS]]), Netflix(US, [[NFLX]])
 
 후방산업:
 
-- 원자재 공급: DuPont(US, [[2.개별종목/DD\|DD]]), BASF(DE, [[BAS\|BAS]])
-- 전자부품: Texas Instruments(US, [[2.개별종목/TXN\|TXN]]), Microchip Technology(US, [[2.개별종목/MCHP\|MCHP]])
-- 패키징: International Paper(US, [[2.개별종목/IP\|IP]]), WestRock(US, [[WRK\|WRK]])
+- 원자재 공급: DuPont(US, [[DD]]), BASF(DE, [[BAS]])
+- 전자부품: Texas Instruments(US, [[TXN]]), Microchip Technology(US, [[MCHP]])
+- 패키징: International Paper(US, [[IP]]), WestRock(US, [[WRK]])
 
 ## 주요제품
 
-- [[Barbie\|Barbie]]: 인형 및 관련 제품, 매출의 약 30% (2024년 기준)
-- Hot Wheels: [[미니카\|미니카]] 및 트랙 세트, 매출의 약 20% (2024년 기준)
+- [[Barbie]]: 인형 및 관련 제품, 매출의 약 30% (2024년 기준)
+- Hot Wheels: [[미니카]] 및 트랙 세트, 매출의 약 20% (2024년 기준)
 - Fisher-Price: 유아 및 미취학 아동용 완구, 매출의 약 15% (2024년 기준)
 - American Girl: 프리미엄 인형 및 액세서리, 매출의 약 10% (2024년 기준)
 - 기타 브랜드: UNO, Mega Bloks 등, 매출의 약 25% (2024년 기준)
@@ -58,10 +57,10 @@ Mattel, Inc.(NASDAQ: MAT)는 미국의 다국적 [[1.Study/★ 산업/유통,도
 
 ## 경쟁업체
 
-- Hasbro(US, [[2.개별종목/HAS\|HAS]]): 다양한 완구 및 게임 브랜드 보유
+- Hasbro(US, [[HAS]]): 다양한 완구 및 게임 브랜드 보유
 - LEGO Group(DK): 블록 완구 시장 선도
-- Spin Master(CA, [[TOY\|TOY]]): 혁신적인 완구 및 엔터테인먼트 제품
-- Jakks Pacific(US, [[JAKK\|JAKK]]): 라이선스 기반 완구 및 소비자 제품
+- Spin Master(CA, [[TOY]]): 혁신적인 완구 및 엔터테인먼트 제품
+- Jakks Pacific(US, [[JAKK]]): 라이선스 기반 완구 및 소비자 제품
 - MGA Entertainment(US): L.O.L. Surprise! 등 인기 브랜드 보유 (비상장)
 
 ## 산업 내 글로벌 시장 점유율
@@ -85,8 +84,8 @@ Mattel은 2024년 기준 글로벌 완구 시장에서 약 15%의 점유율을 �
 
 ## 관련 ETF
 
-- Consumer Discretionary Select Sector SPDR Fund - [[XLY\|XLY]]
-- Vanguard Consumer Discretionary ETF - [[VCR\|VCR]]
-- iShares U.S. Consumer Goods ETF - [[IYK\|IYK]]
-- Invesco Dynamic Leisure and Entertainment ETF - [[PEJ\|PEJ]]
-- Global X Millennial Consumer ETF - [[MILN\|MILN]]
+- Consumer Discretionary Select Sector SPDR Fund - [[XLY]]
+- Vanguard Consumer Discretionary ETF - [[VCR]]
+- iShares U.S. Consumer Goods ETF - [[IYK]]
+- Invesco Dynamic Leisure and Entertainment ETF - [[PEJ]]
+- Global X Millennial Consumer ETF - [[MILN]]

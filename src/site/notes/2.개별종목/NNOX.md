@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/NNOX/","created":"2025-02-17T13:57:23.810+09:00","updated":"2025-06-03T20:06:00.379+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #의료영상 #디지털X선 #냉음극기술 #AI진단 #클라우드플랫폼 #의료기기 #나노기술 #원격진단 #의료접근성 #비용효율성 #MSaaS #NanoxARC #NanoxCLOUD #NanoxAI #FDA승인 #글로벌확장 #혁신의료기술 #3D토모신테시스 #만성질환진단 #ESG
 
 ## 산업섹터
 
-섹터: [[헬스케어\|헬스케어]]  
+섹터: [[헬스케어]]  
 산업: #의료기기
 
 ## 영위사업
 
-Nano-X Imaging Ltd(NASDAQ: NNOX)는 혁신적인 [[의료 영상\|의료 영상]] 기술을 개발하는 이스라엘 기반 기업입니다. 주요 사업 영역은 다음과 같습니다:
+Nano-X Imaging Ltd(NASDAQ: NNOX)는 혁신적인 [[의료 영상]] 기술을 개발하는 이스라엘 기반 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
 1. Nanox.ARC: FDA 승인을 받은 디지털 멀티소스 3D 토모신테시스 영상 시스템
     
@@ -50,18 +49,18 @@ Nano-X Imaging Ltd(NASDAQ: NNOX)는 혁신적인 [[의료 영상\|의료 영상]
 
 후방산업:
 
-- 반도체 산업: X선 센서 및 처리 칩 제조 (TSMC(TW, [[2.개별종목/TSM\|TSM]]), Intel(US, [[2.개별종목/INTC\|INTC]]))
+- 반도체 산업: X선 센서 및 처리 칩 제조 (TSMC(TW, [[TSM]]), Intel(US, [[INTC]]))
     
-- 소프트웨어 개발: AI 및 클라우드 기술 (NVIDIA(US, [[2.개별종목/NVDA\|NVDA]]), Microsoft(US, [[2.개별종목/MSFT\|MSFT]]))
+- 소프트웨어 개발: AI 및 클라우드 기술 (NVIDIA(US, [[NVDA]]), Microsoft(US, [[MSFT]]))
     
 
 ## 밸류체인
 
 6. 연구개발: Nano-X Imaging Ltd, 학술 파트너
     
-7. 부품 제조: TSMC(TW, [[2.개별종목/TSM\|TSM]]), Intel(US, [[2.개별종목/INTC\|INTC]]) (반도체 칩)
+7. 부품 제조: TSMC(TW, [[TSM]]), Intel(US, [[INTC]]) (반도체 칩)
     
-8. 시스템 조립: Foxconn(TW, [[Foxconn\|Foxconn]]) (계약 제조)
+8. 시스템 조립: Foxconn(TW, [[Foxconn]]) (계약 제조)
     
 9. 소프트웨어 개발: Nano-X Imaging Ltd, 외부 AI 파트너
     
@@ -74,11 +73,11 @@ Nano-X Imaging Ltd(NASDAQ: NNOX)는 혁신적인 [[의료 영상\|의료 영상]
 
 12. Nanox.ARC: 디지털 멀티소스 3D 토모신테시스 영상 시스템 (의료 영상 진단용)
     
-13. Nanox.AI: [[심장, 뼈, 간 질환 진단을 위한 AI 솔루션\|심장, 뼈, 간 질환 진단을 위한 AI 솔루션]]
+13. Nanox.AI: [[심장, 뼈, 간 질환 진단을 위한 AI 솔루션]]
     
 14. Nanox.CLOUD: 의료 영상 제공자와 시설을 연결하는 글로벌 진단 플랫폼
     
-15. Nanox.SOURCE: 실리콘 기반 [[저전압 나노스케일 냉음극 X선\|저전압 나노스케일 냉음극 X선]] 발생 기술
+15. Nanox.SOURCE: 실리콘 기반 [[저전압 나노스케일 냉음극 X선]] 발생 기술
     
 
 ## 주요 판매국가
@@ -87,15 +86,15 @@ Nano-X Imaging Ltd(NASDAQ: NNOX)는 혁신적인 [[의료 영상\|의료 영상]
 
 ## 경쟁업체
 
-16. General Electric(US, [[2.개별종목/GE\|GE]]): 의료 영상 장비 및 솔루션
+16. General Electric(US, [[GE]]): 의료 영상 장비 및 솔루션
     
-17. Siemens Healthineers(DE, [[SHL\|SHL]]): 의료 영상 및 진단 기술
+17. Siemens Healthineers(DE, [[SHL]]): 의료 영상 및 진단 기술
     
-18. Philips Healthcare(NL, [[2.개별종목/PHG\|PHG]]): 의료 영상 및 정보 시스템
+18. Philips Healthcare(NL, [[PHG]]): 의료 영상 및 정보 시스템
     
-19. Fujifilm Holdings(JP, [[4901\|4901]]): 의료 영상 및 정보 시스템
+19. Fujifilm Holdings(JP, [[4901]]): 의료 영상 및 정보 시스템
     
-20. Canon Medical Systems(JP, [[7751\|7751]]): 의료 영상 장비 및 솔루션
+20. Canon Medical Systems(JP, [[7751]]): 의료 영상 장비 및 솔루션
     
 
 ## 산업 내 글로벌 시장 점유율
@@ -126,12 +125,12 @@ Nano-X Imaging은 혁신적인 기술을 보유한 신생 기업으로, 현재 �
 
 ## 관련 ETF
 
-29. ARK Genomic Revolution ETF - [[ARKG\|ARKG]]
+29. ARK Genomic Revolution ETF - [[ARKG]]
     
-30. iShares U.S. Medical Devices ETF - [[IHI\|IHI]]
+30. iShares U.S. Medical Devices ETF - [[IHI]]
     
-31. SPDR S&P Health Care Equipment ETF - [[XHE\|XHE]]
+31. SPDR S&P Health Care Equipment ETF - [[XHE]]
     
-32. Invesco S&P SmallCap Health Care ETF - [[PSCH\|PSCH]]
+32. Invesco S&P SmallCap Health Care ETF - [[PSCH]]
     
-33. First Trust NYSE Arca Biotechnology Index Fund - [[FBT\|FBT]]
+33. First Trust NYSE Arca Biotechnology Index Fund - [[FBT]]

@@ -1,28 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/OKE/","created":"2024-12-18T11:26:36.062+09:00","updated":"2025-06-03T20:06:00.511+09:00"}
+dg-publish: true
 ---
-
 #에너지 #트럼프 #천연가스 #석유 #미드스트림 #파이프라인 #저장 #처리 #유통 #NGL #에너지인프라 #지속가능성 #LNG #에너지 #석유가스소비연료
 
 - 최근이슈
 	- 2024년
-		- [[00.투자기록/과거/2024/11월/2024-11-23\|2024-11-23]]: EnLink Midstream 잔여 지분 57% 인수 계약 발표 ($43억)
-		- [[00.투자기록/과거/2024/12월/2024-12-04\|2024-12-04]]: 텍사스 주 내 12.5만b/d 규모 NGL 분별기인 ‘MB-6’ 준공 및 NGL 파이프라인 확장 완료
+		- [[2024-11-23]]: EnLink Midstream 잔여 지분 57% 인수 계약 발표 ($43억)
+		- [[2024-12-04]]: 텍사스 주 내 12.5만b/d 규모 NGL 분별기인 ‘MB-6’ 준공 및 NGL 파이프라인 확장 완료
 
 ## 산업 섹터
 
-[[에너지\|에너지]]
+[[에너지]]
 
 ## 산업
 
-[[석유, 가스 및 소비 연료\|석유, 가스 및 소비 연료]](Oil, Gas & Consumable Fuels)
+[[석유, 가스 및 소비 연료]](Oil, Gas & Consumable Fuels)
 
 ## 영위사업
 
-ONEOK, Inc.(OKE)는 미국의 주요 [[미드스트림\|미드스트림]] 에너지 기업으로, [[1.Study/★ 산업/에너지 산업/1.화석 에너지/1.정유화학/천연가스\|천연가스]] 및 천연가스 액체(NGL) 수집, 처리, 저장, 수송 서비스를 제공합니다. 주요 사업 부문은 다음과 같습니다:
+ONEOK, Inc.(OKE)는 미국의 주요 [[미드스트림]] 에너지 기업으로, [[천연가스]] 및 천연가스 액체(NGL) 수집, 처리, 저장, 수송 서비스를 제공합니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 천연가스 수집 및 처리: 생산자로부터 천연가스를 수집하고 처리하여 파이프라인 품질의 천연가스로 변환
-2. 천연가스 액체([[1.Study/★ 산업/에너지 산업/1.화석 에너지/1.정유화학/INFO_정유, 기타에너지/NGL\|NGL]]): NGL의 수집, 분류, 저장 및 유통
+2. 천연가스 액체([[NGL]]): NGL의 수집, 분류, 저장 및 유통
 3. 천연가스 파이프라인: 주간 및 주내 천연가스 수송 서비스 제공
 4. 정제 제품 및 원유: 정제 제품 및 원유의 수송, 저장, 터미널 서비스 제공
 
@@ -30,11 +29,11 @@ ONEOK는 미국 중부 및 록키 산맥 지역에 광범위한 인프라 네트
 
 구조적 전력부족 문제에 대한 대안인 동시에 트럼프의 에너지 비용절감 최대 수혜테마. 밸류에이션 역시 경쟁사 대비 매력적
 
-![](/img/user/attachments/Pasted image 20241218113012.png)
+![](Pasted%20image%2020241218113012.png)
 
-미국 내 [[1.Study/★ 산업/에너지 산업/1.화석 에너지/1.정유화학/천연가스\|천연가스]] Midstream 대표 업체. ‘23년 원유/정제품으로 제품군 확대
+미국 내 [[천연가스]] Midstream 대표 업체. ‘23년 원유/정제품으로 제품군 확대
 
-[[1.Study/★ 산업/통신_데이터센터 산업/2.데이터센터/데이터센터\|데이터센터]]향 전력 수요 증가에 따라 천연가스 발전 확대 움직임
+[[데이터센터]]향 전력 수요 증가에 따라 천연가스 발전 확대 움직임
 
 트럼프의 Drill, Baby, Drill: 미국 천연가스 규제 완화로 생산량 증가세 분명(더욱 분명해질 Q 증가)
 
@@ -57,22 +56,22 @@ ONEOK의 핵심 경쟁력은 다음과 같습니다:
 
 1. 후방산업:
     
-    - 석유 및 가스 생산: ExxonMobil(US, [[2.개별종목/XOM\|XOM]]), Chevron(US, [[2.개별종목/CVX\|CVX]])
-    - 시추 장비: Schlumberger(US, [[2.개별종목/SLB\|SLB]])
+    - 석유 및 가스 생산: ExxonMobil(US, [[XOM]]), Chevron(US, [[CVX]])
+    - 시추 장비: Schlumberger(US, [[SLB]])
 2. 전방산업:
     
-    - 전력 생산: NextEra Energy(US, [[2.개별종목/NEE\|NEE]])
-    - 석유화학: Dow Inc.(US, [[2.개별종목/DOW\|DOW]])
-    - 가정용 및 상업용 천연가스 공급: Atmos Energy(US, [[2.개별종목/ATO\|ATO]])
+    - 전력 생산: NextEra Energy(US, [[NEE]])
+    - 석유화학: Dow Inc.(US, [[DOW]])
+    - 가정용 및 상업용 천연가스 공급: Atmos Energy(US, [[ATO]])
 
 ## 밸류체인
 
-1. 생산: ExxonMobil(US, [[2.개별종목/XOM\|XOM]]) - 석유 및 천연가스 생산
+1. 생산: ExxonMobil(US, [[XOM]]) - 석유 및 천연가스 생산
 2. 수집 및 처리: ONEOK (주요 사업 영역)
 3. 수송: ONEOK (주요 사업 영역)
 4. 저장: ONEOK (주요 사업 영역)
-5. 유통: Atmos Energy(US, [[2.개별종목/ATO\|ATO]]) - 최종 소비자에게 천연가스 공급
-6. 석유화학 가공: Dow Inc.(US, [[2.개별종목/DOW\|DOW]]) - NGL을 원료로 사용
+5. 유통: Atmos Energy(US, [[ATO]]) - 최종 소비자에게 천연가스 공급
+6. 석유화학 가공: Dow Inc.(US, [[DOW]]) - NGL을 원료로 사용
 
 ## 주요제품
 
@@ -95,11 +94,11 @@ ONEOK는 주로 미국 시장에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
 
-1. Kinder Morgan(US, [[2.개별종목/KMI\|KMI]]) - 천연가스 파이프라인
-2. Williams Companies(US, [[2.개별종목/WMB\|WMB]]) - 천연가스 처리 및 수송
-3. Energy Transfer(US, [[2.개별종목/ET\|ET]]) - 천연가스 및 NGL 서비스
-4. Enterprise Products Partners(US, [[2.개별종목/EPD\|EPD]]) - NGL 및 천연가스 서비스
-5. Targa Resources(US, [[2.개별종목/TRGP\|TRGP]]) - 천연가스 및 NGL 처리
+1. Kinder Morgan(US, [[KMI]]) - 천연가스 파이프라인
+2. Williams Companies(US, [[WMB]]) - 천연가스 처리 및 수송
+3. Energy Transfer(US, [[ET]]) - 천연가스 및 NGL 서비스
+4. Enterprise Products Partners(US, [[EPD]]) - NGL 및 천연가스 서비스
+5. Targa Resources(US, [[TRGP]]) - 천연가스 및 NGL 처리
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -123,6 +122,6 @@ ONEOK는 주로 미국 시장에서 사업을 영위하고 있습니다.
 
 ## 관련 ETF
 
-1. Energy Select Sector SPDR Fund - [[XLE\|XLE]]
-2. Alerian MLP ETF - [[AMLP\|AMLP]]
-3. Global X MLP & Energy Infrastructure ETF - [[MLPX\|MLPX]]
+1. Energy Select Sector SPDR Fund - [[XLE]]
+2. Alerian MLP ETF - [[AMLP]]
+3. Global X MLP & Energy Infrastructure ETF - [[MLPX]]

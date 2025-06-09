@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/PAVE/","created":"2025-03-20T21:54:44.388+09:00","updated":"2025-06-03T20:06:00.597+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #인프라투자 #미국인프라 #건설 #엔지니어링 #자재 #유틸리티 #테마ETF #지속가능성 #장기촉매 #미국경제 #정부투자 #인프라현대화 #공공사업 #교통인프라 #에너지인프라 #물류 #철도 #도로 #항만 #공항 #디지털인프라 #5G #AI #클라우드컴퓨팅 #스마트시티 #재생에너지 #전기차충전소 #물관리 
 
 ## 산업섹터
 
-섹터: [[금융\|금융]]  
-산업: [[자산관리\|자산관리]]
+섹터: [[금융]]  
+산업: [[자산관리]]
 
 ## 영위사업
 
-Global X U.S. Infrastructure Development ETF (PAVE)는 미국의 [[인프라 개발\|인프라 개발]]에 참여하는 기업에 투자하는 테마 ETF입니다. 이 ETF는 다음과 같은 주요 사업 영역을 포함합니다:
+Global X U.S. Infrastructure Development ETF (PAVE)는 미국의 [[인프라 개발]]에 참여하는 기업에 투자하는 테마 ETF입니다. 이 ETF는 다음과 같은 주요 사업 영역을 포함합니다:
 
 1. **인프라 개발**: 도로, 다리, 터널, 공항, 항만, 철도 등의 인프라 프로젝트에 참여하는 기업에 투자합니다.
     
@@ -43,35 +42,35 @@ PAVE는 Indxx U.S. Infrastructure Development Index를 추종하며, 이 인덱�
 
 전방산업:
 
-- **정부 및 공공 기관**: 인프라 프로젝트 발주 (U.S. Department of Transportation([[U.S. DOT\|U.S. DOT]]), Federal Highway Administration([[FHWA\|FHWA]]))
+- **정부 및 공공 기관**: 인프라 프로젝트 발주 (U.S. Department of Transportation([[U.S. DOT]]), Federal Highway Administration([[FHWA]]))
     
-- **민간 기업**: 상업용 부동산 개발, 에너지 프로젝트 (Brookfield Asset Management(US, [[BAM\|BAM]]), NextEra Energy(US, [[2.개별종목/NEE\|NEE]]))
+- **민간 기업**: 상업용 부동산 개발, 에너지 프로젝트 (Brookfield Asset Management(US, [[BAM]]), NextEra Energy(US, [[NEE]]))
     
 
 후방산업:
 
-- **건설 장비 및 자재 공급업체**: Caterpillar(US, [[2.개별종목/CAT\|CAT]]), Vulcan Materials(US, [[2.개별종목/VMC\|VMC]])
+- **건설 장비 및 자재 공급업체**: Caterpillar(US, [[CAT]]), Vulcan Materials(US, [[VMC]])
     
-- **소프트웨어 및 기술 솔루션**: Autodesk(US, [[2.개별종목/ADSK\|ADSK]]), Trimble(US, [[2.개별종목/TRMB\|TRMB]])
+- **소프트웨어 및 기술 솔루션**: Autodesk(US, [[ADSK]]), Trimble(US, [[TRMB]])
     
-- **금융 및 보험**: 프로젝트 자금 조달 및 보험 (Goldman Sachs(US, [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/2.태양광/종목/GS\|GS]]), AIG(US, [[2.개별종목/AIG\|AIG]]))
+- **금융 및 보험**: 프로젝트 자금 조달 및 보험 (Goldman Sachs(US, [[GS]]), AIG(US, [[AIG]]))
     
 
 ## 밸류체인
 
-1. **프로젝트 기획 및 컨설팅**: AECOM(US, [[2.개별종목/ACM\|ACM]]) (프로젝트 계획 및 컨설팅)
+1. **프로젝트 기획 및 컨설팅**: AECOM(US, [[ACM]]) (프로젝트 계획 및 컨설팅)
     
-2. **설계 및 엔지니어링**: Jacobs Engineering Group(US, [[J\|J]]) (인프라 설계 및 엔지니어링)
+2. **설계 및 엔지니어링**: Jacobs Engineering Group(US, [[J]]) (인프라 설계 및 엔지니어링)
     
-3. **프로젝트 관리**: Fluor Corporation(US, [[2.개별종목/FLR\|FLR]]) (프로젝트 관리 및 건설 감독)
+3. **프로젝트 관리**: Fluor Corporation(US, [[FLR]]) (프로젝트 관리 및 건설 감독)
     
-4. **건설 및 시공**: Bechtel(US, [[BCT\|BCT]]) (건설 및 시공)
+4. **건설 및 시공**: Bechtel(US, [[BCT]]) (건설 및 시공)
     
-5. **자재 및 장비 공급**: Caterpillar(US, [[2.개별종목/CAT\|CAT]]) (건설 장비), Vulcan Materials(US, [[2.개별종목/VMC\|VMC]]) (건설 자재)
+5. **자재 및 장비 공급**: Caterpillar(US, [[CAT]]) (건설 장비), Vulcan Materials(US, [[VMC]]) (건설 자재)
     
-6. **기술 및 디지털 솔루션**: Autodesk(US, [[2.개별종목/ADSK\|ADSK]]) (BIM 소프트웨어), Trimble(US, [[2.개별종목/TRMB\|TRMB]]) (건설 기술)
+6. **기술 및 디지털 솔루션**: Autodesk(US, [[ADSK]]) (BIM 소프트웨어), Trimble(US, [[TRMB]]) (건설 기술)
     
-7. **유지보수 및 운영**: AECOM(US, [[2.개별종목/ACM\|ACM]]) (인프라 유지보수 및 운영)
+7. **유지보수 및 운영**: AECOM(US, [[ACM]]) (인프라 유지보수 및 운영)
     
 
 ## 주요제품
@@ -145,12 +144,12 @@ PAVE는 ETF이므로 주주가 아닌 투자자들이 있습니다. 주요 투�
 
 ## 관련 ETF
 
-1. **Global X US Infrastructure Development ETF - [[2.개별종목/PAVE\|PAVE]]**
+1. **Global X US Infrastructure Development ETF - [[PAVE]]**
     
-2. **iShares Global Infrastructure ETF - [[IGF\|IGF]]**
+2. **iShares Global Infrastructure ETF - [[IGF]]**
     
-3. **SPDR S&P Global Infrastructure ETF - [[GII\|GII]]**
+3. **SPDR S&P Global Infrastructure ETF - [[GII]]**
     
-4. **First Trust Nasdaq Clean Edge Smart Grid Infrastructure Index Fund - [[GRID\|GRID]]**
+4. **First Trust Nasdaq Clean Edge Smart Grid Infrastructure Index Fund - [[GRID]]**
     
-5. **Invesco Water Resources ETF - [[PHO\|PHO]]**
+5. **Invesco Water Resources ETF - [[PHO]]**

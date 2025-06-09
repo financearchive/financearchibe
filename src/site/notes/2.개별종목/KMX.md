@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/KMX/","created":"2024-12-20T17:22:19.291+09:00","updated":"2025-06-03T20:05:59.760+09:00"}
+dg-publish: true
 ---
-
 #중고차 #자동차소매 #자동차 #임의소비재 #신차 
 
 ## 산업섹터
 
-Sector: [[임의소비재\|임의소비재]](Consumer Discretionary)  
-Industry: [[자동차 소매\|자동차 소매]](Auto & Truck Dealerships)
+Sector: [[임의소비재]](Consumer Discretionary)  
+Industry: [[자동차 소매]](Auto & Truck Dealerships)
 
 ## 영위사업
 
-이 회사는 중고차 소매업체다. 이 회사의 사업 부문에는 CarMax 판매 운영 및 CarMax [[1.Study/★ 산업/자동차 산업/자동차\|자동차]] 금융(CAF)이 포함된다.  
+이 회사는 중고차 소매업체다. 이 회사의 사업 부문에는 CarMax 판매 운영 및 CarMax [[자동차]] 금융(CAF)이 포함된다.  
 
 CarMax 판매 운영 부문은 자동차 머천다이징 및 서비스 운영의 모든 측면으로 구성된다.  
 CAF 부문은 CarMax에서 소매 차량을 구매하는 고객에게 금융을 제공하는 자체 금융 운영으로 구성된다.  
@@ -20,8 +19,8 @@ CarMax 판매 운영 부문은 중고 차량을 판매하고, 고객 및 기타 
 
 CarMax, Inc.는 미국 최대의 중고차 소매업체로, 주요 사업 영역은 다음과 같습니다:
 
-1. [[중고차\|중고차]] 판매
-2. [[신차\|신차]] 판매 (일부 매장)
+1. [[중고차]] 판매
+2. [[신차]] 판매 (일부 매장)
 3. 차량 금융 서비스 (CarMax Auto Finance)
 4. 차량 검사 및 정비 서비스
 5. 차량 보증 서비스 (MaxCare)
@@ -42,11 +41,11 @@ CarMax는 주로 미국 시장에서 사업을 영위하고 있으며, 전국에
 
 ## 경쟁업체
 
-1. AutoNation (US, [[2.개별종목/AN\|AN]])
-2. Lithia Motors (US, [[2.개별종목/LAD\|LAD]])
-3. Penske Automotive Group (US, [[2.개별종목/PAG\|PAG]])
-4. Carvana (US, [[2.개별종목/CVNA\|CVNA]])
-5. Vroom (US, [[2.개별종목/VRM\|VRM]])
+1. AutoNation (US, [[AN]])
+2. Lithia Motors (US, [[LAD]])
+3. Penske Automotive Group (US, [[PAG]])
+4. Carvana (US, [[CVNA]])
+5. Vroom (US, [[VRM]])
 
 ## 산업 내 글로벌 시장 점유율
 

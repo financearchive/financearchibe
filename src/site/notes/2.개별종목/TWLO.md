@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/TWLO/","created":"2025-02-17T13:56:25.856+09:00","updated":"2025-06-03T20:06:01.801+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #클라우드통신 #API #개발자플랫폼 #고객참여 #SMS #음성 #이메일 #인증 #AI #데이터분석 #확장성 #글로벌인프라 #CPaaS #디지털전환 #옴니채널 #실시간통신 #SaaS #마케팅자동화 #컨택센터 #IoT
 
 ## 산업섹터
 
-섹터: [[정보기술\|정보기술]]  
-산업: [[소프트웨어인프라\|소프트웨어인프라]]
+섹터: [[정보기술]]  
+산업: [[소프트웨어인프라]]
 
 ## 영위사업
 
-Twilio Inc는 [[클라우드 기반 통신 플랫폼\|클라우드 기반 통신 플랫폼]]을 제공하는 기업입니다. 주요 사업 영역은 다음과 같습니다:
+Twilio Inc는 [[클라우드 기반 통신 플랫폼]]을 제공하는 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
 1. 프로그래밍 가능한 음성 및 메시징 API
     
@@ -45,25 +44,25 @@ Twilio Inc는 [[클라우드 기반 통신 플랫폼\|클라우드 기반 통신
 
 전방산업:
 
-- 전자상거래: 고객 커뮤니케이션 및 주문 관리 (Amazon(US, [[2.개별종목/AMZN\|AMZN]]), Shopify(US, [[2.개별종목/SHOP\|SHOP]]))
+- 전자상거래: 고객 커뮤니케이션 및 주문 관리 (Amazon(US, [[AMZN]]), Shopify(US, [[SHOP]]))
     
-- 금융서비스: 고객 인증 및 알림 (PayPal(US, [[2.개별종목/PYPL\|PYPL]]), Square(US, [[2.개별종목/SQ\|SQ]]))
+- 금융서비스: 고객 인증 및 알림 (PayPal(US, [[PYPL]]), Square(US, [[SQ]]))
     
-- 헬스케어: 원격 진료 및 환자 관리 (Teladoc(US, [[TDOC\|TDOC]]))
+- 헬스케어: 원격 진료 및 환자 관리 (Teladoc(US, [[TDOC]]))
     
 
 후방산업:
 
-- 클라우드 인프라: 데이터 센터 및 네트워크 서비스 (Amazon Web Services(US, [[2.개별종목/AMZN\|AMZN]]), Microsoft Azure(US, [[2.개별종목/MSFT\|MSFT]]))
+- 클라우드 인프라: 데이터 센터 및 네트워크 서비스 (Amazon Web Services(US, [[AMZN]]), Microsoft Azure(US, [[MSFT]]))
     
-- 반도체: 통신 장비용 칩 제조 (Qualcomm(US, [[2.개별종목/QCOM\|QCOM]]), Broadcom(US, [[2.개별종목/AVGO\|AVGO]]))
+- 반도체: 통신 장비용 칩 제조 (Qualcomm(US, [[QCOM]]), Broadcom(US, [[AVGO]]))
     
 
 ## 밸류체인
 
 11. R&D: Twilio 자체 연구소, 학술 파트너십
     
-12. 인프라 제공: Amazon Web Services(US, [[2.개별종목/AMZN\|AMZN]]), Google Cloud(US, [[2.개별종목/GOOGL\|GOOGL]])
+12. 인프라 제공: Amazon Web Services(US, [[AMZN]]), Google Cloud(US, [[GOOGL]])
     
 13. API 개발: Twilio 엔지니어링 팀
     
@@ -91,7 +90,7 @@ Twilio Inc는 [[클라우드 기반 통신 플랫폼\|클라우드 기반 통신
 
 ## 주요고객
 
-Twilio는 2023년 4분기 기준 295,000개의 활성 고객 계정을 보유하고 있습니다. 주요 고객으로는 Airbnb(US, [[2.개별종목/ABNB\|ABNB]]), Shopify(US, [[2.개별종목/SHOP\|SHOP]]), Netflix(US, [[2.개별종목/NFLX\|NFLX]]), Spotify(US, [[2.개별종목/SPOT\|SPOT]]), Twitter 등이 있습니다.
+Twilio는 2023년 4분기 기준 295,000개의 활성 고객 계정을 보유하고 있습니다. 주요 고객으로는 Airbnb(US, [[ABNB]]), Shopify(US, [[SHOP]]), Netflix(US, [[NFLX]]), Spotify(US, [[SPOT]]), Twitter 등이 있습니다.
 
 ## 주요 판매국가
 
@@ -99,15 +98,15 @@ Twilio는 2023년 4분기 기준 295,000개의 활성 고객 계정을 보유하
 
 ## 경쟁업체
 
-23. Vonage(US, [[VG\|VG]])
+23. Vonage(US, [[VG]])
     
-24. Bandwidth(US, [[BAND\|BAND]])
+24. Bandwidth(US, [[BAND]])
     
-25. Sinch(SE, [[SINCH\|SINCH]])
+25. Sinch(SE, [[SINCH]])
     
-26. MessageBird(NL, [[MessageBird\|MessageBird]])
+26. MessageBird(NL, [[MessageBird]])
     
-27. Plivo(US, [[Plivo\|Plivo]])
+27. Plivo(US, [[Plivo]])
     
 
 ## 산업 내 글로벌 시장 점유율
@@ -138,12 +137,12 @@ Twilio는 2023년 4분기 기준 295,000개의 활성 고객 계정을 보유하
 
 ## 관련 ETF
 
-36. First Trust Cloud Computing ETF - [[SKYY\|SKYY]]
+36. First Trust Cloud Computing ETF - [[SKYY]]
     
-37. iShares Expanded Tech-Software Sector ETF - [[IGV\|IGV]]
+37. iShares Expanded Tech-Software Sector ETF - [[IGV]]
     
-38. SPDR S&P Software & Services ETF - [[XSW\|XSW]]
+38. SPDR S&P Software & Services ETF - [[XSW]]
     
-39. Invesco Dynamic Software ETF - [[PSJ\|PSJ]]
+39. Invesco Dynamic Software ETF - [[PSJ]]
     
-40. ARK Next Generation Internet ETF - [[ARKW\|ARKW]]
+40. ARK Next Generation Internet ETF - [[ARKW]]

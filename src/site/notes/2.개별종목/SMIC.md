@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/SMIC/","created":"2025-02-20T16:10:11.160+09:00","updated":"2025-06-03T20:06:01.236+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #반도체파운드리 #중국최대칩메이커 #첨단공정 #7nm기술 #AI칩 #IoT #자동차반도체 #국산화 #EUV리소그래피 #클라우드컴퓨팅 #5G #엣지컴퓨팅 #전력반도체 #이미지센서 #MCU #RF칩 #보안칩 #중국정부지원 #미중기술패권 #수출규제 #레거시 
@@ -11,16 +10,16 @@
 
 ## 산업섹터
 
-섹터: [[정보기술\|정보기술]]  
-산업: [[1.Study/★ 산업/반도체 산업/반도체\|반도체]]
+섹터: [[정보기술]]  
+산업: [[반도체]]
 
 ## 영위사업
 
-SMIC는 [[중국 최대의 반도체 파운드리\|중국 최대의 반도체 파운드리]] 기업으로, 집적회로(IC) 제조 서비스를 제공합니다. 350nm에서 7nm까지의 다양한 공정 기술을 보유하고 있으며, 로직, 혼합신호, RF, 고전압, 이미지센서 등 다양한 제품을 생산합니다. 
+SMIC는 [[중국 최대의 반도체 파운드리]] 기업으로, 집적회로(IC) 제조 서비스를 제공합니다. 350nm에서 7nm까지의 다양한 공정 기술을 보유하고 있으며, 로직, 혼합신호, RF, 고전압, 이미지센서 등 다양한 제품을 생산합니다. 
 
 중국 전역에 웨이퍼 제조 시설을 운영하고 있으며, 글로벌 고객사들에게 서비스를 제공합니다. 최근에는 7nm 공정 기술 개발에 성공하여 주목받았으며, 2024년에는 5nm 공정 기술 도입을 목표로 하고 있습니다. 미중 기술 패권 경쟁 속에서 중국 정부의 전폭적인 지원을 받으며 반도체 국산화의 핵심 기업으로 자리매김하고 있습니다.
 
-[[중국 최대 파운드리\|중국 최대 파운드리]]. 글로벌 점유율 3위(M/S 6%). 딥시크 출시 후 주가 약 36% 상승. 딥시크 생성형AI 모델 ‘R1’ 추론 과정에 [[화웨이\|화웨이]] AI 반도체 ‘어센드 910C’ 사용. 해당 7nm 칩 양산 가능 로컬 파운드리는 동사 유일
+[[중국 최대 파운드리]]. 글로벌 점유율 3위(M/S 6%). 딥시크 출시 후 주가 약 36% 상승. 딥시크 생성형AI 모델 ‘R1’ 추론 과정에 [[화웨이]] AI 반도체 ‘어센드 910C’ 사용. 해당 7nm 칩 양산 가능 로컬 파운드리는 동사 유일
 
 딥시크 등장의 최대 수혜는 중국 반도체 기업. 비록 딥시크의 보안과 비용 문제에 논란 있으나 결과적으로 고비용 하이엔드칩이 아니여도 챗GPT나 빅테크에 견줄만한 AI 기술 구현이 가능하다는 것을 증명. 
 
@@ -53,14 +52,14 @@ SMIC는 [[중국 최대의 반도체 파운드리\|중국 최대의 반도체 �
 
 - 스마트폰: 모바일 AP, 베이스밴드 칩 (Huawei, Xiaomi)
     
-- 자동차: 자율주행, 인포테인먼트 시스템 (BYD(CN, [[1211\|1211]]), NIO(CN, [[2.개별종목/NIO\|NIO]]))
+- 자동차: 자율주행, 인포테인먼트 시스템 (BYD(CN, [[1211]]), NIO(CN, [[NIO]]))
     
 
 후방산업:
 
-- 반도체 장비: 리소그래피, 식각 장비 (ASML(NL, [[2.개별종목/ASML\|ASML]]), Applied Materials(US, [[2.개별종목/AMAT\|AMAT]]))
+- 반도체 장비: 리소그래피, 식각 장비 (ASML(NL, [[ASML]]), Applied Materials(US, [[AMAT]]))
     
-- 소재: 웨이퍼, 포토레지스트 (Shin-Etsu Chemical(JP, [[4063\|4063]]), JSR Corporation(JP, [[4185\|4185]]))
+- 소재: 웨이퍼, 포토레지스트 (Shin-Etsu Chemical(JP, [[4063]]), JSR Corporation(JP, [[4185]]))
     
 
 ## 밸류체인
@@ -69,11 +68,11 @@ SMIC는 [[중국 최대의 반도체 파운드리\|중국 최대의 반도체 �
     
 2. 제조: SMIC (파운드리 서비스)
     
-3. 패키징/테스트: JCET(CN, [[600584\|600584]]), TFME(CN, [[002156\|002156]]) (후공정)
+3. 패키징/테스트: JCET(CN, [[600584]]), TFME(CN, [[002156]]) (후공정)
     
-4. 장비: ASML(NL, [[2.개별종목/ASML\|ASML]]), Tokyo Electron(JP, [[8035\|8035]]) (리소그래피, 식각 장비)
+4. 장비: ASML(NL, [[ASML]]), Tokyo Electron(JP, [[8035]]) (리소그래피, 식각 장비)
     
-5. 소재: Sumco(JP, [[3436\|3436]]), GlobalWafers(TW, [[6488\|6488]]) (웨이퍼)
+5. 소재: Sumco(JP, [[3436]]), GlobalWafers(TW, [[6488]]) (웨이퍼)
     
 
 ## 주요제품
@@ -93,13 +92,13 @@ SMIC는 [[중국 최대의 반도체 파운드리\|중국 최대의 반도체 �
 
 1. Huawei: 모바일 AP, 5G 베이스밴드 칩
     
-2. Qualcomm(US, [[2.개별종목/QCOM\|QCOM]]): 모바일 SoC, RF 프론트엔드 모듈
+2. Qualcomm(US, [[QCOM]]): 모바일 SoC, RF 프론트엔드 모듈
     
-3. Broadcom(US, [[2.개별종목/AVGO\|AVGO]]): 네트워크 프로세서, 스위치 칩
+3. Broadcom(US, [[AVGO]]): 네트워크 프로세서, 스위치 칩
     
-4. Texas Instruments(US, [[2.개별종목/TXN\|TXN]]): 아날로그 IC, 마이크로컨트롤러
+4. Texas Instruments(US, [[TXN]]): 아날로그 IC, 마이크로컨트롤러
     
-5. MediaTek(TW, [[2454\|2454]]): 모바일 SoC, WiFi 칩셋
+5. MediaTek(TW, [[2454]]): 모바일 SoC, WiFi 칩셋
     
 
 ## 주요 판매국가
@@ -108,15 +107,15 @@ SMIC는 [[중국 최대의 반도체 파운드리\|중국 최대의 반도체 �
 
 ## 경쟁업체
 
-1. TSMC(TW, [[2.개별종목/TSM\|TSM]]): 첨단 로직 IC 파운드리
+1. TSMC(TW, [[TSM]]): 첨단 로직 IC 파운드리
     
-2. [[1.Study/★ 테마/VR,AR,MR/종목/삼성전자\|삼성전자]](KR, [[005930\|005930]]): 메모리, 파운드리 서비스
+2. [[삼성전자]](KR, [[005930]]): 메모리, 파운드리 서비스
     
-3. GlobalFoundries(US, [[2.개별종목/GFS\|GFS]]): 특수 공정 파운드리
+3. GlobalFoundries(US, [[GFS]]): 특수 공정 파운드리
     
-4. UMC(TW, [[UMC\|UMC]]): 성숙 공정 파운드리
+4. UMC(TW, [[UMC]]): 성숙 공정 파운드리
     
-5. Hua Hong Semiconductor(CN, [[1347\|1347]]): 중국 2위 파운드리
+5. Hua Hong Semiconductor(CN, [[1347]]): 중국 2위 파운드리
     
 
 ## 산업 내 글로벌 시장 점유율
@@ -147,13 +146,13 @@ SMIC는 [[중국 최대의 반도체 파운드리\|중국 최대의 반도체 �
 
 ## 관련 ETF
 
-1. VanEck Semiconductor ETF - [[SMH\|SMH]]
+1. VanEck Semiconductor ETF - [[SMH]]
     
-2. iShares Semiconductor ETF - [[SOXX\|SOXX]]
+2. iShares Semiconductor ETF - [[SOXX]]
     
-3. Invesco China Technology ETF - [[CQQQ\|CQQQ]]
+3. Invesco China Technology ETF - [[CQQQ]]
     
-4. KraneShares CICC China 5G & Semiconductor ETF - [[KFVG\|KFVG]]
+4. KraneShares CICC China 5G & Semiconductor ETF - [[KFVG]]
     
-5. Global X China Semiconductor ETF - [[CHIS\|CHIS]]
+5. Global X China Semiconductor ETF - [[CHIS]]
     

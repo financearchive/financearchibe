@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/LW/","created":"2024-12-16T17:33:52.474+09:00","updated":"2025-06-03T20:05:59.982+09:00"}
+dg-publish: true
 ---
-
 #식품제품 #필수소비재 #냉동감자
 
 ## 산업섹터
 
-Sector: [[필수 소비재\|필수 소비재]](Consumer Staples)  
-Industry: [[식품 제품\|식품 제품]](Food Products)
+Sector: [[필수 소비재]](Consumer Staples)  
+Industry: [[식품 제품]](Food Products)
 
 ## 영위사업
 
-Lamb Weston Holdings, Inc.는 [[냉동 감자\|냉동 감자]] 제품의 세계적인 생산업체 및 유통업체입니다. 주요 사업 영역은 다음과 같습니다:
+Lamb Weston Holdings, Inc.는 [[냉동 감자]] 제품의 세계적인 생산업체 및 유통업체입니다. 주요 사업 영역은 다음과 같습니다:
 
 1. 냉동 감자 제품 제조 및 판매: 감자튀김, 웨지, 해시브라운 등
 2. 냉동 채소 및 애피타이저 제품 생산
@@ -34,7 +33,7 @@ Lamb Weston Holdings, Inc.는 [[냉동 감자\|냉동 감자]] 제품의 세계�
 ## 밸류체인
 
 1. 원재료 조달: 감자 재배 농가
-2. 제조: Lamb Weston Holdings (US, [[2.개별종목/LW\|LW]])
+2. 제조: Lamb Weston Holdings (US, [[LW]])
 3. 유통: 식품 서비스 유통업체, 소매업체
 4. 최종 소비자: 레스토랑, 일반 소비자
 
@@ -54,11 +53,11 @@ Lamb Weston은 전 세계적으로 사업을 영위하고 있으며, 특히 미�
 
 ## 경쟁업체
 
-1. Kraft Heinz (US, [[2.개별종목/KHC\|KHC]])
-2. BellRing Brands (US, [[BRBR\|BRBR]])
-3. Freshpet (US, [[FRPT\|FRPT]])
-4. BRF (브라질, [[BRFS\|BRFS]])
-5. Nomad Foods (영국, [[NOMD\|NOMD]])
+1. Kraft Heinz (US, [[KHC]])
+2. BellRing Brands (US, [[BRBR]])
+3. Freshpet (US, [[FRPT]])
+4. BRF (브라질, [[BRFS]])
+5. Nomad Foods (영국, [[NOMD]])
 
 ## 산업 내 글로벌 시장 점유율
 

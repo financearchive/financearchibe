@@ -1,33 +1,32 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/AXP/","created":"2024-09-12T09:21:16.450+09:00","updated":"2025-06-03T20:05:57.842+09:00"}
+dg-publish: true
 ---
-
 #신용카드사 #금융 #금융서비스 #신용서비스 
 
 #### 산업섹터 및 산업
 
-- **Sector**: [[금융 서비스\|금융 서비스]] (Financial Services)
-- **Industry**: [[신용 서비스\|신용 서비스]] (Credit Services)
+- **Sector**: [[금융 서비스]] (Financial Services)
+- **Industry**: [[신용 서비스]] (Credit Services)
 
 #### 영위사업
 
-American Express는 통합 결제 플랫폼을 운영하며, 주요 사업으로는 [[신용카드\|신용카드]] 발급, 상인 인수 및 카드 네트워크 운영이 있습니다. 또한, 여행 및 라이프스타일 서비스, 사기 방지 서비스, 고객 충성도 프로그램 설계 및 운영 등을 제공합니다.
+American Express는 통합 결제 플랫폼을 운영하며, 주요 사업으로는 [[신용카드]] 발급, 상인 인수 및 카드 네트워크 운영이 있습니다. 또한, 여행 및 라이프스타일 서비스, 사기 방지 서비스, 고객 충성도 프로그램 설계 및 운영 등을 제공합니다.
 
 #### 전방/후방산업
 
 - **전방산업**:
-    - **소비자 금융**: 신용카드 발급 및 관리 (예: Capital One Financial (US, [[2.개별종목/COF\|COF]]))
-    - **상인 서비스**: 상인 인수 및 결제 처리 (예: Square (US, [[2.개별종목/SQ\|SQ]]))
+    - **소비자 금융**: 신용카드 발급 및 관리 (예: Capital One Financial (US, [[COF]]))
+    - **상인 서비스**: 상인 인수 및 결제 처리 (예: Square (US, [[SQ]]))
 - **후방산업**:
-    - **기술 서비스**: 결제 처리 시스템 및 보안 솔루션 제공 (예: Fiserv (US, [[FISV\|FISV]]))
-    - **데이터 분석**: 소비자 데이터 분석 및 마케팅 솔루션 제공 (예: Palantir Technologies (US, [[2.개별종목/PLTR\|PLTR]]))
+    - **기술 서비스**: 결제 처리 시스템 및 보안 솔루션 제공 (예: Fiserv (US, [[FISV]]))
+    - **데이터 분석**: 소비자 데이터 분석 및 마케팅 솔루션 제공 (예: Palantir Technologies (US, [[PLTR]]))
 
 #### 밸류체인
 
-- **카드 발급**: American Express, Capital One Financial (US, [[2.개별종목/COF\|COF]])
-- **결제 처리**: Visa (US, [[2.개별종목/V\|V]]), Mastercard (US, [[2.개별종목/MA\|MA]])
-- **상인 인수**: Square (US, [[2.개별종목/SQ\|SQ]]), PayPal (US, [[2.개별종목/PYPL\|PYPL]])
-- **데이터 분석**: Palantir Technologies (US, [[2.개별종목/PLTR\|PLTR]]), IBM (US, [[2.개별종목/IBM\|IBM]])
+- **카드 발급**: American Express, Capital One Financial (US, [[COF]])
+- **결제 처리**: Visa (US, [[V]]), Mastercard (US, [[MA]])
+- **상인 인수**: Square (US, [[SQ]]), PayPal (US, [[PYPL]])
+- **데이터 분석**: Palantir Technologies (US, [[PLTR]]), IBM (US, [[IBM]])
 
 #### 주요제품
 
@@ -43,6 +42,6 @@ American Express는 통합 결제 플랫폼을 운영하며, 주요 사업으로
 
 #### 경쟁업체
 
-- **Visa (US, [[2.개별종목/V\|V]])**: 신용카드 및 결제 처리
-- **Mastercard (US, [[2.개별종목/MA\|MA]])**: 신용카드 및 결제 처리
-- **Discover Financial Services (US, [[2.개별종목/DFS\|DFS]])**: 신용카드 및 금융 서비스
+- **Visa (US, [[V]])**: 신용카드 및 결제 처리
+- **Mastercard (US, [[MA]])**: 신용카드 및 결제 처리
+- **Discover Financial Services (US, [[DFS]])**: 신용카드 및 금융 서비스

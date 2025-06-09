@@ -1,15 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/BRK.A/","created":"2025-02-25T17:42:10.266+09:00","updated":"2025-06-03T20:05:58.064+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #다각화기업 #가치투자 #보험 #철도 #에너지 #제조업 #소매업 #워렌버핏 #장기투자 #현금흐름 #분산투자 #인수합병 #자회사운영 #주주가치 #재무건전성 #브랜드파워 #경영자율성 #위험관리 #글로벌기업 #ESG
 
 ## 산업섹터
 
-섹터: [[금융\|금융]]  
-산업: [[복합금융\|복합금융]]
+섹터: [[금융]]  
+산업: [[복합금융]]
 
 ## 영위사업
 
@@ -49,16 +48,16 @@ Berkshire Hathaway Inc는 워렌 버핏이 이끄는 미국의 대표적인 다�
 
 전방산업:
 
-- 소비자 서비스: 보험, 소매, 에너지 공급 등 (Allstate(US, [[ALL\|ALL]]), Walmart(US, [[2.개별종목/WMT\|WMT]]))
+- 소비자 서비스: 보험, 소매, 에너지 공급 등 (Allstate(US, [[ALL]]), Walmart(US, [[WMT]]))
     
-- 운송 및 물류: 철도 운송 서비스 (Union Pacific(US, [[2.개별종목/UNP\|UNP]]), CSX(US, [[CSX\|CSX]]))
+- 운송 및 물류: 철도 운송 서비스 (Union Pacific(US, [[UNP]]), CSX(US, [[CSX]]))
     
 
 후방산업:
 
-- 원자재 공급: 제조업 원료 (Rio Tinto(UK, [[2.개별종목/RIO\|RIO]]), BHP(AU, [[2.개별종목/BHP\|BHP]]))
+- 원자재 공급: 제조업 원료 (Rio Tinto(UK, [[RIO]]), BHP(AU, [[BHP]]))
     
-- 기술 서비스: IT 인프라, 소프트웨어 (IBM(US, [[2.개별종목/IBM\|IBM]]), Microsoft(US, [[2.개별종목/MSFT\|MSFT]]))
+- 기술 서비스: IT 인프라, 소프트웨어 (IBM(US, [[IBM]]), Microsoft(US, [[MSFT]]))
     
 
 ## 밸류체인
@@ -95,15 +94,15 @@ Berkshire Hathaway Inc는 워렌 버핏이 이끄는 미국의 대표적인 다�
 
 ## 경쟁업체
 
-1. Blackstone Group(US, [[2.개별종목/BX\|BX]]): 대체투자 및 자산관리
+1. Blackstone Group(US, [[BX]]): 대체투자 및 자산관리
     
-2. JPMorgan Chase(US, [[2.개별종목/JPM\|JPM]]): 종합 금융 서비스
+2. JPMorgan Chase(US, [[JPM]]): 종합 금융 서비스
     
-3. Allianz SE(DE, [[ALV\|ALV]]): 보험 및 자산관리
+3. Allianz SE(DE, [[ALV]]): 보험 및 자산관리
     
-4. General Electric(US, [[2.개별종목/GE\|GE]]): 산업재 및 에너지
+4. General Electric(US, [[GE]]): 산업재 및 에너지
     
-5. 3M Company(US, [[2.개별종목/MMM\|MMM]]): 다각화된 제조업
+5. 3M Company(US, [[MMM]]): 다각화된 제조업
     
 
 ## 산업 내 글로벌 시장 점유율
@@ -136,12 +135,12 @@ Berkshire Hathaway는 다각화된 사업 포트폴리오로 인해 단일 시�
 
 ## 관련 ETF
 
-1. Financial Select Sector SPDR Fund - [[XLF\|XLF]]
+1. Financial Select Sector SPDR Fund - [[XLF]]
     
-2. Vanguard Financials ETF - [[VFH\|VFH]]
+2. Vanguard Financials ETF - [[VFH]]
     
-3. iShares U.S. Financials ETF - [[IYF\|IYF]]
+3. iShares U.S. Financials ETF - [[IYF]]
     
-4. Invesco KBW High Dividend Yield Financial ETF - [[KBWD\|KBWD]]
+4. Invesco KBW High Dividend Yield Financial ETF - [[KBWD]]
     
-5. SPDR S&P Insurance ETF - [[KIE\|KIE]]
+5. SPDR S&P Insurance ETF - [[KIE]]

@@ -1,25 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/MAS/","created":"2024-12-15T11:23:19.445+09:00","updated":"2025-06-03T20:06:00.018+09:00"}
+dg-publish: true
 ---
-
 #주택건설 #임의소비재 #배관 #주택개선 #건축장식 #건축제품
 
 ## 산업섹터
 
-섹터(Sector): [[임의소비재\|임의소비재]](Consumer Discretionary)  
-산업(Industry): [[주택건설\|주택건설]](Homebuilding)
+섹터(Sector): [[임의소비재]](Consumer Discretionary)  
+산업(Industry): [[주택건설]](Homebuilding)
 
 ## 영위사업
 
-Masco Corporation은 [[주택 개선\|주택 개선]] 및 [[건축 제품\|건축 제품]]의 세계적인 제조업체입니다. 주요 사업 부문은 다음과 같습니다:
+Masco Corporation은 [[주택 개선]] 및 [[건축 제품]]의 세계적인 제조업체입니다. 주요 사업 부문은 다음과 같습니다:
 
-1. [[배관\|배관]] 제품 (60.8%):
+1. [[배관]] 제품 (60.8%):
     
     - 수도꼭지, 싱크대, 욕조 및 샤워 시스템
     - 아크릴 욕조, 샤워 인클로저 및 트레이
     - 스파 및 운동 수영장 시스템
     - 황동/구리 및 복합 배관 부품
-2. [[건축 장식\|건축 장식]] 제품 (39.2%):
+2. [[건축 장식]] 제품 (39.2%):
     
     - 건축용 코팅 제품 (페인트, 프라이머, 특수 페인트, 착색제 및 방수 코팅)
     - 문과 창문용 가구, DIY 가구 및 장비
@@ -37,14 +36,14 @@ Masco는 북미에 30개를 포함하여 전 세계적으로 42개의 생산 시
 
 ## 후방산업
 
-- 원자재 공급업체: Alcoa (US, [[2.개별종목/AA\|AA]])
-- 화학 제품 제조업체: DuPont (US, [[2.개별종목/DD\|DD]])
+- 원자재 공급업체: Alcoa (US, [[AA]])
+- 화학 제품 제조업체: DuPont (US, [[DD]])
 
 ## 밸류체인
 
-1. 연구 개발: Masco Corporation (US, [[2.개별종목/MAS\|MAS]]) (제품 설계 및 혁신)
+1. 연구 개발: Masco Corporation (US, [[MAS]]) (제품 설계 및 혁신)
 2. 원자재 조달: 다양한 공급업체
-3. 제조: Masco Corporation (US, [[2.개별종목/MAS\|MAS]]) (42개 생산 시설)
+3. 제조: Masco Corporation (US, [[MAS]]) (42개 생산 시설)
 4. 유통: 도매업체, 소매업체, 직접 판매
 5. 설치 및 서비스: 계약업체 및 DIY 고객
 
@@ -62,11 +61,11 @@ Masco는 북미에 30개를 포함하여 전 세계적으로 42개의 생산 시
 
 ## 경쟁업체
 
-1. Lennox International (US, [[LII\|LII]]) (HVAC 시스템)
-2. Builders FirstSource (US, [[BLDR\|BLDR]]) (건축 자재)
-3. Owens Corning (US, [[OC\|OC]]) (건축 자재 및 복합 소재)
-4. A. O. Smith (US, [[AOS\|AOS]]) (온수기 및 정수 시스템)
-5. AAON (US, [[AAON\|AAON]]) (HVAC 장비)
+1. Lennox International (US, [[LII]]) (HVAC 시스템)
+2. Builders FirstSource (US, [[BLDR]]) (건축 자재)
+3. Owens Corning (US, [[OC]]) (건축 자재 및 복합 소재)
+4. A. O. Smith (US, [[AOS]]) (온수기 및 정수 시스템)
+5. AAON (US, [[AAON]]) (HVAC 장비)
 
 ## 산업 내 글로벌 시장 점유율
 

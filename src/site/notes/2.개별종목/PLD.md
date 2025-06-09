@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/PLD/","created":"2025-01-28T10:05:15.076+09:00","updated":"2025-06-03T20:06:00.691+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #물류부동산 #REIT #산업용부동산 #창고시설 #글로벌물류 #전자상거래 #공급망관리 #지속가능성 #스마트물류 #자산관리 #개발사업 #임대수익 #전략적자본 #포트폴리오다각화 #입지전략 #고객맞춤형솔루션 #디지털화 #ESG #마지막1마일배송 #도시근접물류 #리츠 
 
 ## 산업섹터
 
-섹터: [[1.Study/★ 산업/부동산/부동산\|부동산]]
-산업: [[1.Study/★ 산업/부동산/리츠\|리츠]]
+섹터: [[부동산]]
+산업: [[리츠]]
 
 ## 영위사업
 
-Prologis, Inc.(NYSE: PLD)는 글로벌 물류 부동산 분야의 선도 기업입니다. 주요 사업은 [[물류 시설의 소유, 운영, 개발 및 관리\|물류 시설의 소유, 운영, 개발 및 관리]]입니다. 2024년 12월 31일 기준으로 19개국에 걸쳐 약 12억 평방피트(1억 1,500만 평방미터)의 부동산을 보유 또는 투자하고 있습니다.회사의 사업 부문은 크게 두 가지로 나뉩니다:
+Prologis, Inc.(NYSE: PLD)는 글로벌 물류 부동산 분야의 선도 기업입니다. 주요 사업은 [[물류 시설의 소유, 운영, 개발 및 관리]]입니다. 2024년 12월 31일 기준으로 19개국에 걸쳐 약 12억 평방피트(1억 1,500만 평방미터)의 부동산을 보유 또는 투자하고 있습니다.회사의 사업 부문은 크게 두 가지로 나뉩니다:
 
 1. 부동산 운영: 임대 운영 및 개발 사업
 2. 전략적 자본: 비연결 공동투자 벤처 관리
@@ -32,29 +31,29 @@ Prologis는 약 6,700개의 다양한 고객 기반을 보유하고 있으며, �
 
 전방산업:
 
-- 전자상거래: Amazon(US, [[2.개별종목/AMZN\|AMZN]]), Alibaba(CN, [[2.개별종목/BABA\|BABA]])
-- 소매업: Walmart(US, [[2.개별종목/WMT\|WMT]]), Target(US, [[2.개별종목/TGT\|TGT]])
-- 물류 서비스: FedEx(US, [[2.개별종목/FDX\|FDX]]), UPS(US, [[2.개별종목/UPS\|UPS]])
+- 전자상거래: Amazon(US, [[AMZN]]), Alibaba(CN, [[BABA]])
+- 소매업: Walmart(US, [[WMT]]), Target(US, [[TGT]])
+- 물류 서비스: FedEx(US, [[FDX]]), UPS(US, [[UPS]])
 
 후방산업:
 
-- 건설 및 개발: Lennar Corporation(US, [[2.개별종목/LEN\|LEN]]), D.R. Horton(US, [[2.개별종목/DHI\|DHI]])
-- 부동산 서비스: CBRE Group(US, [[CBRE\|CBRE]]), Jones Lang LaSalle(US, [[JLL\|JLL]])
-- 기술 솔루션: Zebra Technologies(US, [[2.개별종목/ZBRA\|ZBRA]]), Honeywell(US, [[2.개별종목/HON\|HON]])
+- 건설 및 개발: Lennar Corporation(US, [[LEN]]), D.R. Horton(US, [[DHI]])
+- 부동산 서비스: CBRE Group(US, [[CBRE]]), Jones Lang LaSalle(US, [[JLL]])
+- 기술 솔루션: Zebra Technologies(US, [[ZBRA]]), Honeywell(US, [[HON]])
 
 ## 주요제품
 
-- [[물류 창고 임대\|물류 창고 임대]]: 다양한 규모와 유형의 물류 시설, 매출의 약 80% (2024년 기준)
+- [[물류 창고 임대]]: 다양한 규모와 유형의 물류 시설, 매출의 약 80% (2024년 기준)
 - 개발 사업: 맞춤형 물류 시설 개발, 매출의 약 15% (2024년 기준)
 - 자산 관리 서비스: 전략적 자본 부문을 통한 서비스, 매출의 약 5% (2024년 기준)
 
 ## 주요 고객
 
-- Amazon(US, [[2.개별종목/AMZN\|AMZN]]): 전자상거래 물류
-- FedEx(US, [[2.개별종목/FDX\|FDX]]): 글로벌 배송 서비스
-- DHL(DE, [[DPW\|DPW]]): 국제 물류
-- Home Depot(US, [[2.개별종목/HD\|HD]]): 홈 임프루브먼트 소매
-- UPS(US, [[2.개별종목/UPS\|UPS]]): 배송 및 공급망 솔루션
+- Amazon(US, [[AMZN]]): 전자상거래 물류
+- FedEx(US, [[FDX]]): 글로벌 배송 서비스
+- DHL(DE, [[DPW]]): 국제 물류
+- Home Depot(US, [[HD]]): 홈 임프루브먼트 소매
+- UPS(US, [[UPS]]): 배송 및 공급망 솔루션
 
 ## 주요 판매국가
 
@@ -62,11 +61,11 @@ Prologis는 약 6,700개의 다양한 고객 기반을 보유하고 있으며, �
 
 ## 경쟁업체
 
-- Duke Realty Corporation(US, [[DRE\|DRE]]): 산업용 부동산
-- Goodman Group(AU, [[GMG\|GMG]]): 산업 및 비즈니스 공간
-- Segro(GB, [[SGRO\|SGRO]]): 유럽 중심 물류 REIT
-- First Industrial Realty Trust(US, [[FR\|FR]]): 산업용 부동산 투자
-- Rexford Industrial Realty(US, [[REXR\|REXR]]): 남부 캘리포니아 중심 산업용 부동산
+- Duke Realty Corporation(US, [[DRE]]): 산업용 부동산
+- Goodman Group(AU, [[GMG]]): 산업 및 비즈니스 공간
+- Segro(GB, [[SGRO]]): 유럽 중심 물류 REIT
+- First Industrial Realty Trust(US, [[FR]]): 산업용 부동산 투자
+- Rexford Industrial Realty(US, [[REXR]]): 남부 캘리포니아 중심 산업용 부동산
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -89,11 +88,11 @@ Prologis는 2024년 기준 글로벌 물류 부동산 시장에서 약 9.53%의 
 
 ## 관련 ETF
 
-- Vanguard Real Estate ETF - [[VNQ\|VNQ]]
-- iShares U.S. Real Estate ETF - [[IYR\|IYR]]
-- Real Estate Select Sector SPDR Fund - [[XLRE\|XLRE]]
-- Schwab US REIT ETF - [[SCHH\|SCHH]]
-- Pacer Benchmark Industrial Real Estate SCTR ETF - [[INDS\|INDS]]
+- Vanguard Real Estate ETF - [[VNQ]]
+- iShares U.S. Real Estate ETF - [[IYR]]
+- Real Estate Select Sector SPDR Fund - [[XLRE]]
+- Schwab US REIT ETF - [[SCHH]]
+- Pacer Benchmark Industrial Real Estate SCTR ETF - [[INDS]]
 
 공유
 

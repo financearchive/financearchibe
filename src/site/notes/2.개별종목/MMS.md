@@ -1,18 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/MMS/","created":"2024-12-20T21:58:30.778+09:00","updated":"2025-06-03T20:06:00.136+09:00"}
+dg-publish: true
 ---
-
 #데이터처리및아웃소싱서비스 #정보기술 #정부 
 
 
 ## 산업섹터
 
-Sector: [[정보기술\|정보기술]](Information Technology)  
-Industry: [[데이터 처리 및 아웃소싱 서비스\|데이터 처리 및 아웃소싱 서비스]](Data Processing & Outsourced Services)
+Sector: [[정보기술]](Information Technology)  
+Industry: [[데이터 처리 및 아웃소싱 서비스]](Data Processing & Outsourced Services)
 
 ## 영위사업
 
-Maximus, Inc.는 [[정부\|정부]] 기관을 위한 비즈니스 프로세스 관리 및 기술 솔루션을 제공하는 회사입니다. 주요 사업 영역은 다음과 같습니다:
+Maximus, Inc.는 [[정부]] 기관을 위한 비즈니스 프로세스 관리 및 기술 솔루션을 제공하는 회사입니다. 주요 사업 영역은 다음과 같습니다:
 
 1. 건강 및 복지 서비스 관리
 2. 연방 정부 서비스
@@ -34,11 +33,11 @@ Maximus는 주로 미국, 캐나다, 영국, 호주, 뉴질랜드, 사우디아�
 
 ## 경쟁업체
 
-1. Jack Henry & Associates (US, [[JKHY\|JKHY]]) - 금융 기술 솔루션
-2. Genpact (US, [[G\|G]]) - 비즈니스 프로세스 관리
-3. ExlService (US, [[EXLS\|EXLS]]) - 운영 관리 및 분석 솔루션
-4. WEX (US, [[WEX\|WEX]]) - 결제 처리 및 정보 관리 서비스
-5. Euronet Worldwide (US, [[EEFT\|EEFT]]) - 전자 결제 및 거래 처리 솔루션
+1. Jack Henry & Associates (US, [[JKHY]]) - 금융 기술 솔루션
+2. Genpact (US, [[G]]) - 비즈니스 프로세스 관리
+3. ExlService (US, [[EXLS]]) - 운영 관리 및 분석 솔루션
+4. WEX (US, [[WEX]]) - 결제 처리 및 정보 관리 서비스
+5. Euronet Worldwide (US, [[EEFT]]) - 전자 결제 및 거래 처리 솔루션
 
 ## 산업 내 글로벌 시장 점유율
 

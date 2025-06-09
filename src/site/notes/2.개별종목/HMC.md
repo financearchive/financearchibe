@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/HMC/","created":"2024-12-24T15:10:31.531+09:00","updated":"2025-06-03T20:05:59.426+09:00"}
+dg-publish: true
 ---
-
 #임의소비재 #자동차 #자동차제조업체 #자동차제조업 #일본 #오토바이 
 
 ## 산업섹터
 
-Sector: [[임의소비재\|임의소비재]](Consumer Cyclical)  
-Industry: [[자동차 제조업체\|자동차 제조업체]](Auto Manufacturers)
+Sector: [[임의소비재]](Consumer Cyclical)  
+Industry: [[자동차 제조업체]](Auto Manufacturers)
 
 ## 영위사업
 
-Honda Motor Co Ltd는 1948년 설립된 [[1.Study/♠ 국가별 이슈/일본/일본\|일본]] 기업으로, 주요 사업 영역은 다음과 같습니다:
+Honda Motor Co Ltd는 1948년 설립된 [[일본]] 기업으로, 주요 사업 영역은 다음과 같습니다:
 
-1. [[1.Study/★ 산업/자동차 산업/자동차\|자동차]] 사업: 승용차, 경트럭 등 개발, 생산 및 판매
+1. [[자동차]] 사업: 승용차, 경트럭 등 개발, 생산 및 판매
 2. 오토바이 사업: 스포츠, 비즈니스, 출퇴근용 모델 및 ATV 등 생산
 3. 금융 서비스: 소매 대출 및 리스, 딜러 도매 금융 제공
 4. 파워 프로덕트 및 기타 사업: 범용 엔진, 잔디 깎는 기계, 발전기, 수중 펌프, 선외기 등 생산
@@ -34,15 +33,15 @@ Honda Motor Co Ltd는 1948년 설립된 [[1.Study/♠ 국가별 이슈/일본/�
 
 ## 밸류체인
 
-1. 연구개발: Honda Motor Co Ltd (US, [[2.개별종목/HMC\|HMC]])
-2. 제조: Honda Motor Co Ltd (US, [[2.개별종목/HMC\|HMC]])
+1. 연구개발: Honda Motor Co Ltd (US, [[HMC]])
+2. 제조: Honda Motor Co Ltd (US, [[HMC]])
 3. 유통: Honda 딜러십 네트워크
 4. 금융 서비스: Honda Financial Services
 
 ## 주요제품
 
 1. 자동차 (매출의 66%)
-2. [[오토바이\|오토바이]] (매출의 16%)
+2. [[오토바이]] (매출의 16%)
 3. 파워 프로덕트 (보트 엔진, 발전기, 잔디 깎는 기계 등)
 4. 금융 서비스
 
@@ -52,11 +51,11 @@ Honda는 전 세계 120개국 이상에서 제품을 판매하고 있으며, 특
 
 ## 경쟁업체
 
-1. Toyota Motor Corp (일본, [[2.개별종목/TM\|2.개별종목/TM]])
-2. General Motors Co (US, [[2.개별종목/GM\|GM]])
-3. Ford Motor Co (US, [[2.개별종목/F\|F]])
-4. Volkswagen AG (독일, [[VWAGY\|VWAGY]])
-5. Tesla Inc (US, [[2.개별종목/TSLA\|TSLA]])
+1. Toyota Motor Corp (일본, [[2.개별종목/TM]])
+2. General Motors Co (US, [[GM]])
+3. Ford Motor Co (US, [[F]])
+4. Volkswagen AG (독일, [[VWAGY]])
+5. Tesla Inc (US, [[TSLA]])
 
 ## 산업 내 글로벌 시장 점유율
 

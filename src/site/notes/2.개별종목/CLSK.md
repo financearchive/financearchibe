@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/CLSK/","created":"2024-12-17T21:26:43.167+09:00","updated":"2025-06-03T20:05:58.301+09:00"}
+dg-publish: true
 ---
-
 #비트코인 #금융 #자본시장 #비트코인채굴
 
 ## 산업섹터
 
-Sector: [[금융\|금융]]
-Industry: [[자본 시장\|자본 시장]](Capital Markets)
+Sector: [[금융]]
+Industry: [[자본 시장]](Capital Markets)
 
 ## 영위사업
 
-CleanSpark, Inc.는 미국을 중심으로 [[2.개별종목/비트코인\|비트코인]] 채굴 사업을 영위하는 기업입니다. 주요 사업 영역은 다음과 같습니다:
+CleanSpark, Inc.는 미국을 중심으로 [[비트코인]] 채굴 사업을 영위하는 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
-1. [[비트코인 채굴\|비트코인 채굴]]: 자체 소유 및 운영하는 데이터 센터를 통해 비트코인을 채굴합니다.
+1. [[비트코인 채굴]]: 자체 소유 및 운영하는 데이터 센터를 통해 비트코인을 채굴합니다.
 2. 지속 가능한 에너지 인프라: 저탄소 에너지원을 활용하여 비트코인 채굴 인프라를 구축 및 운영합니다.
 3. 에너지 관리 솔루션: 과거에는 마이크로그리드 및 에너지 관리 솔루션을 제공했으나, 현재는 비트코인 채굴에 주력하고 있습니다.
 
@@ -28,15 +27,15 @@ CleanSpark은 조지아, 미시시피, 와이오밍, 테네시, 뉴욕 등 미�
 
 ## 후방산업
 
-- 반도체 제조업체: NVIDIA (US, [[2.개별종목/NVDA\|NVDA]])
+- 반도체 제조업체: NVIDIA (US, [[NVDA]])
 - 전력 공급업체
 
 ## 밸류체인
 
-1. 하드웨어 제조: NVIDIA (US, [[2.개별종목/NVDA\|NVDA]]), AMD (US, [[2.개별종목/AMD\|AMD]])
-2. 인프라 구축: CleanSpark (US, [[2.개별종목/CLSK\|CLSK]])
-3. 비트코인 채굴: CleanSpark (US, [[2.개별종목/CLSK\|CLSK]])
-4. 거래 및 유통: Coinbase (US, [[2.개별종목/COIN\|COIN]])
+1. 하드웨어 제조: NVIDIA (US, [[NVDA]]), AMD (US, [[AMD]])
+2. 인프라 구축: CleanSpark (US, [[CLSK]])
+3. 비트코인 채굴: CleanSpark (US, [[CLSK]])
+4. 거래 및 유통: Coinbase (US, [[COIN]])
 
 ## 주요제품
 
@@ -50,11 +49,11 @@ CleanSpark은 주로 미국 시장에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
 
-1. Riot Platforms (US, [[2.개별종목/RIOT\|RIOT]])
-2. Marathon Digital Holdings (US, [[2.개별종목/MARA\|MARA]])
-3. Core Scientific (US, [[2.개별종목/CORZ\|CORZ]])
-4. Bitfarms (캐나다, [[BITF\|BITF]])
-5. Hut 8 Mining (캐나다, [[2.개별종목/HUT\|HUT]])
+1. Riot Platforms (US, [[RIOT]])
+2. Marathon Digital Holdings (US, [[MARA]])
+3. Core Scientific (US, [[CORZ]])
+4. Bitfarms (캐나다, [[BITF]])
+5. Hut 8 Mining (캐나다, [[HUT]])
 
 ## 산업 내 글로벌 시장 점유율
 

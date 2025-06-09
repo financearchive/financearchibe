@@ -1,29 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/LUV/","created":"2024-08-30T21:54:57.911+09:00","updated":"2025-06-03T20:05:59.957+09:00"}
+dg-publish: true
 ---
-
 #산업재 #항공사 #LCC 
 
 
-**산업섹터 (Sector):** [[산업재\|산업재]] (Industrials)  
+**산업섹터 (Sector):** [[산업재]] (Industrials)  
 
-**산업 (Industry):** [[항공사\|항공사]] (Airlines)
+**산업 (Industry):** [[항공사]] (Airlines)
 
 ### 영위사업
 
-Southwest Airlines Co.는 저비용 항공사([[1.Study/★ 산업/항공,우주,방위 산업/1.항공/INFO-항공/LCC\|LCC]]) 미국 및 인근 국제 시장에서 정기 [[1.Study/★ 산업/항공,우주,방위 산업/1.항공/항공 운송\|항공 운송]] 서비스를 제공하는 항공사입니다. 이 회사는 817대의 Boeing 737 항공기를 운영하며, 42개 주, 워싱턴 D.C., 푸에르토리코 및 멕시코, 자메이카, 바하마, 아루바, 도미니카 공화국, 코스타리카, 벨리즈, 쿠바, 케이맨 제도, 터크스 케이커스 제도 등 10개 인근 국제 국가에 서비스를 제공합니다
+Southwest Airlines Co.는 저비용 항공사([[LCC]]) 미국 및 인근 국제 시장에서 정기 [[항공 운송]] 서비스를 제공하는 항공사입니다. 이 회사는 817대의 Boeing 737 항공기를 운영하며, 42개 주, 워싱턴 D.C., 푸에르토리코 및 멕시코, 자메이카, 바하마, 아루바, 도미니카 공화국, 코스타리카, 벨리즈, 쿠바, 케이맨 제도, 터크스 케이커스 제도 등 10개 인근 국제 국가에 서비스를 제공합니다
 
 ### 전방/후방산업
 
 **전방산업:**
 
-- 여행사: Expedia (US, [[2.개별종목/EXPE\|EXPE]]), Booking Holdings (US, [[2.개별종목/BKNG\|BKNG]])
-- 호텔업체: Marriott International (US, [[2.개별종목/MAR\|MAR]]), Hilton Worldwide (US, [[2.개별종목/HLT\|HLT]])
+- 여행사: Expedia (US, [[EXPE]]), Booking Holdings (US, [[BKNG]])
+- 호텔업체: Marriott International (US, [[MAR]]), Hilton Worldwide (US, [[HLT]])
 
 **후방산업:**
 
-- 항공기 제조업체: Boeing (US, [[2.개별종목/BA\|BA]]), Airbus (FR, [[2.개별종목/AIR\|AIR]])
-- 연료 공급업체: Chevron (US, [[2.개별종목/CVX\|CVX]]), ExxonMobil (US, [[2.개별종목/XOM\|XOM]])
+- 항공기 제조업체: Boeing (US, [[BA]]), Airbus (FR, [[AIR]])
+- 연료 공급업체: Chevron (US, [[CVX]]), ExxonMobil (US, [[XOM]])
 
 ### 주요제품
 
@@ -40,9 +39,9 @@ Southwest Airlines Co.는 저비용 항공사([[1.Study/★ 산업/항공,우주
 
 ### 경쟁업체
 
-- **Delta Air Lines (US, [[2.개별종목/DAL\|2.개별종목/DAL]]):** 항공 운송 서비스 (시장 점유율 15%)
-- **United Airlines (US, [[2.개별종목/UAL\|UAL]]):** 항공 운송 서비스 (시장 점유율 12%)
-- **American Airlines (US, [[2.개별종목/AAL\|AAL]]):** 항공 운송 서비스 (시장 점유율 10%)
+- **Delta Air Lines (US, [[2.개별종목/DAL]]):** 항공 운송 서비스 (시장 점유율 15%)
+- **United Airlines (US, [[UAL]]):** 항공 운송 서비스 (시장 점유율 12%)
+- **American Airlines (US, [[AAL]]):** 항공 운송 서비스 (시장 점유율 10%)
 
 ### 산업 내 글로벌 시장 점유율
 

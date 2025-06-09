@@ -1,22 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/ByteDance/","created":"2024-12-31T08:56:23.851+09:00","updated":"2025-06-03T20:05:58.111+09:00"}
+dg-publish: true
 ---
-
 #소셜미디어 #동영상앱 #AI추천 #광고수익 #중국테크기업 #TikTok #Douyin #콘텐츠플랫폼 #정보기술 #중국 #TikTok 
 
 ## 산업 섹터
 
-[[정보기술\|정보기술]]
+[[정보기술]]
 
 ## 산업
 
-[[인터넷 콘텐츠 및 정보\|인터넷 콘텐츠 및 정보]](Internet Content & Information)
+[[인터넷 콘텐츠 및 정보]](Internet Content & Information)
 
 ## 영위사업
 
-ByteDance는 2012년 설립된 [[1.Study/♠ 국가별 이슈/중국/중국\|중국]] 기반의 글로벌 인터넷 기술 기업입니다. 주요 사업 영역은 다음과 같습니다:
+ByteDance는 2012년 설립된 [[중국]] 기반의 글로벌 인터넷 기술 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
-1. 소셜 미디어 플랫폼: [[TikTok\|TikTok]](글로벌), [[Douyin\|Douyin]](중국) 등 [[단편 동영상 앱\|단편 동영상 앱]]운영
+1. 소셜 미디어 플랫폼: [[TikTok]](글로벌), [[Douyin]](중국) 등 [[단편 동영상 앱]]운영
 2. 뉴스 애그리게이션: Toutiao 등 AI 기반 개인화 뉴스 플랫폼 제공
 3. 콘텐츠 제작 도구: CapCut 등 동영상 편집 앱 개발
 4. 기업용 솔루션: Lark 등 협업 도구 제공
@@ -36,13 +35,13 @@ ByteDance는 AI 기술을 활용한 개인화된 콘텐츠 추천 시스템을 �
 
 1. 후방산업:
     
-    - 클라우드 서비스: Amazon Web Services(US, [[2.개별종목/AMZN\|AMZN]])
-    - 반도체: NVIDIA(US, [[2.개별종목/NVDA\|NVDA]])
+    - 클라우드 서비스: Amazon Web Services(US, [[AMZN]])
+    - 반도체: NVIDIA(US, [[NVDA]])
     
 2. 전방산업:
     
-    - 디지털 광고: Google(US, [[2.개별종목/GOOGL\|GOOGL]])
-    - 전자상거래: Alibaba(CN, [[2.개별종목/BABA\|BABA]])
+    - 디지털 광고: Google(US, [[GOOGL]])
+    - 전자상거래: Alibaba(CN, [[BABA]])
     
 
 ## 밸류체인
@@ -51,7 +50,7 @@ ByteDance는 AI 기술을 활용한 개인화된 콘텐츠 추천 시스템을 �
 2. 플랫폼 운영: ByteDance (주요 사업 영역)
 3. 광고 판매: ByteDance (주요 사업 영역)
 4. 데이터 분석 및 AI 개발: ByteDance (주요 사업 영역)
-5. 클라우드 인프라: Amazon Web Services(US, [[2.개별종목/AMZN\|AMZN]])
+5. 클라우드 인프라: Amazon Web Services(US, [[AMZN]])
 
 ## 주요제품
 
@@ -72,10 +71,10 @@ ByteDance는 글로벌 기업으로, 주요 시장은 중국, 미국, 인도, �
 
 ## 경쟁업체
 
-1. Meta Platforms(US, [[2.개별종목/META\|META]]) - Facebook, Instagram
-2. Alphabet(US, [[2.개별종목/GOOGL\|GOOGL]]) - YouTube
-3. Snap(US, [[2.개별종목/SNAP\|SNAP]]) - Snapchat
-4. Kuaishou Technology(HK, [[1024\|1024]])
+1. Meta Platforms(US, [[META]]) - Facebook, Instagram
+2. Alphabet(US, [[GOOGL]]) - YouTube
+3. Snap(US, [[SNAP]]) - Snapchat
+4. Kuaishou Technology(HK, [[1024]])
 
 ## 산업 내 글로벌 시장 점유율
 

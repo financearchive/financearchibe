@@ -1,31 +1,30 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/NUAN/","created":"2024-12-06T21:57:24.981+09:00","updated":"2025-06-03T20:06:00.421+09:00"}
+dg-publish: true
 ---
-
 #AI #정보기술 #소프트웨어 #음성인식 #의료진용음성인식소프트웨어 #의료
 
-Nuance Communications, Inc.(NUAN)는 음성 인식 및 인공지능([[AI\|AI]]) 소프트웨어 기술을 제공하는 기업입니다.
+Nuance Communications, Inc.(NUAN)는 음성 인식 및 인공지능([[AI]]) 소프트웨어 기술을 제공하는 기업입니다.
 
 ## 산업섹터
 
-섹터: [[정보기술\|정보기술]](Information Technology)  
-산업: [[소프트웨어\|소프트웨어]] - 애플리케이션(Software - Application)
+섹터: [[정보기술]](Information Technology)  
+산업: [[소프트웨어]] - 애플리케이션(Software - Application)
 
 ## 영위사업
 
-Nuance는 [[의료\|의료]], 기업, 모바일, 이미징 분야에서 음성 인식, 자연어 처리, AI 기반 솔루션을 제공합니다. 주요 제품으로는 임상 문서화 솔루션, 고객 서비스 자동화 시스템, 음성 비서, 보안 및 생체인식 솔루션 등이 있습니다. 특히 의료 분야에서 강점을 보이며, 임상 문서화와 방사선과 솔루션을 통해 의료진의 업무 효율성을 높이고 있습니다.
+Nuance는 [[의료]], 기업, 모바일, 이미징 분야에서 음성 인식, 자연어 처리, AI 기반 솔루션을 제공합니다. 주요 제품으로는 임상 문서화 솔루션, 고객 서비스 자동화 시스템, 음성 비서, 보안 및 생체인식 솔루션 등이 있습니다. 특히 의료 분야에서 강점을 보이며, 임상 문서화와 방사선과 솔루션을 통해 의료진의 업무 효율성을 높이고 있습니다.
 
 ## 전방/후방산업
 
 ## 후방산업
 
-- 반도체 제조업체: TSMC(TW, [[2.개별종목/TSM\|TSM]])
-- 클라우드 서비스 제공업체: Amazon Web Services(US, [[2.개별종목/AMZN\|AMZN]])
+- 반도체 제조업체: TSMC(TW, [[TSM]])
+- 클라우드 서비스 제공업체: Amazon Web Services(US, [[AMZN]])
 
 ## 전방산업
 
 - 의료기관: Cleveland Clinic, Mayo Clinic
-- 기업 고객: American Airlines(US, [[2.개별종목/AAL\|AAL]]), Bank of America(US, [[2.개별종목/BAC\|BAC]])
+- 기업 고객: American Airlines(US, [[AAL]]), Bank of America(US, [[BAC]])
 - 자동차 제조업체: 다양한 OEM 파트너십
 
 ## 밸류체인
@@ -37,7 +36,7 @@ Nuance는 [[의료\|의료]], 기업, 모바일, 이미징 분야에서 음성 �
 
 ## 주요제품
 
-- Dragon Medical: [[의료진용 음성 인식 소프트웨어\|의료진용 음성 인식 소프트웨어]] (의료 부문 주력 제품)
+- Dragon Medical: [[의료진용 음성 인식 소프트웨어]] (의료 부문 주력 제품)
 - PowerScribe: 방사선과 전용 문서화 솔루션
 - 기업용 AI 고객 서비스 솔루션
 - 모바일 및 IoT용 가상 비서 기술
@@ -48,10 +47,10 @@ Nuance는 [[의료\|의료]], 기업, 모바일, 이미징 분야에서 음성 �
 
 ## 경쟁업체
 
-- Microsoft(US, [[2.개별종목/MSFT\|MSFT]])
-- Google(US, [[2.개별종목/GOOGL\|GOOGL]])
-- Amazon(US, [[2.개별종목/AMZN\|AMZN]])
-- IBM(US, [[2.개별종목/IBM\|IBM]])
+- Microsoft(US, [[MSFT]])
+- Google(US, [[GOOGL]])
+- Amazon(US, [[AMZN]])
+- IBM(US, [[IBM]])
 
 ## 산업 내 글로벌 시장 점유율
 

@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/BGI/","created":"2024-09-11T10:53:14.966+09:00","updated":"2025-06-03T20:05:57.931+09:00"}
+dg-publish: true
 ---
-
 #바이오테크 #헬스케어 #중국 #CDMO 
 
 #### 산업섹터 (Sector, Industry)
 
-- **Sector**: Healthcare ([[헬스케어\|헬스케어]])
-- **Industry**: Biotechnology ([[1.Study/★ 산업/헬스케어/3.바이오테크/바이오테크\|바이오테크]])
+- **Sector**: Healthcare ([[헬스케어]])
+- **Industry**: Biotechnology ([[바이오테크]])
 
 #### 영위사업
 
@@ -16,23 +15,23 @@ BGI Group은 유전체학 및 생명공학 분야의 글로벌 리더로, 다음
 - **유전체학 연구**: 유전체 시퀀싱 및 분석 서비스 제공
 - **정밀 의학**: 유전자 검사 및 맞춤형 의료 솔루션 제공
 - **생명과학 연구**: 동물, 식물 및 미생물 유전체 연구
-- **계약 연구 및 개발 생산 ([[1.Study/★ 산업/헬스케어/1.제약 바이오산업(CDMO 등)/info_제약 바이오/CDMO\|CDMO]])**: 제약 및 생명과학 기업을 위한 연구, 개발 및 생산 서비스 제공
+- **계약 연구 및 개발 생산 ([[CDMO]])**: 제약 및 생명과학 기업을 위한 연구, 개발 및 생산 서비스 제공
 
 #### 전방산업
 
-- **의료 서비스 산업**: BGI의 유전자 검사 및 분석 서비스는 병원, 클리닉 등에서 사용됩니다. 주요 기업: Illumina (US, [[2.개별종목/ILMN\|ILMN]]), Thermo Fisher Scientific (US, [[2.개별종목/TMO\|TMO]]).
-- **제약 산업**: 제약 회사와 협력하여 유전체 연구 및 맞춤형 의약품 개발에 기여합니다. 주요 기업: Pfizer (US, [[2.개별종목/PFE\|PFE]]), Merck (US, [[2.개별종목/MRK\|MRK]]).
+- **의료 서비스 산업**: BGI의 유전자 검사 및 분석 서비스는 병원, 클리닉 등에서 사용됩니다. 주요 기업: Illumina (US, [[ILMN]]), Thermo Fisher Scientific (US, [[TMO]]).
+- **제약 산업**: 제약 회사와 협력하여 유전체 연구 및 맞춤형 의약품 개발에 기여합니다. 주요 기업: Pfizer (US, [[PFE]]), Merck (US, [[MRK]]).
 
 #### 후방산업
 
-- **IT 및 소프트웨어 산업**: 유전체 분석에 필요한 소프트웨어 및 IT 인프라를 공급합니다. 주요 기업: Microsoft (US, [[2.개별종목/MSFT\|MSFT]]), Oracle (US, [[2.개별종목/ORCL\|ORCL]]).
-- **화학 산업**: 유전체 시퀀싱에 필요한 화학 물질 및 시약을 공급합니다. 주요 기업: Sigma-Aldrich (US, [[SIAL\|SIAL]]), Bio-Rad Laboratories (US, [[BIO\|BIO]]).
+- **IT 및 소프트웨어 산업**: 유전체 분석에 필요한 소프트웨어 및 IT 인프라를 공급합니다. 주요 기업: Microsoft (US, [[MSFT]]), Oracle (US, [[ORCL]]).
+- **화학 산업**: 유전체 시퀀싱에 필요한 화학 물질 및 시약을 공급합니다. 주요 기업: Sigma-Aldrich (US, [[SIAL]]), Bio-Rad Laboratories (US, [[BIO]]).
 
 #### 밸류체인
 
 1. **부품 공급**
-    - IT 및 소프트웨어: Microsoft (US, [[2.개별종목/MSFT\|MSFT]]), Oracle (US, [[2.개별종목/ORCL\|ORCL]])
-    - 화학 물질: Sigma-Aldrich (US, [[SIAL\|SIAL]]), Bio-Rad Laboratories (US, [[BIO\|BIO]])
+    - IT 및 소프트웨어: Microsoft (US, [[MSFT]]), Oracle (US, [[ORCL]])
+    - 화학 물질: Sigma-Aldrich (US, [[SIAL]]), Bio-Rad Laboratories (US, [[BIO]])
 2. **제조**
     - 유전체 시퀀싱 및 분석 장비 제조
     - CDMO 서비스: 제약 및 생명과학 기업을 위한 연구, 개발 및 생산
@@ -59,10 +58,10 @@ BGI Group은 유전체학 및 생명공학 분야의 글로벌 리더로, 다음
 
 #### 경쟁업체
 
-- **[[2.개별종목/Wuxi apptec\|Wuxi apptec]] (CN, 2359)**: CDMO 및 CRO 서비스 제공
-- **[[2.개별종목/WuXi Biologics\|WuXi Biologics]] (CN, 2269)**: 바이오의약품 CDMO 서비스 제공
-- **Lonza (CH, [[2.개별종목/LONN\|LONN]])**: 제약 및 생명과학 CDMO 서비스 제공
-- **[[삼성바이오로직스\|삼성바이오로직스]] (KR, 207940)**: 바이오의약품 CDMO 서비스 제공
+- **[[Wuxi apptec]] (CN, 2359)**: CDMO 및 CRO 서비스 제공
+- **[[WuXi Biologics]] (CN, 2269)**: 바이오의약품 CDMO 서비스 제공
+- **Lonza (CH, [[LONN]])**: 제약 및 생명과학 CDMO 서비스 제공
+- **[[삼성바이오로직스]] (KR, 207940)**: 바이오의약품 CDMO 서비스 제공
 
 #### 산업 내 글로벌 시장 점유율
 

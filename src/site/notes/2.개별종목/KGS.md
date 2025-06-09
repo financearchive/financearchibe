@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/KGS/","created":"2024-12-13T20:44:21.911+09:00","updated":"2025-06-03T20:05:59.736+09:00"}
+dg-publish: true
 ---
-
 #가스압축장비 #에너지 #석유및가스장비및서비스
 
 Kodiak Gas Services, Inc.(KGS)는 미국의 계약 압축 서비스 제공업체입니다.
 
 ## 산업섹터
 
-섹터: [[에너지\|에너지]](Energy)  
-산업: [[석유 및 가스 장비 및 서비스\|석유 및 가스 장비 및 서비스]](Oil & Gas Equipment & Services)
+섹터: [[에너지]](Energy)  
+산업: [[석유 및 가스 장비 및 서비스]](Oil & Gas Equipment & Services)
 
 ## 영위사업
 
-이 회사는 [[가스 압축 장비\|가스 압축 장비]] 1위 기업으로, 미국 대륙에서 약 430만 마력의 차량을 보유한 계약 압축 서비스 제공업체다.  
+이 회사는 [[가스 압축 장비]] 1위 기업으로, 미국 대륙에서 약 430만 마력의 차량을 보유한 계약 압축 서비스 제공업체다.  
 
 이 회사는 압축 운영과 기타 서비스의 두 가지 운영 부문을 통해 사업을 관리한다.  
   
@@ -42,8 +41,8 @@ Kodiak Gas Services는 두 개의 사업 부문을 운영합니다:
 
 ## 전방산업
 
-- 석유 및 가스 생산업체: ExxonMobil(US, [[2.개별종목/XOM\|XOM]])
-- 미드스트림 기업: Kinder Morgan(US, [[2.개별종목/KMI\|KMI]])
+- 석유 및 가스 생산업체: ExxonMobil(US, [[XOM]])
+- 미드스트림 기업: Kinder Morgan(US, [[KMI]])
 
 ## 밸류체인
 
@@ -63,8 +62,8 @@ Kodiak Gas Services는 두 개의 사업 부문을 운영합니다:
 
 ## 경쟁업체
 
-- USA Compression Partners(US, [[USAC\|USAC]])
-- Liberty Energy(US, [[2.개별종목/LBRT\|LBRT]])
+- USA Compression Partners(US, [[USAC]])
+- Liberty Energy(US, [[LBRT]])
 
 ## 산업 내 글로벌 시장 점유율
 

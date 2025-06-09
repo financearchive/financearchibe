@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/PNC/","created":"2024-11-12T10:12:26.502+09:00","updated":"2025-06-03T20:06:00.726+09:00"}
+dg-publish: true
 ---
-
 #다각화된은행 #금융 #대출 #카드 
 
 ## 산업 섹터
 
-- **Sector(산업섹터)**: Financials([[금융\|금융]])
-- **Industry(산업)**: Banks - Diversified([[다각화된 은행\|다각화된 은행]])
+- **Sector(산업섹터)**: Financials([[금융]])
+- **Industry(산업)**: Banks - Diversified([[다각화된 은행]])
 
 ## 영위 사업
 
-PNC Financial Services Group Inc.는 다양한 소매 및 상업 은행 제품과 서비스를 제공하는 미국의 금융 서비스 회사입니다. 주요 서비스에는 예금 계좌, [[대출\|대출]], [[카드\|카드]] 서비스, 자산 관리 및 투자 서비스가 포함됩니다.
+PNC Financial Services Group Inc.는 다양한 소매 및 상업 은행 제품과 서비스를 제공하는 미국의 금융 서비스 회사입니다. 주요 서비스에는 예금 계좌, [[대출]], [[카드]] 서비스, 자산 관리 및 투자 서비스가 포함됩니다.
 
 ## 전방/후방 산업
 
@@ -21,8 +20,8 @@ PNC Financial Services Group Inc.는 다양한 소매 및 상업 은행 제품�
     - **역할**: 최종 소비자에게 금융 서비스 제공
     - **주요 기업**:
         
-        - JPMorgan Chase (미국, [[2.개별종목/JPM\|JPM]])
-        - Bank of America (미국, [[2.개별종목/BAC\|BAC]])
+        - JPMorgan Chase (미국, [[JPM]])
+        - Bank of America (미국, [[BAC]])
 
 - **후방 산업 (Upstream Industry)**:
     
@@ -30,8 +29,8 @@ PNC Financial Services Group Inc.는 다양한 소매 및 상업 은행 제품�
     - **역할**: PNC의 서비스에 필요한 자본 공급
     - **주요 기업**:
         
-        - BlackRock (미국, [[2.개별종목/BLK\|BLK]])
-        - Goldman Sachs (미국, [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/2.태양광/종목/GS\|GS]])
+        - BlackRock (미국, [[BLK]])
+        - Goldman Sachs (미국, [[GS]])
 
 
 ## 밸류체인
@@ -41,8 +40,8 @@ PNC Financial Services Group Inc.는 다양한 소매 및 상업 은행 제품�
     - 개인 및 기업 고객을 위한 예금 계좌와 대출 상품을 제공합니다.
     - 대표 기업:
         
-        - Wells Fargo (미국, [[2.개별종목/WFC\|WFC]]) - 종합 금융 서비스 제공
-        - Citibank (미국, [[2.개별종목/C\|C]]) - 글로벌 금융 서비스
+        - Wells Fargo (미국, [[WFC]]) - 종합 금융 서비스 제공
+        - Citibank (미국, [[C]]) - 글로벌 금융 서비스
         
     
 - **상업 은행 서비스**:
@@ -50,7 +49,7 @@ PNC Financial Services Group Inc.는 다양한 소매 및 상업 은행 제품�
     - 중소기업을 위한 대출 및 금융 솔루션을 제공합니다.
     - 대표 기업:
         
-        - U.S. Bancorp (미국, [[2.개별종목/USB\|USB]]) - 상업 및 소매 금융 서비스 제공
+        - U.S. Bancorp (미국, [[USB]]) - 상업 및 소매 금융 서비스 제공
         
     
 
@@ -71,8 +70,8 @@ PNC는 미국을 주요 시장으로 하며, 특히 중서부 지역에서 강�
 
 ## 경쟁업체
 
-- **JPMorgan Chase (미국, [[2.개별종목/JPM\|JPM]])**: 종합 금융 서비스 제공.
-- **Bank of America (미국, [[2.개별종목/BAC\|BAC]])**: 다양한 금융 상품과 서비스를 제공.
+- **JPMorgan Chase (미국, [[JPM]])**: 종합 금융 서비스 제공.
+- **Bank of America (미국, [[BAC]])**: 다양한 금융 상품과 서비스를 제공.
 
 ## 산업 내 글로벌 시장 점유율
 

@@ -1,25 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/EIX/","created":"2025-01-14T21:09:12.966+09:00","updated":"2025-06-03T20:05:58.893+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #전력공급 #재생에너지 #스마트그리드 #전기차인프라 #탄소중립 #에너지효율 #배전망현대화 #마이크로그리드 #에너지저장 #분산형발전 #산불위험관리  #SouthernCaliforniaEdison #EdisonEnergy #유틸리티 #캘리포니아 #청정에너지 #전력유틸리티 #유틸리티 
 
 ## 산업섹터
 
-섹터: [[유틸리티\|유틸리티]]
-산업: [[전력유틸리티\|전력유틸리티]]
+섹터: [[유틸리티]]
+산업: [[전력유틸리티]]
 
 ## 영위사업
 
-Edison International(NYSE: EIX)은 [[미국 최대 전력 유틸리티 기업\|미국 최대 전력 유틸리티 기업]] 중 하나로, 주요 자회사인 Southern California Edison(SCE)을 통해 [[캘리포니아\|캘리포니아]] 중부와 남부 지역의 약 1,500만 명에게 전력을 공급하고 있습니다. SCE는 50,000 평방마일에 달하는 서비스 지역에 전력을 공급하며, [[1.Study/★ 산업/에너지 산업/2.친환경 에너지/INFO_친환경 에너지 관련/재생에너지\|재생에너지]] 및 [[에너지 \|에너지 ]]효율성 분야에서 선도적인 위치를 차지하고 있습니다.주요 사업 부문은 다음과 같습니다:
+Edison International(NYSE: EIX)은 [[미국 최대 전력 유틸리티 기업]] 중 하나로, 주요 자회사인 Southern California Edison(SCE)을 통해 [[캘리포니아]] 중부와 남부 지역의 약 1,500만 명에게 전력을 공급하고 있습니다. SCE는 50,000 평방마일에 달하는 서비스 지역에 전력을 공급하며, [[재생에너지]] 및 [[에너지 ]]효율성 분야에서 선도적인 위치를 차지하고 있습니다.주요 사업 부문은 다음과 같습니다:
 
 1. 전력 생산 및 공급
 2. 송배전 인프라 운영 및 유지보수
 3. 재생에너지 프로젝트 개발 및 통합
 4. 에너지 효율 프로그램 운영
-5. [[전기차 충전 인프라 구축\|전기차 충전 인프라 구축]]
+5. [[전기차 충전 인프라 구축]]
 
 최근 1년 내 주요 이슈로는 산불 위험 관리를 위한 인프라 강화, 재생에너지 포트폴리오 확대, 그리고 전기차 충전 네트워크 확장 등이 있습니다.
 
@@ -36,19 +35,19 @@ Edison International(NYSE: EIX)은 [[미국 최대 전력 유틸리티 기업\|�
 전방산업:
 
 - 가정용 전력 소비: 주거용 고객
-- 상업/산업용 전력 소비: Tesla(US, [[2.개별종목/TSLA\|TSLA]]), Apple(US, [[2.개별종목/AAPL\|AAPL]])
-- 전기차 충전: ChargePoint(US, [[2.개별종목/CHPT\|CHPT]]), EVgo(US, [[2.개별종목/EVGO\|EVGO]])
+- 상업/산업용 전력 소비: Tesla(US, [[TSLA]]), Apple(US, [[AAPL]])
+- 전기차 충전: ChargePoint(US, [[CHPT]]), EVgo(US, [[EVGO]])
 
 후방산업:
 
-- 발전 설비 제조: General Electric(US, [[2.개별종목/GE\|GE]]), Siemens Energy(DE, [[ENR\|ENR]])
-- 태양광 패널: First Solar(US, [[2.개별종목/FSLR\|FSLR]]), SunPower(US, [[2.개별종목/SPWR\|SPWR]])
-- 에너지 저장 시스템: Tesla(US, [[2.개별종목/TSLA\|TSLA]]), Fluence Energy(US, [[FLNC\|FLNC]])
+- 발전 설비 제조: General Electric(US, [[GE]]), Siemens Energy(DE, [[ENR]])
+- 태양광 패널: First Solar(US, [[FSLR]]), SunPower(US, [[SPWR]])
+- 에너지 저장 시스템: Tesla(US, [[TSLA]]), Fluence Energy(US, [[FLNC]])
 
 ## 주요제품
 
-- [[전력 공급 서비스\|전력 공급 서비스]]: 가정 및 상업용 전기 공급, 매출의 약 80% (2024년 기준)
-- [[송배전\|송배전]] 서비스: 전력 네트워크 운영 및 유지보수, 매출의 약 15% (2024년 기준)
+- [[전력 공급 서비스]]: 가정 및 상업용 전기 공급, 매출의 약 80% (2024년 기준)
+- [[송배전]] 서비스: 전력 네트워크 운영 및 유지보수, 매출의 약 15% (2024년 기준)
 - 에너지 효율 프로그램: 고객 대상 에너지 절약 서비스, 매출의 약 5% (2024년 기준)
 
 ## 주요 판매국가
@@ -57,11 +56,11 @@ Edison International(NYSE: EIX)은 [[미국 최대 전력 유틸리티 기업\|�
 
 ## 경쟁업체
 
-- Pacific Gas and Electric(US, [[PCG\|PCG]]) - 캘리포니아 북부 전력 공급
-- Sempra Energy(US, [[2.개별종목/SRE\|SRE]]) - 캘리포니아 남부 가스 및 전력 공급
-- NextEra Energy(US, [[2.개별종목/NEE\|NEE]]) - 재생에너지 발전
-- Duke Energy(US, [[2.개별종목/DUK\|DUK]]) - 다지역 전력 유틸리티
-- Southern Company(US, [[2.개별종목/SO\|SO]]) - 남부 지역 전력 유틸리티
+- Pacific Gas and Electric(US, [[PCG]]) - 캘리포니아 북부 전력 공급
+- Sempra Energy(US, [[SRE]]) - 캘리포니아 남부 가스 및 전력 공급
+- NextEra Energy(US, [[NEE]]) - 재생에너지 발전
+- Duke Energy(US, [[DUK]]) - 다지역 전력 유틸리티
+- Southern Company(US, [[SO]]) - 남부 지역 전력 유틸리티
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -85,11 +84,11 @@ Edison International은 2024년 기준 미국 전력 유틸리티 시장에서 �
 
 ## 관련 ETF
 
-- Utilities Select Sector SPDR Fund - [[XLU\|XLU]]
-- iShares U.S. Utilities ETF - [[IDU\|IDU]]
-- Vanguard Utilities ETF - [[VPU\|VPU]]
-- Fidelity MSCI Utilities Index ETF - [[FUTY\|FUTY]]
-- Invesco S&P 500 Equal Weight Utilities ETF - [[RYU\|RYU]]
+- Utilities Select Sector SPDR Fund - [[XLU]]
+- iShares U.S. Utilities ETF - [[IDU]]
+- Vanguard Utilities ETF - [[VPU]]
+- Fidelity MSCI Utilities Index ETF - [[FUTY]]
+- Invesco S&P 500 Equal Weight Utilities ETF - [[RYU]]
 
 공유
 

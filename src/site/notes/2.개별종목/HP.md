@@ -1,20 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/HP/","created":"2024-11-29T15:52:43.313+09:00","updated":"2025-06-03T20:05:59.449+09:00"}
+dg-publish: true
 ---
-
 #석유가스 #시추 #에너지 #계약시추 #FlexRig #에너지 #해상시추
 
 ## 산업 섹터
 
-[[에너지\|에너지]]
+[[에너지]]
 
 ## 산업
 
-[[석유, 가스 및 소비 연료\|석유, 가스 및 소비 연료]](Oil, Gas & Consumable Fuels)
+[[석유, 가스 및 소비 연료]](Oil, Gas & Consumable Fuels)
 
 ## 영위사업
 
-Helmerich & Payne, Inc.(H&P)는 [[석유\|석유]] 및 [[1.Study/★ 산업/에너지 산업/1.화석 에너지/1.정유화학/천연가스\|천연가스]] 탐사 및 생산 기업을 위한 [[계약 시추\|계약 시추]] 서비스를 제공하는 미국 기업입니다. 주요 사업 영역은 다음과 같습니다:
+Helmerich & Payne, Inc.(H&P)는 [[석유]] 및 [[천연가스]] 탐사 및 생산 기업을 위한 [[계약 시추]] 서비스를 제공하는 미국 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
 1. 육상 시추 서비스: 미국 내 주요 석유 및 가스 생산 지역에서 시추 서비스 제공
 2. 해상 시추: 멕시코만에서 해상 시추 플랫폼 운영
@@ -22,7 +21,7 @@ Helmerich & Payne, Inc.(H&P)는 [[석유\|석유]] 및 [[1.Study/★ 산업/에�
 4. 기술 개발: FlexRig 시스템 등 혁신적인 시추 기술 개발 및 적용
 5. 부동산 개발 및 운영
 
-H&P는 특히 셰일 형성 등 비전통 석유 및 가스 개발에 적합한 [[FlexRig\|FlexRig]] 시스템으로 유명하며, 미국 육상 시추 시장에서 20% 이상의 점유율을 보유하고 있습니다.
+H&P는 특히 셰일 형성 등 비전통 석유 및 가스 개발에 적합한 [[FlexRig]] 시스템으로 유명하며, 미국 육상 시추 시장에서 20% 이상의 점유율을 보유하고 있습니다.
 
 ## 핵심 경쟁력
 
@@ -37,27 +36,27 @@ H&P는 특히 셰일 형성 등 비전통 석유 및 가스 개발에 적합한 
 
 1. 후방산업:
     
-    - 시추 장비 제조: National Oilwell Varco(US, [[2.개별종목/NOV\|NOV]])
-    - 철강 제조: U.S. Steel(US, [[2.개별종목/X\|X]])
+    - 시추 장비 제조: National Oilwell Varco(US, [[NOV]])
+    - 철강 제조: U.S. Steel(US, [[X]])
     
 2. 전방산업:
     
-    - 석유 및 가스 생산: ExxonMobil(US, [[2.개별종목/XOM\|XOM]])
-    - 정유: Valero Energy(US, [[2.개별종목/VLO\|VLO]])
+    - 석유 및 가스 생산: ExxonMobil(US, [[XOM]])
+    - 정유: Valero Energy(US, [[VLO]])
     
 
 ## 밸류체인
 
 1. 시추 장비 설계 및 제조: Helmerich & Payne (주요 사업 영역)
 2. 시추 서비스 제공: Helmerich & Payne (주요 사업 영역)
-3. 석유 및 가스 생산: ExxonMobil(US, [[2.개별종목/XOM\|XOM]]) - 석유 및 가스 추출
-4. 수송: Energy Transfer(US, [[2.개별종목/ET\|ET]]) - 파이프라인 운영
-5. 정제: Valero Energy(US, [[2.개별종목/VLO\|VLO]]) - 석유 정제
+3. 석유 및 가스 생산: ExxonMobil(US, [[XOM]]) - 석유 및 가스 추출
+4. 수송: Energy Transfer(US, [[ET]]) - 파이프라인 운영
+5. 정제: Valero Energy(US, [[VLO]]) - 석유 정제
 
 ## 주요제품
 
 1. FlexRig 시스템 (첨단 육상 시추 장비)
-2. [[해상 시추\|해상 시추]] 플랫폼
+2. [[해상 시추]] 플랫폼
 3. 시추 자동화 및 데이터 분석 솔루션
 
 ## 주요고객
@@ -74,10 +73,10 @@ H&P는 특히 셰일 형성 등 비전통 석유 및 가스 개발에 적합한 
 
 ## 경쟁업체
 
-1. Nabors Industries(BM, [[NBR\|NBR]])
-2. Patterson-UTI Energy(US, [[PTEN\|PTEN]])
-3. Precision Drilling(CA, [[PDS\|PDS]])
-4. Transocean(CH, [[RIG\|RIG]])
+1. Nabors Industries(BM, [[NBR]])
+2. Patterson-UTI Energy(US, [[PTEN]])
+3. Precision Drilling(CA, [[PDS]])
+4. Transocean(CH, [[RIG]])
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -101,6 +100,6 @@ H&P는 특히 셰일 형성 등 비전통 석유 및 가스 개발에 적합한 
 
 ## 관련 ETF
 
-1. SPDR S&P Oil & Gas Equipment & Services ETF - [[XES\|XES]]
-2. iShares U.S. Oil Equipment & Services ETF - [[IEZ\|IEZ]]
-3. VanEck Oil Services ETF - [[OIH\|OIH]]
+1. SPDR S&P Oil & Gas Equipment & Services ETF - [[XES]]
+2. iShares U.S. Oil Equipment & Services ETF - [[IEZ]]
+3. VanEck Oil Services ETF - [[OIH]]

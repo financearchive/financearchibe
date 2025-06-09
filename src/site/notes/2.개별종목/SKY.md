@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/SKY/","created":"2024-12-13T21:49:20.980+09:00","updated":"2025-06-03T20:06:01.220+09:00"}
+dg-publish: true
 ---
-
 #주택건설 #임의소비재 
 
 ## 산업섹터
 
-섹터(Sector): [[임의소비재\|임의소비재]](Consumer Discretionary)  
-산업(Industry): [[주택건설\|주택건설]](Homebuilding)
+섹터(Sector): [[임의소비재]](Consumer Discretionary)  
+산업(Industry): [[주택건설]](Homebuilding)
 
 ## 영위사업
 
-Champion Homes, Inc.는 [[북미 최대의 공장제작 주택 생산업체 \|북미 최대의 공장제작 주택 생산업체 ]]중 하나입니다. 주요 사업 부문은 다음과 같습니다:
+Champion Homes, Inc.는 [[북미 최대의 공장제작 주택 생산업체 ]]중 하나입니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 미국 공장제작 주택: 제조 및 소매 주택 사업
 2. 캐나다 공장제작 주택
@@ -35,16 +34,16 @@ Champion Homes는 미국과 서부 캐나다 전역에 48개의 제조 시설을
 
 ## 후방산업
 
-- 건축 자재 공급업체: Masco Corporation (US, [[2.개별종목/MAS\|MAS]])
-- 가구 및 가전제품 제조업체: Whirlpool Corporation (US, [[2.개별종목/WHR\|WHR]])
+- 건축 자재 공급업체: Masco Corporation (US, [[MAS]])
+- 가구 및 가전제품 제조업체: Whirlpool Corporation (US, [[WHR]])
 
 ## 밸류체인
 
-1. 연구 개발: Champion Homes (US, [[2.개별종목/SKY\|SKY]]) (주택 설계 및 혁신)
+1. 연구 개발: Champion Homes (US, [[SKY]]) (주택 설계 및 혁신)
 2. 원자재 조달: 건축 자재 공급업체
-3. 제조: Champion Homes (US, [[2.개별종목/SKY\|SKY]]) (48개 제조 시설)
-4. 유통 및 판매: Champion Homes (US, [[2.개별종목/SKY\|SKY]]) (72개 소매점)
-5. 설치 및 서비스: Champion Homes (US, [[2.개별종목/SKY\|SKY]]) (설치 서비스 및 Star Fleet Trucking)
+3. 제조: Champion Homes (US, [[SKY]]) (48개 제조 시설)
+4. 유통 및 판매: Champion Homes (US, [[SKY]]) (72개 소매점)
+5. 설치 및 서비스: Champion Homes (US, [[SKY]]) (설치 서비스 및 Star Fleet Trucking)
 
 ## 주요제품
 
@@ -60,10 +59,10 @@ Champion Homes는 미국과 서부 캐나다 전역에 48개의 제조 시설을
 
 ## 경쟁업체
 
-1. PulteGroup (US, [[2.개별종목/PHM\|PHM]]) (주택 건설)
-2. KB Home (US, [[2.개별종목/KBH\|KBH]]) (주택 건설)
-3. Meritage Homes (US, [[MTH\|MTH]]) (주택 건설)
-4. Toll Brothers (US, [[2.개별종목/TOL\|TOL]]) (고급 주택 건설)
+1. PulteGroup (US, [[PHM]]) (주택 건설)
+2. KB Home (US, [[KBH]]) (주택 건설)
+3. Meritage Homes (US, [[MTH]]) (주택 건설)
+4. Toll Brothers (US, [[TOL]]) (고급 주택 건설)
 5. IDEAL Manufactured Homes (비상장) (제조 주택)
 
 ## 산업 내 글로벌 시장 점유율

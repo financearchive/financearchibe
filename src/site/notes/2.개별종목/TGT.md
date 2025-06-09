@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/TGT/","created":"2024-08-22T10:54:23.899+09:00","updated":"2025-06-03T20:06:01.606+09:00"}
+dg-publish: true
 ---
-
  #소비재 #중저가 #할인점 #소매 #소비자방어주 #블랙프라이데이 
 
 ## 산업섹터
 
-Sector: Consumer Defensive ([[소비자 방어주\|소비자 방어주]])  
-Industry: Discount Stores ([[할인점\|할인점]])
+Sector: Consumer Defensive ([[소비자 방어주]])  
+Industry: Discount Stores ([[할인점]])
 
 ## 회사 개요
 
@@ -24,12 +23,12 @@ Target Corporation은 1902년에 설립된 미국의 종합 유통업체로, 본
 전방산업:
 
 - 역할: 소비자에게 직접 판매
-- 주요 경쟁사: Walmart (US, [[2.개별종목/WMT\|WMT]]), Amazon (US, [[2.개별종목/AMZN\|2.개별종목/AMZN]])
+- 주요 경쟁사: Walmart (US, [[WMT]]), Amazon (US, [[2.개별종목/AMZN]])
 
 후방산업:
 
 - 역할: 제품 공급
-- 제조업체: Procter & Gamble (US, [[2.개별종목/PG\|PG]]), Unilever (UK, [[UL\|UL]])
+- 제조업체: Procter & Gamble (US, [[PG]]), Unilever (UK, [[UL]])
 
 ## 주요제품
 
@@ -50,12 +49,12 @@ Target은 미국 전역에서 운영되며, 2023년 기준으로 1,948개의 매
 
 ## 경쟁업체
 
-- Walmart (US, [[2.개별종목/WMT\|WMT]]) - 대형 할인점 체인
-- Costco (US, [[2.개별종목/COST\|COST]]) - 회원제 창고형 매장
-- Amazon (US, [[2.개별종목/AMZN\|2.개별종목/AMZN]]) - 온라인 소매업체
-- Dollar Tree (US, [[2.개별종목/DLTR\|DLTR]]) - 할인 소매점 체인
+- Walmart (US, [[WMT]]) - 대형 할인점 체인
+- Costco (US, [[COST]]) - 회원제 창고형 매장
+- Amazon (US, [[2.개별종목/AMZN]]) - 온라인 소매업체
+- Dollar Tree (US, [[DLTR]]) - 할인 소매점 체인
 - Family Dollar (Dollar Tree의 자회사) - 할인 소매점 체인
-- Dollar General (US, [[2.개별종목/DG\|DG]]) - 할인 소매점 체인
+- Dollar General (US, [[DG]]) - 할인 소매점 체인
 
 ## 산업 내 글로벌 시장 점유율
 

@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/ADS/","created":"2024-10-28T21:41:05.164+09:00","updated":"2025-06-03T20:05:57.440+09:00"}
+dg-publish: true
 ---
-
 #임의소비재 #특수소매 #운동화 #스포츠웨어 #의류 
 
 ## 산업섹터
 
-섹터: [[임의소비재\|임의소비재]](Consumer Discretionary)  
-산업: [[의류\|의류]], 액세서리 및 사치품(Apparel, Accessories & Luxury Goods)
+섹터: [[임의소비재]](Consumer Discretionary)  
+산업: [[의류]], 액세서리 및 사치품(Apparel, Accessories & Luxury Goods)
 
 ## 영위사업
 
-Adidas는 [[운동화\|운동화]], [[스포츠웨어\|스포츠웨어]], 액세서리 등 스포츠 관련 제품을 설계, 제조, 판매하는 글로벌 스포츠용품 기업입니다.
+Adidas는 [[운동화]], [[스포츠웨어]], 액세서리 등 스포츠 관련 제품을 설계, 제조, 판매하는 글로벌 스포츠용품 기업입니다.
 
 ## 주요제품 및 서비스
 
@@ -26,9 +25,9 @@ Adidas는 [[운동화\|운동화]], [[스포츠웨어\|스포츠웨어]], 액세
 
 ## 경쟁업체
 
-- Nike(US, [[2.개별종목/NKE\|NKE]])
-- Puma(독일, [[2.개별종목/PUM\|PUM]])
-- Under Armour(US, [[2.개별종목/UAA\|UAA]])
+- Nike(US, [[NKE]])
+- Puma(독일, [[PUM]])
+- Under Armour(US, [[UAA]])
 
 ## 산업 내 글로벌 시장 점유율
 

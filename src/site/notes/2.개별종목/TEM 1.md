@@ -1,21 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/TEM 1/","created":"2025-01-22T06:55:46.615+09:00","updated":"2025-06-03T20:06:01.572+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #AI의료기술 #정밀의료 #유전체분석 #임상데이터분석 #암진단 #심장병진단 #우울증진단 #차세대시퀀싱 #분자진단 #임상시험매칭 #데이터라이센싱 #클라우드컴퓨팅 #머신러닝 #의료AI #디지털헬스케어 #유전체데이터베이스 #바이오인포매틱스 #개인맞춤의학 #의료빅데이터 #헬스테크 #바이오테크 
 
 ## 산업섹터
 
-섹터: [[헬스케어\|헬스케어]]
-산업: [[건강정보서비스\|건강정보서비스]]
+섹터: [[헬스케어]]
+산업: [[건강정보서비스]]
 
 ## 영위사업
 
 Tempus AI Inc는 인공지능(AI)과 빅데이터를 활용하여 정밀 의료 솔루션을 개발하는 헬스케어 기술 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
-1. 유전체 분석: 차세대 시퀀싱(NGS) 기술을 이용한 [[유전체 프로파일링\|유전체 프로파일링]]
+1. 유전체 분석: 차세대 시퀀싱(NGS) 기술을 이용한 [[유전체 프로파일링]]
 2. 임상 데이터 구조화: 의료 기관의 임상 데이터를 분석 가능한 형태로 가공
 3. AI 기반 진단 및 치료 추천: 암, 심장병, 우울증 등에 대한 AI 기반 진단 및 맞춤형 치료법 제안
 4. 임상시험 매칭 서비스: 제약회사와 환자를 연결하는 임상시험 매칭 플랫폼 운영
@@ -35,20 +34,20 @@ Tempus AI Inc는 인공지능(AI)과 빅데이터를 활용하여 정밀 의료 
 
 전방산업:
 
-- 의료서비스: HCA Healthcare(US, [[2.개별종목/HCA\|HCA]]), UnitedHealth Group(US, [[2.개별종목/UNH\|UNH]])
-- 제약/바이오: Pfizer(US, [[2.개별종목/PFE\|PFE]]), Roche(CH, [[2.개별종목/ROG\|ROG]])
-- 임상시험: IQVIA(US, [[2.개별종목/IQV\|IQV]]), Syneos Health(US, [[SYNH\|SYNH]])
+- 의료서비스: HCA Healthcare(US, [[HCA]]), UnitedHealth Group(US, [[UNH]])
+- 제약/바이오: Pfizer(US, [[PFE]]), Roche(CH, [[ROG]])
+- 임상시험: IQVIA(US, [[IQV]]), Syneos Health(US, [[SYNH]])
 
 후방산업:
 
-- 반도체: NVIDIA(US, [[2.개별종목/NVDA\|NVDA]]), Intel(US, [[2.개별종목/INTC\|INTC]])
-- 클라우드 서비스: Amazon Web Services(US, [[2.개별종목/AMZN\|AMZN]]), Microsoft Azure(US, [[2.개별종목/MSFT\|MSFT]])
-- 유전체 분석 장비: Illumina(US, [[2.개별종목/ILMN\|ILMN]]), Thermo Fisher Scientific(US, [[2.개별종목/TMO\|TMO]])
+- 반도체: NVIDIA(US, [[NVDA]]), Intel(US, [[INTC]])
+- 클라우드 서비스: Amazon Web Services(US, [[AMZN]]), Microsoft Azure(US, [[MSFT]])
+- 유전체 분석 장비: Illumina(US, [[ILMN]]), Thermo Fisher Scientific(US, [[TMO]])
 
 ## 주요제품
 
 - 유전체 프로파일링 서비스: 암 및 기타 질병 진단용, 매출의 약 50% (2024년 기준)
-- [[AI 기반 진단 및 치료 추천 플랫폼\|AI 기반 진단 및 치료 추천 플랫폼]]: 의사 결정 지원 시스템, 매출의 약 30% (2024년 기준)
+- [[AI 기반 진단 및 치료 추천 플랫폼]]: 의사 결정 지원 시스템, 매출의 약 30% (2024년 기준)
 - 데이터 라이센싱 및 분석 서비스: 제약사 및 연구기관 대상, 매출의 약 20% (2024년 기준)
 
 ## 주요 판매국가
@@ -57,11 +56,11 @@ Tempus AI Inc는 인공지능(AI)과 빅데이터를 활용하여 정밀 의료 
 
 ## 경쟁업체
 
-- Guardant Health(US, [[GH\|GH]]): 액체생검 기반 암 진단
-- Natera(US, [[NTRA\|NTRA]]): 유전체 검사 및 진단
-- Veracyte(US, [[VCYT\|VCYT]]): 유전자 발현 기반 진단
-- Invitae(US, [[NVTA\|NVTA]]): 유전체 검사 및 분석
-- 23andMe(US, [[2.개별종목/ME\|ME]]): 소비자 직접 유전체 분석
+- Guardant Health(US, [[GH]]): 액체생검 기반 암 진단
+- Natera(US, [[NTRA]]): 유전체 검사 및 진단
+- Veracyte(US, [[VCYT]]): 유전자 발현 기반 진단
+- Invitae(US, [[NVTA]]): 유전체 검사 및 분석
+- 23andMe(US, [[ME]]): 소비자 직접 유전체 분석
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -84,11 +83,11 @@ Tempus AI Inc의 정확한 글로벌 시장 점유율 데이터는 제공되지 
 
 ## 관련 ETF
 
-- ARK Genomic Revolution ETF - [[ARKG\|ARKG]]
-- iShares Genomics Immunology and Healthcare ETF - [[IDNA\|IDNA]]
-- Global X Telemedicine & Digital Health ETF - [[EDOC\|EDOC]]
-- ETFMG Treatments Testing and Advancements ETF - [[GERM\|GERM]]
-- Invesco Dynamic Biotechnology & Genome ETF - [[PBE\|PBE]]
+- ARK Genomic Revolution ETF - [[ARKG]]
+- iShares Genomics Immunology and Healthcare ETF - [[IDNA]]
+- Global X Telemedicine & Digital Health ETF - [[EDOC]]
+- ETFMG Treatments Testing and Advancements ETF - [[GERM]]
+- Invesco Dynamic Biotechnology & Genome ETF - [[PBE]]
 
 공유
 

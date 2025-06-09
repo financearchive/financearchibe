@@ -1,24 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/OXY/","created":"2024-12-23T11:28:21.876+09:00","updated":"2025-06-03T20:06:00.586+09:00"}
+dg-publish: true
 ---
-
 #석유가스 #탐사생산 #화학 #미드스트림 #저탄소기술 #EOR #탄소포집 #퍼미안베이신 #에너지
 
 ## 산업 섹터
 
-[[에너지\|에너지]]
+[[에너지]]
 
 ## 산업
 
-[[석유, 가스 및 소비 연료\|석유, 가스 및 소비 연료]](Oil, Gas & Consumable Fuels)
+[[석유, 가스 및 소비 연료]](Oil, Gas & Consumable Fuels)
 
 ## 영위사업
 
 Occidental Petroleum Corporation(OXY)은 미국, 중동, 북아프리카에 주요 자산을 보유한 국제 에너지 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
-1. 석유 및 가스: 미국 [[퍼미안 베이신\|퍼미안 베이신]], DJ 베이신, 멕시코만 등에서 석유, 천연가스, [[1.Study/★ 산업/에너지 산업/1.화석 에너지/1.정유화학/INFO_정유, 기타에너지/NGL\|NGL]] 탐사 및 생산
-2. 화학: OxyChem 자회사를 통해 [[PVC\|PVC]], 염소, 가성 소다 등 [[기초 화학 제품\|기초 화학 제품]] 생산
-3. [[미드스트림\|미드스트림]] 및 마케팅: 석유, 가스, CO2 등의 구매, 판매, 수집, 처리, 운송 및 저장
+1. 석유 및 가스: 미국 [[퍼미안 베이신]], DJ 베이신, 멕시코만 등에서 석유, 천연가스, [[NGL]] 탐사 및 생산
+2. 화학: OxyChem 자회사를 통해 [[PVC]], 염소, 가성 소다 등 [[기초 화학 제품]] 생산
+3. [[미드스트림]] 및 마케팅: 석유, 가스, CO2 등의 구매, 판매, 수집, 처리, 운송 및 저장
 
 OXY는 특히 CO2 EOR(Enhanced Oil Recovery) 기술의 선두주자로, 50년 이상의 경험을 바탕으로 퍼미안 베이신에서 리더십을 발휘하고 있습니다. 또한 저탄소 기술 개발에도 주력하고 있으며, 자회사 Oxy Low Carbon Ventures를 통해 CCUS, 직접 공기 포집(DAC) 등의 프로젝트를 추진하고 있습니다.
 
@@ -34,30 +33,30 @@ OXY는 특히 CO2 EOR(Enhanced Oil Recovery) 기술의 선두주자로, 50년 �
 
 1. 후방산업:
     
-    - 석유 서비스: Schlumberger(US, [[2.개별종목/SLB\|SLB]])
-    - 시추 장비: Baker Hughes(US, [[2.개별종목/BKR\|BKR]])
+    - 석유 서비스: Schlumberger(US, [[SLB]])
+    - 시추 장비: Baker Hughes(US, [[BKR]])
     
 2. 전방산업:
     
-    - 정유: Valero Energy(US, [[2.개별종목/VLO\|VLO]])
-    - 석유화학: Dow Inc.(US, [[2.개별종목/DOW\|DOW]])
-    - 전력 생산: NextEra Energy(US, [[2.개별종목/NEE\|NEE]])
+    - 정유: Valero Energy(US, [[VLO]])
+    - 석유화학: Dow Inc.(US, [[DOW]])
+    - 전력 생산: NextEra Energy(US, [[NEE]])
     
 
 ## 밸류체인
 
 1. 탐사 및 생산: Occidental Petroleum (주요 사업 영역)
 2. 수집 및 처리: Occidental Petroleum (주요 사업 영역)
-3. 수송: Occidental Petroleum, Western Midstream(US, [[WES\|WES]])
+3. 수송: Occidental Petroleum, Western Midstream(US, [[WES]])
 4. 정제 및 화학: OxyChem (Occidental Petroleum 자회사)
 5. 마케팅 및 유통: Occidental Petroleum (주요 사업 영역)
 
 ## 주요제품
 
-1. [[1.Study/★ 산업/에너지 산업/1.화석 에너지/1.정유화학/원유\|원유]]
-2. [[1.Study/★ 산업/에너지 산업/1.화석 에너지/1.정유화학/천연가스\|천연가스]]
+1. [[원유]]
+2. [[천연가스]]
 3. NGL(천연가스 액체)
-4. [[화학제품\|화학제품]] (PVC, 염소, 가성 소다 등)
+4. [[화학제품]] (PVC, 염소, 가성 소다 등)
 
 ## 주요고객
 
@@ -72,11 +71,11 @@ OXY는 미국, 중동, 북아프리카 등 글로벌 시장에서 사업을 영�
 
 ## 경쟁업체
 
-1. ExxonMobil(US, [[2.개별종목/XOM\|XOM]])
-2. Chevron(US, [[2.개별종목/CVX\|CVX]])
-3. ConocoPhillips(US, [[2.개별종목/COP\|COP]])
-4. EOG Resources(US, [[2.개별종목/EOG\|EOG]])
-5. Pioneer Natural Resources(US, [[PXD\|PXD]])
+1. ExxonMobil(US, [[XOM]])
+2. Chevron(US, [[CVX]])
+3. ConocoPhillips(US, [[COP]])
+4. EOG Resources(US, [[EOG]])
+5. Pioneer Natural Resources(US, [[PXD]])
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -100,6 +99,6 @@ OXY는 미국, 중동, 북아프리카 등 글로벌 시장에서 사업을 영�
 
 ## 관련 ETF
 
-1. Energy Select Sector SPDR Fund - [[XLE\|XLE]]
-2. iShares U.S. Energy ETF - [[IYE\|IYE]]
-3. Vanguard Energy ETF - [[VDE\|VDE]]
+1. Energy Select Sector SPDR Fund - [[XLE]]
+2. iShares U.S. Energy ETF - [[IYE]]
+3. Vanguard Energy ETF - [[VDE]]

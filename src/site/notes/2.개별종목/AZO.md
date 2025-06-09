@@ -1,16 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/AZO/","created":"2024-12-10T21:15:40.076+09:00","updated":"2025-06-03T20:05:57.858+09:00"}
+dg-publish: true
 ---
-
 #임의소비재 #전문소매 #자동차부품 
 
 
-AutoZone, Inc.(AZO)는 미국 최대의 [[자동차 부품\|자동차 부품]] 및 액세서리 소매업체입니다.
+AutoZone, Inc.(AZO)는 미국 최대의 [[자동차 부품]] 및 액세서리 소매업체입니다.
 
 ## 산업섹터
 
-섹터: [[임의소비재\|임의소비재]](Consumer Discretionary)  
-산업: [[전문 소매\|전문 소매]](Specialty Retail)
+섹터: [[임의소비재]](Consumer Discretionary)  
+산업: [[전문 소매]](Specialty Retail)
 
 ## 영위사업
 
@@ -54,8 +53,8 @@ AutoZone은 온라인(autozone.com, autozonepro.com)과 오프라인 매장을 �
 
 ## 경쟁업체
 
-- O'Reilly Automotive(US, [[2.개별종목/ORLY\|ORLY]])
-- Advance Auto Parts(US, [[2.개별종목/AAP\|AAP]])
+- O'Reilly Automotive(US, [[ORLY]])
+- Advance Auto Parts(US, [[AAP]])
 - NAPA Auto Parts
 - Pep Boys
 

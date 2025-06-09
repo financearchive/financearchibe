@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/CACI/","created":"2025-01-29T17:42:20.640+09:00","updated":"2025-06-03T20:05:58.122+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #정보기술 #국방 #사이버보안 #정부계약 #AI기술 #클라우드서비스 #통신시스템 #데이터분석 #소프트웨어개발 #임상시험지원 #전략적파트너십 #디지털전환 #인프라관리 #비즈니스시스템 #사이버위협대응 #국제사업 #고객맞춤형솔루션 #기술혁신 #정밀의료 #ESG
 
 ## 산업섹터
 
-섹터: [[정보기술\|정보기술]]
-산업: [[정보기술서비스\|정보기술서비스]]
+섹터: [[정보기술]]
+산업: [[정보기술서비스]]
 
 ## 영위사업
 
-CACI International Inc.(NYSE: CACI)는 미국의 [[다국적 정보 기술 및 전문 서비스\|다국적 정보 기술 및 전문 서비스]] 기업으로, 주로 [[국방\|국방]], 정보, 정부 및 상업 부문에 서비스를 제공합니다. 1962년에 설립된 이 회사는 미국 연방 정부 및 군대에 다양한 IT 솔루션과 서비스를 제공하고 있습니다.주요 사업 부문은 다음과 같습니다:
+CACI International Inc.(NYSE: CACI)는 미국의 [[다국적 정보 기술 및 전문 서비스]] 기업으로, 주로 [[국방]], 정보, 정부 및 상업 부문에 서비스를 제공합니다. 1962년에 설립된 이 회사는 미국 연방 정부 및 군대에 다양한 IT 솔루션과 서비스를 제공하고 있습니다.주요 사업 부문은 다음과 같습니다:
 
 1. **정보 기술 서비스**: 소프트웨어 개발, 데이터 분석, 클라우드 서비스 등
 2. **국방 및 정보 서비스**: 군사 작전 지원, 사이버 보안, 통신 시스템 구축
@@ -38,22 +37,22 @@ CACI International Inc.(NYSE: CACI)는 미국의 [[다국적 정보 기술 및 �
 
 후방산업:
 
-- 소프트웨어 개발: Microsoft(US, [[2.개별종목/MSFT\|MSFT]]), Oracle(US, [[2.개별종목/ORCL\|ORCL]])
-- 데이터 분석 서비스: Palantir Technologies(US, [[2.개별종목/PLTR\|PLTR]]), Splunk(US, [[2.개별종목/SPLK\|SPLK]])
-- 클라우드 서비스 제공업체: Amazon Web Services(US, [[2.개별종목/AMZN\|AMZN]]), Google Cloud(US, [[2.개별종목/GOOGL\|GOOGL]])
+- 소프트웨어 개발: Microsoft(US, [[MSFT]]), Oracle(US, [[ORCL]])
+- 데이터 분석 서비스: Palantir Technologies(US, [[PLTR]]), Splunk(US, [[SPLK]])
+- 클라우드 서비스 제공업체: Amazon Web Services(US, [[AMZN]]), Google Cloud(US, [[GOOGL]])
 
 ## 밸류체인
 
-1. **연구개발**: CACI(US, [[2.개별종목/CACI\|CACI]]) (신기술 개발)
-2. **소프트웨어 설계**: CACI(US, [[2.개별종목/CACI\|CACI]]) (IT 솔루션 설계)
-3. **시스템 통합**: CACI(US, [[2.개별종목/CACI\|CACI]]) (고객 맞춤형 시스템 구축)
-4. **운영 관리**: CACI(US, [[2.개별종목/CACI\|CACI]]) (IT 인프라 운영)
-5. **고객 지원**: CACI(US, [[2.개별종목/CACI\|CACI]]) (지속적인 기술 지원 제공)
+1. **연구개발**: CACI(US, [[CACI]]) (신기술 개발)
+2. **소프트웨어 설계**: CACI(US, [[CACI]]) (IT 솔루션 설계)
+3. **시스템 통합**: CACI(US, [[CACI]]) (고객 맞춤형 시스템 구축)
+4. **운영 관리**: CACI(US, [[CACI]]) (IT 인프라 운영)
+5. **고객 지원**: CACI(US, [[CACI]]) (지속적인 기술 지원 제공)
 
 ## 주요제품
 
-- [[사이버 보안 솔루션\|사이버 보안 솔루션]]: 군사 및 정부 기관을 위한 보안 시스템
-- [[데이터 분석 플랫폼\|데이터 분석 플랫폼]]: 정보 수집 및 분석 도구
+- [[사이버 보안 솔루션]]: 군사 및 정부 기관을 위한 보안 시스템
+- [[데이터 분석 플랫폼]]: 정보 수집 및 분석 도구
 - 클라우드 기반 IT 솔루션: 고객 맞춤형 클라우드 서비스
 - 임상시험 지원 서비스: 의료 연구를 위한 데이터 관리 및 분석
 
@@ -62,8 +61,8 @@ CACI International Inc.(NYSE: CACI)는 미국의 [[다국적 정보 기술 및 �
 - 미국 국방부(DoD): 방산 관련 IT 솔루션
 - CIA(중앙정보국): 정보 분석 및 보안 시스템
 - FBI(연방수사국): 사이버 보안 및 데이터 관리
-- Lockheed Martin(US, [[2.개별종목/LMT\|LMT]]): 방산 관련 협력
-- Northrop Grumman(US, [[2.개별종목/NOC\|NOC]]): 방산 관련 IT 솔루션 제공
+- Lockheed Martin(US, [[LMT]]): 방산 관련 협력
+- Northrop Grumman(US, [[NOC]]): 방산 관련 IT 솔루션 제공
 
 ## 주요 판매국가
 
@@ -71,10 +70,10 @@ CACI International Inc.(NYSE: CACI)는 미국의 [[다국적 정보 기술 및 �
 
 ## 경쟁업체
 
-- Booz Allen Hamilton Holding Corp(US, [[BAH\|BAH]]): 방산 컨설팅 및 IT 서비스 제공
-- Leidos Holdings Inc(US, [[2.개별종목/LDOS\|LDOS]]): 방산 및 정보 기술 서비스 제공
-- Science Applications International Corporation(US, [[SAIC\|SAIC]]): 방산 및 IT 솔루션 제공
-- General Dynamics Corporation(US, [[2.개별종목/GD\|GD]]): 방산 및 정보 기술 서비스 제공
+- Booz Allen Hamilton Holding Corp(US, [[BAH]]): 방산 컨설팅 및 IT 서비스 제공
+- Leidos Holdings Inc(US, [[LDOS]]): 방산 및 정보 기술 서비스 제공
+- Science Applications International Corporation(US, [[SAIC]]): 방산 및 IT 솔루션 제공
+- General Dynamics Corporation(US, [[GD]]): 방산 및 정보 기술 서비스 제공
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -96,8 +95,8 @@ CACI는 2024년 기준으로 미국 방산 IT 서비스 시장에서 약 10%의 
 
 ## 관련 ETF
 
-- iShares U.S. Aerospace & Defense ETF - [[ITA\|ITA]]
-- SPDR S&P Aerospace & Defense ETF - [[XAR\|XAR]]
-- Invesco Aerospace & Defense ETF - [[1.Study/★ 산업/이차전지, 배터리 산업/INFO_배터리/PPA\|PPA]]
-- ARK Autonomous Technology & Robotics ETF - [[ARKQ\|ARKQ]]
-- First Trust NASDAQ Cybersecurity ETF - [[CIBR\|CIBR]]
+- iShares U.S. Aerospace & Defense ETF - [[ITA]]
+- SPDR S&P Aerospace & Defense ETF - [[XAR]]
+- Invesco Aerospace & Defense ETF - [[PPA]]
+- ARK Autonomous Technology & Robotics ETF - [[ARKQ]]
+- First Trust NASDAQ Cybersecurity ETF - [[CIBR]]

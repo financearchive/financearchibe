@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/OKTA/","created":"2024-12-05T21:59:54.562+09:00","updated":"2025-06-03T20:06:00.495+09:00"}
+dg-publish: true
 ---
-
 #정보기술 #소프트웨어 #인증서비스
  
 ## 산업섹터
 
-섹터: [[정보기술\|정보기술]](Information Technology)  
-산업: [[소프트웨어\|소프트웨어]] - 애플리케이션(Software - Application)
+섹터: [[정보기술]](Information Technology)  
+산업: [[소프트웨어]] - 애플리케이션(Software - Application)
 
 ## 영위사업
 
@@ -17,7 +16,7 @@ Okta는 기업들이 애플리케이션에 대한 사용자 인증을 관리하�
 
 - 싱글 사인온(SSO) 서비스
 - 다요소 인증(MFA)
-- API [[인증 서비스\|인증 서비스]]
+- API [[인증 서비스]]
 - 사용자 ID 수명주기 관리
 - Universal Directory
 - Access Gateway
@@ -28,9 +27,9 @@ Okta는 기업들이 애플리케이션에 대한 사용자 인증을 관리하�
 
 ## 경쟁업체
 
-- Microsoft(US, [[2.개별종목/MSFT\|MSFT]])
-- Ping Identity(US, [[PING\|PING]])
-- ForgeRock(US, [[FORG\|FORG]])
+- Microsoft(US, [[MSFT]])
+- Ping Identity(US, [[PING]])
+- ForgeRock(US, [[FORG]])
 
 ## 최근 주요 이슈
 

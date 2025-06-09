@@ -1,16 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/DUOL/","created":"2024-12-11T08:46:53.099+09:00","updated":"2025-06-03T20:05:58.802+09:00"}
+dg-publish: true
 ---
-
 #교육 #모바일언어학습플랫폼 #테크 #소프트웨어
 
 
-Duolingo, Inc.(DUOL)는 [[모바일 언어 학습 플랫폼\|모바일 언어 학습 플랫폼]]을 운영하는 미국의 [[교육\|교육]] 기술 기업입니다.
+Duolingo, Inc.(DUOL)는 [[모바일 언어 학습 플랫폼]]을 운영하는 미국의 [[교육]] 기술 기업입니다.
 
 ## 산업섹터
 
-섹터: [[테크\|테크]](Technology)  
-산업: [[소프트웨어\|소프트웨어]] - 애플리케이션(Software - Application)
+섹터: [[테크]](Technology)  
+산업: [[소프트웨어]] - 애플리케이션(Software - Application)
 
 ## 영위사업
 
@@ -27,7 +26,7 @@ Duolingo는 모바일 앱과 웹사이트를 통해 43개 언어의 온라인 �
 
 ## 후방산업
 
-- 클라우드 서비스 제공업체: Amazon Web Services(US, [[2.개별종목/AMZN\|AMZN]])
+- 클라우드 서비스 제공업체: Amazon Web Services(US, [[AMZN]])
 
 ## 전방산업
 

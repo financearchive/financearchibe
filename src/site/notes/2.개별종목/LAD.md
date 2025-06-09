@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/LAD/","created":"2024-12-25T21:16:26.464+09:00","updated":"2025-06-03T20:05:59.815+09:00"}
+dg-publish: true
 ---
-
 #자동차소매 #임의소비재 #중고차 #자동차 #신차
 
 ## 산업섹터
 
-Sector: [[임의소비재\|임의소비재]](Consumer Discretionary)  
-Industry: [[자동차 소매\|자동차 소매]](Auto & Truck Dealerships)
+Sector: [[임의소비재]](Consumer Discretionary)  
+Industry: [[자동차 소매]](Auto & Truck Dealerships)
 
 ## 영위사업
 
-Lithia Motors, Inc.는 글로벌 [[1.Study/★ 산업/자동차 산업/자동차\|자동차]] 소매업체로, 주요 사업 영역은 다음과 같습니다:
+Lithia Motors, Inc.는 글로벌 [[자동차]] 소매업체로, 주요 사업 영역은 다음과 같습니다:
 
 1. 차량 운영 부문
     
@@ -32,24 +31,24 @@ Lithia Motors는 미국, 영국, 캐나다에 걸쳐 약 473개의 지점을 운
 ## 전방산업
 
 - 개인 및 기업 소비자: 차량 구매 및 관련 서비스 이용
-- 보험회사: 차량 보험 상품 제공 (예: Progressive Corporation (US, [[PGR\|PGR]]))
+- 보험회사: 차량 보험 상품 제공 (예: Progressive Corporation (US, [[PGR]]))
 
 ## 후방산업
 
-- 자동차 제조업체: 신차 공급 (예: General Motors (US, [[2.개별종목/GM\|GM]]))
-- 부품 제조업체: 차량 부품 공급 (예: Aptiv PLC (US, [[2.개별종목/APTV\|APTV]]))
+- 자동차 제조업체: 신차 공급 (예: General Motors (US, [[GM]]))
+- 부품 제조업체: 차량 부품 공급 (예: Aptiv PLC (US, [[APTV]]))
 
 ## 밸류체인
 
-1. 차량 공급: 자동차 제조업체 (예: Ford Motor Company (US, [[2.개별종목/F\|F]]))
-2. 부품 공급: 자동차 부품 제조업체 (예: Magna International (US, [[2.개별종목/MGA\|MGA]]))
-3. 소매 판매 및 서비스: Lithia Motors (US, [[2.개별종목/LAD\|LAD]])
+1. 차량 공급: 자동차 제조업체 (예: Ford Motor Company (US, [[F]]))
+2. 부품 공급: 자동차 부품 제조업체 (예: Magna International (US, [[MGA]]))
+3. 소매 판매 및 서비스: Lithia Motors (US, [[LAD]])
 4. 금융 서비스: Lithia Motors의 자체 금융 부문
 
 ## 주요제품
 
-1. [[신차\|신차]] 판매
-2. [[중고차\|중고차]] 판매
+1. [[신차]] 판매
+2. [[중고차]] 판매
 3. 차량 부품 및 액세서리
 4. 수리 및 유지보수 서비스
 5. 차량 금융 및 보험 상품
@@ -60,11 +59,11 @@ Lithia Motors는 주로 미국, 영국, 캐나다에서 사업을 영위하고 �
 
 ## 경쟁업체
 
-1. CarMax (US, [[2.개별종목/KMX\|KMX]]) - 중고차 판매
-2. AutoNation (US, [[2.개별종목/AN\|AN]]) - 신차 및 중고차 판매
-3. Penske Automotive Group (US, [[2.개별종목/PAG\|PAG]]) - 자동차 소매 및 상업용 트럭 판매
-4. Group 1 Automotive (US, [[2.개별종목/GPI\|GPI]]) - 자동차 소매
-5. Asbury Automotive Group (US, [[2.개별종목/ABG\|ABG]]) - 자동차 소매 및 부품 판매
+1. CarMax (US, [[KMX]]) - 중고차 판매
+2. AutoNation (US, [[AN]]) - 신차 및 중고차 판매
+3. Penske Automotive Group (US, [[PAG]]) - 자동차 소매 및 상업용 트럭 판매
+4. Group 1 Automotive (US, [[GPI]]) - 자동차 소매
+5. Asbury Automotive Group (US, [[ABG]]) - 자동차 소매 및 부품 판매
 
 ## 산업 내 글로벌 시장 점유율
 

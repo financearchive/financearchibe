@@ -1,21 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/SSTK/","created":"2023-07-12T10:42:19.497+09:00","updated":"2025-06-03T20:06:01.368+09:00"}
+dg-publish: true
 ---
-
 #테크 #소프트웨어 #인터넷콘텐츠및정보 #커뮤니케이션서비스
 
 
 
 - 최근 이슈
 	- 2023년
-		- [[00.투자기록/과거/2023/7월/2023-07-12\|2023-07-12]]
+		- [[2023-07-12]]
 			- SSTK +9.1%, OpenAI와 자사 모델을 위한 훈련데이터 제공을 위해 신규 6년 계약을 체결했다고 밝히며 주가 급등. 해당계약을 통해 OpenAI 는 SSTK의 이미지, 비디오, 음악 라이브러리 관련 메타데이터에 접속 가능. SSTK는 최근 인수한 GIPHY 플랫폼에서 생성형AI 기능을 제공할 예정 
 
 
 ## 산업섹터
 
-- **Sector**: Communication Services ([[커뮤니케이션 서비스\|커뮤니케이션 서비스]])
-- **Industry**: Internet Content & Information ([[인터넷 콘텐츠 및 정보\|인터넷 콘텐츠 및 정보]])
+- **Sector**: Communication Services ([[커뮤니케이션 서비스]])
+- **Industry**: Internet Content & Information ([[인터넷 콘텐츠 및 정보]])
 
 ## 영위사업
 
@@ -26,31 +25,31 @@ Shutterstock는 스톡 사진, 스톡 비디오, 스톡 음악 및 편집 도구
 - **전방산업**:
     
     - **핵심 산업 및 역할**: 디지털 콘텐츠 소비 및 마케팅
-    - **관련 기업**: Adobe Stock (US, [[2.개별종목/ADBE\|ADBE]]), Getty Images (US, [[GETY\|GETY]])
+    - **관련 기업**: Adobe Stock (US, [[ADBE]]), Getty Images (US, [[GETY]])
     
 - **후방산업**:
     
     - **핵심 산업 및 역할**: 콘텐츠 제작 및 배급
-    - **관련 기업**: Canva (AU, [[CAN\|CAN]]) - 디자인 플랫폼
-    - **관련 기업**: [[Pond5\|Pond5]] (US, 비상장) - 스톡 비디오 및 음악 제공
+    - **관련 기업**: Canva (AU, [[CAN]]) - 디자인 플랫폼
+    - **관련 기업**: [[Pond5]] (US, 비상장) - 스톡 비디오 및 음악 제공
     
 
 ## 밸류체인
 
 - **콘텐츠 제작**: Shutterstock의 스톡 이미지 및 비디오 제작
     
-    - **대표 회사**: Getty Images (US, [[GETY\|GETY]]) - 스톡 이미지 및 비디오 제공
-    - **대표 회사**: Adobe Stock (US, [[2.개별종목/ADBE\|ADBE]]) - 스톡 이미지 및 디자인 자원
+    - **대표 회사**: Getty Images (US, [[GETY]]) - 스톡 이미지 및 비디오 제공
+    - **대표 회사**: Adobe Stock (US, [[ADBE]]) - 스톡 이미지 및 디자인 자원
     
 - **플랫폼 운영**: Shutterstock 웹사이트 및 API 개발
     
-    - **대표 회사**: Google (US, [[2.개별종목/GOOGL\|GOOGL]]) - 클라우드 서비스 및 API 제공
-    - **대표 회사**: Amazon Web Services (US, [[2.개별종목/AMZN\|AMZN]]) - 클라우드 인프라 제공
+    - **대표 회사**: Google (US, [[GOOGL]]) - 클라우드 서비스 및 API 제공
+    - **대표 회사**: Amazon Web Services (US, [[AMZN]]) - 클라우드 인프라 제공
     
 - **마케팅 및 유통**: 콘텐츠 마케팅 및 배급
     
-    - **대표 회사**: HubSpot (US, [[HUBS\|HUBS]]) - 마케팅 소프트웨어
-    - **대표 회사**: [[Mailchimp\|Mailchimp]] (US, 비상장) - 이메일 마케팅 플랫폼
+    - **대표 회사**: HubSpot (US, [[HUBS]]) - 마케팅 소프트웨어
+    - **대표 회사**: [[Mailchimp]] (US, 비상장) - 이메일 마케팅 플랫폼
     
 
 ## 주요제품
@@ -66,9 +65,9 @@ Shutterstock은 전 세계적으로 운영되며, 주요 시장은 미국, 유�
 
 ## 경쟁업체
 
-- **Adobe Stock (US, [[2.개별종목/ADBE\|ADBE]])** - 스톡 이미지 및 비디오 제공
-- **Getty Images (US, [[GETY\|GETY]])** - 스톡 이미지 및 비디오 제공
-- **[[Pond5\|Pond5]] (US, 비상장)** - 스톡 비디오 및 음악 제공
+- **Adobe Stock (US, [[ADBE]])** - 스톡 이미지 및 비디오 제공
+- **Getty Images (US, [[GETY]])** - 스톡 이미지 및 비디오 제공
+- **[[Pond5]] (US, 비상장)** - 스톡 비디오 및 음악 제공
 
 ## 산업 내 글로벌 시장 점유율
 

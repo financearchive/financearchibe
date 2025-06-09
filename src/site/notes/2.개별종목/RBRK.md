@@ -1,26 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/RBRK/","created":"2024-12-06T22:19:33.791+09:00","updated":"2025-06-03T20:06:00.885+09:00"}
+dg-publish: true
 ---
-
 #데이터보안솔루션 #정보기술 #소프트웨어 #보안 
 
-Rubrik, Inc.(RBRK)는 [[데이터 보안 솔루션\|데이터 보안 솔루션]]을 제공하는 기업입니다.
+Rubrik, Inc.(RBRK)는 [[데이터 보안 솔루션]]을 제공하는 기업입니다.
 
 ## 산업섹터
 
-섹터: [[정보기술\|정보기술]](Information Technology)  
-산업: [[소프트웨어\|소프트웨어]] - 인프라(Software - Infrastructure)
+섹터: [[정보기술]](Information Technology)  
+산업: [[소프트웨어]] - 인프라(Software - Infrastructure)
 
 ## 영위사업
 
-Rubrik은 기업 데이터 보호([[보안\|보안]]), 비정형 데이터 보호, 클라우드 데이터 보호, SaaS 데이터 보호 솔루션, 데이터 위협 분석, 데이터 보안 태세, 사이버 복구 솔루션 등을 제공합니다. 금융, 소매, 무역, 운송, 에너지, 산업, 의료 및 생명 과학, 교육, 기술, 미디어, 통신, 공공 부문 등 다양한 산업에 서비스를 제공하고 있습니다.
+Rubrik은 기업 데이터 보호([[보안]]), 비정형 데이터 보호, 클라우드 데이터 보호, SaaS 데이터 보호 솔루션, 데이터 위협 분석, 데이터 보안 태세, 사이버 복구 솔루션 등을 제공합니다. 금융, 소매, 무역, 운송, 에너지, 산업, 의료 및 생명 과학, 교육, 기술, 미디어, 통신, 공공 부문 등 다양한 산업에 서비스를 제공하고 있습니다.
 
 ## 전방/후방산업
 
 ## 후방산업
 
-- 반도체 제조업체: TSMC(TW, [[2.개별종목/TSM\|TSM]])
-- 클라우드 서비스 제공업체: AWS(US, [[2.개별종목/AMZN\|AMZN]]), Microsoft Azure(US, [[2.개별종목/MSFT\|MSFT]])
+- 반도체 제조업체: TSMC(TW, [[TSM]])
+- 클라우드 서비스 제공업체: AWS(US, [[AMZN]]), Microsoft Azure(US, [[MSFT]])
 
 ## 전방산업
 
@@ -48,10 +47,10 @@ Rubrik은 기업 데이터 보호([[보안\|보안]]), 비정형 데이터 보�
 
 ## 경쟁업체
 
-- Palo Alto Networks(US, [[2.개별종목/PANW\|PANW]])
-- Fortinet(US, [[2.개별종목/FTNT\|FTNT]])
-- Check Point Software Technologies(IL, [[CHKP\|CHKP]])
-- CyberArk Software(US, [[CYBR\|CYBR]])
+- Palo Alto Networks(US, [[PANW]])
+- Fortinet(US, [[FTNT]])
+- Check Point Software Technologies(IL, [[CHKP]])
+- CyberArk Software(US, [[CYBR]])
 
 ## 산업 내 글로벌 시장 점유율
 

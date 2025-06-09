@@ -1,26 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/LAES/","created":"2024-12-27T09:53:33.607+09:00","updated":"2025-06-03T20:05:59.839+09:00"}
+dg-publish: true
 ---
-
 #암호화폐 #블록체인 #디지털자산 #보안 #IoT #클라우드 #정보기술 #양자컴퓨터 #전자장비 #정보기술 #디지털보안 
 
 ## 산업 섹터
 
-[[정보기술\|정보기술]]
+[[정보기술]]
 
 ## 산업
 
-[[전자장비\|전자장비]], 기기 및 부품(Electronic Equipment, Instruments & Components)
+[[전자장비]], 기기 및 부품(Electronic Equipment, Instruments & Components)
 
 ## 영위사업
 
-SEALSQ Corp(LAES)는 [[디지털 보안\|디지털 보안]] 및 [[IoT\|IoT]] 솔루션을 제공하는 기업입니다. 주요 사업 영역은 다음과 같습니다:
+SEALSQ Corp(LAES)는 [[디지털 보안]] 및 [[IoT]] 솔루션을 제공하는 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
 1. 보안 반도체 칩 설계 및 제조
 2. 암호화 및 인증 솔루션 개발
 3. IoT 디바이스를 위한 보안 솔루션 제공
 4. 클라우드 기반 보안 서비스
-5. [[블록체인\|블록체인]] 기술을 활용한 디지털 ID 및 자산 보호 솔루션
+5. [[블록체인]] 기술을 활용한 디지털 ID 및 자산 보호 솔루션
 
 SEALSQ는 IoT, 자동차, 산업용 장비 등 다양한 분야에 보안 솔루션을 제공하고 있으며, 특히 암호화폐 및 디지털 자산 보안 분야에서 강점을 보이고 있습니다.
 
@@ -36,32 +35,32 @@ SEALSQ는 IoT, 자동차, 산업용 장비 등 다양한 분야에 보안 솔루
 
 1. 후방산업:
     
-    - 반도체 제조: TSMC(TW, [[2.개별종목/TSM\|TSM]])
-    - 클라우드 인프라: Amazon Web Services(US, [[2.개별종목/AMZN\|AMZN]])
+    - 반도체 제조: TSMC(TW, [[TSM]])
+    - 클라우드 인프라: Amazon Web Services(US, [[AMZN]])
     
 2. 전방산업:
     
-    - IoT 기기 제조: Honeywell(US, [[2.개별종목/HON\|HON]])
-    - 자동차 제조: Tesla(US, [[2.개별종목/TSLA\|TSLA]])
-    - 암호화폐 거래소: Coinbase(US, [[2.개별종목/COIN\|COIN]])
+    - IoT 기기 제조: Honeywell(US, [[HON]])
+    - 자동차 제조: Tesla(US, [[TSLA]])
+    - 암호화폐 거래소: Coinbase(US, [[COIN]])
     
 
 ## 밸류체인
 
 1. 칩 설계: SEALSQ (주요 사업 영역)
-2. 반도체 제조: TSMC(TW, [[2.개별종목/TSM\|TSM]]) - 칩 생산
+2. 반도체 제조: TSMC(TW, [[TSM]]) - 칩 생산
 3. 소프트웨어 개발: SEALSQ (주요 사업 영역)
-4. 시스템 통합: Accenture(US, [[2.개별종목/ACN\|ACN]]) - 기업 보안 솔루션 구축
-5. 최종 사용자: Honeywell(US, [[2.개별종목/HON\|HON]]) - IoT 기기에 보안 솔루션 적용
+4. 시스템 통합: Accenture(US, [[ACN]]) - 기업 보안 솔루션 구축
+5. 최종 사용자: Honeywell(US, [[HON]]) - IoT 기기에 보안 솔루션 적용
 
 ## 주요제품
 
-1. [[보안\|보안]] 반도체 칩
+1. [[보안]] 반도체 칩
 2. 암호화 및 인증 소프트웨어
 3. IoT 보안 솔루션
 4. 클라우드 보안 서비스
 5. 블록체인 기반 디지털 ID 솔루션
-6. [[1.Study/★ 산업/양자산업(양자보안,컴퓨팅)/양자컴퓨팅\|양자컴퓨팅]] 
+6. [[양자컴퓨팅]] 
 
 ## 주요고객
 
@@ -77,11 +76,11 @@ SEALSQ Corp의 구체적인 판매 국가 정보는 제공되지 않았으나, �
 
 ## 경쟁업체
 
-12. NXP Semiconductors(NL, [[2.개별종목/NXPI\|NXPI]]) - 보안 반도체
-13. Infineon Technologies(DE, [[2.개별종목/IFX\|IFX]]) - 보안 칩 및 솔루션
-14. STMicroelectronics(CH, [[2.개별종목/STM\|STM]]) - IoT 보안 솔루션
-15. Gemalto(NL, [[Gemalto\|Gemalto]]) - 디지털 보안 솔루션
-16. Rambus(US, [[RMBS\|RMBS]]) - 보안 IP 및 칩
+12. NXP Semiconductors(NL, [[NXPI]]) - 보안 반도체
+13. Infineon Technologies(DE, [[IFX]]) - 보안 칩 및 솔루션
+14. STMicroelectronics(CH, [[STM]]) - IoT 보안 솔루션
+15. Gemalto(NL, [[Gemalto]]) - 디지털 보안 솔루션
+16. Rambus(US, [[RMBS]]) - 보안 IP 및 칩
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -101,6 +100,6 @@ SEALSQ Corp의 정확한 시장 점유율 데이터는 제공되지 않았습니
 
 ## 관련 ETF
 
-22. Global X Internet of Things ETF - [[SNSR\|SNSR]]
-23. First Trust NASDAQ Cybersecurity ETF - [[CIBR\|CIBR]]
-24. iShares Cybersecurity and Tech ETF - [[IHAK\|IHAK]]
+22. Global X Internet of Things ETF - [[SNSR]]
+23. First Trust NASDAQ Cybersecurity ETF - [[CIBR]]
+24. iShares Cybersecurity and Tech ETF - [[IHAK]]

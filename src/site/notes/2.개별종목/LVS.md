@@ -1,50 +1,49 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/LVS/","created":"2024-10-09T08:28:01.985+09:00","updated":"2025-06-03T20:05:59.972+09:00"}
+dg-publish: true
 ---
-
 #경기소비재 #카지노 #호텔 #중국 #마카오 
 
 #### 산업섹터 및 영위사업
 
-- **산업섹터(Sector)**: [[경기소비재\|경기소비재]](Consumer Services)
-- **산업(Industry)**: [[1.Study/★ 산업/카지노, 도박/카지노\|카지노]] 및 게임(Casinos & Gaming)
+- **산업섹터(Sector)**: [[경기소비재]](Consumer Services)
+- **산업(Industry)**: [[카지노]] 및 게임(Casinos & Gaming)
 
 #### 전방/후방산업
 
 - **전방산업**: 여행 및 관광 산업
     - **핵심 산업 및 역할**: 여행사, 항공사, 온라인 여행사(OTA) 등. 이들은 고객을 카지노와 리조트로 유치하는 역할을 합니다.
-    - **관련 기업**: Expedia Group (미국, [[2.개별종목/EXPE\|EXPE]]), Booking Holdings (미국, [[2.개별종목/BKNG\|BKNG]])
+    - **관련 기업**: Expedia Group (미국, [[EXPE]]), Booking Holdings (미국, [[BKNG]])
       
 - **후방산업**: 건설 및 유지보수, 식음료 공급업체
     - **핵심 산업 및 역할**: 리조트 건설 및 유지보수, 식음료 공급 등. 이들은 리조트 운영에 필요한 인프라와 자원을 제공합니다.
-    - **관련 기업**: Caterpillar Inc. (미국, [[2.개별종목/CAT\|CAT]]), Sysco Corporation (미국, [[2.개별종목/SYY\|SYY]])
+    - **관련 기업**: Caterpillar Inc. (미국, [[CAT]]), Sysco Corporation (미국, [[SYY]])
 
 #### 밸류체인
 
 - **개발 및 건설**: 리조트 개발 및 건설
-    - **대표 회사**: Wynn Resorts (미국, [[2.개별종목/WYNN\|WYNN]]), MGM Resorts International (미국, [[2.개별종목/MGM\|MGM]])
+    - **대표 회사**: Wynn Resorts (미국, [[WYNN]]), MGM Resorts International (미국, [[MGM]])
 - **운영 및 관리**: 리조트 운영 및 관리
-    - **대표 회사**: Caesars Entertainment (미국, [[2.개별종목/CZR\|CZR]]), Melco Resorts & Entertainment (홍콩, [[2.개별종목/MLCO\|MLCO]])
+    - **대표 회사**: Caesars Entertainment (미국, [[CZR]]), Melco Resorts & Entertainment (홍콩, [[MLCO]])
 - **마케팅 및 판매**: 리조트 마케팅 및 판매
-    - **대표 회사**: Expedia Group (미국, [[2.개별종목/EXPE\|EXPE]]), Booking Holdings (미국, [[2.개별종목/BKNG\|BKNG]])
+    - **대표 회사**: Expedia Group (미국, [[EXPE]]), Booking Holdings (미국, [[BKNG]])
 
 #### 주요제품
 
-- **[[1.Study/★ 산업/카지노, 도박/카지노\|카지노]] 및 게임**: 다양한 카지노 게임 및 슬롯 머신
-- **[[호텔\|호텔]] 및 리조트 운영**: The Venetian Macao, Marina Bay Sands (싱가포르), The Parisian Macao 등
+- **[[카지노]] 및 게임**: 다양한 카지노 게임 및 슬롯 머신
+- **[[호텔]] 및 리조트 운영**: The Venetian Macao, Marina Bay Sands (싱가포르), The Parisian Macao 등
 - **컨벤션 및 전시**: 대규모 컨벤션 센터 및 전시 공간
 
 #### 주요 판매국가
 
-- **[[마카오\|마카오]]**: 주요 매출 국가로, 전체 매출의 상당 부분을 차지, [[1.Study/♠ 국가별 이슈/중국/중국\|중국]] 경기의 영향을 많이 받음
+- **[[마카오]]**: 주요 매출 국가로, 전체 매출의 상당 부분을 차지, [[중국]] 경기의 영향을 많이 받음
 - **싱가포르**: Marina Bay Sands를 통해 높은 매출 발생
 - **미국**: 과거 주요 매출 국가였으나, 현재는 아시아 시장에 집중
 
 #### 경쟁업체
 
-- **Wynn Resorts (미국, [[2.개별종목/WYNN\|WYNN]])**: 카지노 및 리조트 운영
-- **MGM Resorts International (미국, [[2.개별종목/MGM\|MGM]])**: 카지노 및 리조트 운영
-- **Caesars Entertainment (미국, [[2.개별종목/CZR\|CZR]])**: 카지노 및 리조트 운영
+- **Wynn Resorts (미국, [[WYNN]])**: 카지노 및 리조트 운영
+- **MGM Resorts International (미국, [[MGM]])**: 카지노 및 리조트 운영
+- **Caesars Entertainment (미국, [[CZR]])**: 카지노 및 리조트 운영
 
 #### 산업 내 글로벌 시장 점유율
 

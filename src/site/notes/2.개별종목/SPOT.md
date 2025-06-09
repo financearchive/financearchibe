@@ -1,48 +1,47 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/SPOT/","created":"2024-08-29T21:47:52.675+09:00","updated":"2025-06-03T20:06:01.324+09:00"}
+dg-publish: true
 ---
-
 #커뮤니케이션서비스 #음악 #스트리밍  #인터넷콘텐츠및정보 #팟캐스트 #디지털오디오스트리밍 #오디오북
 
 
 ## 산업섹터
 
-- **Sector**: Communication Services ([[커뮤니케이션 서비스\|커뮤니케이션 서비스]])
-- **Industry**: Internet Content & Information ([[인터넷 콘텐츠 및 정보\|인터넷 콘텐츠 및 정보]])
+- **Sector**: Communication Services ([[커뮤니케이션 서비스]])
+- **Industry**: Internet Content & Information ([[인터넷 콘텐츠 및 정보]])
 
 ## 영위사업
 
-Spotify는 음악, [[팟캐스트\|팟캐스트]], 오디오북 등의 [[디지털 오디오 스트리밍 \|디지털 오디오 스트리밍 ]]서비스를 제공하는 글로벌 기업입니다. 사용자들에게 수백만 곡의 음악과 다양한 오디오 콘텐츠에 대한 접근을 제공하며, 무료 광고 지원 모델과 프리미엄 구독 모델을 운영합니다.
+Spotify는 음악, [[팟캐스트]], 오디오북 등의 [[디지털 오디오 스트리밍 ]]서비스를 제공하는 글로벌 기업입니다. 사용자들에게 수백만 곡의 음악과 다양한 오디오 콘텐츠에 대한 접근을 제공하며, 무료 광고 지원 모델과 프리미엄 구독 모델을 운영합니다.
 
 ## 전방/후방산업
 
 - **전방산업**:
     
     - **핵심 산업 및 역할**: 음악 및 오디오 콘텐츠 소비
-    - **관련 기업**: Apple Music (US, [[2.개별종목/AAPL\|AAPL]]), Amazon Music (US, [[2.개별종목/AMZN\|AMZN]])
+    - **관련 기업**: Apple Music (US, [[AAPL]]), Amazon Music (US, [[AMZN]])
     
 - **후방산업**:
     
     - **핵심 산업 및 역할**: 음악 제작 및 유통, 팟캐스트 제작
-    - **관련 기업**: Universal Music Group (NL, [[UMG.AS\|UMG.AS]]), [[Sony Music Entertainment\|Sony Music Entertainment]] (JP, 6758.T)
+    - **관련 기업**: Universal Music Group (NL, [[UMG.AS]]), [[Sony Music Entertainment]] (JP, 6758.T)
     
 
 ## 밸류체인
 
-- **콘텐츠 제작 및 확보**: [[음악\|음악]], [[팟캐스트\|팟캐스트]], [[오디오북\|오디오북]] 등의 콘텐츠 확보
+- **콘텐츠 제작 및 확보**: [[음악]], [[팟캐스트]], [[오디오북]] 등의 콘텐츠 확보
     
-    - **대표 회사**: Warner Music Group (US, [[WMG\|WMG]]) - 음악 제작 및 유통
-    - **대표 회사**: iHeartMedia (US, [[IHRT\|IHRT]]) - 팟캐스트 제작
+    - **대표 회사**: Warner Music Group (US, [[WMG]]) - 음악 제작 및 유통
+    - **대표 회사**: iHeartMedia (US, [[IHRT]]) - 팟캐스트 제작
     
 - **플랫폼 개발 및 운영**: Spotify 앱 및 웹 플랫폼 개발, 유지보수
     
-    - **대표 회사**: Alphabet (Google) (US, [[2.개별종목/GOOGL\|GOOGL]]) - 기술 인프라 제공
-    - **대표 회사**: Amazon Web Services (US, [[2.개별종목/AMZN\|AMZN]]) - 클라우드 서비스
+    - **대표 회사**: Alphabet (Google) (US, [[GOOGL]]) - 기술 인프라 제공
+    - **대표 회사**: Amazon Web Services (US, [[AMZN]]) - 클라우드 서비스
     
 - **마케팅 및 사용자 확보**: 사용자 유치 및 유지를 위한 마케팅 활동
     
-    - **대표 회사**: Facebook (US, [[2.개별종목/META\|META]]) - 디지털 광고 플랫폼
-    - **대표 회사**: Twitter (US, [[TWTR\|TWTR]]) - 소셜 미디어 마케팅
+    - **대표 회사**: Facebook (US, [[META]]) - 디지털 광고 플랫폼
+    - **대표 회사**: Twitter (US, [[TWTR]]) - 소셜 미디어 마케팅
     
 
 ## 주요제품
@@ -57,9 +56,9 @@ Spotify는 전 세계 180개국 이상에서 서비스를 제공하고 있으며
 
 ## 경쟁업체
 
-- **Apple Music (US, [[2.개별종목/AAPL\|AAPL]])** - 음악 스트리밍 서비스
-- **Amazon Music (US, [[2.개별종목/AMZN\|AMZN]])** - 음악 스트리밍 서비스
-- **YouTube Music (US, [[2.개별종목/GOOGL\|GOOGL]])** - 음악 및 동영상 스트리밍 서비스
+- **Apple Music (US, [[AAPL]])** - 음악 스트리밍 서비스
+- **Amazon Music (US, [[AMZN]])** - 음악 스트리밍 서비스
+- **YouTube Music (US, [[GOOGL]])** - 음악 및 동영상 스트리밍 서비스
 
 ## 산업 내 글로벌 시장 점유율
 

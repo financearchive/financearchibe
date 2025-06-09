@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/BKNG/","created":"2024-10-24T10:31:23.406+09:00","updated":"2025-06-03T20:05:57.969+09:00"}
+dg-publish: true
 ---
-
 #여행서비스 #경기소비재 #여행 #레저 
 
 ### 산업섹터 (Sector, Industry)
 
-- **Sector:** [[경기소비재\|경기소비재]] (Consumer Services)
-- **Industry:** [[여행 서비스\|여행 서비스]] (Travel Services)
+- **Sector:** [[경기소비재]] (Consumer Services)
+- **Industry:** [[여행 서비스]] (Travel Services)
 
 ### 영위사업
 
@@ -18,23 +17,23 @@ Booking Holdings Inc. (BKNG)는 글로벌 온라인 여행 예약 및 관련 서
 
 - **전방산업:** 여행 및 관광업
     - **핵심 산업:** 여행 및 관광업은 Booking Holdings의 플랫폼을 통해 고객에게 다양한 여행 옵션을 제공합니다.
-    - **관련 기업:** Expedia (미국, [[2.개별종목/EXPE\|EXPE]]), TripAdvisor (미국, [[2.개별종목/TRIP\|TRIP]])
+    - **관련 기업:** Expedia (미국, [[EXPE]]), TripAdvisor (미국, [[TRIP]])
       
 - **후방산업:** IT 및 데이터 서비스업
     - **핵심 산업:** IT 및 데이터 서비스업은 Booking Holdings에 기술 인프라와 데이터 분석 서비스를 제공합니다.
-    - **관련 기업:** Amazon Web Services (미국, [[2.개별종목/AMZN\|AMZN]]), Google Cloud (미국, [[2.개별종목/GOOGL\|GOOGL]])
+    - **관련 기업:** Amazon Web Services (미국, [[AMZN]]), Google Cloud (미국, [[GOOGL]])
 
 ### 밸류체인
 
 - **온라인 예약 플랫폼:**
     - **설명:** 호텔, 항공편, 렌터카, 크루즈, 레스토랑 등의 예약 서비스를 제공
-    - **대표회사:** Booking Holdings Inc. (미국, [[2.개별종목/BKNG\|BKNG]]), Expedia (미국, [[2.개별종목/EXPE\|EXPE]])
+    - **대표회사:** Booking Holdings Inc. (미국, [[BKNG]]), Expedia (미국, [[EXPE]])
 - **광고 및 마케팅:**
     - **설명:** 여행 서비스의 광고 및 마케팅을 통해 고객 유치
-    - **대표회사:** Google (미국, [[2.개별종목/GOOGL\|GOOGL]]), Facebook (미국, [[2.개별종목/META\|META]])
+    - **대표회사:** Google (미국, [[GOOGL]]), Facebook (미국, [[META]])
 - **데이터 분석:**
     - **설명:** 고객 데이터를 분석하여 맞춤형 여행 서비스를 제공
-    - **대표회사:** Palantir Technologies (미국, [[2.개별종목/PLTR\|PLTR]]), Snowflake (미국, [[2.개별종목/SNOW\|SNOW]])
+    - **대표회사:** Palantir Technologies (미국, [[PLTR]]), Snowflake (미국, [[SNOW]])
 
 ### 주요제품
 
@@ -52,10 +51,10 @@ Booking Holdings Inc. (BKNG)는 글로벌 온라인 여행 예약 및 관련 서
 
 ### 경쟁업체
 
-- **Expedia (미국, [[2.개별종목/EXPE\|EXPE]]):** 온라인 여행 예약 서비스
-- **TripAdvisor (미국, [[2.개별종목/TRIP\|TRIP]]):** 여행 리뷰 및 예약 서비스
-- **Airbnb (미국, [[2.개별종목/ABNB\|ABNB]]):** 숙박 공유 및 예약 서비스
-- Trip.com Group([[2.개별종목/TCOM\|TCOM]])
+- **Expedia (미국, [[EXPE]]):** 온라인 여행 예약 서비스
+- **TripAdvisor (미국, [[TRIP]]):** 여행 리뷰 및 예약 서비스
+- **Airbnb (미국, [[ABNB]]):** 숙박 공유 및 예약 서비스
+- Trip.com Group([[TCOM]])
 
 ### 산업 내 글로벌 시장 점유율
 

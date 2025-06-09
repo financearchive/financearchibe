@@ -1,22 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/ABSI/","created":"2024-12-17T21:13:53.458+09:00","updated":"2025-06-03T20:05:57.367+09:00"}
+dg-publish: true
 ---
-
 #헬스케어 #생명공학및의료연구 #AI 
 
 ## 산업섹터
 
-Sector: [[헬스케어\|헬스케어]]
+Sector: [[헬스케어]]
 Industry: 생명공학 및 의료 연구(Biotechnology & Medical Research)
 
 ## 영위사업
 
-Absci Corporation은 [[생성형 인공지능(AI)을 활용한 신약 개발 회사\|생성형 인공지능(AI)을 활용한 신약 개발 회사]]입니다. 주요 사업 영역은 다음과 같습니다:
+Absci Corporation은 [[생성형 인공지능(AI)을 활용한 신약 개발 회사]]입니다. 주요 사업 영역은 다음과 같습니다:
 
-1. [[AI 기반 신약 설계\|AI 기반 신약 설계]]: [[AI\|AI]]와 실험실 기술을 결합하여 새로운 생물학적 의약품 후보 물질을 설계합니다.
-2. [[통합 신약 개발 플랫폼\|통합 신약 개발 플랫폼]]: 새로운 약물 표적을 식별하고, 생물학적 치료제 후보를 발견하며, 이를 생산할 세포주를 생성하는 통합 프로세스를 제공합니다.
-3. [[SoluPro 기술\|SoluPro 기술]]: 고처리량 자동화 실험실의 한계를 극복하는 다중 합성 생물학 접근법을 사용합니다.
-4. [[면역 반응 분자 재구성\|면역 반응 분자 재구성]]: 질병 조직에서 항체를 재구성하고 해당 항원을 식별하여 새로운 치료 표적을 제시합니다.
+1. [[AI 기반 신약 설계]]: [[AI]]와 실험실 기술을 결합하여 새로운 생물학적 의약품 후보 물질을 설계합니다.
+2. [[통합 신약 개발 플랫폼]]: 새로운 약물 표적을 식별하고, 생물학적 치료제 후보를 발견하며, 이를 생산할 세포주를 생성하는 통합 프로세스를 제공합니다.
+3. [[SoluPro 기술]]: 고처리량 자동화 실험실의 한계를 극복하는 다중 합성 생물학 접근법을 사용합니다.
+4. [[면역 반응 분자 재구성]]: 질병 조직에서 항체를 재구성하고 해당 항원을 식별하여 새로운 치료 표적을 제시합니다.
 
 Absci는 50개 이상의 상업적 파트너와 협력하고 있으며, AI 기반 설계를 실험실에서의 고처리량 기능 검증 능력으로 뒷받침하고 있습니다.
 
@@ -24,8 +23,8 @@ Absci는 50개 이상의 상업적 파트너와 협력하고 있으며, AI 기�
 
 ## 전방산업
 
-- 제약회사: AstraZeneca (UK, [[2.개별종목/AZN\|AZN]])
-- 바이오테크 기업: Twist Bioscience (US, [[2.개별종목/TWST\|TWST]])
+- 제약회사: AstraZeneca (UK, [[AZN]])
+- 바이오테크 기업: Twist Bioscience (US, [[TWST]])
 
 ## 후방산업
 
@@ -34,15 +33,15 @@ Absci는 50개 이상의 상업적 파트너와 협력하고 있으며, AI 기�
 
 ## 밸류체인
 
-1. 연구개발: Absci Corporation (US, [[2.개별종목/ABSI\|ABSI]])
-2. AI 기반 신약 설계: Absci Corporation (US, [[2.개별종목/ABSI\|ABSI]])
-3. 실험실 검증: Absci Corporation (US, [[2.개별종목/ABSI\|ABSI]])
+1. 연구개발: Absci Corporation (US, [[ABSI]])
+2. AI 기반 신약 설계: Absci Corporation (US, [[ABSI]])
+3. 실험실 검증: Absci Corporation (US, [[ABSI]])
 4. 파트너십 및 협력: 제약회사, 바이오테크 기업
 5. 임상 개발: 파트너 기업
 
 ## 주요제품
 
-1. [[AI 기반 신약 설계 플랫폼\|AI 기반 신약 설계 플랫폼]]
+1. [[AI 기반 신약 설계 플랫폼]]
 2. SoluPro 기술 (다중 합성 생물학 접근법)
 3. ABS-101 (염증성 장질환 치료제 후보)
 4. ABS-201 (안드로겐성 탈모증 치료제 후보)
@@ -53,11 +52,11 @@ Absci Corporation은 주로 미국에서 사업을 영위하고 있습니다.
 
 ## 경쟁업체
 
-1. Schrödinger (US, [[2.개별종목/SDGR\|SDGR]]) (컴퓨터 기반 신약 설계)
-2. Recursion Pharmaceuticals (US, [[2.개별종목/RXRX\|RXRX]]) (AI 기반 신약 발견)
-3. Exscientia (UK, [[2.개별종목/EXAI\|EXAI]]) (AI 기반 신약 설계)
-4. Relay Therapeutics (US, [[2.개별종목/RLAY\|RLAY]]) (컴퓨터 기반 신약 발견)
-5. Ginkgo Bioworks (US, [[2.개별종목/DNA\|DNA]]) (합성 생물학 플랫폼)
+1. Schrödinger (US, [[SDGR]]) (컴퓨터 기반 신약 설계)
+2. Recursion Pharmaceuticals (US, [[RXRX]]) (AI 기반 신약 발견)
+3. Exscientia (UK, [[EXAI]]) (AI 기반 신약 설계)
+4. Relay Therapeutics (US, [[RLAY]]) (컴퓨터 기반 신약 발견)
+5. Ginkgo Bioworks (US, [[DNA]]) (합성 생물학 플랫폼)
 
 ## 산업 내 글로벌 시장 점유율
 

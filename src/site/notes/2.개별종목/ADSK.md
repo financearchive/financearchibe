@@ -1,21 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/ADSK/","created":"2024-11-14T17:56:35.956+09:00","updated":"2025-06-03T20:05:57.446+09:00"}
+dg-publish: true
 ---
-
 #엔지니어링소프트웨어 #정보기술 #소프트웨어 
 
 ## 산업섹터
 
-섹터: [[정보기술\|정보기술]](Information Technology)  
-산업: [[소프트웨어\|소프트웨어]](Software)
+섹터: [[정보기술]](Information Technology)  
+산업: [[소프트웨어]](Software)
 
 ## 영위사업
 
-Autodesk는 건축, 엔지니어링, 건설, 제조, 미디어 및 엔터테인먼트 산업을 위한 3D 설계 및 [[엔지니어링 소프트웨어\|엔지니어링 소프트웨어]]를 제공하는 다국적 기업입니다.
+Autodesk는 건축, 엔지니어링, 건설, 제조, 미디어 및 엔터테인먼트 산업을 위한 3D 설계 및 [[엔지니어링 소프트웨어]]를 제공하는 다국적 기업입니다.
 
 ## 주요제품
 
-- [[AutoCAD\|AutoCAD]]: 2D/3D 컴퓨터 지원 설계(CAD) 소프트웨어
+- [[AutoCAD]]: 2D/3D 컴퓨터 지원 설계(CAD) 소프트웨어
 - Revit: 건축 정보 모델링(BIM) 소프트웨어
 - Fusion 360: 3D 제품 설계 및 엔지니어링 플랫폼
 - Maya: 3D 애니메이션 및 그래픽 소프트웨어
@@ -27,10 +26,10 @@ Autodesk는 건축, 엔지니어링, 건설, 제조, 미디어 및 엔터테인�
 
 ## 경쟁업체
 
-- Adobe(US, [[2.개별종목/ADBE\|ADBE]])
-- Dassault Systemes(프랑스, [[DASTY\|DASTY]])
-- PTC Inc(US, [[PTC\|PTC]])
-- Oracle(US, [[2.개별종목/ORCL\|ORCL]])
+- Adobe(US, [[ADBE]])
+- Dassault Systemes(프랑스, [[DASTY]])
+- PTC Inc(US, [[PTC]])
+- Oracle(US, [[ORCL]])
 
 ## 산업 내 글로벌 시장 점유율
 

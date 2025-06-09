@@ -1,43 +1,42 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/AMD/","created":"2024-09-04T13:33:37.310+09:00","updated":"2025-06-03T20:05:57.609+09:00"}
+dg-publish: true
 ---
-
 #반도체 #테크 
 
 #### 산업섹터 및 영위사업
 
-- **Sector:** [[테크\|테크]] (Technology)
-- **Industry:** [[1.Study/★ 산업/반도체 산업/반도체\|반도체]] (Semiconductors)
+- **Sector:** [[테크]] (Technology)
+- **Industry:** [[반도체]] (Semiconductors)
 
 #### 전방/후방산업
 
 - **전방산업:**
-    - **데이터 센터:** 서버 및 데이터 처리 장비 제조업체 (예: Amazon (US, [[2.개별종목/AMZN\|AMZN]]), Microsoft (US, [[2.개별종목/MSFT\|MSFT]]))
-    - **PC 및 노트북 제조:** 개인용 컴퓨터 및 노트북 제조업체 (예: Dell (US, [[2.개별종목/DELL\|DELL]]), HP (US, [[HPQ\|HPQ]]))
+    - **데이터 센터:** 서버 및 데이터 처리 장비 제조업체 (예: Amazon (US, [[AMZN]]), Microsoft (US, [[MSFT]]))
+    - **PC 및 노트북 제조:** 개인용 컴퓨터 및 노트북 제조업체 (예: Dell (US, [[DELL]]), HP (US, [[HPQ]]))
 - **후방산업:**
-    - **반도체 제조:** 반도체 웨이퍼 및 칩 제조업체 (예: TSMC (US, [[2.개별종목/TSM\|TSM]]), GlobalFoundries (US, [[2.개별종목/GFS\|GFS]]))
-    - **소재 공급:** 반도체 제조에 필요한 원재료 공급업체 (예: Applied Materials (US, [[2.개별종목/AMAT\|AMAT]]), ASML ( [[2.개별종목/ASML\|ASML]]))
+    - **반도체 제조:** 반도체 웨이퍼 및 칩 제조업체 (예: TSMC (US, [[TSM]]), GlobalFoundries (US, [[GFS]]))
+    - **소재 공급:** 반도체 제조에 필요한 원재료 공급업체 (예: Applied Materials (US, [[AMAT]]), ASML ( [[ASML]]))
 
 #### 밸류체인
 
 - **설계 및 개발:**
     - AMD는 자체적으로 반도체 설계 및 개발을 수행합니다.
 - **제조:**
-    - TSMC (US, [[2.개별종목/TSM\|TSM]]): 반도체 웨이퍼 제조
-    - GlobalFoundries (US, [[2.개별종목/GFS\|GFS]]): 반도체 칩 제조
+    - TSMC (US, [[TSM]]): 반도체 웨이퍼 제조
+    - GlobalFoundries (US, [[GFS]]): 반도체 칩 제조
 - **조립 및 테스트:**
-    - [[ASE\|ASE]] Technology (TW, 3711): 반도체 조립 및 테스트
-    - Amkor Technology (US, [[2.개별종목/AMKR\|AMKR]]): 반도체 패키징 및 테스트
+    - [[ASE]] Technology (TW, 3711): 반도체 조립 및 테스트
+    - Amkor Technology (US, [[AMKR]]): 반도체 패키징 및 테스트
 - **유통:**
-    - Arrow Electronics (US, [[2.개별종목/ARW\|ARW]]): 전자 부품 유통
-    - Avnet (US, [[2.개별종목/AVT\|AVT]]): 전자 부품 유통
+    - Arrow Electronics (US, [[ARW]]): 전자 부품 유통
+    - Avnet (US, [[AVT]]): 전자 부품 유통
 
 #### 주요제품
 
-- **Ryzen 프로세서:** 데스크탑 및 노트북용 [[CPU\|CPU]]
-- **EPYC 프로세서:** [[서버\|서버]]용 CPU
+- **Ryzen 프로세서:** 데스크탑 및 노트북용 [[CPU]]
+- **EPYC 프로세서:** [[서버]]용 CPU
 - **Radeon 그래픽 카드:** 게이밍 및 전문가용 GPU
-- **Instinct 가속기:** [[1.Study/★ 산업/통신_데이터센터 산업/2.데이터센터/데이터센터\|데이터센터]] 및 AI 가속기
+- **Instinct 가속기:** [[데이터센터]] 및 AI 가속기
 
 #### 주요 판매국가
 
@@ -47,10 +46,10 @@
 
 #### 경쟁업체
 
-- **Intel (US, [[2.개별종목/INTC\|INTC]]):** CPU 및 반도체 제품
-- **NVIDIA (US, [[2.개별종목/NVDA\|NVDA]]):** GPU 및 AI 가속기
-- **Qualcomm (US, [[2.개별종목/QCOM\|QCOM]]):** 모바일 및 임베디드 프로세서
-- **Broadcom (US, [[2.개별종목/AVGO\|AVGO]]):** 반도체 및 네트워크 솔루션
+- **Intel (US, [[INTC]]):** CPU 및 반도체 제품
+- **NVIDIA (US, [[NVDA]]):** GPU 및 AI 가속기
+- **Qualcomm (US, [[QCOM]]):** 모바일 및 임베디드 프로세서
+- **Broadcom (US, [[AVGO]]):** 반도체 및 네트워크 솔루션
 
 #### 산업 내 글로벌 시장 점유율
 

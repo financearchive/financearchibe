@@ -1,14 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/APP/","created":"2024-12-13T21:49:52.934+09:00","updated":"2025-06-03T20:05:57.734+09:00"}
+dg-publish: true
 ---
-
 #앱개발자를위한소프트웨어플랫폼 #금융 #테크 
 
-AppLovin Corporation은 모바일 [[앱 개발자를 위한 소프트웨어 플랫폼\|앱 개발자를 위한 소프트웨어 플랫폼]]을 제공하는 기업입니다.
+AppLovin Corporation은 모바일 [[앱 개발자를 위한 소프트웨어 플랫폼]]을 제공하는 기업입니다.
 
 ## 산업섹터
 
-[[금융\|금융]](Financials), [[테크\|테크]](Technology)
+[[금융]](Financials), [[테크]](Technology)
 
 ## 영위사업
 
@@ -26,7 +25,7 @@ Wurl은 콘텐츠 회사를 위해 스트리밍 비디오를 배포하고 시청
 
 AppLovin은 두 가지 주요 사업 부문을 운영하고 있습니다:
 
-1. [[소프트웨어 플랫폼\|소프트웨어 플랫폼]]:
+1. [[소프트웨어 플랫폼]]:
     - AppDiscovery: AI 기반 광고 엔진 AXON을 활용한 광고 매칭 솔루션
     - MAX: 실시간 경매를 통한 앱 수익화 솔루션
     - Adjust: 마케팅 측정 및 분석 플랫폼
@@ -40,20 +39,20 @@ AppLovin의 플랫폼은 머신러닝 알고리즘을 활용하여 사용자 참
 
 ## 전방산업
 
-- 모바일 앱 개발: Electronic Arts (US, [[EA\|EA]]), Ubisoft (프랑스, [[UBI.PA\|UBI.PA]])
-- 디지털 광고: Facebook (US, [[2.개별종목/META\|META]]), Google (US, [[2.개별종목/GOOGL\|GOOGL]])
+- 모바일 앱 개발: Electronic Arts (US, [[EA]]), Ubisoft (프랑스, [[UBI.PA]])
+- 디지털 광고: Facebook (US, [[META]]), Google (US, [[GOOGL]])
 
 ## 후방산업
 
-- 클라우드 컴퓨팅: Amazon Web Services (US, [[2.개별종목/AMZN\|AMZN]]), Microsoft Azure (US, [[2.개별종목/MSFT\|MSFT]])
-- 데이터 분석: Palantir (US, [[2.개별종목/PLTR\|PLTR]]), Snowflake (US, [[2.개별종목/SNOW\|SNOW]])
+- 클라우드 컴퓨팅: Amazon Web Services (US, [[AMZN]]), Microsoft Azure (US, [[MSFT]])
+- 데이터 분석: Palantir (US, [[PLTR]]), Snowflake (US, [[SNOW]])
 
 ## 밸류체인
 
-1. 앱 개발: Electronic Arts (US, [[EA\|EA]]) (게임 개발)
-2. 광고 플랫폼: AppLovin (US, [[2.개별종목/APP\|APP]]) (앱 마케팅 및 수익화)
-3. 광고주: Procter & Gamble (US, [[2.개별종목/PG\|PG]]) (브랜드 광고)
-4. 퍼블리셔: Zynga (US, [[ZNGA\|ZNGA]]) (모바일 게임)
+1. 앱 개발: Electronic Arts (US, [[EA]]) (게임 개발)
+2. 광고 플랫폼: AppLovin (US, [[APP]]) (앱 마케팅 및 수익화)
+3. 광고주: Procter & Gamble (US, [[PG]]) (브랜드 광고)
+4. 퍼블리셔: Zynga (US, [[ZNGA]]) (모바일 게임)
 5. 최종 사용자: 모바일 앱 및 게임 사용자
 
 ## 주요제품
@@ -69,10 +68,10 @@ AppLovin의 플랫폼은 머신러닝 알고리즘을 활용하여 사용자 참
 
 ## 경쟁업체
 
-1. Google AdMob (US, [[2.개별종목/GOOGL\|GOOGL]]) (모바일 광고 플랫폼)
-2. Unity Software (US, [[2.개별종목/U\|U]]) (게임 개발 엔진 및 광고 솔루션)
-3. ironSource (이스라엘, [[IS\|IS]]) (앱 수익화 및 배포 플랫폼)
-4. Digital Turbine (US, [[APPS\|APPS]]) (모바일 광고 및 앱 배포)
+1. Google AdMob (US, [[GOOGL]]) (모바일 광고 플랫폼)
+2. Unity Software (US, [[U]]) (게임 개발 엔진 및 광고 솔루션)
+3. ironSource (이스라엘, [[IS]]) (앱 수익화 및 배포 플랫폼)
+4. Digital Turbine (US, [[APPS]]) (모바일 광고 및 앱 배포)
 5. Chartboost (비상장) (모바일 게임 광고 네트워크)
 
 ## 산업 내 글로벌 시장 점유율

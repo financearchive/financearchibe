@@ -1,47 +1,46 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/RMD/","created":"2024-08-28T14:20:39.563+09:00","updated":"2025-06-03T20:06:01.007+09:00"}
+dg-publish: true
 ---
-
 #헬스케어 #의료기기 #수면무호흡 #폐기능검사장비
 
 ## 산업섹터
 
-- **Sector**: Healthcare ([[헬스케어\|헬스케어]])
-- **Industry**: Medical Devices ([[의료기기\|의료기기]])
+- **Sector**: Healthcare ([[헬스케어]])
+- **Industry**: Medical Devices ([[의료기기]])
 
 ## 영위사업
 
-ResMed는 [[수면 무호흡\|수면 무호흡]], [[만성 폐쇄성 폐질환\|만성 폐쇄성 폐질환]](COPD) 및 기타 호흡기 질환을 치료하기 위한 혁신적인 의료기기를 개발 및 제조하는 회사입니다. 주요 제품으로는 수면 치료 기기, 호흡기 기기 및 관련 소프트웨어 솔루션이 포함됩니다.
+ResMed는 [[수면 무호흡]], [[만성 폐쇄성 폐질환]](COPD) 및 기타 호흡기 질환을 치료하기 위한 혁신적인 의료기기를 개발 및 제조하는 회사입니다. 주요 제품으로는 수면 치료 기기, 호흡기 기기 및 관련 소프트웨어 솔루션이 포함됩니다.
 
 ## 전방/후방산업
 
 - **전방산업**:
     
     - **핵심 산업 및 역할**: 의료기기 및 치료 솔루션의 유통 및 판매
-    - **관련 기업**: Philips Healthcare (NL, [[2.개별종목/PHG\|PHG]]), Fisher & Paykel Healthcare (NZ, [[2.개별종목/FPH.NZ\|FPH.NZ]])
+    - **관련 기업**: Philips Healthcare (NL, [[PHG]]), Fisher & Paykel Healthcare (NZ, [[FPH.NZ]])
     
 - **후방산업**:
     
     - **핵심 산업 및 역할**: 의료기기 부품 및 원자재 공급
-    - **관련 기업**: Thermo Fisher Scientific (US, [[2.개별종목/TMO\|TMO]]), Medtronic (US, [[2.개별종목/MDT\|MDT]])
+    - **관련 기업**: Thermo Fisher Scientific (US, [[TMO]]), Medtronic (US, [[MDT]])
     
 
 ## 밸류체인
 
 - **연구개발**: ResMed의 R&D 센터에서 혁신적인 의료기기 및 소프트웨어 개발
     
-    - **대표 회사**: 3M (US, [[2.개별종목/MMM\|MMM]]) - 의료기기 및 소모품
-    - **대표 회사**: Abbott Laboratories (US, [[2.개별종목/ABT\|ABT]]) - 의료기기 및 진단 장비
+    - **대표 회사**: 3M (US, [[MMM]]) - 의료기기 및 소모품
+    - **대표 회사**: Abbott Laboratories (US, [[ABT]]) - 의료기기 및 진단 장비
     
 - **제조**: 호흡기 및 수면 치료 기기의 생산
     
-    - **대표 회사**: Baxter International (US, [[BAX\|BAX]]) - 의료기기 제조
-    - **대표 회사**: GE Healthcare (US, [[2.개별종목/GE\|GE]]) - 의료기기 및 솔루션
+    - **대표 회사**: Baxter International (US, [[BAX]]) - 의료기기 제조
+    - **대표 회사**: GE Healthcare (US, [[GE]]) - 의료기기 및 솔루션
     
 - **유통 및 판매**: 글로벌 유통 네트워크를 통한 제품 판매
     
-    - **대표 회사**: Cardinal Health (US, [[CAH\|CAH]]) - 의료기기 유통
-    - **대표 회사**: McKesson Corporation (US, [[2.개별종목/MCK\|MCK]]) - 의료기기 및 의약품 유통
+    - **대표 회사**: Cardinal Health (US, [[CAH]]) - 의료기기 유통
+    - **대표 회사**: McKesson Corporation (US, [[MCK]]) - 의료기기 및 의약품 유통
     
 
 ## 주요제품
@@ -57,10 +56,10 @@ ResMed는 전 세계적으로 운영되며, 주요 시장은 미국, 유럽, 아
 
 ## 경쟁업체
 
-- **Philips Healthcare (NL, [[2.개별종목/PHG\|PHG]])** - 수면 및 호흡기 치료 기기
-- **Fisher & Paykel Healthcare (NZ, [[2.개별종목/FPH.NZ\|FPH.NZ]])** - 호흡기 및 수면 치료 기기
-- **Medtronic (US, [[2.개별종목/MDT\|MDT]])** - 다양한 의료기기 및 치료 솔루션
-- 일라이릴리([[2.개별종목/LLY\|LLY]]) - 2024년 12월 비만 치료제 젭바운드를 수면 무호흡증에 사용하는 허가 획득
+- **Philips Healthcare (NL, [[PHG]])** - 수면 및 호흡기 치료 기기
+- **Fisher & Paykel Healthcare (NZ, [[FPH.NZ]])** - 호흡기 및 수면 치료 기기
+- **Medtronic (US, [[MDT]])** - 다양한 의료기기 및 치료 솔루션
+- 일라이릴리([[LLY]]) - 2024년 12월 비만 치료제 젭바운드를 수면 무호흡증에 사용하는 허가 획득
 
 ## 산업 내 글로벌 시장 점유율
 

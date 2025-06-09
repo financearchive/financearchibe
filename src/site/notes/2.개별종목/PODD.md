@@ -1,41 +1,40 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/PODD/","created":"2024-08-28T14:20:14.736+09:00","updated":"2025-06-03T20:06:00.743+09:00"}
+dg-publish: true
 ---
-
 #헬스케어 #의료기기 #당뇨병 
 
 ## 산업섹터
 
-- **Sector**: Healthcare ([[헬스케어\|헬스케어]])
-- **Industry**: Medical Devices ([[의료기기\|의료기기]])
+- **Sector**: Healthcare ([[헬스케어]])
+- **Industry**: Medical Devices ([[의료기기]])
 
 ## 영위사업
 
-Insulet Corporation은 주로 [[당뇨병\|당뇨병]] 관리를 위한 혁신적인 의료기기를 개발, 제조 및 판매합니다. 주요 제품은 Omnipod 인슐린 관리 시스템으로, 당뇨병 환자들이 인슐린을 보다 편리하게 투여할 수 있도록 돕습니다.
+Insulet Corporation은 주로 [[당뇨병]] 관리를 위한 혁신적인 의료기기를 개발, 제조 및 판매합니다. 주요 제품은 Omnipod 인슐린 관리 시스템으로, 당뇨병 환자들이 인슐린을 보다 편리하게 투여할 수 있도록 돕습니다.
 
 ## 전방/후방산업
 
 - **전방산업**:
     
     - **핵심 산업 및 역할**: 의료기기를 통한 당뇨병 관리 및 치료
-    - **관련 기업**: Medtronic (US, [[2.개별종목/MDT\|MDT]]), Dexcom (US, [[2.개별종목/DXCM\|DXCM]])
+    - **관련 기업**: Medtronic (US, [[MDT]]), Dexcom (US, [[DXCM]])
     
 - **후방산업**:
     
     - **핵심 산업 및 역할**: 의료기기 부품 공급 및 제조
-    - **관련 기업**: TE Connectivity (US, [[TEL\|TEL]]), Flex Ltd. (SG, [[FLEX\|FLEX]])
+    - **관련 기업**: TE Connectivity (US, [[TEL]]), Flex Ltd. (SG, [[FLEX]])
     
 
 ## 밸류체인
 
 - **원재료 공급**: 수소, 전자 부품
-    - **대표 회사**: Air Products and Chemicals Inc. (미국, [[APD\|APD]]), Linde PLC (영국, [[LIN\|LIN]])
+    - **대표 회사**: Air Products and Chemicals Inc. (미국, [[APD]]), Linde PLC (영국, [[LIN]])
 - **제조**: 인슐린 전달 시스템 생산
     - **대표 회사**: Insulet 자체 제조 시설
 - **유통**: 제품 운송 및 보관
-    - **대표 회사**: DHL, FedEx Corp. (미국, [[2.개별종목/FDX\|FDX]])
+    - **대표 회사**: DHL, FedEx Corp. (미국, [[FDX]])
 - **소매**: 최종 소비자에게 판매
-    - **대표 회사**: Amazon.com Inc. (미국, [[1.Study/☆ 개별종목/AMZN\|1.Study/☆ 개별종목/AMZN]]), Walmart Inc. (미국, [[2.개별종목/WMT\|WMT]])
+    - **대표 회사**: Amazon.com Inc. (미국, [[1.Study/☆ 개별종목/AMZN]]), Walmart Inc. (미국, [[WMT]])
 
 ## 주요제품
 
@@ -47,10 +46,10 @@ Insulet의 제품은 주로 미국에서 판매되며, 유럽 및 기타 국제 
 
 ## 경쟁업체
 
-- **DexCom Inc. (미국, [[2.개별종목/DXCM\|DXCM]])**: 연속 혈당 모니터링 시스템
-- **Tandem Diabetes Care Inc. (미국, [[TNDM\|TNDM]])**: 인슐린 펌프 시스템
-- **Medtronic PLC (아일랜드, [[2.개별종목/MDT\|MDT]])**: 의료기기 및 인슐린 펌프 시스템
-- **Eli Lilly and Co. (미국, [[1.Study/☆ 개별종목/LLY\|1.Study/☆ 개별종목/LLY]])**: 당뇨병 치료제 및 관련 제품
+- **DexCom Inc. (미국, [[DXCM]])**: 연속 혈당 모니터링 시스템
+- **Tandem Diabetes Care Inc. (미국, [[TNDM]])**: 인슐린 펌프 시스템
+- **Medtronic PLC (아일랜드, [[MDT]])**: 의료기기 및 인슐린 펌프 시스템
+- **Eli Lilly and Co. (미국, [[1.Study/☆ 개별종목/LLY]])**: 당뇨병 치료제 및 관련 제품
 
 ## 산업 내 글로벌 시장 점유율
 

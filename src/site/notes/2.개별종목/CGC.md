@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/CGC/","created":"2024-11-09T12:38:03.157+09:00","updated":"2025-06-03T20:05:58.247+09:00"}
+dg-publish: true
 ---
-
 #제약및생명공학 #헬스케어 #대마초 
 
 ## 산업섹터
 
-섹터: [[헬스케어\|헬스케어]](Healthcare)  
-산업: [[제약 및 생명공학\|제약 및 생명공학]](Pharmaceuticals & Biotechnology)
+섹터: [[헬스케어]](Healthcare)  
+산업: [[제약 및 생명공학]](Pharmaceuticals & Biotechnology)
 
 ## 영위사업
 
@@ -15,7 +14,7 @@ Canopy Growth Corporation은 온타리오주 스미스폴스에 본사를 둔 �
 
 ## 주요제품
 
-- 의료용 및 성인용 [[대마초\|대마초]] 제품
+- 의료용 및 성인용 [[대마초]] 제품
 - CBD 오일 및 관련 제품
 - 대마 기반 음료 및 식품
 
@@ -25,9 +24,9 @@ Canopy Growth Corporation은 온타리오주 스미스폴스에 본사를 둔 �
 
 ## 경쟁업체
 
-- Tilray(US, [[2.개별종목/TLRY\|TLRY]])
-- Aurora Cannabis(캐나다, [[ACB\|ACB]])
-- Cronos Group(캐나다, [[CRON\|CRON]])
+- Tilray(US, [[TLRY]])
+- Aurora Cannabis(캐나다, [[ACB]])
+- Cronos Group(캐나다, [[CRON]])
 
 ## 산업 내 위치
 

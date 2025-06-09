@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/CNI/","created":"2025-02-06T21:24:43.752+09:00","updated":"2025-06-03T20:05:58.321+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #철도운송 #화물철도 #북미물류 #인터모달운송 #벌크화물 #컨테이너운송 #철도인프라 #공급망솔루션 #지속가능운송 #디지털화 #자동화 #정밀스케줄링 #에너지효율 #안전관리 #탄소배출감축 #철도네트워크 #국제무역 #대륙횡단철도 #철도기술 #ESG #캐나다 
 
 ## 산업섹터
 
-섹터: [[산업재\|산업재]]
-산업: [[철도운송\|철도운송]]
+섹터: [[산업재]]
+산업: [[철도운송]]
 
 ## 영위사업
 
-Canadian National Railway Co.(NYSE: CNI)는 [[북미 최대의 철도 운송 회사\|북미 최대의 철도 운송 회사]] 중 하나로, [[캐나다와 미국 중부 지역을 연결하는 약 20,000마일의 철도 네트워크\|캐나다와 미국 중부 지역을 연결하는 약 20,000마일의 철도 네트워크]]를 운영하고 있습니다. 회사는 다양한 화물 운송 서비스를 제공하며, 주요 사업 영역은 다음과 같습니다:
+Canadian National Railway Co.(NYSE: CNI)는 [[북미 최대의 철도 운송 회사]] 중 하나로, [[캐나다와 미국 중부 지역을 연결하는 약 20,000마일의 철도 네트워크]]를 운영하고 있습니다. 회사는 다양한 화물 운송 서비스를 제공하며, 주요 사업 영역은 다음과 같습니다:
 
 1. 벌크 상품 운송: 곡물, 비료, 석탄, 광물 등
 2. 포레스트 제품: 목재, 펄프, 종이 등
@@ -22,7 +21,7 @@ Canadian National Railway Co.(NYSE: CNI)는 [[북미 최대의 철도 운송 회
 5. 자동차 및 부품
 6. 인터모달 운송: 컨테이너 및 트레일러
 
-2024년 기준 총 매출은 약 170억 [[캐나다\|캐나다]] 달러였으며, 약 24,000명의 직원을 고용하고 있습니다. 최근에는 디지털 기술을 활용한 운영 효율성 향상, 지속 가능한 운송 솔루션 개발, 그리고 북미 공급망 강화에 주력하고 있습니다.주요 이슈로는 자동화 기술 도입을 통한 안전성 및 효율성 향상, 환경 친화적 기관차 도입, 그리고 주요 항구 및 물류 허브와의 연결성 강화 등이 있었습니다.
+2024년 기준 총 매출은 약 170억 [[캐나다]] 달러였으며, 약 24,000명의 직원을 고용하고 있습니다. 최근에는 디지털 기술을 활용한 운영 효율성 향상, 지속 가능한 운송 솔루션 개발, 그리고 북미 공급망 강화에 주력하고 있습니다.주요 이슈로는 자동화 기술 도입을 통한 안전성 및 효율성 향상, 환경 친화적 기관차 도입, 그리고 주요 항구 및 물류 허브와의 연결성 강화 등이 있었습니다.
 
 ## 핵심 경쟁력
 
@@ -36,41 +35,41 @@ Canadian National Railway Co.(NYSE: CNI)는 [[북미 최대의 철도 운송 회
 
 전방산업:
 
-- 농업: Archer-Daniels-Midland(US, [[ADM\|ADM]]), Bunge Limited(US, [[BG\|BG]])
-- 에너지: ExxonMobil(US, [[2.개별종목/XOM\|XOM]]), Suncor Energy(CA, [[2.개별종목/SU\|SU]])
-- 자동차: General Motors(US, [[2.개별종목/GM\|GM]]), Ford(US, [[2.개별종목/F\|F]])
-- 소매업: Walmart(US, [[2.개별종목/WMT\|WMT]]), Costco(US, [[2.개별종목/COST\|COST]])
+- 농업: Archer-Daniels-Midland(US, [[ADM]]), Bunge Limited(US, [[BG]])
+- 에너지: ExxonMobil(US, [[XOM]]), Suncor Energy(CA, [[SU]])
+- 자동차: General Motors(US, [[GM]]), Ford(US, [[F]])
+- 소매업: Walmart(US, [[WMT]]), Costco(US, [[COST]])
 
 후방산업:
 
-- 철도 장비 제조: Wabtec Corporation(US, [[WAB\|WAB]]), Trinity Industries(US, [[TRN\|TRN]])
-- 철도 인프라: Nucor Corporation(US, [[2.개별종목/NUE\|NUE]]), Cleveland-Cliffs(US, [[2.개별종목/CLF\|CLF]])
-- 기술 솔루션: IBM(US, [[2.개별종목/IBM\|IBM]]), Cisco Systems(US, [[2.개별종목/CSCO\|CSCO]])
+- 철도 장비 제조: Wabtec Corporation(US, [[WAB]]), Trinity Industries(US, [[TRN]])
+- 철도 인프라: Nucor Corporation(US, [[NUE]]), Cleveland-Cliffs(US, [[CLF]])
+- 기술 솔루션: IBM(US, [[IBM]]), Cisco Systems(US, [[CSCO]])
 
 ## 밸류체인
 
-6. 인프라 구축: Canadian National Railway(CA, [[2.개별종목/CNI\|CNI]]) (철도 네트워크 개발 및 유지보수)
-7. 장비 조달: Wabtec Corporation(US, [[WAB\|WAB]]) (기관차 및 화차 공급)
-8. 운영 시스템: IBM(US, [[2.개별종목/IBM\|IBM]]) (IT 인프라 및 소프트웨어 솔루션)
-9. 화물 운송: Canadian National Railway(CA, [[2.개별종목/CNI\|CNI]]) (다양한 화물 운송 서비스)
-10. 인터모달 연계: J.B. Hunt Transport Services(US, [[JBHT\|JBHT]]) (트럭 운송 연계)
-11. 고객 서비스: Canadian National Railway(CA, [[2.개별종목/CNI\|CNI]]) (공급망 솔루션 및 고객 지원)
+6. 인프라 구축: Canadian National Railway(CA, [[CNI]]) (철도 네트워크 개발 및 유지보수)
+7. 장비 조달: Wabtec Corporation(US, [[WAB]]) (기관차 및 화차 공급)
+8. 운영 시스템: IBM(US, [[IBM]]) (IT 인프라 및 소프트웨어 솔루션)
+9. 화물 운송: Canadian National Railway(CA, [[CNI]]) (다양한 화물 운송 서비스)
+10. 인터모달 연계: J.B. Hunt Transport Services(US, [[JBHT]]) (트럭 운송 연계)
+11. 고객 서비스: Canadian National Railway(CA, [[CNI]]) (공급망 솔루션 및 고객 지원)
 
 ## 주요제품
 
-- [[벌크 상품 운송\|벌크 상품 운송]]: 곡물, 비료, 석탄 등, 매출의 약 30% (2024년 기준)
+- [[벌크 상품 운송]]: 곡물, 비료, 석탄 등, 매출의 약 30% (2024년 기준)
 - 인터모달 운송: 컨테이너 및 트레일러, 매출의 약 25% (2024년 기준)
-- [[석유 및 화학 제품\|석유 및 화학 제품]] 운송: 매출의 약 20% (2024년 기준)
+- [[석유 및 화학 제품]] 운송: 매출의 약 20% (2024년 기준)
 - 포레스트 제품 운송: 목재, 펄프, 종이 등, 매출의 약 15% (2024년 기준)
 - 자동차 및 금속/광물 운송: 매출의 약 10% (2024년 기준)
 
 ## 주요 고객
 
 - Cargill: 농산물 및 식품 기업
-- ExxonMobil(US, [[2.개별종목/XOM\|XOM]]): 석유 및 가스 기업
-- Ford Motor Company(US, [[2.개별종목/F\|F]]): 자동차 제조사
-- Weyerhaeuser(US, [[WY\|WY]]): 목재 및 제지 기업
-- Walmart(US, [[2.개별종목/WMT\|WMT]]): 대형 소매업체
+- ExxonMobil(US, [[XOM]]): 석유 및 가스 기업
+- Ford Motor Company(US, [[F]]): 자동차 제조사
+- Weyerhaeuser(US, [[WY]]): 목재 및 제지 기업
+- Walmart(US, [[WMT]]): 대형 소매업체
 
 ## 주요 판매국가
 
@@ -78,10 +77,10 @@ Canadian National Railway Co.(NYSE: CNI)는 [[북미 최대의 철도 운송 회
 
 ## 경쟁업체
 
-- Union Pacific Corporation(US, [[2.개별종목/UNP\|UNP]]): 미국 서부 중심의 철도 운송 기업
-- CSX Corporation(US, [[CSX\|CSX]]): 미국 동부 중심의 철도 운송 기업
-- Norfolk Southern Corporation(US, [[NSC\|NSC]]): 미국 동부 및 중부 중심의 철도 운송 기업
-- Canadian Pacific Railway(CA, [[CP\|CP]]): 캐나다 중심의 철도 운송 기업
+- Union Pacific Corporation(US, [[UNP]]): 미국 서부 중심의 철도 운송 기업
+- CSX Corporation(US, [[CSX]]): 미국 동부 중심의 철도 운송 기업
+- Norfolk Southern Corporation(US, [[NSC]]): 미국 동부 및 중부 중심의 철도 운송 기업
+- Canadian Pacific Railway(CA, [[CP]]): 캐나다 중심의 철도 운송 기업
 - BNSF Railway(US): 미국 서부 및 중부 중심의 철도 운송 기업 (Berkshire Hathaway 소유)
 
 ## 산업 내 글로벌 시장 점유율
@@ -105,8 +104,8 @@ Canadian National Railway는 2024년 기준 북미 Class I 철도 운송 시장�
 
 ## 관련 ETF
 
-- iShares Transportation Average ETF - [[IYT\|IYT]]
-- SPDR S&P Transportation ETF - [[XTN\|XTN]]
-- First Trust Industrials/Producer Durables AlphaDEX Fund - [[FXR\|FXR]]
-- Direxion Daily Transportation Bull 3X Shares - [[TPOR\|TPOR]]
-- Global X MSCI China Industrials ETF - [[CHII\|CHII]]
+- iShares Transportation Average ETF - [[IYT]]
+- SPDR S&P Transportation ETF - [[XTN]]
+- First Trust Industrials/Producer Durables AlphaDEX Fund - [[FXR]]
+- Direxion Daily Transportation Bull 3X Shares - [[TPOR]]
+- Global X MSCI China Industrials ETF - [[CHII]]

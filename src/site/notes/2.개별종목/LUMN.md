@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/LUMN/","created":"2025-02-06T21:26:45.733+09:00","updated":"2025-06-03T20:05:59.978+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #통신인프라 #광섬유네트워크 #엣지컴퓨팅 #클라우드연결 #사이버보안 #SD-WAN #하이브리드네트워킹 #UCaaS #IoT #5G #엔터프라이즈IT #디지털전환 #콘텐츠전송네트워크 #매니지드서비스 #데이터센터 #API #네트워크가상화 #양자암호화 #AI네트워킹 #지속가능성
 
 ## 산업섹터
 
-섹터: [[커뮤니케이션 서비스\|커뮤니케이션 서비스]]
-산업: [[통신서비스\|통신서비스]]
+섹터: [[커뮤니케이션 서비스]]
+산업: [[통신서비스]]
 
 ## 영위사업
 
-Lumen Technologies Inc.(NYSE: LUMN), 전 CenturyLink은 글로벌 기업 고객을 위한 [[통신\|통신]] 및 기술 서비스를 제공하는 미국 기반의 다국적 기업입니다. 주요 사업 부문은 다음과 같습니다:
+Lumen Technologies Inc.(NYSE: LUMN), 전 CenturyLink은 글로벌 기업 고객을 위한 [[통신]] 및 기술 서비스를 제공하는 미국 기반의 다국적 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 네트워크 서비스: 광섬유 네트워크, IP 및 데이터 서비스
 2. 엣지 클라우드 서비스: 엣지 컴퓨팅 플랫폼 및 솔루션
@@ -35,30 +34,30 @@ Lumen Technologies Inc.(NYSE: LUMN), 전 CenturyLink은 글로벌 기업 고객�
 
 전방산업:
 
-- 기업 IT: IBM(US, [[2.개별종목/IBM\|IBM]]), Microsoft(US, [[2.개별종목/MSFT\|MSFT]])
-- 클라우드 서비스: Amazon Web Services(US, [[2.개별종목/AMZN\|AMZN]]), Google Cloud(US, [[2.개별종목/GOOGL\|GOOGL]])
-- 미디어 및 콘텐츠: Netflix(US, [[2.개별종목/NFLX\|NFLX]]), Disney(US, [[2.개별종목/DIS\|DIS]])
+- 기업 IT: IBM(US, [[IBM]]), Microsoft(US, [[MSFT]])
+- 클라우드 서비스: Amazon Web Services(US, [[AMZN]]), Google Cloud(US, [[GOOGL]])
+- 미디어 및 콘텐츠: Netflix(US, [[NFLX]]), Disney(US, [[DIS]])
 
 후방산업:
 
-- 네트워크 장비: Cisco Systems(US, [[2.개별종목/CSCO\|CSCO]]), Juniper Networks(US, [[2.개별종목/JNPR\|JNPR]])
-- 반도체: Intel(US, [[2.개별종목/INTC\|INTC]]), NVIDIA(US, [[2.개별종목/NVDA\|NVDA]])
-- 광섬유 제조: Corning(US, [[2.개별종목/GLW\|GLW]]), Prysmian Group(IT, [[PRY\|PRY]])
+- 네트워크 장비: Cisco Systems(US, [[CSCO]]), Juniper Networks(US, [[JNPR]])
+- 반도체: Intel(US, [[INTC]]), NVIDIA(US, [[NVDA]])
+- 광섬유 제조: Corning(US, [[GLW]]), Prysmian Group(IT, [[PRY]])
 
 ## 주요제품
 
-- [[광섬유 네트워크\|광섬유 네트워크]] 서비스: 기업용 고속 데이터 전송, 매출의 약 40% (2024년 기준)
-- [[엣지 클라우드\|엣지 클라우드]] 서비스: 저지연 컴퓨팅 솔루션, 매출의 약 25% (2024년 기준)
-- 보안 및 매니지드 서비스: [[사이버 보안\|사이버 보안]] 및 IT 관리, 매출의 약 20% (2024년 기준)
-- 협업 및 [[UCaaS\|UCaaS]]: 기업 통신 솔루션, 매출의 약 15% (2024년 기준)
+- [[광섬유 네트워크]] 서비스: 기업용 고속 데이터 전송, 매출의 약 40% (2024년 기준)
+- [[엣지 클라우드]] 서비스: 저지연 컴퓨팅 솔루션, 매출의 약 25% (2024년 기준)
+- 보안 및 매니지드 서비스: [[사이버 보안]] 및 IT 관리, 매출의 약 20% (2024년 기준)
+- 협업 및 [[UCaaS]]: 기업 통신 솔루션, 매출의 약 15% (2024년 기준)
 
 ## 주요 고객
 
-- 대기업: JPMorgan Chase(US, [[2.개별종목/JPM\|JPM]]), Boeing(US, [[2.개별종목/BA\|BA]])
+- 대기업: JPMorgan Chase(US, [[JPM]]), Boeing(US, [[BA]])
 - 정부 기관: 미국 국방부, 연방 정부 부처
 - 교육 기관: 주요 대학 및 연구소
-- 의료 서비스 제공업체: HCA Healthcare(US, [[2.개별종목/HCA\|HCA]])
-- 통신사: T-Mobile(US, [[2.개별종목/TMUS\|TMUS]]), Verizon(US, [[2.개별종목/VZ\|VZ]])
+- 의료 서비스 제공업체: HCA Healthcare(US, [[HCA]])
+- 통신사: T-Mobile(US, [[TMUS]]), Verizon(US, [[VZ]])
 
 ## 주요 판매국가
 
@@ -66,11 +65,11 @@ Lumen Technologies Inc.(NYSE: LUMN), 전 CenturyLink은 글로벌 기업 고객�
 
 ## 경쟁업체
 
-- AT&T(US, [[2.개별종목/T\|2.개별종목/T]]): 통신 및 미디어 서비스
-- Verizon Communications(US, [[2.개별종목/VZ\|VZ]]): 통신 및 기술 서비스
-- Comcast Corporation(US, [[2.개별종목/CMCSA\|CMCSA]]): 케이블 및 인터넷 서비스
+- AT&T(US, [[2.개별종목/T]]): 통신 및 미디어 서비스
+- Verizon Communications(US, [[VZ]]): 통신 및 기술 서비스
+- Comcast Corporation(US, [[CMCSA]]): 케이블 및 인터넷 서비스
 - Zayo Group Holdings(US): 통신 인프라 서비스 (비상장)
-- Cogent Communications(US, [[CCOI\|CCOI]]): 인터넷 서비스 제공업체
+- Cogent Communications(US, [[CCOI]]): 인터넷 서비스 제공업체
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -93,8 +92,8 @@ Lumen Technologies의 정확한 글로벌 시장 점유율 데이터는 제공�
 
 ## 관련 ETF
 
-- iShares U.S. Telecommunications ETF - [[IYZ\|IYZ]]
-- First Trust Cloud Computing ETF - [[SKYY\|SKYY]]
-- Invesco S&P 500 Equal Weight Communication Services ETF - [[EWCO\|EWCO]]
-- SPDR S&P Telecom ETF - [[XTL\|XTL]]
-- Pacer Benchmark Data & Infrastructure Real Estate SCTR ETF - [[SRVR\|SRVR]]
+- iShares U.S. Telecommunications ETF - [[IYZ]]
+- First Trust Cloud Computing ETF - [[SKYY]]
+- Invesco S&P 500 Equal Weight Communication Services ETF - [[EWCO]]
+- SPDR S&P Telecom ETF - [[XTL]]
+- Pacer Benchmark Data & Infrastructure Real Estate SCTR ETF - [[SRVR]]

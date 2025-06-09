@@ -1,22 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/K/","created":"2024-08-30T21:31:46.433+09:00","updated":"2025-06-03T20:05:59.706+09:00"}
+dg-publish: true
 ---
-
 #소비자방어주 #포장식품 #시리얼
 
 ## 산업섹터
 
-Sector: Consumer Defensive ([[소비자 방어주\|소비자 방어주]])  
-Industry: Packaged Foods ([[포장식품\|포장식품]])
+Sector: Consumer Defensive ([[소비자 방어주]])  
+Industry: Packaged Foods ([[포장식품]])
 
 ## 회사 개요
 
-[[Kellanova\|Kellanova]], formerly known as the Kellogg Company, is an American multinational food manufacturing company headquartered in Battle Creek, Michigan. Founded in 1906 by Will Keith Kellogg, the company is renowned for its breakfast cereals and convenience foods. In October 2023, Kellogg's was split into two independent companies: Kellanova, which focuses on convenience foods and snacks, and WK Kellogg Co, which retains the North American cereal business.
+[[Kellanova]], formerly known as the Kellogg Company, is an American multinational food manufacturing company headquartered in Battle Creek, Michigan. Founded in 1906 by Will Keith Kellogg, the company is renowned for its breakfast cereals and convenience foods. In October 2023, Kellogg's was split into two independent companies: Kellanova, which focuses on convenience foods and snacks, and WK Kellogg Co, which retains the North American cereal business.
 
 ## 영위사업
 
 - 제조 및 판매의 다양한 식품 제품
-- 주로 아침 [[시리얼\|시리얼]], 스낵, 비건 및 식물 기반 식품 제공
+- 주로 아침 [[시리얼]], 스낵, 비건 및 식물 기반 식품 제공
 - 글로벌 시장에서의 유통 및 마케팅
 
 ## 전방/후방산업
@@ -50,9 +49,9 @@ Kellanova는 전 세계 180개국 이상에서 운영되며, 주요 시장은 �
 
 ## 경쟁업체
 
-- General Mills (US, [[2.개별종목/GIS\|GIS]]) - 아침 시리얼 및 스낵 제조업체
-- Nestlé S.A. (CH, [[2.개별종목/NESN\|NESN]]) - 글로벌 식품 및 음료 기업
-- Mondelez International (US, [[2.개별종목/MDLZ\|MDLZ]]) - 스낵 및 과자 제조업체
+- General Mills (US, [[GIS]]) - 아침 시리얼 및 스낵 제조업체
+- Nestlé S.A. (CH, [[NESN]]) - 글로벌 식품 및 음료 기업
+- Mondelez International (US, [[MDLZ]]) - 스낵 및 과자 제조업체
 
 ## 산업 내 글로벌 시장 점유율
 

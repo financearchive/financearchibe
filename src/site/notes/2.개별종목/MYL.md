@@ -1,16 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/MYL/","created":"2025-01-05T18:18:25.031+09:00","updated":"2025-06-03T20:06:00.279+09:00"}
+dg-publish: true
 ---
-
 #제약 #제네릭의약품 #특수의약품 #중추신경계 #호흡기 #종양학 #여성건강 #API #OTC #글로벌제약기업 #연구개발 #제조 #유통 #의약품포트폴리오 #제네릭리더 #바이오시밀러 #복합제네릭 #수직계열화 #헬스케어 #제약
 
 ## 섹터
 
-섹터: [[헬스케어\|헬스케어]]
+섹터: [[헬스케어]]
 
 ## 산업
 
-산업: [[제약\|제약]](Pharmaceuticals)
+산업: [[제약]](Pharmaceuticals)
 
 ## 영위사업
 
@@ -39,53 +38,53 @@ Viatris는 전 세계 165개 이상의 국가와 지역에서 1,400개 이상의
 
 1. 의료 서비스: 병원, 클리닉 등에서의 의약품 사용
     
-    - HCA Healthcare(US, [[2.개별종목/HCA\|HCA]])
+    - HCA Healthcare(US, [[HCA]])
     
 2. 약국 체인: 의약품 소매 유통
     
-    - CVS Health(US, [[2.개별종목/CVS\|CVS]])
+    - CVS Health(US, [[CVS]])
     
 3. 의약품 도매: 대규모 의약품 유통
     
-    - McKesson Corporation(US, [[2.개별종목/MCK\|MCK]])
+    - McKesson Corporation(US, [[MCK]])
     
 
 ## 후방산업:
 
 1. 화학 원료 공급: API 생산을 위한 원료 공급
     
-    - BASF(DE, [[BAS\|BAS]])
+    - BASF(DE, [[BAS]])
     
 2. 의약품 패키징: 의약품 포장 솔루션
     
-    - West Pharmaceutical Services(US, [[2.개별종목/WST\|WST]])
+    - West Pharmaceutical Services(US, [[WST]])
     
 3. 임상시험 대행: 신약 개발을 위한 임상시험 서비스
     
-    - IQVIA Holdings(US, [[2.개별종목/IQV\|IQV]])
+    - IQVIA Holdings(US, [[IQV]])
     
 
 ## 밸류체인
 
 1. 연구개발: 신약 및 제네릭 의약품 개발
     
-    - Viatris(US, [[2.개별종목/VTRS\|VTRS]]) (제네릭 및 복합 제네릭 개발)
+    - Viatris(US, [[VTRS]]) (제네릭 및 복합 제네릭 개발)
     
 2. 원료 생산: API 제조
     
-    - Viatris(US, [[2.개별종목/VTRS\|VTRS]]) (자체 API 생산)
+    - Viatris(US, [[VTRS]]) (자체 API 생산)
     
 3. 의약품 제조: 완제품 생산
     
-    - Viatris(US, [[2.개별종목/VTRS\|VTRS]]) (다양한 제형의 의약품 생산)
+    - Viatris(US, [[VTRS]]) (다양한 제형의 의약품 생산)
     
 4. 유통: 도매 및 소매 유통
     
-    - AmerisourceBergen(US, [[2.개별종목/ABC\|ABC]]) (의약품 도매 유통)
+    - AmerisourceBergen(US, [[ABC]]) (의약품 도매 유통)
     
 5. 소매: 약국을 통한 최종 소비자 판매
     
-    - Walgreens Boots Alliance(US, [[2.개별종목/WBA\|WBA]]) (글로벌 약국 체인)
+    - Walgreens Boots Alliance(US, [[WBA]]) (글로벌 약국 체인)
     
 
 ## 주요제품
@@ -97,11 +96,11 @@ Viatris는 전 세계 165개 이상의 국가와 지역에서 1,400개 이상의
 
 ## 주요 고객
 
-1. 약국 체인: CVS Health(US, [[2.개별종목/CVS\|CVS]]), Walgreens Boots Alliance(US, [[2.개별종목/WBA\|WBA]])
+1. 약국 체인: CVS Health(US, [[CVS]]), Walgreens Boots Alliance(US, [[WBA]])
 2. 병원 및 의료기관
-3. 도매 유통업체: McKesson(US, [[2.개별종목/MCK\|MCK]]), AmerisourceBergen(US, [[2.개별종목/ABC\|ABC]])
+3. 도매 유통업체: McKesson(US, [[MCK]]), AmerisourceBergen(US, [[ABC]])
 4. 정부 기관
-5. 보험회사: UnitedHealth Group(US, [[2.개별종목/UNH\|UNH]]), Anthem(US, [[2.개별종목/ANTM\|ANTM]])
+5. 보험회사: UnitedHealth Group(US, [[UNH]]), Anthem(US, [[ANTM]])
 
 ## 주요 판매국가
 
@@ -109,11 +108,11 @@ Viatris는 전 세계 165개 이상의 국가와 지역에서 1,400개 이상의
 
 ## 경쟁업체
 
-1. Teva Pharmaceutical Industries Ltd.(IL, [[2.개별종목/TEVA\|TEVA]]): 제네릭 및 특수 의약품
-2. Novartis AG - Sandoz division(CH, [[2.개별종목/NVS\|NVS]]): 제네릭 및 바이오시밀러
-3. Pfizer Inc.(US, [[2.개별종목/PFE\|PFE]]): 브랜드 및 제네릭 의약품
-4. Sun Pharmaceutical Industries Ltd.(IN, [[524715\|524715]]): 제네릭 및 특수 의약품
-5. Fresenius SE & Co. KGaA(DE, [[FRE\|FRE]]): 제네릭 및 바이오시밀러
+1. Teva Pharmaceutical Industries Ltd.(IL, [[TEVA]]): 제네릭 및 특수 의약품
+2. Novartis AG - Sandoz division(CH, [[NVS]]): 제네릭 및 바이오시밀러
+3. Pfizer Inc.(US, [[PFE]]): 브랜드 및 제네릭 의약품
+4. Sun Pharmaceutical Industries Ltd.(IN, [[524715]]): 제네릭 및 특수 의약품
+5. Fresenius SE & Co. KGaA(DE, [[FRE]]): 제네릭 및 바이오시밀러
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -137,8 +136,8 @@ Viatris(Mylan 포함)는 2023년 기준 글로벌 제네릭 의약품 시장에�
 
 ## 관련 ETF
 
-1. VanEck Pharmaceutical ETF - [[PPH\|PPH]]
-2. iShares U.S. Pharmaceuticals ETF - [[IHE\|IHE]]
-3. Invesco Dynamic Pharmaceuticals ETF - [[PJP\|PJP]]
-4. SPDR S&P Pharmaceuticals ETF - [[XPH\|XPH]]
-5. First Trust Nasdaq Pharmaceuticals ETF - [[FTXH\|FTXH]]
+1. VanEck Pharmaceutical ETF - [[PPH]]
+2. iShares U.S. Pharmaceuticals ETF - [[IHE]]
+3. Invesco Dynamic Pharmaceuticals ETF - [[PJP]]
+4. SPDR S&P Pharmaceuticals ETF - [[XPH]]
+5. First Trust Nasdaq Pharmaceuticals ETF - [[FTXH]]

@@ -1,15 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/RVLV/","created":"2024-12-13T20:44:57.877+09:00","updated":"2025-06-03T20:06:01.062+09:00"}
+dg-publish: true
 ---
-
 #임의소비재 #의류 #패션 #인터넷소매
 
 Revolve Group, Inc.(RVLV)는 밀레니얼 세대와 Z세대를 대상으로 하는 온라인 패션 리테일러입니다.
 
 ## 산업섹터
 
-섹터: [[임의소비재\|임의소비재]](Consumer Discretionary)  
-산업: [[인터넷 소매\|인터넷 소매]](Internet Retail)
+섹터: [[임의소비재]](Consumer Discretionary)  
+산업: [[인터넷 소매]](Internet Retail)
 
 ## 영위사업
 
@@ -58,8 +57,8 @@ Revolve Group은 두 개의 보완적인 세그먼트를 통해 사업을 운영
 
 ## 경쟁업체
 
-- Nordstrom(US, [[2.개별종목/JWN\|JWN]])
-- Amazon(US, [[2.개별종목/AMZN\|AMZN]])
+- Nordstrom(US, [[JWN]])
+- Amazon(US, [[AMZN]])
 
 ## 산업 내 글로벌 시장 점유율
 

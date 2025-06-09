@@ -1,22 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/MDLZ/","created":"2024-12-20T21:06:48.494+09:00","updated":"2025-06-03T20:06:00.064+09:00"}
+dg-publish: true
 ---
-
 #식품제품 #필수소비재 #과자 #스낵 #초콜릿 #비스킷
 
 ## 산업섹터
 
-Sector: [[필수 소비재\|필수 소비재]](Consumer Staples)  
-Industry: [[식품 제품\|식품 제품]](Food Products)
+Sector: [[필수 소비재]](Consumer Staples)  
+Industry: [[식품 제품]](Food Products)
 
 ## 영위사업
 
-Mondelez International, Inc.는 글로벌 [[과자\|과자]] 및 식품 기업으로, 주요 사업 영역은 다음과 같습니다:
+Mondelez International, Inc.는 글로벌 [[과자]] 및 식품 기업으로, 주요 사업 영역은 다음과 같습니다:
 
 1. 비스킷 및 쿠키
 2. 초콜릿
 3. 껌 및 캔디
-4. 구운 [[스낵\|스낵]]
+4. 구운 [[스낵]]
 5. 치즈 및 식료품
 6. 분말 음료
 
@@ -38,14 +37,14 @@ Mondelez International은 전 세계 150개국 이상에서 사업을 영위하�
 ## 경쟁업체
 
 1. Nestlé SA (스위스) - 초콜릿, 과자류
-2. The Hershey Company (US, [[2.개별종목/HSY\|HSY]]) - 초콜릿, 캔디
+2. The Hershey Company (US, [[HSY]]) - 초콜릿, 캔디
 3. Mars, Incorporated (비상장) - 초콜릿, 껌
 4. Ferrero Group (비상장) - 초콜릿, 과자류
-5. Kellogg Company (US, [[2.개별종목/K\|K]]) - 과자, 시리얼
+5. Kellogg Company (US, [[K]]) - 과자, 시리얼
 
 ## 산업 내 글로벌 시장 점유율
 
-정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Mondelez International은 [[비스킷\|비스킷]](쿠키 및 크래커) 부문에서 세계 1위, [[초콜릿\|초콜릿]] 부문에서 세계 2위를 차지하고 있습니다
+정확한 글로벌 시장 점유율 데이터는 제공되지 않았습니다. 그러나 Mondelez International은 [[비스킷]](쿠키 및 크래커) 부문에서 세계 1위, [[초콜릿]] 부문에서 세계 2위를 차지하고 있습니다
 
 ## 최근 3년 내 주요 이슈
 

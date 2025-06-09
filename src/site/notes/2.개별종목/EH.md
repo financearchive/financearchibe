@@ -1,24 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/EH/","created":"2024-12-27T10:10:52.849+09:00","updated":"2025-06-03T20:05:58.872+09:00"}
+dg-publish: true
 ---
-
 #자율항공기 #도심항공교통 #전기수직이착륙기 #중국기업 #항공모빌리티 #반도체 #정보기술 #UAM #항공기부품 #eVTOL
 
 ## 산업 섹터
 
-[[정보기술\|정보기술]]
+[[정보기술]]
 
 ## 산업
 
-[[항공기 부품\|항공기 부품]](Aerospace - Defense)
+[[항공기 부품]](Aerospace - Defense)
 
 ## 영위사업
 
-EHang Holdings Limited는 중국 기반의 [[자율항공기\|자율항공기]]([[AAV\|AAV]]) 기술 플랫폼 기업입니다. 주요 사업 영역은 다음과 같습니다:
+EHang Holdings Limited는 중국 기반의 [[자율항공기]]([[AAV]]) 기술 플랫폼 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
 1. 자율항공기(AAV) 설계 및 제조
-2. [[도심항공교통\|도심항공교통]]([[1.Study/★ 산업/항공,우주,방위 산업/3.모빌리티/UAM/UAM\|UAM]]) 솔루션 개발
-3. 승객 운송용 [[전기수직이착륙기\|전기수직이착륙기]]([[eVTOL\|eVTOL]]) 생산
+2. [[도심항공교통]]([[UAM]]) 솔루션 개발
+3. 승객 운송용 [[전기수직이착륙기]]([[eVTOL]]) 생산
 4. 물류 및 배송을 위한 무인 항공기 시스템
 5. 스마트 시티 관리를 위한 항공 솔루션
 6. 항공 미디어 솔루션
@@ -38,21 +37,21 @@ EHang은 특히 EH216-S 모델로 중국 최초로 유인 eVTOL 항공기에 대
 
 1. 후방산업:
     
-    - 배터리 제조: [[2.개별종목/CATL\|CATL]], [[2.개별종목/BYD\|BYD]]
-    - 항공 전자장비: Honeywell (US, [[2.개별종목/HON\|HON]])
-    - 복합소재: Hexcel (US, [[HXL\|HXL]])
+    - 배터리 제조: [[CATL]], [[BYD]]
+    - 항공 전자장비: Honeywell (US, [[HON]])
+    - 복합소재: Hexcel (US, [[HXL]])
     
 2. 전방산업:
     
-    - 항공 운송: [[중국남방항공\|중국남방항공]], [[중국동방항공\|중국동방항공]]
-    - 물류: [[SF Express\|SF Express]], JD.com (US, [[2.개별종목/JD\|JD]])
-    - 스마트시티: [[화웨이\|화웨이]], [[알리바바 클라우드\|알리바바 클라우드]]
+    - 항공 운송: [[중국남방항공]], [[중국동방항공]]
+    - 물류: [[SF Express]], JD.com (US, [[JD]])
+    - 스마트시티: [[화웨이]], [[알리바바 클라우드]]
     
 
 ## 밸류체인
 
 1. 연구개발: EHang (자체 R&D)
-2. 부품 제조: [[2.개별종목/CATL\|CATL]] (배터리), Honeywell (US, [[2.개별종목/HON\|HON]]) (항공전자)
+2. 부품 제조: [[CATL]] (배터리), Honeywell (US, [[HON]]) (항공전자)
 3. 시스템 통합: EHang (주요 사업 영역)
 4. 인증 및 규제: 중국민용항공국(CAAC)
 5. 운영 및 서비스: EHang 및 파트너사
@@ -67,7 +66,7 @@ EHang은 특히 EH216-S 모델로 중국 최초로 유인 eVTOL 항공기에 대
 ## 주요고객
 
 1. 지방정부 및 스마트시티 프로젝트
-2. 물류 기업: [[SF Express\|SF Express]], JD.com (US, [[2.개별종목/JD\|JD]])
+2. 물류 기업: [[SF Express]], JD.com (US, [[JD]])
 3. 관광 산업 관련 기업
 4. 응급 의료 서비스 제공업체
 
@@ -81,11 +80,11 @@ EHang은 특히 EH216-S 모델로 중국 최초로 유인 eVTOL 항공기에 대
 
 ## 경쟁업체
 
-1. Joby Aviation (US, [[2.개별종목/JOBY\|JOBY]])
-2. Lilium (US, [[2.개별종목/LILM\|LILM]])
-3. [[Volocopter\|Volocopter]] (비상장)
-4. Archer Aviation (US, [[2.개별종목/ACHR\|ACHR]])
-5. Vertical Aerospace (US, [[2.개별종목/EVTL\|EVTL]])
+1. Joby Aviation (US, [[JOBY]])
+2. Lilium (US, [[LILM]])
+3. [[Volocopter]] (비상장)
+4. Archer Aviation (US, [[ACHR]])
+5. Vertical Aerospace (US, [[EVTL]])
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -109,6 +108,6 @@ EHang은 특히 EH216-S 모델로 중국 최초로 유인 eVTOL 항공기에 대
 
 ## 관련 ETF
 
-1. ARK Autonomous Technology & Robotics ETF - [[ARKQ\|ARKQ]]
-2. KraneShares Electric Vehicles and Future Mobility Index ETF - [[KARS\|KARS]]
-3. First Trust Indxx Innovative Transaction & Process ETF - [[LEGR\|LEGR]]
+1. ARK Autonomous Technology & Robotics ETF - [[ARKQ]]
+2. KraneShares Electric Vehicles and Future Mobility Index ETF - [[KARS]]
+3. First Trust Indxx Innovative Transaction & Process ETF - [[LEGR]]

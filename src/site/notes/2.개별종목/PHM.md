@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/PHM/","created":"2024-10-30T20:54:22.776+09:00","updated":"2025-06-03T20:06:00.698+09:00"}
+dg-publish: true
 ---
-
 #주택건설 #부동산 #임의소비재
 
 ## 산업섹터
 
-섹터: [[임의소비재\|임의소비재]](Consumer Discretionary)  
-산업: [[주택 건설\|주택 건설]](Homebuilding)
+섹터: [[임의소비재]](Consumer Discretionary)  
+산업: [[주택 건설]](Homebuilding)
 
 ## 영위사업
 
-PulteGroup은 미국의 주요 주택 건설([[1.Study/★ 산업/부동산/부동산\|부동산]]) 회사로, 단독 주택, 타운하우스, 콘도미니엄 등 다양한 유형의 주거용 부동산을 건설하고 판매합니다.
+PulteGroup은 미국의 주요 주택 건설([[부동산]]) 회사로, 단독 주택, 타운하우스, 콘도미니엄 등 다양한 유형의 주거용 부동산을 건설하고 판매합니다.
 
 ## 전방/후방산업
 
@@ -47,7 +46,7 @@ PulteGroup은 미국의 주요 주택 건설([[1.Study/★ 산업/부동산/부�
 
 ## 경쟁업체
 
-- D.R. Horton(US, [[2.개별종목/DHI\|DHI]]) (주택 건설)
-- Lennar Corporation(US, [[2.개별종목/LEN\|LEN]]) (주택 건설)
-- NVR, Inc.(US, [[2.개별종목/NVR\|NVR]]) (주택 건설)
-- KB Home(US, [[2.개별종목/KBH\|KBH]]) (주택 건설)
+- D.R. Horton(US, [[DHI]]) (주택 건설)
+- Lennar Corporation(US, [[LEN]]) (주택 건설)
+- NVR, Inc.(US, [[NVR]]) (주택 건설)
+- KB Home(US, [[KBH]]) (주택 건설)

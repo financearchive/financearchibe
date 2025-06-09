@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/LEU/","created":"2024-10-03T21:16:25.247+09:00","updated":"2025-06-03T20:05:59.889+09:00"}
+dg-publish: true
 ---
-
 #우라늄 #에너지 #원전 #원자력 #친환경 #저농축산화우라늄 #고순도저농축우라늄
 
 ## 산업섹터
 
-- Sector: Energy ([[에너지\|에너지]])
-- Industry: Uranium ([[1.Study/★ 산업/원자재 산업/5.기타원자재/우라늄\|우라늄]])
+- Sector: Energy ([[에너지]])
+- Industry: Uranium ([[우라늄]])
 
 ## 영위사업
 
-Centrus Energy Corp.는 미국 및 국제 [[원자력\|원자력]] 발전 산업에 핵연료 구성요소와 서비스를 공급하는 회사입니다. 주요 사업 부문은 [[저농축 산화 우라늄\|저농축 산화 우라늄]](LEU)과 기술 솔루션입니다.
+Centrus Energy Corp.는 미국 및 국제 [[원자력]] 발전 산업에 핵연료 구성요소와 서비스를 공급하는 회사입니다. 주요 사업 부문은 [[저농축 산화 우라늄]](LEU)과 기술 솔루션입니다.
 
 센트러스 에너지는 LEU를 중개하는 기업에서 LEU, HALEU를 생산하는 기업으로 변화를 추진. 2024년 미국의 러시아 LEU 수입을 규제하는 법안이 통과됨에 따라 미국 내 생산 추진 본격화. 러시아 규제가 본격화되는 2028년 이후 LEU 생산 본격화 전망
 
@@ -30,12 +29,12 @@ Centrus Energy Corp.는 미국 및 국제 [[원자력\|원자력]] 발전 산업
 - 전방산업:
     
     - 핵심 산업 및 역할: 원자력 발전, 전력 공급
-    - 관련 기업: Exelon Corporation (US, [[2.개별종목/EXC\|EXC]]), Duke Energy (US, [[2.개별종목/DUK\|DUK]])
+    - 관련 기업: Exelon Corporation (US, [[EXC]]), Duke Energy (US, [[DUK]])
     
 - 후방산업:
     
     - 핵심 산업 및 역할: 우라늄 채굴, 정제
-    - 관련 기업: Cameco Corporation (CA, [[2.개별종목/CCJ\|CCJ]]), Kazatomprom (KZ, [[KAP.L\|KAP.L]])
+    - 관련 기업: Cameco Corporation (CA, [[CCJ]]), Kazatomprom (KZ, [[KAP.L]])
     
 
 ## 밸류체인
@@ -46,11 +45,11 @@ Centrus Energy Corp.는 미국 및 국제 [[원자력\|원자력]] 발전 산업
 
 ## 주요제품
 
-- [[저농축 산화 우라늄\|저농축 산화 우라늄]](LEU)
+- [[저농축 산화 우라늄]](LEU)
 - 분리작업단위(SWU) 구성요소
 - 천연 우라늄 헥사플루오라이드
 - 우라늄 농축물
-- [[고순도 저농축 우라늄\|고순도 저농축 우라늄]](HALEU)
+- [[고순도 저농축 우라늄]](HALEU)
 
 ## 주요 판매국가
 

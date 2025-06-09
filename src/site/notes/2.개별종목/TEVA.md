@@ -1,20 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/TEVA/","created":"2024-12-18T11:20:09.762+09:00","updated":"2025-06-03T20:06:01.579+09:00"}
+dg-publish: true
 ---
-
 #제약 #제네릭의약품 #특수의약품 #중추신경계 #호흡기 #종양학 #여성건강 #API #OTC #글로벌제약기업 #이스라엘기업 #연구개발 #제조 #유통 #의약품포트폴리오 #제네릭 #헬스케어 #제약
 
 ## 섹터
 
-섹터: [[헬스케어\|헬스케어]]
+섹터: [[헬스케어]]
 
 ## 산업
 
-산업: [[제약\|제약]](Pharmaceuticals)
+산업: [[제약]](Pharmaceuticals)
 
 ## 영위사업
 
-Teva Pharmaceutical Industries Ltd.는 [[제네릭\|제네릭]] 및 특수 의약품을 발견, 개발, 제조 및 상용화하는 글로벌 제약 기업입니다. 주요 사업 영역은 다음과 같습니다:
+Teva Pharmaceutical Industries Ltd.는 [[제네릭]] 및 특수 의약품을 발견, 개발, 제조 및 상용화하는 글로벌 제약 기업입니다. 주요 사업 영역은 다음과 같습니다:
 
 1. 제네릭 의약품: 캡슐, 정제, 주사제, 흡입제, 액체, 크림 등 다양한 형태로 제공
 2. 특수 의약품: 중추신경계(CNS), 호흡기, 종양학, 여성 건강 등 질환 치료제
@@ -34,7 +33,7 @@ Teva는 북미, 유럽, 국제 시장 등 전 세계적으로 사업을 운영�
 ## 주요제품
 
 1. 제네릭 의약품: 다양한 치료 영역의 복제약 (매출 비중: 약 60%, 2023년 기준)
-2. 특수 의약품: AJOVY([[편두통\|편두통]]), AUSTEDO([[운동장애\|운동장애]]), COPAXONE([[다발성 경화증\|다발성 경화증]]) 등 (매출 비중: 약 30%, 2023년 기준)
+2. 특수 의약품: AJOVY([[편두통]]), AUSTEDO([[운동장애]]), COPAXONE([[다발성 경화증]]) 등 (매출 비중: 약 30%, 2023년 기준)
 3. OTC 제품: 일반의약품 (매출 비중: 약 5%, 2023년 기준)
 4. API: 원료의약품 (매출 비중: 약 5%, 2023년 기준)
 
@@ -52,11 +51,11 @@ Teva는 북미, 유럽, 국제 시장 등 전 세계적으로 사업을 운영�
 
 ## 경쟁업체
 
-1. Novartis(CH, [[2.개별종목/NVS\|NVS]])
-2. Pfizer(US, [[2.개별종목/PFE\|PFE]])
-3. Sanofi(FR, [[SNY\|SNY]])
-4. GlaxoSmithKline(UK, [[2.개별종목/GSK\|GSK]])
-5. Mylan(US, [[2.개별종목/MYL\|MYL]])
+1. Novartis(CH, [[NVS]])
+2. Pfizer(US, [[PFE]])
+3. Sanofi(FR, [[SNY]])
+4. GlaxoSmithKline(UK, [[GSK]])
+5. Mylan(US, [[MYL]])
 
 ## 산업 내 글로벌 시장 점유율
 
@@ -80,8 +79,8 @@ Teva는 2023년 기준 글로벌 제네릭 의약품 시장에서 약 10-15%의 
 
 ## 관련 ETF
 
-1. iShares MSCI Israel ETF - [[EIS\|EIS]]
-2. VanEck Pharmaceutical ETF - [[PPH\|PPH]]
-3. SPDR S&P Pharmaceuticals ETF - [[XPH\|XPH]]
-4. Invesco Dynamic Pharmaceuticals ETF - [[PJP\|PJP]]
-5. First Trust IPOX Europe Equity Opportunities ETF - [[FPXE\|FPXE]]
+1. iShares MSCI Israel ETF - [[EIS]]
+2. VanEck Pharmaceutical ETF - [[PPH]]
+3. SPDR S&P Pharmaceuticals ETF - [[XPH]]
+4. Invesco Dynamic Pharmaceuticals ETF - [[PJP]]
+5. First Trust IPOX Europe Equity Opportunities ETF - [[FPXE]]

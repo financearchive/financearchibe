@@ -1,24 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/TME/","created":"2025-03-05T10:45:58.151+09:00","updated":"2025-06-03T20:06:01.679+09:00"}
+dg-publish: true
 ---
-
 ## 핵심 키워드
 
 #음악스트리밍 #소셜엔터테인먼트 #중국시장 #온라인카라오케 #디지털음악 #콘텐츠라이선싱 #구독서비스 #소셜미디어 #AI추천 #라이브스트리밍 #음악커뮤니티 #모바일앱 #음악제작 #사용자참여 #광고수익 #지속가능성 #글로벌확장 #중국 
 
 ## 산업섹터
 
-섹터: [[커뮤니케이션 서비스\|커뮤니케이션 서비스]]
+섹터: [[커뮤니케이션 서비스]]
 
-산업: [[엔터테인먼트\|엔터테인먼트]]
+산업: [[엔터테인먼트]]
 
 ## 영위사업
 
-Tencent Music Entertainment Group(NYSE: TME)는 [[중국 최대의 온라인 음악 플랫폼\|중국 최대의 온라인 음악 플랫폼]]으로, 디지털 음악 스트리밍과 소셜 엔터테인먼트 서비스를 제공합니다. Tencent Holdings의 자회사로 2018년 뉴욕 증권거래소에 상장되었습니다. 주요 사업 부문은 다음과 같습니다:
+Tencent Music Entertainment Group(NYSE: TME)는 [[중국 최대의 온라인 음악 플랫폼]]으로, 디지털 음악 스트리밍과 소셜 엔터테인먼트 서비스를 제공합니다. Tencent Holdings의 자회사로 2018년 뉴욕 증권거래소에 상장되었습니다. 주요 사업 부문은 다음과 같습니다:
 
-1. *[[온라인 음악 서비스\|온라인 음악 서비스]]**: QQ Music, Kugou Music, Kuwo Music 등 주요 플랫폼을 통해 디지털 음악 스트리밍 제공
+1. *[[온라인 음악 서비스]]**: QQ Music, Kugou Music, Kuwo Music 등 주요 플랫폼을 통해 디지털 음악 스트리밍 제공
     
-2. **소셜 엔터테인먼트 서비스**: WeSing([[온라인 카라오케\|온라인 카라오케]]), 라이브 스트리밍 및 사용자 참여형 콘텐츠 제공
+2. **소셜 엔터테인먼트 서비스**: WeSing([[온라인 카라오케]]), 라이브 스트리밍 및 사용자 참여형 콘텐츠 제공
     
 3. **콘텐츠 제작 및 라이선싱**: 독점 콘텐츠 라이선싱 및 자체 제작 음악 콘텐츠 제공
     
@@ -42,7 +41,7 @@ Tencent Music Entertainment Group(NYSE: TME)는 [[중국 최대의 온라인 음
 
 ## 전방산업
 
-- **음악 제작 및 배급**: Universal Music Group(NL), Sony Music Entertainment(JP), Warner Music Group(US, [[WMG\|WMG]])
+- **음악 제작 및 배급**: Universal Music Group(NL), Sony Music Entertainment(JP), Warner Music Group(US, [[WMG]])
     
 - **광고주**: 브랜드 및 기업 광고주
     
@@ -53,9 +52,9 @@ Tencent Music Entertainment Group(NYSE: TME)는 [[중국 최대의 온라인 음
 
 - **클라우드 인프라**: Tencent Cloud(CN), Alibaba Cloud(CN)
     
-- **데이터 분석 솔루션**: Palantir Technologies(US, [[2.개별종목/PLTR\|PLTR]])
+- **데이터 분석 솔루션**: Palantir Technologies(US, [[PLTR]])
     
-- **IT 인프라**: Cisco Systems(US, [[2.개별종목/CSCO\|CSCO]]), Huawei(CN)
+- **IT 인프라**: Cisco Systems(US, [[CSCO]]), Huawei(CN)
     
 
 ## 밸류체인
@@ -71,7 +70,7 @@ Tencent Music Entertainment Group(NYSE: TME)는 [[중국 최대의 온라인 음
 
 ## 주요제품
 
-- **QQ Music, Kugou Music, Kuwo Music**: [[디지털 음악 스트리밍 플랫폼\|디지털 음악 스트리밍 플랫폼]] (매출의 약 55%)
+- **QQ Music, Kugou Music, Kuwo Music**: [[디지털 음악 스트리밍 플랫폼]] (매출의 약 55%)
     
 - **WeSing**: 온라인 카라오케 및 소셜 엔터테인먼트 서비스 (매출의 약 35%)
     
@@ -93,13 +92,13 @@ Tencent Music Entertainment Group(NYSE: TME)는 [[중국 최대의 온라인 음
 
 ## 경쟁업체
 
-1. [[NetEase Cloud Music\|NetEase Cloud Music]](CN): 중국 내 주요 경쟁 플랫폼
+1. [[NetEase Cloud Music]](CN): 중국 내 주요 경쟁 플랫폼
     
-2. Spotify(US, [[2.개별종목/SPOT\|SPOT]]): 글로벌 음악 스트리밍 시장 선두 기업
+2. Spotify(US, [[SPOT]]): 글로벌 음악 스트리밍 시장 선두 기업
     
-3. Apple Music(US, [[2.개별종목/AAPL\|AAPL]]): 글로벌 음악 스트리밍 서비스 제공 업체
+3. Apple Music(US, [[AAPL]]): 글로벌 음악 스트리밍 서비스 제공 업체
     
-4. YouTube Music(US, [[2.개별종목/GOOGL\|GOOGL]]): Google의 음악 스트리밍 플랫폼
+4. YouTube Music(US, [[GOOGL]]): Google의 음악 스트리밍 플랫폼
     
 5. Xiami Music(CN): Alibaba 그룹의 음악 스트리밍 서비스 (현재 운영 중단)
     
@@ -130,8 +129,8 @@ Tencent Music Entertainment는 2024년 기준 중국 디지털 음악 시장에�
 
 ## 관련 ETF
 
-- KraneShares CSI China Internet ETF - [[KWEB\|KWEB]]
+- KraneShares CSI China Internet ETF - [[KWEB]]
     
-- Global X MSCI China ETF - [[MCHI\|MCHI]]
+- Global X MSCI China ETF - [[MCHI]]
     
-- Invesco China Technology ETF - [[CQQQ\|CQQQ]]
+- Invesco China Technology ETF - [[CQQQ]]

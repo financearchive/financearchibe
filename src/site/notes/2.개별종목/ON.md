@@ -1,37 +1,36 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/ON/","created":"2024-10-28T21:27:19.540+09:00","updated":"2025-06-03T20:06:00.548+09:00"}
+dg-publish: true
 ---
-
 #반도체  #정보기술 #자동차 #SiC #아날로그반도체
 
 
 ## 산업섹터
 
-섹터: [[정보기술\|정보기술]](Information Technology)  
-산업: [[1.Study/★ 산업/반도체 산업/반도체\|반도체]](Semiconductors)
+섹터: [[정보기술]](Information Technology)  
+산업: [[반도체]](Semiconductors)
 
 ## 영위사업
 
-ON Semiconductor(onsemi)는 지능형 전력 및 지능형 센싱 솔루션을 설계, 제조, 공급하는 반도체 기업입니다. 주로 [[1.Study/★ 산업/자동차 산업/자동차\|자동차]] 및 산업 분야에 초점을 맞추고 있습니다.
+ON Semiconductor(onsemi)는 지능형 전력 및 지능형 센싱 솔루션을 설계, 제조, 공급하는 반도체 기업입니다. 주로 [[자동차]] 및 산업 분야에 초점을 맞추고 있습니다.
 
 ## 전방/후방산업
 
 ## 후방산업
 
-- 반도체 제조 장비: 반도체 생산 장비 제조업체 (예: Applied Materials(US, [[2.개별종목/AMAT\|AMAT]]))
-- 원자재 공급: 실리콘 웨이퍼, 화학물질 공급업체 (예: Entegris(US, [[ENTG\|ENTG]]))
+- 반도체 제조 장비: 반도체 생산 장비 제조업체 (예: Applied Materials(US, [[AMAT]]))
+- 원자재 공급: 실리콘 웨이퍼, 화학물질 공급업체 (예: Entegris(US, [[ENTG]]))
 
 ## 전방산업
 
-- 자동차: 전기차, 자율주행차 제조업체 (예: Tesla(US, [[2.개별종목/TSLA\|TSLA]]))
-- 산업 자동화: 로봇 및 자동화 장비 제조업체 (예: ABB(스위스, [[ABBN\|ABBN]]))
-- 5G 및 클라우드 인프라: 통신장비 제조업체 (예: Cisco Systems(US, [[2.개별종목/CSCO\|CSCO]]))
+- 자동차: 전기차, 자율주행차 제조업체 (예: Tesla(US, [[TSLA]]))
+- 산업 자동화: 로봇 및 자동화 장비 제조업체 (예: ABB(스위스, [[ABBN]]))
+- 5G 및 클라우드 인프라: 통신장비 제조업체 (예: Cisco Systems(US, [[CSCO]]))
 
 ## 주요제품 및 서비스
 
-- [[아날로그 반도체\|아날로그 반도체]]
+- [[아날로그 반도체]]
 - 디스크리트 제품
-- [[1.Study/★ 산업/이차전지, 배터리 산업/INFO_배터리/SiC\|SiC]](실리콘 카바이드) 제품
+- [[SiC]](실리콘 카바이드) 제품
 - MOSFET
 - 전력 모듈
 - 메모리
@@ -46,10 +45,10 @@ ON Semiconductor(onsemi)는 지능형 전력 및 지능형 센싱 솔루션을 �
 
 ## 경쟁업체
 
-- Texas Instruments(US, [[2.개별종목/TXN\|TXN]])
-- Microchip Technology(US, [[2.개별종목/MCHP\|MCHP]])
-- STMicroelectronics(스위스, [[2.개별종목/STM\|STM]])
-- Infineon Technologies(독일, [[2.개별종목/IFX\|IFX]])
+- Texas Instruments(US, [[TXN]])
+- Microchip Technology(US, [[MCHP]])
+- STMicroelectronics(스위스, [[STM]])
+- Infineon Technologies(독일, [[IFX]])
 
 ## 산업 내 글로벌 시장 점유율
 

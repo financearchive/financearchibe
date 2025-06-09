@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/M/","created":"2024-08-22T10:56:19.456+09:00","updated":"2025-06-03T20:05:59.987+09:00"}
+dg-publish: true
 ---
-
 #소비재 #백화점 #소매 #임의소비재
 
 #백화점
 
-**산업섹터 (Sector):** [[임의소비재\|임의소비재]] (Consumer Cyclical)  
-**산업 (Industry):** [[백화점\|백화점]] (Department Stores)
+**산업섹터 (Sector):** [[임의소비재]] (Consumer Cyclical)  
+**산업 (Industry):** [[백화점]] (Department Stores)
 
 ### 영위사업
 
@@ -17,17 +16,17 @@ Macy’s, Inc.는 미국에서 의류, 액세서리, 화장품, 가정용품 및
 
 **전방산업:**
 
-- 소매업체: Nordstrom (US, [[2.개별종목/JWN\|JWN]]), Kohl’s (US, [[2.개별종목/KSS\|KSS]])
-- 전자상거래: Amazon (US, [[2.개별종목/AMZN\|2.개별종목/AMZN]]), eBay (US, [[2.개별종목/EBAY\|EBAY]])
+- 소매업체: Nordstrom (US, [[JWN]]), Kohl’s (US, [[KSS]])
+- 전자상거래: Amazon (US, [[2.개별종목/AMZN]]), eBay (US, [[EBAY]])
 
 **후방산업:**
 
-- 제조업체: Hanesbrands (US, [[HBI\|HBI]]), VF Corporation (US, [[VFC\|VFC]])
-- 물류업체: FedEx (US, [[2.개별종목/FDX\|FDX]]), UPS (US, [[2.개별종목/UPS\|UPS]])
+- 제조업체: Hanesbrands (US, [[HBI]]), VF Corporation (US, [[VFC]])
+- 물류업체: FedEx (US, [[FDX]]), UPS (US, [[UPS]])
 
 ### 주요제품
 
-- **[[의류\|의류]]:** 남성, 여성, 아동 의류 (매출 비중: 2023년 기준 50%)
+- **[[의류]]:** 남성, 여성, 아동 의류 (매출 비중: 2023년 기준 50%)
 - **액세서리 및 화장품:** 가방, 주얼리, 화장품 등 (매출 비중: 2023년 기준 30%)
 - **가정용품:** 가구, 주방용품 등 (매출 비중: 2023년 기준 20%)
 
@@ -37,9 +36,9 @@ Macy’s, Inc.는 미국에서 의류, 액세서리, 화장품, 가정용품 및
 
 ### 경쟁업체
 
-- **Nordstrom (US, [[2.개별종목/JWN\|JWN]]):** 백화점 (시장 점유율 15%)
-- **Kohl’s (US, [[2.개별종목/KSS\|KSS]]):** 백화점 (시장 점유율 10%)
-- **Amazon (US, [[2.개별종목/AMZN\|2.개별종목/AMZN]]):** 전자상거래 (시장 점유율 30%)
+- **Nordstrom (US, [[JWN]]):** 백화점 (시장 점유율 15%)
+- **Kohl’s (US, [[KSS]]):** 백화점 (시장 점유율 10%)
+- **Amazon (US, [[2.개별종목/AMZN]]):** 전자상거래 (시장 점유율 30%)
 
 ### 산업 내 글로벌 시장 점유율
 

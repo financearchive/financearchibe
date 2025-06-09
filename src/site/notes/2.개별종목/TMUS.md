@@ -1,16 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/TMUS/","created":"2024-12-10T10:50:10.190+09:00","updated":"2025-06-03T20:06:01.672+09:00"}
+dg-publish: true
 ---
-
 #무선통신서비스 #통신사 #커뮤니케이션서비스 #통신서비스
 
 
-T-Mobile US, Inc.(TMUS)는 미국의 [[무선 통신 서비스\|무선 통신 서비스]] 제공업체입니다.
+T-Mobile US, Inc.(TMUS)는 미국의 [[무선 통신 서비스]] 제공업체입니다.
 
 ## 산업섹터
 
-섹터: [[커뮤니케이션 서비스\|커뮤니케이션 서비스]](Communication Services)  
-산업: [[통신 서비스\|통신 서비스]](Telecom Services)
+섹터: [[커뮤니케이션 서비스]](Communication Services)  
+산업: [[통신 서비스]](Telecom Services)
 
 ## 영위사업
 
@@ -28,8 +27,8 @@ T-Mobile US는 미국, 푸에르토리코, 미국령 버진아일랜드에서 �
 
 ## 후방산업
 
-- 통신장비 제조업체: Ericsson(SE, [[ERIC\|ERIC]])
-- 스마트폰 제조업체: Apple(US, [[2.개별종목/AAPL\|AAPL]]), Samsung(KR, [[005930.KS\|005930.KS]])
+- 통신장비 제조업체: Ericsson(SE, [[ERIC]])
+- 스마트폰 제조업체: Apple(US, [[AAPL]]), Samsung(KR, [[005930.KS]])
 
 ## 전방산업
 
@@ -58,9 +57,9 @@ T-Mobile US는 미국, 푸에르토리코, 미국령 버진아일랜드에서 �
 
 ## 경쟁업체
 
-- AT&T(US, [[2.개별종목/T\|2.개별종목/T]])
-- Verizon Communications(US, [[2.개별종목/VZ\|VZ]])
-- DISH Network(US, [[2.개별종목/DISH\|DISH]])
+- AT&T(US, [[2.개별종목/T]])
+- Verizon Communications(US, [[VZ]])
+- DISH Network(US, [[DISH]])
 
 ## 산업 내 글로벌 시장 점유율
 

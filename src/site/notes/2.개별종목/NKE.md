@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/NKE/","created":"2024-09-02T12:22:37.528+09:00","updated":"2025-06-03T20:06:00.352+09:00"}
+dg-publish: true
 ---
-
 #신발 #임의소비재
 
 
-**산업섹터 (Sector):** [[임의소비재\|임의소비재]] (Consumer Cyclical)  
+**산업섹터 (Sector):** [[임의소비재]] (Consumer Cyclical)  
 
-**산업 (Industry):** [[신발 및 액세서리\|신발 및 액세서리]] (Footwear & Accessories)
+**산업 (Industry):** [[신발 및 액세서리]] (Footwear & Accessories)
 
 ### 영위사업
 
@@ -17,13 +16,13 @@ NIKE, Inc.는 전 세계적으로 운동화, 의류, 장비, 액세서리 및 �
 
 **전방산업:**
 
-- 소매업체: Foot Locker (US, [[2.개별종목/FL\|FL]]), Dick’s Sporting Goods (US, [[2.개별종목/DKS\|DKS]])
-- 전자상거래: Amazon (US, [[2.개별종목/AMZN\|2.개별종목/AMZN]]), eBay (US, [[2.개별종목/EBAY\|EBAY]])
+- 소매업체: Foot Locker (US, [[FL]]), Dick’s Sporting Goods (US, [[DKS]])
+- 전자상거래: Amazon (US, [[2.개별종목/AMZN]]), eBay (US, [[EBAY]])
 
 **후방산업:**
 
-- 원료 공급업체: BASF (DE, [[BAS\|BAS]]), Dow Chemical (US, [[2.개별종목/DOW\|DOW]])
-- 제조업체: Flex (US, [[FLEX\|FLEX]]), Foxconn (TW, [[2354\|2354]])
+- 원료 공급업체: BASF (DE, [[BAS]]), Dow Chemical (US, [[DOW]])
+- 제조업체: Flex (US, [[FLEX]]), Foxconn (TW, [[2354]])
 
 ### 주요제품
 
@@ -41,9 +40,9 @@ NIKE, Inc.는 전 세계적으로 운동화, 의류, 장비, 액세서리 및 �
 
 ### 경쟁업체
 
-- **Adidas (DE, [[2.개별종목/ADS\|ADS]]):** 스포츠웨어 (시장 점유율 20%)
-- **Puma (DE, [[2.개별종목/PUM\|PUM]]):** 스포츠웨어 (시장 점유율 10%)
-- **Under Armour (US, [[UA\|UA]]):** 스포츠웨어 (시장 점유율 8%)
+- **Adidas (DE, [[ADS]]):** 스포츠웨어 (시장 점유율 20%)
+- **Puma (DE, [[PUM]]):** 스포츠웨어 (시장 점유율 10%)
+- **Under Armour (US, [[UA]]):** 스포츠웨어 (시장 점유율 8%)
 
 ### 산업 내 글로벌 시장 점유율
 

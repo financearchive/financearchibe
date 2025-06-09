@@ -1,15 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/SYK/","created":"2024-12-06T22:09:54.737+09:00","updated":"2025-06-03T20:06:01.500+09:00"}
+dg-publish: true
 ---
-
 #헬스케어 #의료장비및용품
 
 Stryker Corporation(SYK)는 의료 기술 분야의 글로벌 리더 기업입니다.
 
 ## 산업섹터
 
-섹터: [[헬스케어\|헬스케어]](Health Care)  
-산업: [[의료 장비 및 용품\|의료 장비 및 용품]](Medical Instruments & Supplies)
+섹터: [[헬스케어]](Health Care)  
+산업: [[의료 장비 및 용품]](Medical Instruments & Supplies)
 
 ## 영위사업
 
@@ -20,7 +19,7 @@ Stryker는 정형외과, 의료 및 수술(MedSurg), 신경 기술 및 척추 �
 ## 후방산업
 
 - 의료 장비 제조업체
-- 반도체 제조업체: TSMC(TW, [[2.개별종목/TSM\|TSM]])
+- 반도체 제조업체: TSMC(TW, [[TSM]])
 
 ## 전방산업
 
@@ -48,11 +47,11 @@ Stryker는 정형외과, 의료 및 수술(MedSurg), 신경 기술 및 척추 �
 
 ## 경쟁업체
 
-- Medtronic(US, [[2.개별종목/MDT\|MDT]])
-- Johnson & Johnson(US, [[2.개별종목/JNJ\|JNJ]])
-- Abbott Laboratories(US, [[2.개별종목/ABT\|ABT]])
-- Smith & Nephew(UK, [[2.개별종목/SNN\|SNN]])
-- Zimmer Biomet(US, [[2.개별종목/ZBH\|ZBH]])
+- Medtronic(US, [[MDT]])
+- Johnson & Johnson(US, [[JNJ]])
+- Abbott Laboratories(US, [[ABT]])
+- Smith & Nephew(UK, [[SNN]])
+- Zimmer Biomet(US, [[ZBH]])
 
 ## 산업 내 글로벌 시장 점유율
 

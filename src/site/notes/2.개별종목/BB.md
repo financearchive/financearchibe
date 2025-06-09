@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/2.개별종목/BB/","created":"2024-12-23T11:28:19.194+09:00","updated":"2025-06-03T20:05:57.908+09:00"}
+dg-publish: true
 ---
-
 #정보기술 #소프트웨어 #사이버보안 #IoT
 
 ## 산업섹터
 
-Sector: [[정보기술\|정보기술]](Information Technology)  
-Industry: [[소프트웨어\|소프트웨어]] - 인프라(Software - Infrastructure)
+Sector: [[정보기술]](Information Technology)  
+Industry: [[소프트웨어]] - 인프라(Software - Infrastructure)
 
 ## 영위사업
 
-BlackBerry Limited는 [[사이버 보안\|사이버 보안]] 및 [[IoT\|IoT]] 솔루션을 제공하는 소프트웨어 기업입니다. 주요 사업 부문은 다음과 같습니다:
+BlackBerry Limited는 [[사이버 보안]] 및 [[IoT]] 솔루션을 제공하는 소프트웨어 기업입니다. 주요 사업 부문은 다음과 같습니다:
 
 1. 사이버보안: AI와 머신러닝을 활용한 엔드포인트 보안 솔루션 제공
 2. IoT: 자동차 및 임베디드 시스템용 소프트웨어 개발 (BlackBerry QNX)
@@ -20,7 +19,7 @@ BlackBerry Limited는 [[사이버 보안\|사이버 보안]] 및 [[IoT\|IoT]] �
 
 회사는 과거 스마트폰 제조업체로 유명했으나, 현재는 소프트웨어와 서비스에 집중하고 있습니다. BlackBerry는 은행, 정부, 자동차 제조업체 등 다양한 산업 분야의 고객에게 보안 솔루션을 제공하고 있습니다.
 
-이 회사는 전 세계 기업과 정부에 지능형 보안 소프트웨어 및 서비스를 제공하는 [[캐나다\|캐나다]] 기반 회사다.  
+이 회사는 전 세계 기업과 정부에 지능형 보안 소프트웨어 및 서비스를 제공하는 [[캐나다]] 기반 회사다.  
 
 이 회사는 사이버 보안, IoT, 라이선스 및 기타의 3개 부문으로 운영된다.  
   
@@ -40,7 +39,7 @@ BlackBerry UEM 제품군에는 BlackBerry UEM, BlackBerry Dynamics 및 BlackBerr
 
 - 자동차 산업: BlackBerry QNX를 차량용 운영체제로 사용
     
-    - Ford Motor Company (US, [[2.개별종목/F\|F]])
+    - Ford Motor Company (US, [[F]])
     
 - 정부 및 기업 보안 시장: 엔드포인트 보안 솔루션 활용
     
@@ -51,20 +50,20 @@ BlackBerry UEM 제품군에는 BlackBerry UEM, BlackBerry Dynamics 및 BlackBerr
 
 - 반도체 제조업체: 하드웨어 플랫폼 제공
     
-    - NVIDIA Corporation (US, [[2.개별종목/NVDA\|NVDA]])
+    - NVIDIA Corporation (US, [[NVDA]])
     
 - 클라우드 서비스 제공업체: 인프라 지원
     
-    - Amazon Web Services (US, [[2.개별종목/AMZN\|AMZN]])
+    - Amazon Web Services (US, [[AMZN]])
     
 
 ## 밸류체인
 
-1. 연구개발: BlackBerry Limited (US, [[2.개별종목/BB\|BB]])
-2. 소프트웨어 개발: BlackBerry Limited (US, [[2.개별종목/BB\|BB]])
-3. 시스템 통합: BlackBerry Limited (US, [[2.개별종목/BB\|BB]])
+1. 연구개발: BlackBerry Limited (US, [[BB]])
+2. 소프트웨어 개발: BlackBerry Limited (US, [[BB]])
+3. 시스템 통합: BlackBerry Limited (US, [[BB]])
 4. 판매 및 유통: 직접 판매 및 파트너십
-5. 고객 지원 및 서비스: BlackBerry Limited (US, [[2.개별종목/BB\|BB]])
+5. 고객 지원 및 서비스: BlackBerry Limited (US, [[BB]])
 
 ## 주요제품
 
@@ -80,11 +79,11 @@ BlackBerry는 전 세계적으로 사업을 영위하고 있으며, 특히 북�
 
 ## 경쟁업체
 
-1. Microsoft (US, [[2.개별종목/MSFT\|MSFT]]) (엔드포인트 보안 및 UEM)
-2. Cisco Systems (US, [[2.개별종목/CSCO\|CSCO]]) (네트워크 보안)
-3. VMware (US, [[2.개별종목/VMW\|VMW]]) (엔드포인트 관리)
-4. CrowdStrike (US, [[2.개별종목/CRWD\|CRWD]]) (엔드포인트 보안)
-5. Palo Alto Networks (US, [[2.개별종목/PANW\|PANW]]) (네트워크 보안)
+1. Microsoft (US, [[MSFT]]) (엔드포인트 보안 및 UEM)
+2. Cisco Systems (US, [[CSCO]]) (네트워크 보안)
+3. VMware (US, [[VMW]]) (엔드포인트 관리)
+4. CrowdStrike (US, [[CRWD]]) (엔드포인트 보안)
+5. Palo Alto Networks (US, [[PANW]]) (네트워크 보안)
 
 ## 산업 내 글로벌 시장 점유율
 
