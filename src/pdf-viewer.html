@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PDF 뷰어</title>
+    <script>
+        function getQueryParams() {
+            const params = new URLSearchParams(window.location.search);
+            return {
+                file: params.get('file'),
+                page: params.get('page')
+            };
+        }
+        window.onload = function() {
+            const params = getQueryParams();
+            let pdfPath = params.file;
+            const page = params.page || 1;
+            const basePath = '/notes/'; // PDF가 _site/notes/에 있음
+            if (pdfPath) {
+                pdfPath = basePath + pdfPath.replace(/%20/g, ' ');
+                const viewerUrl = `/pdfjs/web/viewer.html?file=${encodeURIComponent(pdfPath)}#page=${page}`;
+                document.getElementById('pdfViewer').src = viewerUrl;
+            } else {
+                document.body.innerHTML = '<p>PDF 파일을 지정해주세요.</p>';
+            }
+        };
+    </script>
+</head>
+<body>
+    <iframe id="pdfViewer" width="100%" height="600px"></iframe>
+</body>
+</html>
