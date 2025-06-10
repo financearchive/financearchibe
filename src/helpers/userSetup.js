@@ -3,8 +3,7 @@ const matter = require("gray-matter");
 const fs = require("fs");
 
 function userMarkdownSetup(md) {
-  // The md parameter stands for the markdown-it instance used throughout the site generator.
-  // Feel free to add any plugin you want here instead of /.eleventy.js
+  // Markdown-it plugins can be added here if needed
 }
 
 function userEleventySetup(eleventyConfig) {
@@ -18,14 +17,14 @@ function userEleventySetup(eleventyConfig) {
         try {
           const fileContent = fs.readFileSync(item.inputPath, "utf8");
           const frontMatter = matter(fileContent);
-          return frontMatter.data["dg-publish"] === true; // dg-publish: true인 파일만 포함
+          return frontMatter.data["dg-publish"] === true; // Only include dg-publish: true
         } catch (e) {
           console.warn(`Error reading front matter for ${item.inputPath}: ${e.message}`);
           return false;
         }
       })
       .map((item, index) => {
-        if (index === 0) { // 첫 파일만 로깅
+        if (index === 0) { // Log only the first file
           console.log(`Sample note: ${item.url}, filePath: ${item.inputPath}`);
         }
         return item;
