@@ -3,6 +3,19 @@
 <head>
     <title>PDF 뷰어</title>
     <script>
+        // PDF 파일 경로 매핑 (서버에서 생성된 데이터 사용)
+        async function findPdfPath(fileName) {
+            // PDF 목록을 가져오기 위해 fetch 사용
+            try {
+                const response = await fetch('/pdf-map.json');
+                const pdfMap = await response.json();
+                return pdfMap[fileName] || null;
+            } catch (e) {
+                console.error('PDF map fetch failed:', e);
+                return null;
+            }
+        }
+
         function getQueryParams() {
             const params = new URLSearchParams(window.location.search);
             return {
@@ -10,15 +23,20 @@
                 page: params.get('page')
             };
         }
-        window.onload = function() {
+
+        window.onload = async function() {
             const params = getQueryParams();
-            let pdfPath = params.file;
+            const fileName = params.file;
             const page = params.page || 1;
-            const basePath = '/notes/'; // PDF가 _site/notes/에 있음
-            if (pdfPath) {
-                pdfPath = basePath + pdfPath.replace(/%20/g, ' ');
-                const viewerUrl = `/pdfjs/web/viewer.html?file=${encodeURIComponent(pdfPath)}#page=${page}`;
-                document.getElementById('pdfViewer').src = viewerUrl;
+
+            if (fileName) {
+                const pdfPath = await findPdfPath(fileName);
+                if (pdfPath) {
+                    const viewerUrl = `/pdfjs/web/viewer.html?file=${encodeURIComponent(pdfPath)}#page=${page}`;
+                    document.getElementById('pdfViewer').src = viewerUrl;
+                } else {
+                    document.body.innerHTML = '<p>PDF 파일을 찾을 수 없습니다: ' + fileName + '</p>';
+                }
             } else {
                 document.body.innerHTML = '<p>PDF 파일을 지정해주세요.</p>';
             }
