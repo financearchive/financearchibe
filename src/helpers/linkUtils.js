@@ -31,18 +31,38 @@ function extractLinks(content) {
 }
 
 async function getGraph(data) {
+  console.log("Starting getGraph, note collection size:", data.collections.note?.length || 0);
   let nodes = {};
   let links = [];
   let stemURLs = {};
   let homeAlias = "/";
-  for (const [idx, v] of (data.collections.note || []).entries()) {
+  if (!data.collections.note) {
+    console.error("Note collection is undefined or empty");
+    return { homeAlias, nodes, links };
+  }
+  for (const [idx, v] of data.collections.note.entries()) {
+    console.log(`Processing template: ${v.url}, filePathStem: ${v.filePathStem}`);
+    if (!v.template) {
+      console.error(`Template is undefined for ${v.url}`);
+      continue;
+    }
     let fpath = v.filePathStem.replace("/notes/", "");
     let parts = fpath.split("/");
     let group = "none";
     if (parts.length >= 3) {
       group = parts[parts.length - 2];
     }
-    const { frontMatter } = await v.template.read();
+    let frontMatter;
+    try {
+      const result = await v.template.read();
+      frontMatter = result?.frontMatter;
+      if (!frontMatter) {
+        console.warn(`No frontMatter for ${v.url}`);
+      }
+    } catch (error) {
+      console.error(`Error reading template for ${v.url}:`, error);
+      frontMatter = null;
+    }
     nodes[v.url] = {
       id: idx,
       title: v.data.title || v.fileSlug,
@@ -52,7 +72,7 @@ async function getGraph(data) {
         v.data["dg-home"] ||
         (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1) ||
         false,
-      outBound: extractLinks(frontMatter.content),
+      outBound: frontMatter?.content ? extractLinks(frontMatter.content) : [],
       neighbors: new Set(),
       backLinks: new Set(),
       noteIcon: v.data.noteIcon || process.env.NOTE_ICON_DEFAULT,
@@ -83,10 +103,10 @@ async function getGraph(data) {
       }
     });
   });
-  Object.keys(nodes).map((k) => {
-    nodes[k].neighbors = Array.from(nodes[k].neighbors);
-    nodes[k].backLinks = Array.from(nodes[k].backLinks);
-    nodes[k].size = nodes[k].neighbors.length;
+  Object.keys(nodes).map((key) => {
+    nodes[key].neighbors = Array.from(nodes[key].neighbors);
+    nodes[key].backLinks = Array.from(nodes[key].backLinks);
+    nodes[key].size = nodes[key].neighbors.length;
   });
   return {
     homeAlias,
