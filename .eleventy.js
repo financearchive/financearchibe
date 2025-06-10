@@ -392,7 +392,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/site/scripts");
   eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
   eleventyConfig.addPassthroughCopy("src/pdfjs");
-  eleventyConfig.addPassthroughCopy("src/site/assets/pdf/**/*.pdf"); // PDF 경로 변경
+  eleventyConfig.addPassthroughCopy("src/site/notes/**/*.pdf"); // PDF 위치 유지
   eleventyConfig.addPassthroughCopy("src/pdf-viewer.html");
   eleventyConfig.addPassthroughCopy("src/site/link-rewrite.js");
 
