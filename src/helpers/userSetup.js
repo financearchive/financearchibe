@@ -1,4 +1,3 @@
-const fs = require("fs");
 const path = require("path");
 
 function userMarkdownSetup(md) {
@@ -11,23 +10,15 @@ function userEleventySetup(eleventyConfig) {
   eleventyConfig.addCollection("note", function (collectionApi) {
     const notesDir = path.resolve("src/site/notes");
     console.log(`Scanning notes directory: ${notesDir}`);
-    
-    // Verify directory exists
-    if (!fs.existsSync(notesDir)) {
-      console.error(`Notes directory does not exist: ${notesDir}`);
-      return [];
-    }
 
-    const files = fs.readdirSync(notesDir, { recursive: true, withFileTypes: true })
-      .filter(file => file.isFile() && file.name.endsWith(".md"))
-      .map(file => path.join(file.parentPath, file.name));
-    console.log(`Found ${files.length} markdown files:`, files);
-
-    const collection = collectionApi.getFilteredByGlob("src/site/notes/**/*.md").map((item) => {
-      console.log(`Processing note: ${item.url}, filePath: ${item.inputPath}`);
+    const collection = collectionApi.getFilteredByGlob("src/site/notes/**/*.md").map((item, index) => {
+      if (index < 10) { // 처음 10개 파일만 로깅
+        console.log(`Processing note: ${item.url}, filePath: ${item.inputPath}`);
+      }
       return item;
     });
 
+    console.log(`Found ${collection.length} markdown files`);
     if (collection.length === 0) {
       console.warn("No notes found in src/site/notes/**/*.md");
     }
