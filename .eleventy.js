@@ -98,13 +98,9 @@ module.exports = function (eleventyConfig) {
     dynamicPartials: true,
   });
 
-  // PDF.js 파일 복사
   eleventyConfig.addPassthroughCopy("src/pdfjs");
-  // src/site/notes의 모든 PDF 파일 복사
   eleventyConfig.addPassthroughCopy("src/site/notes/**/*.pdf");
-  // PDF 뷰어 HTML 복사
   eleventyConfig.addPassthroughCopy("src/pdf-viewer.html");
-  // 링크 변환 JavaScript 복사
   eleventyConfig.addPassthroughCopy("src/site/link-rewrite.js");
 };
 
