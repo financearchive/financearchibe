@@ -7,8 +7,8 @@
         "prebuild": "rimraf dist",
         "start": "npm-run-all get-theme build:sass --parallel watch:*",
         "watch:sass": "sass --watch src/site/styles:dist/styles",
-        "watch:eleventy": "cross-env ELEVENTY_ENV=dev eleventy --serve --incremental",
-        "build:eleventy": "cross-env ELEVENTY_ENV=prod NODE_OPTIONS=--max-old-space-size=4096 eleventy --verbose --incremental",
+        "watch:eleventy": "cross-env ELEVENTY_ENV=dev eleventy --serve",
+        "build:eleventy": "cross-env ELEVENTY_ENV=prod NODE_OPTIONS=--max-old-space-size=4096 eleventy",
         "build:sass": "sass src/site/styles:dist/styles --style compressed",
         "get-theme": "node src/site/get-theme.js",
         "build": "npm-run-all get-theme build:*"
@@ -44,8 +44,5 @@
         "markdown-it-task-checkbox": "^1.0.6",
         "npm-run-all": "^4.1.5",
         "rimraf": "^4.4.1"
-    },
-    "engines": {
-        "node": ">=18"
     }
 }
