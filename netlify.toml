@@ -2,6 +2,13 @@
   publish = "dist"
   command = "npm install && npm run build"
 
+[build.cache]
+  paths = ["node_modules", "dist"]
+
+[build.environment]
+  NETLIFY_BUILD_TIMEOUT = "3600" # 1시간
+  NODE_VERSION = "22.16.0"
+
 [[redirects]]
   from = "/api/*"
   to = "/.netlify/functions/:splat"
@@ -11,4 +18,3 @@
   from = "/*"
   to = "/404"
   status = 404
-
