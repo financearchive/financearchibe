@@ -1,4 +1,4 @@
-name: Build and Deploy Site
+name: Build Site
 
 on:
   push:
@@ -11,7 +11,7 @@ on:
       - 'package-lock.json'
 
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -20,16 +20,16 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '16'
+          node-version: '18' # 최신 의존성 호환
 
       - name: Install dependencies
         run: npm install
 
       - name: Build Eleventy site
-        run: npx eleventy
+        run: npm run build
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Archive build output
+        uses: actions/upload-artifact@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site
+          name: build-output
+          path: dist/
