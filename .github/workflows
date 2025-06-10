@@ -1,25 +1,35 @@
-name: Publish PDF Files
+name: Build and Deploy Site
 
 on:
   push:
     branches:
       - main
     paths:
-      - 'src/site/notes/**.pdf' # PDF 파일 변경 감지
+      - 'src/**'
+      - '.eleventy.js'
+      - 'package.json'
+      - 'package-lock.json'
 
 jobs:
-  publish:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Commit and push PDF files
-        run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
-          git add src/site/notes/**/*.pdf
-          git commit -m "Add or update PDF files" || echo "No changes to commit"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '16'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build Eleventy site
+        run: npx eleventy
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
