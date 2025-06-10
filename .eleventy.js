@@ -102,6 +102,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/site/notes/**/*.pdf");
   eleventyConfig.addPassthroughCopy("src/pdf-viewer.html");
   eleventyConfig.addPassthroughCopy("src/site/link-rewrite.js");
+
+  return {
+    dir: {
+      output: "dist"
+    }
+  };
 };
 
   let markdownLib = markdownIt({
