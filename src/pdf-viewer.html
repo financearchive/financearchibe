@@ -3,9 +3,7 @@
 <head>
     <title>PDF 뷰어</title>
     <script>
-        // PDF 파일 경로 매핑 (서버에서 생성된 데이터 사용)
         async function findPdfPath(fileName) {
-            // PDF 목록을 가져오기 위해 fetch 사용
             try {
                 const response = await fetch('/pdf-map.json');
                 const pdfMap = await response.json();
