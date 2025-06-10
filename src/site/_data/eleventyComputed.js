@@ -3,7 +3,7 @@ const { getFileTree } = require("../../helpers/filetreeUtils");
 const { userComputed } = require("../../helpers/userUtils");
 
 module.exports = {
-  graph: (data) => getGraph(data),
-  filetree: (data) => getFileTree(data),
-  userComputed: (data) => userComputed(data)
+  graph: async (data) => await getGraph(data),
+  filetree: async (data) => await getFileTree(data),
+  userComputed: async (data) => await userComputed(data),
 };
