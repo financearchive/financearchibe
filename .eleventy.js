@@ -324,20 +324,6 @@ module.exports = function (eleventyConfig) {
     return str && parsed.innerHTML;
   });
 
-  function fillPictureSourceSets(src, cls, alt, meta, width, imageTag) {
-    imageTag.tagName = "picture";
-    let html = `<source media="(max-width:480px)" srcset="${meta.webp[0].url}" type="image/webp" />
-      <source media="(max-width:480px)" srcset="${meta.jpeg[0].url}" />`;
-    if (meta.webp && meta.webp[1] && meta.webp[1].url) {
-      html += `<source media="(max-width:1920px)" srcset="${meta.webp[1].url}" type="image/webp" />`;
-    }
-    if (meta.jpeg && meta.jpeg[1] && meta.jpeg[1].url) {
-      html += `<source media="(max-width:1920px)" srcset="${meta.jpeg[1].url}" />`;
-    }
-    html += `<img class="${cls.toString()}" src="${src}" alt="${alt}" width="${width}" />`;
-    imageTag.innerHTML = html;
-  }
-
   eleventyConfig.addTransform("picture", function (str) {
     if (process.env.USE_FULL_RESOLUTION_IMAGES === "true") {
       return str;
@@ -442,6 +428,16 @@ module.exports = function (eleventyConfig) {
     return variable;
   });
 
+  // 디버깅을 위한 컬렉션 로깅 추가
+  eleventyConfig.on('eleventy.before', async () => {
+    console.log('Eleventy is starting...');
+  });
+
+  eleventyConfig.on('eleventy.after', async ({ results }) => {
+    console.log('Collections available:', Object.keys(results[0].collections));
+    console.log('Note collection size:', results[0].collections.note?.length || 0);
+  });
+
   userEleventySetup(eleventyConfig);
 
   // Eleventy 설정
@@ -457,3 +453,17 @@ module.exports = function (eleventyConfig) {
     passthroughFileCopy: true,
   };
 };
+
+function fillPictureSourceSets(src, cls, alt, meta, width, imageTag) {
+  imageTag.tagName = "picture";
+  let html = `<source media="(max-width:480px)" srcset="${meta.webp[0].url}" type="image/webp" />
+      <source media="(max-width:480px)" srcset="${meta.jpeg[0].url}" />`;
+  if (meta.webp && meta.webp[1] && meta.webp[1].url) {
+    html += `<source media="(max-width:1920px)" srcset="${meta.webp[1].url}" type="image/webp" />`;
+  }
+  if (meta.jpeg && meta.jpeg[1] && meta.jpeg[1].url) {
+    html += `<source media="(max-width:1920px)" srcset="${meta.jpeg[1].url}" />`;
+  }
+  html += `<img class="${cls.toString()}" src="${src}" alt="${alt}" width="${width}" />`;
+  imageTag.innerHTML = html;
+}
